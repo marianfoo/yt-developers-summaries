@@ -1,0 +1,8246 @@
+[
+  {
+    "text": "e",
+    "duration": 3,
+    "offset": 0,
+    "lang": "en"
+  },
+  {
+    "text": "good morning good afternoon good evening",
+    "duration": 5,
+    "offset": 56.6,
+    "lang": "en"
+  },
+  {
+    "text": "welcome to Hands-On sap Dev with me DJ",
+    "duration": 7.28,
+    "offset": 58.28,
+    "lang": "en"
+  },
+  {
+    "text": "qro here again Friday Friday morning my",
+    "duration": 7.72,
+    "offset": 61.6,
+    "lang": "en"
+  },
+  {
+    "text": "time but uh good evening good night",
+    "duration": 5.12,
+    "offset": 65.56,
+    "lang": "en"
+  },
+  {
+    "text": "first of all first of all I&amp;#39;ve got to",
+    "duration": 3.92,
+    "offset": 69.32,
+    "lang": "en"
+  },
+  {
+    "text": "say Anand Anand is saying good morning",
+    "duration": 4.84,
+    "offset": 70.68,
+    "lang": "en"
+  },
+  {
+    "text": "from Philadelphia Phil what time is it",
+    "duration": 4.76,
+    "offset": 73.24,
+    "lang": "en"
+  },
+  {
+    "text": "in Philadelphia but it&amp;#39;s 3:00 a.m. in at",
+    "duration": 4.8,
+    "offset": 75.52,
+    "lang": "en"
+  },
+  {
+    "text": "3:00 a.m. or something crazy so thank",
+    "duration": 4.6,
+    "offset": 78,
+    "lang": "en"
+  },
+  {
+    "text": "you for joining from Philadelphia good",
+    "duration": 5.32,
+    "offset": 80.32,
+    "lang": "en"
+  },
+  {
+    "text": "morning also to door of the future who",
+    "duration": 6.12,
+    "offset": 82.6,
+    "lang": "en"
+  },
+  {
+    "text": "was on earlier and said he was",
+    "duration": 6.32,
+    "offset": 85.64,
+    "lang": "en"
+  },
+  {
+    "text": "ttoa uh already ready for learning uh so",
+    "duration": 5.759,
+    "offset": 88.72,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s great I think uh that&amp;#39;s a great",
+    "duration": 5.64,
+    "offset": 91.96,
+    "lang": "en"
+  },
+  {
+    "text": "attitude to have VZ good morning to you",
+    "duration": 5.721,
+    "offset": 94.479,
+    "lang": "en"
+  },
+  {
+    "text": "in Bangkok Thailand good afternoon to",
+    "duration": 4.64,
+    "offset": 97.6,
+    "lang": "en"
+  },
+  {
+    "text": "you sorry I&amp;#39;m um I&amp;#39;m glad you&amp;#39;re able to",
+    "duration": 5.4,
+    "offset": 100.2,
+    "lang": "en"
+  },
+  {
+    "text": "join the live session um H and what did",
+    "duration": 5.28,
+    "offset": 102.24,
+    "lang": "en"
+  },
+  {
+    "text": "you say here I&amp;#39;ve got I&amp;#39;ve got two I&amp;#39;ve",
+    "duration": 3.28,
+    "offset": 105.6,
+    "lang": "en"
+  },
+  {
+    "text": "got two chats got Chats on the main",
+    "duration": 3.639,
+    "offset": 107.52,
+    "lang": "en"
+  },
+  {
+    "text": "screen and got chat down here as well um",
+    "duration": 4.4,
+    "offset": 108.88,
+    "lang": "en"
+  },
+  {
+    "text": "to sck down here um you said that you&amp;#39;re",
+    "duration": 3.681,
+    "offset": 111.159,
+    "lang": "en"
+  },
+  {
+    "text": "unable to join live session after Miss",
+    "duration": 3.759,
+    "offset": 113.28,
+    "lang": "en"
+  },
+  {
+    "text": "Part 12 due to my personal work well I",
+    "duration": 4,
+    "offset": 114.84,
+    "lang": "en"
+  },
+  {
+    "text": "hope you managed to catch up okay and",
+    "duration": 3.961,
+    "offset": 117.039,
+    "lang": "en"
+  },
+  {
+    "text": "welcome back visus Antonio good morning",
+    "duration": 5.319,
+    "offset": 118.84,
+    "lang": "en"
+  },
+  {
+    "text": "to you in Madrid and rrick good morning",
+    "duration": 6.079,
+    "offset": 121,
+    "lang": "en"
+  },
+  {
+    "text": "to you and nitesh good morning to you",
+    "duration": 5.6,
+    "offset": 124.159,
+    "lang": "en"
+  },
+  {
+    "text": "good afternoon to you in India zahed uh",
+    "duration": 5.681,
+    "offset": 127.079,
+    "lang": "en"
+  },
+  {
+    "text": "good morning to zahed in sunny suly hle",
+    "duration": 6.56,
+    "offset": 129.759,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s very sunny here actually um it is 3",
+    "duration": 6,
+    "offset": 132.76,
+    "lang": "en"
+  },
+  {
+    "text": "3:00 a.m. 3:00 a.m. in the morning a",
+    "duration": 5.361,
+    "offset": 136.319,
+    "lang": "en"
+  },
+  {
+    "text": "little bit torical but anyway uh sorry",
+    "duration": 4.72,
+    "offset": 138.76,
+    "lang": "en"
+  },
+  {
+    "text": "what I&amp;#39;m saying is torical 3:00 a.m. in",
+    "duration": 4,
+    "offset": 141.68,
+    "lang": "en"
+  },
+  {
+    "text": "the morning a.m. anti meridium before",
+    "duration": 4.759,
+    "offset": 143.48,
+    "lang": "en"
+  },
+  {
+    "text": "midday sashan good morning to you in",
+    "duration": 5.279,
+    "offset": 145.68,
+    "lang": "en"
+  },
+  {
+    "text": "valdor sunny valdor and jell good",
+    "duration": 6.72,
+    "offset": 148.239,
+    "lang": "en"
+  },
+  {
+    "text": "morning to you in Kenya and bonjo kazis",
+    "duration": 6.56,
+    "offset": 150.959,
+    "lang": "en"
+  },
+  {
+    "text": "and Casten good morning Caston to you in",
+    "duration": 4.841,
+    "offset": 154.959,
+    "lang": "en"
+  },
+  {
+    "text": "Strut fantastic it&amp;#39;s great to have you",
+    "duration": 5.321,
+    "offset": 157.519,
+    "lang": "en"
+  },
+  {
+    "text": "all um oh and chanit good morning to you",
+    "duration": 5.24,
+    "offset": 159.8,
+    "lang": "en"
+  },
+  {
+    "text": "in einhoven",
+    "duration": 4.24,
+    "offset": 162.84,
+    "lang": "en"
+  },
+  {
+    "text": "fantastic fantastic it&amp;#39;s great to have",
+    "duration": 3.76,
+    "offset": 165.04,
+    "lang": "en"
+  },
+  {
+    "text": "you all and",
+    "duration": 4.239,
+    "offset": 167.08,
+    "lang": "en"
+  },
+  {
+    "text": "um I&amp;#39;ve got my coffee morning good",
+    "duration": 6.359,
+    "offset": 168.8,
+    "lang": "en"
+  },
+  {
+    "text": "morning helmet long time friend of the",
+    "duration": 7.961,
+    "offset": 171.319,
+    "lang": "en"
+  },
+  {
+    "text": "channel helmet Tam in Brunswick brag in",
+    "duration": 5.44,
+    "offset": 175.159,
+    "lang": "en"
+  },
+  {
+    "text": "Germany",
+    "duration": 5.76,
+    "offset": 179.28,
+    "lang": "en"
+  },
+  {
+    "text": "um uh so in fact uh for those of you who",
+    "duration": 6.881,
+    "offset": 180.599,
+    "lang": "en"
+  },
+  {
+    "text": "uh are not aware Helm remind me if I",
+    "duration": 5.279,
+    "offset": 185.04,
+    "lang": "en"
+  },
+  {
+    "text": "forget be worth showcasing your uh",
+    "duration": 5.6,
+    "offset": 187.48,
+    "lang": "en"
+  },
+  {
+    "text": "saadon bot uh which is really cool which",
+    "duration": 4.241,
+    "offset": 190.319,
+    "lang": "en"
+  },
+  {
+    "text": "will also encourage people to come over",
+    "duration": 3.48,
+    "offset": 193.08,
+    "lang": "en"
+  },
+  {
+    "text": "to the fediverse if if you&amp;#39;re uh if you",
+    "duration": 6.16,
+    "offset": 194.56,
+    "lang": "en"
+  },
+  {
+    "text": "know if you&amp;#39;re into uh micro uh tweets",
+    "duration": 5.8,
+    "offset": 196.56,
+    "lang": "en"
+  },
+  {
+    "text": "or tootes or what&amp;#39;s the what&amp;#39;s the",
+    "duration": 3.92,
+    "offset": 200.72,
+    "lang": "en"
+  },
+  {
+    "text": "what&amp;#39;s the thing I can&amp;#39;t remember anyway",
+    "duration": 5.12,
+    "offset": 202.36,
+    "lang": "en"
+  },
+  {
+    "text": "um what&amp;#39;s the micro",
+    "duration": 5.72,
+    "offset": 204.64,
+    "lang": "en"
+  },
+  {
+    "text": "posts I don&amp;#39;t know anyway yeah",
+    "duration": 4.479,
+    "offset": 207.48,
+    "lang": "en"
+  },
+  {
+    "text": "uh so helmet has put together a really",
+    "duration": 3.84,
+    "offset": 210.36,
+    "lang": "en"
+  },
+  {
+    "text": "cool uh little bot that will tweet out",
+    "duration": 5.321,
+    "offset": 211.959,
+    "lang": "en"
+  },
+  {
+    "text": "or toot out rather on masteron on the",
+    "duration": 6.119,
+    "offset": 214.2,
+    "lang": "en"
+  },
+  {
+    "text": "FSE uh new versions of uh packages such",
+    "duration": 8.679,
+    "offset": 217.28,
+    "lang": "en"
+  },
+  {
+    "text": "as Sap&amp;#39;s cap uh package CD SDK toot toot",
+    "duration": 7.521,
+    "offset": 220.319,
+    "lang": "en"
+  },
+  {
+    "text": "yes toot thank",
+    "duration": 4.041,
+    "offset": 225.959,
+    "lang": "en"
+  },
+  {
+    "text": "you I&amp;#39;ve got my coffee here it&amp;#39;s quite",
+    "duration": 4.039,
+    "offset": 227.84,
+    "lang": "en"
+  },
+  {
+    "text": "bitter I&amp;#39;ve made it a bit too strong U",
+    "duration": 3.319,
+    "offset": 230,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s my second coffee as well so if I go",
+    "duration": 4.481,
+    "offset": 231.879,
+    "lang": "en"
+  },
+  {
+    "text": "a bit crazy uh that&amp;#39;s the reason why so",
+    "duration": 5.321,
+    "offset": 233.319,
+    "lang": "en"
+  },
+  {
+    "text": "rill hi DJ very excited for today for",
+    "duration": 4.12,
+    "offset": 236.36,
+    "lang": "en"
+  },
+  {
+    "text": "today&amp;#39;s session this series is more",
+    "duration": 4.239,
+    "offset": 238.64,
+    "lang": "en"
+  },
+  {
+    "text": "excited to watch on any Netflix series",
+    "duration": 4.679,
+    "offset": 240.48,
+    "lang": "en"
+  },
+  {
+    "text": "yes I&amp;#39;ll take that thank you R thank you",
+    "duration": 4.681,
+    "offset": 242.879,
+    "lang": "en"
+  },
+  {
+    "text": "romil uh I will&amp;#39;ll try and make it as",
+    "duration": 5.601,
+    "offset": 245.159,
+    "lang": "en"
+  },
+  {
+    "text": "exciting as we can in fact let me jump",
+    "duration": 6.28,
+    "offset": 247.56,
+    "lang": "en"
+  },
+  {
+    "text": "to uh the main where are we the main",
+    "duration": 5.84,
+    "offset": 250.76,
+    "lang": "en"
+  },
+  {
+    "text": "scene um in fact yeah let me go let jump",
+    "duration": 5.16,
+    "offset": 253.84,
+    "lang": "en"
+  },
+  {
+    "text": "to the main scene and",
+    "duration": 4.919,
+    "offset": 256.6,
+    "lang": "en"
+  },
+  {
+    "text": "um I was just browsing lobsters this",
+    "duration": 4.4,
+    "offset": 259,
+    "lang": "en"
+  },
+  {
+    "text": "morning while I was waiting to go live",
+    "duration": 4.921,
+    "offset": 261.519,
+    "lang": "en"
+  },
+  {
+    "text": "and everything um but here as you as you",
+    "duration": 5.92,
+    "offset": 263.4,
+    "lang": "en"
+  },
+  {
+    "text": "know sap go to sap tips this is where",
+    "duration": 4.68,
+    "offset": 266.44,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve done this before but this is where",
+    "duration": 5.24,
+    "offset": 269.32,
+    "lang": "en"
+  },
+  {
+    "text": "you you can go and find the links to all",
+    "duration": 5.6,
+    "offset": 271.12,
+    "lang": "en"
+  },
+  {
+    "text": "the different things that we mention in",
+    "duration": 4.32,
+    "offset": 274.56,
+    "lang": "en"
+  },
+  {
+    "text": "every any given episode so here&amp;#39;s the",
+    "duration": 3.84,
+    "offset": 276.72,
+    "lang": "en"
+  },
+  {
+    "text": "live stream here&amp;#39;s the YouTube thing",
+    "duration": 3.24,
+    "offset": 278.88,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s me let&amp;#39;s put pause otherwise it&amp;#39;s",
+    "duration": 3.8,
+    "offset": 280.56,
+    "lang": "en"
+  },
+  {
+    "text": "going to be a bit crazy um Marian good",
+    "duration": 4.56,
+    "offset": 282.12,
+    "lang": "en"
+  },
+  {
+    "text": "morning Sunny sunshine in Marian&amp;#39;s",
+    "duration": 4.52,
+    "offset": 284.36,
+    "lang": "en"
+  },
+  {
+    "text": "little message there as well fantastic",
+    "duration": 3.799,
+    "offset": 286.68,
+    "lang": "en"
+  },
+  {
+    "text": "um so if you have a look at the",
+    "duration": 3.599,
+    "offset": 288.88,
+    "lang": "en"
+  },
+  {
+    "text": "description here you&amp;#39;ll see links to all",
+    "duration": 3.521,
+    "offset": 290.479,
+    "lang": "en"
+  },
+  {
+    "text": "resources Shar in this episode are to be",
+    "duration": 3.56,
+    "offset": 292.479,
+    "lang": "en"
+  },
+  {
+    "text": "found in the comments here I like the",
+    "duration": 4.12,
+    "offset": 294,
+    "lang": "en"
+  },
+  {
+    "text": "way uh you know I did think about hard",
+    "duration": 4.361,
+    "offset": 296.039,
+    "lang": "en"
+  },
+  {
+    "text": "about are to be found because I that is",
+    "duration": 5.2,
+    "offset": 298.12,
+    "lang": "en"
+  },
+  {
+    "text": "valid for before the live show goes out",
+    "duration": 5.519,
+    "offset": 300.4,
+    "lang": "en"
+  },
+  {
+    "text": "and after the live show has gone out so",
+    "duration": 5.24,
+    "offset": 303.32,
+    "lang": "en"
+  },
+  {
+    "text": "Michael good morning to you in in schit",
+    "duration": 3.801,
+    "offset": 305.919,
+    "lang": "en"
+  },
+  {
+    "text": "in Switzerland really appreciate your",
+    "duration": 2.44,
+    "offset": 308.56,
+    "lang": "en"
+  },
+  {
+    "text": "work thank you really appreciate you",
+    "duration": 3.16,
+    "offset": 309.72,
+    "lang": "en"
+  },
+  {
+    "text": "being here Michael thank you everybody I",
+    "duration": 3.199,
+    "offset": 311,
+    "lang": "en"
+  },
+  {
+    "text": "appreciate everybody so and you can",
+    "duration": 2.8,
+    "offset": 312.88,
+    "lang": "en"
+  },
+  {
+    "text": "click on this thing here and this will",
+    "duration": 4.601,
+    "offset": 314.199,
+    "lang": "en"
+  },
+  {
+    "text": "go to um the sort of the",
+    "duration": 6.12,
+    "offset": 315.68,
+    "lang": "en"
+  },
+  {
+    "text": "event on the on the Sab Community",
+    "duration": 4.679,
+    "offset": 318.8,
+    "lang": "en"
+  },
+  {
+    "text": "platform and then I always add a little",
+    "duration": 4.36,
+    "offset": 321.8,
+    "lang": "en"
+  },
+  {
+    "text": "comment and I&amp;#39;ve I&amp;#39;ve sort of pre-loaded",
+    "duration": 4.401,
+    "offset": 323.479,
+    "lang": "en"
+  },
+  {
+    "text": "this one with a few things that we",
+    "duration": 4.12,
+    "offset": 326.16,
+    "lang": "en"
+  },
+  {
+    "text": "probably want to have a look at",
+    "duration": 4,
+    "offset": 327.88,
+    "lang": "en"
+  },
+  {
+    "text": "so uh without further Ado we&amp;#39;ve got the",
+    "duration": 3.16,
+    "offset": 330.28,
+    "lang": "en"
+  },
+  {
+    "text": "sap developer news we don&amp;#39;t need to go",
+    "duration": 3.92,
+    "offset": 331.88,
+    "lang": "en"
+  },
+  {
+    "text": "in that right now um these April I think",
+    "duration": 4.52,
+    "offset": 333.44,
+    "lang": "en"
+  },
+  {
+    "text": "since we were together last time the",
+    "duration": 5.92,
+    "offset": 335.8,
+    "lang": "en"
+  },
+  {
+    "text": "April release of uh cap has come out uh",
+    "duration": 8.2,
+    "offset": 337.96,
+    "lang": "en"
+  },
+  {
+    "text": "that is here of course uh April 2024 and",
+    "duration": 5.96,
+    "offset": 341.72,
+    "lang": "en"
+  },
+  {
+    "text": "there&amp;#39;s lots of really juicy things",
+    "duration": 5.24,
+    "offset": 346.16,
+    "lang": "en"
+  },
+  {
+    "text": "maybe we&amp;#39;ll try one just because because",
+    "duration": 7.359,
+    "offset": 347.68,
+    "lang": "en"
+  },
+  {
+    "text": "this is this episode episode 13 I&amp;#39;m not",
+    "duration": 5.2,
+    "offset": 351.4,
+    "lang": "en"
+  },
+  {
+    "text": "around next week I&amp;#39;m on holiday on",
+    "duration": 5.361,
+    "offset": 355.039,
+    "lang": "en"
+  },
+  {
+    "text": "Friday next week and the week after",
+    "duration": 5.4,
+    "offset": 356.6,
+    "lang": "en"
+  },
+  {
+    "text": "um I&amp;#39;m",
+    "duration": 4.72,
+    "offset": 360.4,
+    "lang": "en"
+  },
+  {
+    "text": "hosting if I go here and go to Sab",
+    "duration": 6.759,
+    "offset": 362,
+    "lang": "en"
+  },
+  {
+    "text": "developers the week after uh live or is",
+    "duration": 7.04,
+    "offset": 365.12,
+    "lang": "en"
+  },
+  {
+    "text": "it upcoming live streams so we have the",
+    "duration": 6.72,
+    "offset": 368.759,
+    "lang": "en"
+  },
+  {
+    "text": "wonderful Norah and Kevin on the 24th so",
+    "duration": 4.68,
+    "offset": 372.16,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s the week after next I&amp;#39;m not",
+    "duration": 3.481,
+    "offset": 375.479,
+    "lang": "en"
+  },
+  {
+    "text": "around next week and the week after the",
+    "duration": 4.479,
+    "offset": 376.84,
+    "lang": "en"
+  },
+  {
+    "text": "Friday there&amp;#39;s a hands onb Dev live",
+    "duration": 4.92,
+    "offset": 378.96,
+    "lang": "en"
+  },
+  {
+    "text": "stream uh but it&amp;#39;s won&amp;#39;t be on the Back",
+    "duration": 4.16,
+    "offset": 381.319,
+    "lang": "en"
+  },
+  {
+    "text": "to Basics we&amp;#39;re going to do a special",
+    "duration": 4.159,
+    "offset": 383.88,
+    "lang": "en"
+  },
+  {
+    "text": "episode on uh retrieve uh retrieval",
+    "duration": 4.201,
+    "offset": 385.479,
+    "lang": "en"
+  },
+  {
+    "text": "augmented generation which is going to",
+    "duration": 3.56,
+    "offset": 388.039,
+    "lang": "en"
+  },
+  {
+    "text": "really cool um and then after that blah",
+    "duration": 3.6,
+    "offset": 389.68,
+    "lang": "en"
+  },
+  {
+    "text": "blah blah blah so this is this is going",
+    "duration": 4.44,
+    "offset": 391.599,
+    "lang": "en"
+  },
+  {
+    "text": "to be the last episode for a couple of",
+    "duration": 5.759,
+    "offset": 393.28,
+    "lang": "en"
+  },
+  {
+    "text": "weeks at least so you know we&amp;#39;ll have a",
+    "duration": 5.241,
+    "offset": 396.039,
+    "lang": "en"
+  },
+  {
+    "text": "little bit of a you know end of term",
+    "duration": 4.121,
+    "offset": 399.039,
+    "lang": "en"
+  },
+  {
+    "text": "thing you know we&amp;#39;re going to continue",
+    "duration": 5.44,
+    "offset": 401.28,
+    "lang": "en"
+  },
+  {
+    "text": "the back to basic series do not fear um",
+    "duration": 7.879,
+    "offset": 403.16,
+    "lang": "en"
+  },
+  {
+    "text": "so yeah anyway DJ stop talking um so",
+    "duration": 6.24,
+    "offset": 406.72,
+    "lang": "en"
+  },
+  {
+    "text": "that that&amp;#39;s that that&amp;#39;s that that&amp;#39;s that",
+    "duration": 6.321,
+    "offset": 411.039,
+    "lang": "en"
+  },
+  {
+    "text": "um and oh yes so uh yes but now we can&amp;#39;t",
+    "duration": 6.959,
+    "offset": 412.96,
+    "lang": "en"
+  },
+  {
+    "text": "live without DJ at Friday says Dwight oh",
+    "duration": 4.48,
+    "offset": 417.36,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s very kind of you to say so um but",
+    "duration": 4.28,
+    "offset": 419.919,
+    "lang": "en"
+  },
+  {
+    "text": "um too much of anything is uh is not a",
+    "duration": 4.479,
+    "offset": 421.84,
+    "lang": "en"
+  },
+  {
+    "text": "good thing so uh maybe you need a break",
+    "duration": 4.521,
+    "offset": 424.199,
+    "lang": "en"
+  },
+  {
+    "text": "from this uh Stupid brain here nil good",
+    "duration": 6.44,
+    "offset": 426.319,
+    "lang": "en"
+  },
+  {
+    "text": "day to you in Melbourne good evening you",
+    "duration": 6.56,
+    "offset": 428.72,
+    "lang": "en"
+  },
+  {
+    "text": "have brilliant I have a glass of wine",
+    "duration": 5.641,
+    "offset": 432.759,
+    "lang": "en"
+  },
+  {
+    "text": "before DJ asks I was going to ask make",
+    "duration": 4.759,
+    "offset": 435.28,
+    "lang": "en"
+  },
+  {
+    "text": "sure you got a glass of wine got a glass",
+    "duration": 2.72,
+    "offset": 438.4,
+    "lang": "en"
+  },
+  {
+    "text": "of coffee it&amp;#39;s a little bit too early",
+    "duration": 3.44,
+    "offset": 440.039,
+    "lang": "en"
+  },
+  {
+    "text": "for wine here well my my grandpa used to",
+    "duration": 4.799,
+    "offset": 441.12,
+    "lang": "en"
+  },
+  {
+    "text": "say uh it might be too late but it&amp;#39;s",
+    "duration": 6.28,
+    "offset": 443.479,
+    "lang": "en"
+  },
+  {
+    "text": "never too early there we go",
+    "duration": 8.041,
+    "offset": 445.919,
+    "lang": "en"
+  },
+  {
+    "text": "so um what uh we developer Advocates",
+    "duration": 6.241,
+    "offset": 449.759,
+    "lang": "en"
+  },
+  {
+    "text": "have started to sort of dip our toe in",
+    "duration": 4.519,
+    "offset": 453.96,
+    "lang": "en"
+  },
+  {
+    "text": "the water with are YouTube short so you",
+    "duration": 4.28,
+    "offset": 456,
+    "lang": "en"
+  },
+  {
+    "text": "can you know get your phone get your",
+    "duration": 4.44,
+    "offset": 458.479,
+    "lang": "en"
+  },
+  {
+    "text": "mobile phone what&amp;#39;s it your handy as",
+    "duration": 4.599,
+    "offset": 460.28,
+    "lang": "en"
+  },
+  {
+    "text": "they call it in Germany and look at",
+    "duration": 4.84,
+    "offset": 462.919,
+    "lang": "en"
+  },
+  {
+    "text": "things in portrait small phone format",
+    "duration": 4.88,
+    "offset": 464.879,
+    "lang": "en"
+  },
+  {
+    "text": "and we&amp;#39;ve got a new little playlist it&amp;#39;s",
+    "duration": 4.201,
+    "offset": 467.759,
+    "lang": "en"
+  },
+  {
+    "text": "very very um you know very very small at",
+    "duration": 6.321,
+    "offset": 469.759,
+    "lang": "en"
+  },
+  {
+    "text": "the moment just a couple of shorts so um",
+    "duration": 7.04,
+    "offset": 471.96,
+    "lang": "en"
+  },
+  {
+    "text": "we got shorts on uh cap node.js little",
+    "duration": 5.72,
+    "offset": 476.08,
+    "lang": "en"
+  },
+  {
+    "text": "good to no shorts so check those out",
+    "duration": 7.199,
+    "offset": 479,
+    "lang": "en"
+  },
+  {
+    "text": "there um and finally be so just allow us",
+    "duration": 7.16,
+    "offset": 481.8,
+    "lang": "en"
+  },
+  {
+    "text": "to sort of dive into where we were",
+    "duration": 5.361,
+    "offset": 486.199,
+    "lang": "en"
+  },
+  {
+    "text": "before where we were",
+    "duration": 6.679,
+    "offset": 488.96,
+    "lang": "en"
+  },
+  {
+    "text": "before um was we just",
+    "duration": 7.12,
+    "offset": 491.56,
+    "lang": "en"
+  },
+  {
+    "text": "started last week right at the end and",
+    "duration": 5.321,
+    "offset": 495.639,
+    "lang": "en"
+  },
+  {
+    "text": "we left on a cliffhanger I think uh was",
+    "duration": 5.639,
+    "offset": 498.68,
+    "lang": "en"
+  },
+  {
+    "text": "it um was it red uh red cape said yes",
+    "duration": 5.48,
+    "offset": 500.96,
+    "lang": "en"
+  },
+  {
+    "text": "what a cliffhanger and uh we had some",
+    "duration": 4.481,
+    "offset": 504.319,
+    "lang": "en"
+  },
+  {
+    "text": "great input from the subscriber and also",
+    "duration": 6.079,
+    "offset": 506.44,
+    "lang": "en"
+  },
+  {
+    "text": "from a long friend of the channel Matias",
+    "duration": 6.56,
+    "offset": 508.8,
+    "lang": "en"
+  },
+  {
+    "text": "uh uh",
+    "duration": 6,
+    "offset": 512.519,
+    "lang": "en"
+  },
+  {
+    "text": "lempa about what we should be doing okay",
+    "duration": 4.799,
+    "offset": 515.36,
+    "lang": "en"
+  },
+  {
+    "text": "so I was trying to resist doing stuff",
+    "duration": 6.44,
+    "offset": 518.519,
+    "lang": "en"
+  },
+  {
+    "text": "Raphael good morning to you good morning",
+    "duration": 7.081,
+    "offset": 520.159,
+    "lang": "en"
+  },
+  {
+    "text": "Raphael so we&amp;#39;ll come back to this in a",
+    "duration": 4.041,
+    "offset": 524.959,
+    "lang": "en"
+  },
+  {
+    "text": "second where we were and what was going",
+    "duration": 3.719,
+    "offset": 527.24,
+    "lang": "en"
+  },
+  {
+    "text": "wrong and what was not working and",
+    "duration": 4.56,
+    "offset": 529,
+    "lang": "en"
+  },
+  {
+    "text": "everything um but the way we were",
+    "duration": 4.681,
+    "offset": 530.959,
+    "lang": "en"
+  },
+  {
+    "text": "testing what we were",
+    "duration": 6.24,
+    "offset": 533.56,
+    "lang": "en"
+  },
+  {
+    "text": "doing was we were making changes to the",
+    "duration": 6.96,
+    "offset": 535.64,
+    "lang": "en"
+  },
+  {
+    "text": "main JS remember that we&amp;#39;ve got our main",
+    "duration": 5.479,
+    "offset": 539.8,
+    "lang": "en"
+  },
+  {
+    "text": "CDs here which is the super simple",
+    "duration": 4.44,
+    "offset": 542.6,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop service with the three entities",
+    "duration": 2.841,
+    "offset": 545.279,
+    "lang": "en"
+  },
+  {
+    "text": "that were",
+    "duration": 3.4,
+    "offset": 547.04,
+    "lang": "en"
+  },
+  {
+    "text": "exposing that&amp;#39;s sort of you know less",
+    "duration": 4.719,
+    "offset": 548.12,
+    "lang": "en"
+  },
+  {
+    "text": "important now what&amp;#39;s more important now",
+    "duration": 6.32,
+    "offset": 550.44,
+    "lang": "en"
+  },
+  {
+    "text": "is that we have a main.js file in the",
+    "duration": 7.24,
+    "offset": 552.839,
+    "lang": "en"
+  },
+  {
+    "text": "same directory right next to it um and",
+    "duration": 6.199,
+    "offset": 556.76,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s got the same name main dot just",
+    "duration": 5.281,
+    "offset": 560.079,
+    "lang": "en"
+  },
+  {
+    "text": "with a different extension JS and that",
+    "duration": 4.921,
+    "offset": 562.959,
+    "lang": "en"
+  },
+  {
+    "text": "then is automatically picked up by the",
+    "duration": 4.919,
+    "offset": 565.36,
+    "lang": "en"
+  },
+  {
+    "text": "cap server convention over",
+    "duration": 4.24,
+    "offset": 567.88,
+    "lang": "en"
+  },
+  {
+    "text": "figuration to",
+    "duration": 5.201,
+    "offset": 570.279,
+    "lang": "en"
+  },
+  {
+    "text": "become um that that is sort of loaded as",
+    "duration": 4.2,
+    "offset": 572.12,
+    "lang": "en"
+  },
+  {
+    "text": "a",
+    "duration": 5,
+    "offset": 575.48,
+    "lang": "en"
+  },
+  {
+    "text": "module uh and you&amp;#39;re expected to provide",
+    "duration": 6.6,
+    "offset": 576.32,
+    "lang": "en"
+  },
+  {
+    "text": "or this is how you would provide",
+    "duration": 5.08,
+    "offset": 580.48,
+    "lang": "en"
+  },
+  {
+    "text": "handlers custom",
+    "duration": 6.599,
+    "offset": 582.92,
+    "lang": "en"
+  },
+  {
+    "text": "handlers to replace or",
+    "duration": 7.32,
+    "offset": 585.56,
+    "lang": "en"
+  },
+  {
+    "text": "augment the default handlers that happen",
+    "duration": 5,
+    "offset": 589.519,
+    "lang": "en"
+  },
+  {
+    "text": "automatically for us for any sort of you",
+    "duration": 4.24,
+    "offset": 592.88,
+    "lang": "en"
+  },
+  {
+    "text": "know crud style operations that come in",
+    "duration": 4.361,
+    "offset": 594.519,
+    "lang": "en"
+  },
+  {
+    "text": "events that come in right we covered",
+    "duration": 3.88,
+    "offset": 597.12,
+    "lang": "en"
+  },
+  {
+    "text": "that last week",
+    "duration": 3.399,
+    "offset": 598.88,
+    "lang": "en"
+  },
+  {
+    "text": "so as you can see that&amp;#39;s just a quick",
+    "duration": 3.279,
+    "offset": 601,
+    "lang": "en"
+  },
+  {
+    "text": "reminder we&amp;#39;ve just got a few console",
+    "duration": 4.081,
+    "offset": 602.279,
+    "lang": "en"
+  },
+  {
+    "text": "logs here to sort of figure out what",
+    "duration": 4.321,
+    "offset": 604.279,
+    "lang": "en"
+  },
+  {
+    "text": "happens when and what gets called when",
+    "duration": 6.68,
+    "offset": 606.36,
+    "lang": "en"
+  },
+  {
+    "text": "so i&amp;#39; liter now here clear um let&amp;#39;s just",
+    "duration": 9.56,
+    "offset": 608.6,
+    "lang": "en"
+  },
+  {
+    "text": "CDs watch and we get uh",
+    "duration": 8,
+    "offset": 613.04,
+    "lang": "en"
+  },
+  {
+    "text": "here hello world we get that hello world",
+    "duration": 4.919,
+    "offset": 618.16,
+    "lang": "en"
+  },
+  {
+    "text": "from that console log there and then",
+    "duration": 3.919,
+    "offset": 621.04,
+    "lang": "en"
+  },
+  {
+    "text": "also we get the I am in the anonymous",
+    "duration": 4.241,
+    "offset": 623.079,
+    "lang": "en"
+  },
+  {
+    "text": "function which is just here so this is",
+    "duration": 4.88,
+    "offset": 624.959,
+    "lang": "en"
+  },
+  {
+    "text": "inside this Anonymous function",
+    "duration": 5.48,
+    "offset": 627.32,
+    "lang": "en"
+  },
+  {
+    "text": "that is exported from this module when",
+    "duration": 5.961,
+    "offset": 629.839,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s loaded okay so cap server starts up",
+    "duration": 5.68,
+    "offset": 632.8,
+    "lang": "en"
+  },
+  {
+    "text": "it sees uh you know the main. CDs it&amp;#39;s",
+    "duration": 4.64,
+    "offset": 635.8,
+    "lang": "en"
+  },
+  {
+    "text": "starting serving the main. CDs and it",
+    "duration": 3.76,
+    "offset": 638.48,
+    "lang": "en"
+  },
+  {
+    "text": "says oh yeah I&amp;#39;m serving Bookshop which",
+    "duration": 3.12,
+    "offset": 640.44,
+    "lang": "en"
+  },
+  {
+    "text": "is in there let&amp;#39;s just bring that there",
+    "duration": 4.52,
+    "offset": 642.24,
+    "lang": "en"
+  },
+  {
+    "text": "like that right there Bookshop is my",
+    "duration": 4.8,
+    "offset": 643.56,
+    "lang": "en"
+  },
+  {
+    "text": "head at the top my head at the",
+    "duration": 4.4,
+    "offset": 646.76,
+    "lang": "en"
+  },
+  {
+    "text": "bottom um so serving Bookshop serving",
+    "duration": 4.96,
+    "offset": 648.36,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop path o dat that&amp;#39;s the default",
+    "duration": 3.28,
+    "offset": 651.16,
+    "lang": "en"
+  },
+  {
+    "text": "path okay you can change that if you",
+    "duration": 2.199,
+    "offset": 653.32,
+    "lang": "en"
+  },
+  {
+    "text": "want to we&amp;#39;ve done that already in a",
+    "duration": 2.88,
+    "offset": 654.44,
+    "lang": "en"
+  },
+  {
+    "text": "previous episode and then it says oh",
+    "duration": 4.041,
+    "offset": 655.519,
+    "lang": "en"
+  },
+  {
+    "text": "yeah oh I found an implementation I I",
+    "duration": 4.68,
+    "offset": 657.32,
+    "lang": "en"
+  },
+  {
+    "text": "found a custom implementation file serve",
+    "duration": 4.959,
+    "offset": 659.56,
+    "lang": "en"
+  },
+  {
+    "text": "main JS because of course the name",
+    "duration": 4.959,
+    "offset": 662,
+    "lang": "en"
+  },
+  {
+    "text": "convention right so that&amp;#39;s why this is",
+    "duration": 4.76,
+    "offset": 664.519,
+    "lang": "en"
+  },
+  {
+    "text": "loaded but of course we don&amp;#39;t get uh the",
+    "duration": 4.32,
+    "offset": 666.959,
+    "lang": "en"
+  },
+  {
+    "text": "handling read of books written out to",
+    "duration": 4.441,
+    "offset": 669.279,
+    "lang": "en"
+  },
+  {
+    "text": "the console yet because we haven&amp;#39;t",
+    "duration": 6.12,
+    "offset": 671.279,
+    "lang": "en"
+  },
+  {
+    "text": "actually caused a read event to happen",
+    "duration": 6.64,
+    "offset": 673.72,
+    "lang": "en"
+  },
+  {
+    "text": "on the books entity right and so what I",
+    "duration": 3.761,
+    "offset": 677.399,
+    "lang": "en"
+  },
+  {
+    "text": "was",
+    "duration": 4.08,
+    "offset": 680.36,
+    "lang": "en"
+  },
+  {
+    "text": "doing um was going over to this other",
+    "duration": 5.88,
+    "offset": 681.16,
+    "lang": "en"
+  },
+  {
+    "text": "terminal and saying curl silent you know",
+    "duration": 3.959,
+    "offset": 684.44,
+    "lang": "en"
+  },
+  {
+    "text": "so we don&amp;#39;t get that sort of you know in",
+    "duration": 3,
+    "offset": 687.04,
+    "lang": "en"
+  },
+  {
+    "text": "fact let me do it with the silent first",
+    "duration": 4.161,
+    "offset": 688.399,
+    "lang": "en"
+  },
+  {
+    "text": "so you can see when I use silent what",
+    "duration": 4.44,
+    "offset": 690.04,
+    "lang": "en"
+  },
+  {
+    "text": "disappears so curl",
+    "duration": 7.64,
+    "offset": 692.56,
+    "lang": "en"
+  },
+  {
+    "text": "Local Host 404 o data V4",
+    "duration": 9.039,
+    "offset": 694.48,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop books and PPE into JQ as we",
+    "duration": 5.36,
+    "offset": 700.2,
+    "lang": "en"
+  },
+  {
+    "text": "always do because it looks nice okay",
+    "duration": 5.241,
+    "offset": 703.519,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ll do that and um what we get a",
+    "duration": 5.44,
+    "offset": 705.56,
+    "lang": "en"
+  },
+  {
+    "text": "number of things happening so the reason",
+    "duration": 5.759,
+    "offset": 708.76,
+    "lang": "en"
+  },
+  {
+    "text": "why uh we get this this is by you get",
+    "duration": 6,
+    "offset": 711,
+    "lang": "en"
+  },
+  {
+    "text": "this by default in curl so this is why I",
+    "duration": 5.081,
+    "offset": 714.519,
+    "lang": "en"
+  },
+  {
+    "text": "say uh clear",
+    "duration": 6.04,
+    "offset": 717,
+    "lang": "en"
+  },
+  {
+    "text": "minus s or minus minus silent all that",
+    "duration": 5.919,
+    "offset": 719.6,
+    "lang": "en"
+  },
+  {
+    "text": "does is suppress that sort of progress",
+    "duration": 4.72,
+    "offset": 723.04,
+    "lang": "en"
+  },
+  {
+    "text": "thing there okay so you know about that",
+    "duration": 5.921,
+    "offset": 725.519,
+    "lang": "en"
+  },
+  {
+    "text": "already and what we also see is you know",
+    "duration": 6.84,
+    "offset": 727.76,
+    "lang": "en"
+  },
+  {
+    "text": "a log from the odata protocol Handler",
+    "duration": 5.639,
+    "offset": 731.44,
+    "lang": "en"
+  },
+  {
+    "text": "the standard Handler to handle incoming",
+    "duration": 5.919,
+    "offset": 734.6,
+    "lang": "en"
+  },
+  {
+    "text": "OD data requests and of course this is a",
+    "duration": 5.361,
+    "offset": 737.079,
+    "lang": "en"
+  },
+  {
+    "text": "an OD data query operation because we&amp;#39;re",
+    "duration": 4.76,
+    "offset": 740.519,
+    "lang": "en"
+  },
+  {
+    "text": "asking for an entity set",
+    "duration": 7.28,
+    "offset": 742.44,
+    "lang": "en"
+  },
+  {
+    "text": "okay and that causes the read event that",
+    "duration": 6.961,
+    "offset": 745.279,
+    "lang": "en"
+  },
+  {
+    "text": "that that causes the read event to be",
+    "duration": 5.64,
+    "offset": 749.72,
+    "lang": "en"
+  },
+  {
+    "text": "fired inside the cap server which means",
+    "duration": 6.56,
+    "offset": 752.24,
+    "lang": "en"
+  },
+  {
+    "text": "that this Anonymous function here that",
+    "duration": 5.8,
+    "offset": 755.36,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve defined literally the thing I&amp;#39;ve",
+    "duration": 5.36,
+    "offset": 758.8,
+    "lang": "en"
+  },
+  {
+    "text": "highlighted there that Handler that call",
+    "duration": 4.6,
+    "offset": 761.16,
+    "lang": "en"
+  },
+  {
+    "text": "back in you know different terminology",
+    "duration": 5.32,
+    "offset": 764.16,
+    "lang": "en"
+  },
+  {
+    "text": "gets called because a read event has",
+    "duration": 6.12,
+    "offset": 765.76,
+    "lang": "en"
+  },
+  {
+    "text": "been emitted because of the incoming",
+    "duration": 4.159,
+    "offset": 769.48,
+    "lang": "en"
+  },
+  {
+    "text": "odata query operation that&amp;#39;s being",
+    "duration": 3.6,
+    "offset": 771.88,
+    "lang": "en"
+  },
+  {
+    "text": "handled by the odata part of the cap",
+    "duration": 2.88,
+    "offset": 773.639,
+    "lang": "en"
+  },
+  {
+    "text": "server",
+    "duration": 3.52,
+    "offset": 775.48,
+    "lang": "en"
+  },
+  {
+    "text": "right and it&amp;#39;s for the books entity",
+    "duration": 3.521,
+    "offset": 776.519,
+    "lang": "en"
+  },
+  {
+    "text": "right",
+    "duration": 4.36,
+    "offset": 779,
+    "lang": "en"
+  },
+  {
+    "text": "now where we finished just about where",
+    "duration": 6.56,
+    "offset": 780.04,
+    "lang": "en"
+  },
+  {
+    "text": "we finished last week was okay console",
+    "duration": 5.039,
+    "offset": 783.36,
+    "lang": "en"
+  },
+  {
+    "text": "log handling Reader books but we don&amp;#39;t",
+    "duration": 3.12,
+    "offset": 786.6,
+    "lang": "en"
+  },
+  {
+    "text": "get any",
+    "duration": 5.201,
+    "offset": 788.399,
+    "lang": "en"
+  },
+  {
+    "text": "data okay",
+    "duration": 3.88,
+    "offset": 789.72,
+    "lang": "en"
+  },
+  {
+    "text": "now in order for us to um more",
+    "duration": 8.16,
+    "offset": 794.16,
+    "lang": "en"
+  },
+  {
+    "text": "comfortably progress and hack around on",
+    "duration": 4.361,
+    "offset": 799.399,
+    "lang": "en"
+  },
+  {
+    "text": "this and have",
+    "duration": 4.68,
+    "offset": 802.32,
+    "lang": "en"
+  },
+  {
+    "text": "things be requested when we make changes",
+    "duration": 6.96,
+    "offset": 803.76,
+    "lang": "en"
+  },
+  {
+    "text": "to see what happens what we could do is",
+    "duration": 6.88,
+    "offset": 807,
+    "lang": "en"
+  },
+  {
+    "text": "do uh a regular sort of you know",
+    "duration": 6.359,
+    "offset": 810.72,
+    "lang": "en"
+  },
+  {
+    "text": "when um when uh this changes so we can",
+    "duration": 6.28,
+    "offset": 813.88,
+    "lang": "en"
+  },
+  {
+    "text": "say list using the ENT we&amp;#39;ve used ENT",
+    "duration": 5.12,
+    "offset": 817.079,
+    "lang": "en"
+  },
+  {
+    "text": "before haven&amp;#39;t we we used ENT before in",
+    "duration": 3.039,
+    "offset": 820.16,
+    "lang": "en"
+  },
+  {
+    "text": "fact",
+    "duration": 3.361,
+    "offset": 822.199,
+    "lang": "en"
+  },
+  {
+    "text": "ENT uh there we go a run arbitary",
+    "duration": 4.601,
+    "offset": 823.199,
+    "lang": "en"
+  },
+  {
+    "text": "commands when files change let&amp;#39;s add",
+    "duration": 4.719,
+    "offset": 825.56,
+    "lang": "en"
+  },
+  {
+    "text": "that to the thing",
+    "duration": 4,
+    "offset": 827.8,
+    "lang": "en"
+  },
+  {
+    "text": "here",
+    "duration": 3.881,
+    "offset": 830.279,
+    "lang": "en"
+  },
+  {
+    "text": "uh I know we&amp;#39;ve done it before but let&amp;#39;s",
+    "duration": 5.039,
+    "offset": 831.8,
+    "lang": "en"
+  },
+  {
+    "text": "add it there as well",
+    "duration": 8.32,
+    "offset": 834.16,
+    "lang": "en"
+  },
+  {
+    "text": "ENT there okay fine save that post",
+    "duration": 8.521,
+    "offset": 836.839,
+    "lang": "en"
+  },
+  {
+    "text": "okay uh where are we here there we go uh",
+    "duration": 6.96,
+    "offset": 842.48,
+    "lang": "en"
+  },
+  {
+    "text": "so we can say um list uh serve anything",
+    "duration": 5.399,
+    "offset": 845.36,
+    "lang": "en"
+  },
+  {
+    "text": "if we change anything the serve",
+    "duration": 5.079,
+    "offset": 849.44,
+    "lang": "en"
+  },
+  {
+    "text": "directory just files uh ENT clear screen",
+    "duration": 5.801,
+    "offset": 850.759,
+    "lang": "en"
+  },
+  {
+    "text": "and because we want to put a pipe in the",
+    "duration": 3.521,
+    "offset": 854.519,
+    "lang": "en"
+  },
+  {
+    "text": "thing we got to you know say send it as",
+    "duration": 5.44,
+    "offset": 856.56,
+    "lang": "en"
+  },
+  {
+    "text": "a string to uh bash and say um curl",
+    "duration": 8.159,
+    "offset": 858.04,
+    "lang": "en"
+  },
+  {
+    "text": "minus s local say I always type low l",
+    "duration": 9.399,
+    "offset": 862,
+    "lang": "en"
+  },
+  {
+    "text": "cap when I&amp;#39;m typing fast host 44 data V4",
+    "duration": 11.64,
+    "offset": 866.199,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop books pip JQ like that okay so",
+    "duration": 9.401,
+    "offset": 871.399,
+    "lang": "en"
+  },
+  {
+    "text": "if I save that",
+    "duration": 6.601,
+    "offset": 877.839,
+    "lang": "en"
+  },
+  {
+    "text": "now okay that&amp;#39;s fine it&amp;#39;s restarting",
+    "duration": 8.08,
+    "offset": 880.8,
+    "lang": "en"
+  },
+  {
+    "text": "okay but sometimes sometimes sometimes",
+    "duration": 8.56,
+    "offset": 884.44,
+    "lang": "en"
+  },
+  {
+    "text": "sometimes the and this is generally okay",
+    "duration": 8.079,
+    "offset": 888.88,
+    "lang": "en"
+  },
+  {
+    "text": "sometimes sometimes sometimes the cap um",
+    "duration": 7.44,
+    "offset": 893,
+    "lang": "en"
+  },
+  {
+    "text": "server restart takes a few seconds and",
+    "duration": 6.401,
+    "offset": 896.959,
+    "lang": "en"
+  },
+  {
+    "text": "this has already been triggered this new",
+    "duration": 5.56,
+    "offset": 900.44,
+    "lang": "en"
+  },
+  {
+    "text": "request has already been twigger twigged",
+    "duration": 5.24,
+    "offset": 903.36,
+    "lang": "en"
+  },
+  {
+    "text": "twigger before the cap server is",
+    "duration": 5.56,
+    "offset": 906,
+    "lang": "en"
+  },
+  {
+    "text": "restarted so either you get the results",
+    "duration": 4.88,
+    "offset": 908.6,
+    "lang": "en"
+  },
+  {
+    "text": "of the call being handled by the old",
+    "duration": 4.6,
+    "offset": 911.56,
+    "lang": "en"
+  },
+  {
+    "text": "version before it&amp;#39;s saved and restarted",
+    "duration": 5.479,
+    "offset": 913.48,
+    "lang": "en"
+  },
+  {
+    "text": "or actually the call is",
+    "duration": 5.76,
+    "offset": 916.16,
+    "lang": "en"
+  },
+  {
+    "text": "made while the cap server is restarting",
+    "duration": 4.401,
+    "offset": 918.959,
+    "lang": "en"
+  },
+  {
+    "text": "okay because you know these two things",
+    "duration": 2.32,
+    "offset": 921.92,
+    "lang": "en"
+  },
+  {
+    "text": "are",
+    "duration": 5,
+    "offset": 923.36,
+    "lang": "en"
+  },
+  {
+    "text": "independent okay so instead what you can",
+    "duration": 5.839,
+    "offset": 924.24,
+    "lang": "en"
+  },
+  {
+    "text": "do is what you could do is have a little",
+    "duration": 4.399,
+    "offset": 928.36,
+    "lang": "en"
+  },
+  {
+    "text": "sleep so we could say here for example",
+    "duration": 6.721,
+    "offset": 930.079,
+    "lang": "en"
+  },
+  {
+    "text": "you know um actually see uh",
+    "duration": 7.2,
+    "offset": 932.759,
+    "lang": "en"
+  },
+  {
+    "text": "sleep for semicolon and then run that",
+    "duration": 7.159,
+    "offset": 936.8,
+    "lang": "en"
+  },
+  {
+    "text": "okay sleep sleepy 1 2 3 4 and then call",
+    "duration": 8.44,
+    "offset": 939.959,
+    "lang": "en"
+  },
+  {
+    "text": "it okay yes you could do that however",
+    "duration": 7.481,
+    "offset": 943.959,
+    "lang": "en"
+  },
+  {
+    "text": "what I thought was this is a really",
+    "duration": 6.24,
+    "offset": 948.399,
+    "lang": "en"
+  },
+  {
+    "text": "cool circumstance where we can use",
+    "duration": 5.639,
+    "offset": 951.44,
+    "lang": "en"
+  },
+  {
+    "text": "something to do with the cap server",
+    "duration": 5.281,
+    "offset": 954.639,
+    "lang": "en"
+  },
+  {
+    "text": "which are called life event so the cap",
+    "duration": 4.76,
+    "offset": 957.079,
+    "lang": "en"
+  },
+  {
+    "text": "server itself has a life cycle you know",
+    "duration": 4.24,
+    "offset": 959.92,
+    "lang": "en"
+  },
+  {
+    "text": "it starts up it gets ready it starts",
+    "duration": 4.201,
+    "offset": 961.839,
+    "lang": "en"
+  },
+  {
+    "text": "listening and then it shuts down when",
+    "duration": 4.239,
+    "offset": 964.16,
+    "lang": "en"
+  },
+  {
+    "text": "you control see it and everything so",
+    "duration": 3.799,
+    "offset": 966.04,
+    "lang": "en"
+  },
+  {
+    "text": "what I&amp;#39;ve done is I&amp;#39;ve written a little",
+    "duration": 2.44,
+    "offset": 968.399,
+    "lang": "en"
+  },
+  {
+    "text": "blog",
+    "duration": 4.321,
+    "offset": 969.839,
+    "lang": "en"
+  },
+  {
+    "text": "post um oh I just seen a question here",
+    "duration": 4.961,
+    "offset": 970.839,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;ll answer that in a second Rafael I&amp;#39;ve",
+    "duration": 4.44,
+    "offset": 974.16,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;ve written a little blog post um did I",
+    "duration": 4.719,
+    "offset": 975.8,
+    "lang": "en"
+  },
+  {
+    "text": "put in here already uh yes okay",
+    "duration": 4.2,
+    "offset": 978.6,
+    "lang": "en"
+  },
+  {
+    "text": "controlling automatic htttp requests",
+    "duration": 5.401,
+    "offset": 980.519,
+    "lang": "en"
+  },
+  {
+    "text": "incap no. JS design time Loops okay so",
+    "duration": 4.92,
+    "offset": 982.8,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s Linked In this thing already we",
+    "duration": 3.479,
+    "offset": 985.92,
+    "lang": "en"
+  },
+  {
+    "text": "won&amp;#39;t go into this we can read this",
+    "duration": 4.88,
+    "offset": 987.72,
+    "lang": "en"
+  },
+  {
+    "text": "after the uh live stream but basically",
+    "duration": 5.24,
+    "offset": 989.399,
+    "lang": "en"
+  },
+  {
+    "text": "this tells you about life cycle events",
+    "duration": 5.28,
+    "offset": 992.6,
+    "lang": "en"
+  },
+  {
+    "text": "and what we can do is use this bit of",
+    "duration": 5.88,
+    "offset": 994.639,
+    "lang": "en"
+  },
+  {
+    "text": "code here it&amp;#39;s really simple um if if we",
+    "duration": 6.639,
+    "offset": 997.88,
+    "lang": "en"
+  },
+  {
+    "text": "say here um let&amp;#39;s go into here and say",
+    "duration": 8.361,
+    "offset": 1000.519,
+    "lang": "en"
+  },
+  {
+    "text": "new uh paste that in and save that",
+    "duration": 8,
+    "offset": 1004.519,
+    "lang": "en"
+  },
+  {
+    "text": "as server.js so it&amp;#39;s a it&amp;#39;s a well-known",
+    "duration": 5.399,
+    "offset": 1008.88,
+    "lang": "en"
+  },
+  {
+    "text": "name Convention of configuration so if",
+    "duration": 2.76,
+    "offset": 1012.519,
+    "lang": "en"
+  },
+  {
+    "text": "you",
+    "duration": 4.68,
+    "offset": 1014.279,
+    "lang": "en"
+  },
+  {
+    "text": "save a file called server.js the caps",
+    "duration": 5.721,
+    "offset": 1015.279,
+    "lang": "en"
+  },
+  {
+    "text": "server itself will say oh there&amp;#39;s a",
+    "duration": 6.641,
+    "offset": 1018.959,
+    "lang": "en"
+  },
+  {
+    "text": "custom implementation for to enhance me",
+    "duration": 9.64,
+    "offset": 1021,
+    "lang": "en"
+  },
+  {
+    "text": "myself the server so as you can see it",
+    "duration": 8.04,
+    "offset": 1025.6,
+    "lang": "en"
+  },
+  {
+    "text": "says here loading server from file",
+    "duration": 5.24,
+    "offset": 1030.64,
+    "lang": "en"
+  },
+  {
+    "text": "server that&amp;#39;s a new message and what",
+    "duration": 3.72,
+    "offset": 1033.64,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got here is really simple we don&amp;#39;t",
+    "duration": 2.84,
+    "offset": 1035.88,
+    "lang": "en"
+  },
+  {
+    "text": "have to sort of stare at this stuff too",
+    "duration": 3.959,
+    "offset": 1037.36,
+    "lang": "en"
+  },
+  {
+    "text": "long but basically I&amp;#39;m loading I wish",
+    "duration": 4.599,
+    "offset": 1038.72,
+    "lang": "en"
+  },
+  {
+    "text": "those tool tips would go away good",
+    "duration": 4.041,
+    "offset": 1041.319,
+    "lang": "en"
+  },
+  {
+    "text": "morning Javier good morning to you in",
+    "duration": 4.561,
+    "offset": 1043.319,
+    "lang": "en"
+  },
+  {
+    "text": "Sunny Barcelona um I&amp;#39;m just using the",
+    "duration": 5.199,
+    "offset": 1045.36,
+    "lang": "en"
+  },
+  {
+    "text": "the promise version of the uh the file",
+    "duration": 5.44,
+    "offset": 1047.88,
+    "lang": "en"
+  },
+  {
+    "text": "system library in node and what I&amp;#39;m",
+    "duration": 5.081,
+    "offset": 1050.559,
+    "lang": "en"
+  },
+  {
+    "text": "doing is I&amp;#39;m requiring sap",
+    "duration": 4.8,
+    "offset": 1053.32,
+    "lang": "en"
+  },
+  {
+    "text": "CDs which gives me everything this is",
+    "duration": 6.159,
+    "offset": 1055.64,
+    "lang": "en"
+  },
+  {
+    "text": "this this uh this CDs facade and then I",
+    "duration": 7.64,
+    "offset": 1058.12,
+    "lang": "en"
+  },
+  {
+    "text": "can call an on to register a Handler",
+    "duration": 6.081,
+    "offset": 1061.799,
+    "lang": "en"
+  },
+  {
+    "text": "which is",
+    "duration": 3.96,
+    "offset": 1065.76,
+    "lang": "en"
+  },
+  {
+    "text": "here",
+    "duration": 4.44,
+    "offset": 1067.88,
+    "lang": "en"
+  },
+  {
+    "text": "there for the listening event the",
+    "duration": 5.64,
+    "offset": 1069.72,
+    "lang": "en"
+  },
+  {
+    "text": "listening is a life cycle event which is",
+    "duration": 5.28,
+    "offset": 1072.32,
+    "lang": "en"
+  },
+  {
+    "text": "fired when the cap server has started up",
+    "duration": 4.96,
+    "offset": 1075.36,
+    "lang": "en"
+  },
+  {
+    "text": "and is ready ready to start listening",
+    "duration": 5.12,
+    "offset": 1077.6,
+    "lang": "en"
+  },
+  {
+    "text": "for incoming requests in the with the O",
+    "duration": 4.599,
+    "offset": 1080.32,
+    "lang": "en"
+  },
+  {
+    "text": "data protocol right now so what we can",
+    "duration": 3.6,
+    "offset": 1082.72,
+    "lang": "en"
+  },
+  {
+    "text": "then do is to say oh just I&amp;#39;ll just",
+    "duration": 3.24,
+    "offset": 1084.919,
+    "lang": "en"
+  },
+  {
+    "text": "write a file an empty file called",
+    "duration": 4.719,
+    "offset": 1086.32,
+    "lang": "en"
+  },
+  {
+    "text": "listening so then what we can do is we",
+    "duration": 9,
+    "offset": 1088.159,
+    "lang": "en"
+  },
+  {
+    "text": "can say ah right now um where is it",
+    "duration": 6.12,
+    "offset": 1091.039,
+    "lang": "en"
+  },
+  {
+    "text": "uh yeah okay so now sorry um what we can",
+    "duration": 6.521,
+    "offset": 1097.799,
+    "lang": "en"
+  },
+  {
+    "text": "do is we can say",
+    "duration": 6.28,
+    "offset": 1101.84,
+    "lang": "en"
+  },
+  {
+    "text": "here instead of listening to changes to",
+    "duration": 7.839,
+    "offset": 1104.32,
+    "lang": "en"
+  },
+  {
+    "text": "stuff in the serve directory we can uh",
+    "duration": 6.48,
+    "offset": 1108.12,
+    "lang": "en"
+  },
+  {
+    "text": "we can listen listen literally listen",
+    "duration": 6.241,
+    "offset": 1112.159,
+    "lang": "en"
+  },
+  {
+    "text": "out for changes to the listening file",
+    "duration": 6.199,
+    "offset": 1114.6,
+    "lang": "en"
+  },
+  {
+    "text": "right and then",
+    "duration": 6.36,
+    "offset": 1118.4,
+    "lang": "en"
+  },
+  {
+    "text": "oops uh let&amp;#39;s get rid of",
+    "duration": 3.961,
+    "offset": 1120.799,
+    "lang": "en"
+  },
+  {
+    "text": "that and",
+    "duration": 3.319,
+    "offset": 1126.48,
+    "lang": "en"
+  },
+  {
+    "text": "then the enter will only trigger when",
+    "duration": 6.08,
+    "offset": 1130.44,
+    "lang": "en"
+  },
+  {
+    "text": "the listening file is changed and that&amp;#39;s",
+    "duration": 4,
+    "offset": 1134.48,
+    "lang": "en"
+  },
+  {
+    "text": "changed when basically the listening",
+    "duration": 4.72,
+    "offset": 1136.52,
+    "lang": "en"
+  },
+  {
+    "text": "event is fired so now we don&amp;#39;t have to",
+    "duration": 4.559,
+    "offset": 1138.48,
+    "lang": "en"
+  },
+  {
+    "text": "sleep we don&amp;#39;t have to worry that this",
+    "duration": 4.76,
+    "offset": 1141.24,
+    "lang": "en"
+  },
+  {
+    "text": "will be called either too early or",
+    "duration": 4.52,
+    "offset": 1143.039,
+    "lang": "en"
+  },
+  {
+    "text": "during the server startup and then it",
+    "duration": 4.88,
+    "offset": 1146,
+    "lang": "en"
+  },
+  {
+    "text": "will fail so now and in fact what we can",
+    "duration": 7.281,
+    "offset": 1147.559,
+    "lang": "en"
+  },
+  {
+    "text": "do as well just to show us that um let&amp;#39;s",
+    "duration": 5.36,
+    "offset": 1150.88,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s get it to print out the date as",
+    "duration": 3.48,
+    "offset": 1154.84,
+    "lang": "en"
+  },
+  {
+    "text": "well date date and time okay let&amp;#39;s do",
+    "duration": 4.08,
+    "offset": 1156.24,
+    "lang": "en"
+  },
+  {
+    "text": "that so",
+    "duration": 4.52,
+    "offset": 1158.32,
+    "lang": "en"
+  },
+  {
+    "text": "71823 that&amp;#39;s you know UTC time I&amp;#39;m an",
+    "duration": 5.239,
+    "offset": 1160.32,
+    "lang": "en"
+  },
+  {
+    "text": "hour ahead of that if I save that now",
+    "duration": 4.319,
+    "offset": 1162.84,
+    "lang": "en"
+  },
+  {
+    "text": "notice that this doesn&amp;#39;t get fired",
+    "duration": 4.48,
+    "offset": 1165.559,
+    "lang": "en"
+  },
+  {
+    "text": "straight away it gets fired 10 seconds",
+    "duration": 4.561,
+    "offset": 1167.159,
+    "lang": "en"
+  },
+  {
+    "text": "you know a a few seconds after do that",
+    "duration": 3.041,
+    "offset": 1170.039,
+    "lang": "en"
+  },
+  {
+    "text": "again",
+    "duration": 6.319,
+    "offset": 1171.72,
+    "lang": "en"
+  },
+  {
+    "text": "save 39 okay so now we&amp;#39;ve got a very",
+    "duration": 8.28,
+    "offset": 1173.08,
+    "lang": "en"
+  },
+  {
+    "text": "very comfortable way of having a request",
+    "duration": 5.161,
+    "offset": 1178.039,
+    "lang": "en"
+  },
+  {
+    "text": "made again once we make some changes",
+    "duration": 2.799,
+    "offset": 1181.36,
+    "lang": "en"
+  },
+  {
+    "text": "does that make sense put it in the chat",
+    "duration": 2.68,
+    "offset": 1183.2,
+    "lang": "en"
+  },
+  {
+    "text": "if that makes",
+    "duration": 4.961,
+    "offset": 1184.159,
+    "lang": "en"
+  },
+  {
+    "text": "sense so rafhael says um God that is",
+    "duration": 4.84,
+    "offset": 1185.88,
+    "lang": "en"
+  },
+  {
+    "text": "very bit that copy today is there a",
+    "duration": 3.4,
+    "offset": 1189.12,
+    "lang": "en"
+  },
+  {
+    "text": "reason for providing the service name as",
+    "duration": 3.36,
+    "offset": 1190.72,
+    "lang": "en"
+  },
+  {
+    "text": "a string instead of importing it by",
+    "duration": 4.639,
+    "offset": 1192.52,
+    "lang": "en"
+  },
+  {
+    "text": "doing const books equals this entity ah",
+    "duration": 6.44,
+    "offset": 1194.08,
+    "lang": "en"
+  },
+  {
+    "text": "brilliant Raphael um there is the reason",
+    "duration": 5.76,
+    "offset": 1197.159,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m using it this way so Raphael is",
+    "duration": 4.44,
+    "offset": 1200.52,
+    "lang": "en"
+  },
+  {
+    "text": "asking why have we got this in as a",
+    "duration": 4.361,
+    "offset": 1202.919,
+    "lang": "en"
+  },
+  {
+    "text": "string okay what we could do is what",
+    "duration": 5.16,
+    "offset": 1204.96,
+    "lang": "en"
+  },
+  {
+    "text": "Raphael says in the chat which uh is to",
+    "duration": 5.519,
+    "offset": 1207.28,
+    "lang": "en"
+  },
+  {
+    "text": "bring that in as an",
+    "duration": 7.16,
+    "offset": 1210.12,
+    "lang": "en"
+  },
+  {
+    "text": "object from the entities okay um the",
+    "duration": 5.921,
+    "offset": 1212.799,
+    "lang": "en"
+  },
+  {
+    "text": "only reason I&amp;#39;m not doing it that way is",
+    "duration": 3.08,
+    "offset": 1217.28,
+    "lang": "en"
+  },
+  {
+    "text": "because I want to do that in a later",
+    "duration": 4.04,
+    "offset": 1218.72,
+    "lang": "en"
+  },
+  {
+    "text": "episode that&amp;#39;s all so great Point",
+    "duration": 4.319,
+    "offset": 1220.36,
+    "lang": "en"
+  },
+  {
+    "text": "Raphael and it&amp;#39;s really nice to be able",
+    "duration": 3.399,
+    "offset": 1222.76,
+    "lang": "en"
+  },
+  {
+    "text": "to do that but I just want to keep it as",
+    "duration": 3.161,
+    "offset": 1224.679,
+    "lang": "en"
+  },
+  {
+    "text": "simple as possible right now to sort of",
+    "duration": 3.4,
+    "offset": 1226.159,
+    "lang": "en"
+  },
+  {
+    "text": "not distract",
+    "duration": 4.56,
+    "offset": 1227.84,
+    "lang": "en"
+  },
+  {
+    "text": "from what we want to look at okay so",
+    "duration": 4.681,
+    "offset": 1229.559,
+    "lang": "en"
+  },
+  {
+    "text": "yeah so we&amp;#39;ll leave that for a future",
+    "duration": 3.519,
+    "offset": 1232.4,
+    "lang": "en"
+  },
+  {
+    "text": "episode if that&amp;#39;s all right with you",
+    "duration": 5.04,
+    "offset": 1234.24,
+    "lang": "en"
+  },
+  {
+    "text": "okay now now we&amp;#39;ve got something that&amp;#39;s",
+    "duration": 6.24,
+    "offset": 1235.919,
+    "lang": "en"
+  },
+  {
+    "text": "listening um on the listening and we&amp;#39;ll",
+    "duration": 4.879,
+    "offset": 1239.28,
+    "lang": "en"
+  },
+  {
+    "text": "only rerun when we change this and it&amp;#39;ll",
+    "duration": 3.921,
+    "offset": 1242.159,
+    "lang": "en"
+  },
+  {
+    "text": "rerun the right time now let&amp;#39;s start to",
+    "duration": 4.4,
+    "offset": 1244.159,
+    "lang": "en"
+  },
+  {
+    "text": "have a look at what we did what&amp;#39;s",
+    "duration": 5.8,
+    "offset": 1246.08,
+    "lang": "en"
+  },
+  {
+    "text": "happening at the moment is that we&amp;#39;re",
+    "duration": 4.281,
+    "offset": 1248.559,
+    "lang": "en"
+  },
+  {
+    "text": "getting no",
+    "duration": 4.96,
+    "offset": 1251.88,
+    "lang": "en"
+  },
+  {
+    "text": "data what happens what happens if",
+    "duration": 8.12,
+    "offset": 1252.84,
+    "lang": "en"
+  },
+  {
+    "text": "we comment that out okay comment the",
+    "duration": 6.24,
+    "offset": 1256.84,
+    "lang": "en"
+  },
+  {
+    "text": "registration of this Anonymous function",
+    "duration": 4.36,
+    "offset": 1260.96,
+    "lang": "en"
+  },
+  {
+    "text": "as the Handler for the read request on",
+    "duration": 5.44,
+    "offset": 1263.08,
+    "lang": "en"
+  },
+  {
+    "text": "books okay let&amp;#39;s save",
+    "duration": 6.32,
+    "offset": 1265.32,
+    "lang": "en"
+  },
+  {
+    "text": "that we get the data why do we get the",
+    "duration": 7.2,
+    "offset": 1268.52,
+    "lang": "en"
+  },
+  {
+    "text": "data Sunny hello hello Sunny to you we",
+    "duration": 6.24,
+    "offset": 1271.64,
+    "lang": "en"
+  },
+  {
+    "text": "get the data why do we get the data",
+    "duration": 3.319,
+    "offset": 1275.72,
+    "lang": "en"
+  },
+  {
+    "text": "because we&amp;#39;re",
+    "duration": 3.88,
+    "offset": 1277.88,
+    "lang": "en"
+  },
+  {
+    "text": "not you we&amp;#39;re not",
+    "duration": 5,
+    "offset": 1279.039,
+    "lang": "en"
+  },
+  {
+    "text": "registering a",
+    "duration": 5.72,
+    "offset": 1281.76,
+    "lang": "en"
+  },
+  {
+    "text": "function a Handler function for the on",
+    "duration": 5.64,
+    "offset": 1284.039,
+    "lang": "en"
+  },
+  {
+    "text": "event we&amp;#39;re not saying I would like to",
+    "duration": 7.16,
+    "offset": 1287.48,
+    "lang": "en"
+  },
+  {
+    "text": "do the handling of the read of books",
+    "duration": 6.761,
+    "offset": 1289.679,
+    "lang": "en"
+  },
+  {
+    "text": "myself",
+    "duration": 4.56,
+    "offset": 1294.64,
+    "lang": "en"
+  },
+  {
+    "text": "okay good morning to you in India Mumbai",
+    "duration": 4.8,
+    "offset": 1296.44,
+    "lang": "en"
+  },
+  {
+    "text": "India and rajie good good morning to you",
+    "duration": 5.92,
+    "offset": 1299.2,
+    "lang": "en"
+  },
+  {
+    "text": "as well okay now where we were last time",
+    "duration": 6.84,
+    "offset": 1301.24,
+    "lang": "en"
+  },
+  {
+    "text": "at the end um we were saying like oh",
+    "duration": 4.88,
+    "offset": 1305.12,
+    "lang": "en"
+  },
+  {
+    "text": "yeah well let&amp;#39;s let&amp;#39;s just have a look",
+    "duration": 3.76,
+    "offset": 1308.08,
+    "lang": "en"
+  },
+  {
+    "text": "at this and I was trying to sort of not",
+    "duration": 4.12,
+    "offset": 1310,
+    "lang": "en"
+  },
+  {
+    "text": "do this because this is what I want to",
+    "duration": 3.199,
+    "offset": 1311.84,
+    "lang": "en"
+  },
+  {
+    "text": "cover",
+    "duration": 7.12,
+    "offset": 1314.12,
+    "lang": "en"
+  },
+  {
+    "text": "today what we have is in the on function",
+    "duration": 8.801,
+    "offset": 1315.039,
+    "lang": "en"
+  },
+  {
+    "text": "when we register a Handler for the on",
+    "duration": 5.039,
+    "offset": 1321.24,
+    "lang": "en"
+  },
+  {
+    "text": "event okay which is different to the",
+    "duration": 4.48,
+    "offset": 1323.84,
+    "lang": "en"
+  },
+  {
+    "text": "before and the after which we&amp;#39;ll come up",
+    "duration": 4.321,
+    "offset": 1326.279,
+    "lang": "en"
+  },
+  {
+    "text": "to you",
+    "duration": 2.28,
+    "offset": 1328.32,
+    "lang": "en"
+  },
+  {
+    "text": "later this function gets ped two",
+    "duration": 6.84,
+    "offset": 1331.24,
+    "lang": "en"
+  },
+  {
+    "text": "arguments okay and we want to capture",
+    "duration": 3.28,
+    "offset": 1336.44,
+    "lang": "en"
+  },
+  {
+    "text": "those two arguments in two different",
+    "duration": 5.479,
+    "offset": 1338.08,
+    "lang": "en"
+  },
+  {
+    "text": "parameter requ sorry uh the request and",
+    "duration": 7.64,
+    "offset": 1339.72,
+    "lang": "en"
+  },
+  {
+    "text": "also next now what does that mean before",
+    "duration": 6.48,
+    "offset": 1343.559,
+    "lang": "en"
+  },
+  {
+    "text": "we have a look at what that means let&amp;#39;s",
+    "duration": 5.08,
+    "offset": 1347.36,
+    "lang": "en"
+  },
+  {
+    "text": "use it which was what we did or what we",
+    "duration": 4.401,
+    "offset": 1350.039,
+    "lang": "en"
+  },
+  {
+    "text": "tried to do last time okay handling read",
+    "duration": 4.599,
+    "offset": 1352.44,
+    "lang": "en"
+  },
+  {
+    "text": "of books and what we did was call next",
+    "duration": 6.16,
+    "offset": 1354.44,
+    "lang": "en"
+  },
+  {
+    "text": "okay was the next that we get is a",
+    "duration": 7.24,
+    "offset": 1357.039,
+    "lang": "en"
+  },
+  {
+    "text": "function okay so let&amp;#39;s let&amp;#39;s think about",
+    "duration": 6.319,
+    "offset": 1360.6,
+    "lang": "en"
+  },
+  {
+    "text": "in fact let&amp;#39;s think",
+    "duration": 5.121,
+    "offset": 1364.279,
+    "lang": "en"
+  },
+  {
+    "text": "about next as a function without",
+    "duration": 4.601,
+    "offset": 1366.919,
+    "lang": "en"
+  },
+  {
+    "text": "thinking about the other parameter the",
+    "duration": 3.96,
+    "offset": 1369.4,
+    "lang": "en"
+  },
+  {
+    "text": "other argument that we get past for this",
+    "duration": 3.48,
+    "offset": 1371.52,
+    "lang": "en"
+  },
+  {
+    "text": "parameter so we&amp;#39;re going to give the",
+    "duration": 3.4,
+    "offset": 1373.36,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going to specify the name of the",
+    "duration": 4.159,
+    "offset": 1375,
+    "lang": "en"
+  },
+  {
+    "text": "first parameter as an underscore and I I",
+    "duration": 4.279,
+    "offset": 1376.76,
+    "lang": "en"
+  },
+  {
+    "text": "knew I was going to do this so what I&amp;#39;ve",
+    "duration": 5.281,
+    "offset": 1379.159,
+    "lang": "en"
+  },
+  {
+    "text": "got here as well is a little reference",
+    "duration": 5.361,
+    "offset": 1381.039,
+    "lang": "en"
+  },
+  {
+    "text": "if you&amp;#39;re wondering why people use",
+    "duration": 4.88,
+    "offset": 1384.44,
+    "lang": "en"
+  },
+  {
+    "text": "underscores as function parameter names",
+    "duration": 4.279,
+    "offset": 1386.4,
+    "lang": "en"
+  },
+  {
+    "text": "there&amp;#39;s a really good question and",
+    "duration": 3.359,
+    "offset": 1389.32,
+    "lang": "en"
+  },
+  {
+    "text": "answer on stack Overflow for that okay",
+    "duration": 3.401,
+    "offset": 1390.679,
+    "lang": "en"
+  },
+  {
+    "text": "so have a look at that but basically",
+    "duration": 3.161,
+    "offset": 1392.679,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s a little little bit of a a",
+    "duration": 4.68,
+    "offset": 1394.08,
+    "lang": "en"
+  },
+  {
+    "text": "placeholder to say yes well you know",
+    "duration": 4.839,
+    "offset": 1395.84,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got to acknowledge this this",
+    "duration": 3.36,
+    "offset": 1398.76,
+    "lang": "en"
+  },
+  {
+    "text": "parameter because we got positional",
+    "duration": 2.961,
+    "offset": 1400.679,
+    "lang": "en"
+  },
+  {
+    "text": "parameters comma separated positional",
+    "duration": 3.64,
+    "offset": 1402.12,
+    "lang": "en"
+  },
+  {
+    "text": "parameters so we got to put a name for",
+    "duration": 5.76,
+    "offset": 1403.64,
+    "lang": "en"
+  },
+  {
+    "text": "it but that implies that I don&amp;#39;t care",
+    "duration": 7.24,
+    "offset": 1405.76,
+    "lang": "en"
+  },
+  {
+    "text": "about it I&amp;#39;m not going to use it okay",
+    "duration": 6.159,
+    "offset": 1409.4,
+    "lang": "en"
+  },
+  {
+    "text": "does that make sense so that&amp;#39;s what I",
+    "duration": 3.559,
+    "offset": 1413,
+    "lang": "en"
+  },
+  {
+    "text": "think that&amp;#39;s what we did last week as",
+    "duration": 4.041,
+    "offset": 1415.559,
+    "lang": "en"
+  },
+  {
+    "text": "well so I wanted to explain that now",
+    "duration": 6.841,
+    "offset": 1416.559,
+    "lang": "en"
+  },
+  {
+    "text": "next next is a function",
+    "duration": 8.199,
+    "offset": 1419.6,
+    "lang": "en"
+  },
+  {
+    "text": "and if you think about how uh certain",
+    "duration": 7.96,
+    "offset": 1423.4,
+    "lang": "en"
+  },
+  {
+    "text": "mechanisms certain classic mechanisms",
+    "duration": 6.801,
+    "offset": 1427.799,
+    "lang": "en"
+  },
+  {
+    "text": "work uh the one I always think about is",
+    "duration": 6.52,
+    "offset": 1431.36,
+    "lang": "en"
+  },
+  {
+    "text": "the Apache web server httpd which is",
+    "duration": 4.679,
+    "offset": 1434.6,
+    "lang": "en"
+  },
+  {
+    "text": "basically the web server that powered",
+    "duration": 3.72,
+    "offset": 1437.88,
+    "lang": "en"
+  },
+  {
+    "text": "most of the web as you know in the early",
+    "duration": 6.041,
+    "offset": 1439.279,
+    "lang": "en"
+  },
+  {
+    "text": "days and the way that it worked is that",
+    "duration": 5.24,
+    "offset": 1441.6,
+    "lang": "en"
+  },
+  {
+    "text": "a request came in and it started to",
+    "duration": 3.32,
+    "offset": 1445.32,
+    "lang": "en"
+  },
+  {
+    "text": "handle the request and you had a series",
+    "duration": 4.719,
+    "offset": 1446.84,
+    "lang": "en"
+  },
+  {
+    "text": "of stacked handlers okay so the request",
+    "duration": 4.519,
+    "offset": 1448.64,
+    "lang": "en"
+  },
+  {
+    "text": "went through the",
+    "duration": 4.321,
+    "offset": 1451.559,
+    "lang": "en"
+  },
+  {
+    "text": "handlers the first Handler had a had a",
+    "duration": 6.921,
+    "offset": 1453.159,
+    "lang": "en"
+  },
+  {
+    "text": "chance at handling that request and it",
+    "duration": 7,
+    "offset": 1455.88,
+    "lang": "en"
+  },
+  {
+    "text": "might have wanted to partially handle it",
+    "duration": 6.479,
+    "offset": 1460.08,
+    "lang": "en"
+  },
+  {
+    "text": "but then allow a subsequent Handler to",
+    "duration": 6.72,
+    "offset": 1462.88,
+    "lang": "en"
+  },
+  {
+    "text": "continue the handling of that request so",
+    "duration": 4.72,
+    "offset": 1466.559,
+    "lang": "en"
+  },
+  {
+    "text": "it would say yeah I&amp;#39;ll do a little bit",
+    "duration": 3.559,
+    "offset": 1469.6,
+    "lang": "en"
+  },
+  {
+    "text": "and then I&amp;#39;ll give it to the next",
+    "duration": 4,
+    "offset": 1471.279,
+    "lang": "en"
+  },
+  {
+    "text": "Handler and the next Handler might do",
+    "duration": 3.801,
+    "offset": 1473.159,
+    "lang": "en"
+  },
+  {
+    "text": "the same thing and then the Handler",
+    "duration": 3.201,
+    "offset": 1475.279,
+    "lang": "en"
+  },
+  {
+    "text": "after that might say oh actually you",
+    "duration": 4.439,
+    "offset": 1476.96,
+    "lang": "en"
+  },
+  {
+    "text": "know I am the definitive final Handler",
+    "duration": 5.16,
+    "offset": 1478.48,
+    "lang": "en"
+  },
+  {
+    "text": "now so I&amp;#39;m going to add my bit to",
+    "duration": 3.601,
+    "offset": 1481.399,
+    "lang": "en"
+  },
+  {
+    "text": "handling this incoming request that&amp;#39;s",
+    "duration": 2.56,
+    "offset": 1483.64,
+    "lang": "en"
+  },
+  {
+    "text": "sort of running the gauntlet through",
+    "duration": 2.72,
+    "offset": 1485,
+    "lang": "en"
+  },
+  {
+    "text": "these",
+    "duration": 4.32,
+    "offset": 1486.2,
+    "lang": "en"
+  },
+  {
+    "text": "handlers okay and then that Handler",
+    "duration": 5.88,
+    "offset": 1487.72,
+    "lang": "en"
+  },
+  {
+    "text": "might say that&amp;#39;s it no other subsequent",
+    "duration": 5.44,
+    "offset": 1490.52,
+    "lang": "en"
+  },
+  {
+    "text": "handlers should be called I you know I&amp;#39;m",
+    "duration": 4.12,
+    "offset": 1493.6,
+    "lang": "en"
+  },
+  {
+    "text": "the final Arbiter on this particular",
+    "duration": 4.599,
+    "offset": 1495.96,
+    "lang": "en"
+  },
+  {
+    "text": "request so I&amp;#39;m not going to call next",
+    "duration": 4.36,
+    "offset": 1497.72,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m not going to",
+    "duration": 4.081,
+    "offset": 1500.559,
+    "lang": "en"
+  },
+  {
+    "text": "allow any further progress through the",
+    "duration": 6.36,
+    "offset": 1502.08,
+    "lang": "en"
+  },
+  {
+    "text": "stack of handlers okay and then it would",
+    "duration": 7.159,
+    "offset": 1504.64,
+    "lang": "en"
+  },
+  {
+    "text": "then return the response to the you know",
+    "duration": 5.119,
+    "offset": 1508.44,
+    "lang": "en"
+  },
+  {
+    "text": "the the web request that was made and",
+    "duration": 5.48,
+    "offset": 1511.799,
+    "lang": "en"
+  },
+  {
+    "text": "you know it&amp;#39;s all good we have a similar",
+    "duration": 8.48,
+    "offset": 1513.559,
+    "lang": "en"
+  },
+  {
+    "text": "sort of philosophy approach mechanism",
+    "duration": 8.721,
+    "offset": 1517.279,
+    "lang": "en"
+  },
+  {
+    "text": "here so basically inside the cap",
+    "duration": 6.801,
+    "offset": 1522.039,
+    "lang": "en"
+  },
+  {
+    "text": "server with this next",
+    "duration": 5.559,
+    "offset": 1526,
+    "lang": "en"
+  },
+  {
+    "text": "function we get given the next function",
+    "duration": 5.839,
+    "offset": 1528.84,
+    "lang": "en"
+  },
+  {
+    "text": "as a Handler so we could start handling",
+    "duration": 5.48,
+    "offset": 1531.559,
+    "lang": "en"
+  },
+  {
+    "text": "the request and then call next to say",
+    "duration": 4.921,
+    "offset": 1534.679,
+    "lang": "en"
+  },
+  {
+    "text": "well you do the rest of it",
+    "duration": 5.481,
+    "offset": 1537.039,
+    "lang": "en"
+  },
+  {
+    "text": "okay and that&amp;#39;s sort of sort of what&amp;#39;s",
+    "duration": 7,
+    "offset": 1539.6,
+    "lang": "en"
+  },
+  {
+    "text": "Happening Here however however however",
+    "duration": 5.72,
+    "offset": 1542.52,
+    "lang": "en"
+  },
+  {
+    "text": "however so we&amp;#39;re basically saying I",
+    "duration": 4.679,
+    "offset": 1546.6,
+    "lang": "en"
+  },
+  {
+    "text": "would like the next Handler in the",
+    "duration": 4.24,
+    "offset": 1548.24,
+    "lang": "en"
+  },
+  {
+    "text": "series and the next Handler in the",
+    "duration": 3.601,
+    "offset": 1551.279,
+    "lang": "en"
+  },
+  {
+    "text": "series is sort of think about it",
+    "duration": 5.28,
+    "offset": 1552.48,
+    "lang": "en"
+  },
+  {
+    "text": "as similar to what we I just just",
+    "duration": 5.36,
+    "offset": 1554.88,
+    "lang": "en"
+  },
+  {
+    "text": "described and it it will do the handling",
+    "duration": 3.84,
+    "offset": 1557.76,
+    "lang": "en"
+  },
+  {
+    "text": "for us okay if we don&amp;#39;t want to do it",
+    "duration": 2.76,
+    "offset": 1560.24,
+    "lang": "en"
+  },
+  {
+    "text": "after",
+    "duration": 4.559,
+    "offset": 1561.6,
+    "lang": "en"
+  },
+  {
+    "text": "all however as we can see here it&amp;#39;s",
+    "duration": 7.039,
+    "offset": 1563,
+    "lang": "en"
+  },
+  {
+    "text": "still not working okay why is it not",
+    "duration": 6.12,
+    "offset": 1566.159,
+    "lang": "en"
+  },
+  {
+    "text": "working now this is not as it it&amp;#39;s still",
+    "duration": 5.041,
+    "offset": 1570.039,
+    "lang": "en"
+  },
+  {
+    "text": "not working IE we&amp;#39;re still getting no",
+    "duration": 5.4,
+    "offset": 1572.279,
+    "lang": "en"
+  },
+  {
+    "text": "data can anybody say in the chat why",
+    "duration": 6.76,
+    "offset": 1575.08,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re still getting no data now um I",
+    "duration": 6.281,
+    "offset": 1577.679,
+    "lang": "en"
+  },
+  {
+    "text": "think it was it the subscriber or Matias",
+    "duration": 5,
+    "offset": 1581.84,
+    "lang": "en"
+  },
+  {
+    "text": "said right at the end last week but in",
+    "duration": 4.36,
+    "offset": 1583.96,
+    "lang": "en"
+  },
+  {
+    "text": "the chat what you why you think was",
+    "duration": 4,
+    "offset": 1586.84,
+    "lang": "en"
+  },
+  {
+    "text": "still getting no data even though we&amp;#39;re",
+    "duration": 5.52,
+    "offset": 1588.32,
+    "lang": "en"
+  },
+  {
+    "text": "calling the next Handler okay in the",
+    "duration": 4.719,
+    "offset": 1590.84,
+    "lang": "en"
+  },
+  {
+    "text": "series which",
+    "duration": 4.76,
+    "offset": 1593.84,
+    "lang": "en"
+  },
+  {
+    "text": "should handle it for us okay we should",
+    "duration": 4.521,
+    "offset": 1595.559,
+    "lang": "en"
+  },
+  {
+    "text": "provide the",
+    "duration": 5.92,
+    "offset": 1598.6,
+    "lang": "en"
+  },
+  {
+    "text": "data put in the chat um Michael says",
+    "duration": 7.76,
+    "offset": 1600.08,
+    "lang": "en"
+  },
+  {
+    "text": "shouldn&amp;#39;t the value of next be returned",
+    "duration": 5.44,
+    "offset": 1604.52,
+    "lang": "en"
+  },
+  {
+    "text": "yes and that&amp;#39;s what I think a couple of",
+    "duration": 3.92,
+    "offset": 1607.84,
+    "lang": "en"
+  },
+  {
+    "text": "folks said on the previous thing so",
+    "duration": 3.04,
+    "offset": 1609.96,
+    "lang": "en"
+  },
+  {
+    "text": "nikel says does the Handler function",
+    "duration": 4.039,
+    "offset": 1611.76,
+    "lang": "en"
+  },
+  {
+    "text": "have to return the p in entities um yes",
+    "duration": 6.399,
+    "offset": 1613,
+    "lang": "en"
+  },
+  {
+    "text": "it well the um this particular one n",
+    "duration": 5.36,
+    "offset": 1615.799,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s a really good question um so",
+    "duration": 3.481,
+    "offset": 1619.399,
+    "lang": "en"
+  },
+  {
+    "text": "great great answer from Michael we&amp;#39;ll",
+    "duration": 3.841,
+    "offset": 1621.159,
+    "lang": "en"
+  },
+  {
+    "text": "look at that in a second um but nikel is",
+    "duration": 3.799,
+    "offset": 1622.88,
+    "lang": "en"
+  },
+  {
+    "text": "saying does the Handler function have to",
+    "duration": 5.52,
+    "offset": 1625,
+    "lang": "en"
+  },
+  {
+    "text": "return the past in entities yes",
+    "duration": 7.12,
+    "offset": 1626.679,
+    "lang": "en"
+  },
+  {
+    "text": "but in this particular Handler function",
+    "duration": 8.72,
+    "offset": 1630.52,
+    "lang": "en"
+  },
+  {
+    "text": "which we registered against the on event",
+    "duration": 9.6,
+    "offset": 1633.799,
+    "lang": "en"
+  },
+  {
+    "text": "okay or the on call back type we don&amp;#39;t",
+    "duration": 6.64,
+    "offset": 1639.24,
+    "lang": "en"
+  },
+  {
+    "text": "get any data passed in because",
+    "duration": 5.28,
+    "offset": 1643.399,
+    "lang": "en"
+  },
+  {
+    "text": "effectively the on is",
+    "duration": 5.44,
+    "offset": 1645.88,
+    "lang": "en"
+  },
+  {
+    "text": "you get the data as in I want to get the",
+    "duration": 5.72,
+    "offset": 1648.679,
+    "lang": "en"
+  },
+  {
+    "text": "data okay in the",
+    "duration": 7.16,
+    "offset": 1651.32,
+    "lang": "en"
+  },
+  {
+    "text": "before or the after yes we get uh well",
+    "duration": 5.88,
+    "offset": 1654.399,
+    "lang": "en"
+  },
+  {
+    "text": "sorry let&amp;#39;s talk about the after for now",
+    "duration": 3.76,
+    "offset": 1658.48,
+    "lang": "en"
+  },
+  {
+    "text": "with the after we do get data passed in",
+    "duration": 3.921,
+    "offset": 1660.279,
+    "lang": "en"
+  },
+  {
+    "text": "to say here&amp;#39;s the data that&amp;#39;s been",
+    "duration": 4.08,
+    "offset": 1662.24,
+    "lang": "en"
+  },
+  {
+    "text": "retrieved but you want to you&amp;#39;ve",
+    "duration": 3.959,
+    "offset": 1664.2,
+    "lang": "en"
+  },
+  {
+    "text": "registered this call back to to add",
+    "duration": 3.599,
+    "offset": 1666.32,
+    "lang": "en"
+  },
+  {
+    "text": "something to the data to enhance it",
+    "duration": 4.201,
+    "offset": 1668.159,
+    "lang": "en"
+  },
+  {
+    "text": "maybe you know in after scenario so",
+    "duration": 5.48,
+    "offset": 1669.919,
+    "lang": "en"
+  },
+  {
+    "text": "here&amp;#39;s the data so yes the handle",
+    "duration": 4.72,
+    "offset": 1672.36,
+    "lang": "en"
+  },
+  {
+    "text": "function have has to return the pass in",
+    "duration": 3.601,
+    "offset": 1675.399,
+    "lang": "en"
+  },
+  {
+    "text": "entities",
+    "duration": 5.4,
+    "offset": 1677.08,
+    "lang": "en"
+  },
+  {
+    "text": "in that um in that context but it&amp;#39;s only",
+    "duration": 6.32,
+    "offset": 1679,
+    "lang": "en"
+  },
+  {
+    "text": "for example the after function that gets",
+    "duration": 5.72,
+    "offset": 1682.48,
+    "lang": "en"
+  },
+  {
+    "text": "uh past the entities right does that",
+    "duration": 4.44,
+    "offset": 1685.32,
+    "lang": "en"
+  },
+  {
+    "text": "make sense nikel let me know if that",
+    "duration": 2.719,
+    "offset": 1688.2,
+    "lang": "en"
+  },
+  {
+    "text": "makes sense but let&amp;#39;s go back to what",
+    "duration": 3.08,
+    "offset": 1689.76,
+    "lang": "en"
+  },
+  {
+    "text": "Michael says yes we have to return the",
+    "duration": 4.081,
+    "offset": 1690.919,
+    "lang": "en"
+  },
+  {
+    "text": "value of next but why do we have to",
+    "duration": 6,
+    "offset": 1692.84,
+    "lang": "en"
+  },
+  {
+    "text": "return the value of next if we say here",
+    "duration": 5.96,
+    "offset": 1695,
+    "lang": "en"
+  },
+  {
+    "text": "return it&amp;#39;s not really yeah it&amp;#39;s",
+    "duration": 4.199,
+    "offset": 1698.84,
+    "lang": "en"
+  },
+  {
+    "text": "basically",
+    "duration": 5.599,
+    "offset": 1700.96,
+    "lang": "en"
+  },
+  {
+    "text": "returning the the result of calling next",
+    "duration": 5.081,
+    "offset": 1703.039,
+    "lang": "en"
+  },
+  {
+    "text": "okay perfect nikel thank you for",
+    "duration": 3.561,
+    "offset": 1706.559,
+    "lang": "en"
+  },
+  {
+    "text": "answering that&amp;#39;s brilliant so Niki",
+    "duration": 3.48,
+    "offset": 1708.12,
+    "lang": "en"
+  },
+  {
+    "text": "saying a good example here asking a",
+    "duration": 3.159,
+    "offset": 1710.12,
+    "lang": "en"
+  },
+  {
+    "text": "great question in the chat and and also",
+    "duration": 3.919,
+    "offset": 1711.6,
+    "lang": "en"
+  },
+  {
+    "text": "acknowledging as well so I&amp;#39;m I&amp;#39;m I know",
+    "duration": 4,
+    "offset": 1713.279,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m not sort of talking nonsense so if",
+    "duration": 5,
+    "offset": 1715.519,
+    "lang": "en"
+  },
+  {
+    "text": "we save this now all I&amp;#39;ve done is add a",
+    "duration": 5.681,
+    "offset": 1717.279,
+    "lang": "en"
+  },
+  {
+    "text": "return",
+    "duration": 2.441,
+    "offset": 1720.519,
+    "lang": "en"
+  },
+  {
+    "text": "statement okay so we&amp;#39;re loading file so",
+    "duration": 4.44,
+    "offset": 1723,
+    "lang": "en"
+  },
+  {
+    "text": "and then this is this one&amp;#39;s still",
+    "duration": 2.76,
+    "offset": 1726.2,
+    "lang": "en"
+  },
+  {
+    "text": "waiting here which is",
+    "duration": 3.52,
+    "offset": 1727.44,
+    "lang": "en"
+  },
+  {
+    "text": "great there we",
+    "duration": 8.959,
+    "offset": 1728.96,
+    "lang": "en"
+  },
+  {
+    "text": "go now why has that made a difference",
+    "duration": 6.959,
+    "offset": 1730.96,
+    "lang": "en"
+  },
+  {
+    "text": "why has that made a difference I&amp;#39;m going",
+    "duration": 4.24,
+    "offset": 1738.2,
+    "lang": "en"
+  },
+  {
+    "text": "to tell you that&amp;#39;s actually nothing to",
+    "duration": 9.32,
+    "offset": 1739.44,
+    "lang": "en"
+  },
+  {
+    "text": "do with cap or the cap server or CDs or",
+    "duration": 9.76,
+    "offset": 1742.44,
+    "lang": "en"
+  },
+  {
+    "text": "anything why do you think that is if we",
+    "duration": 6.639,
+    "offset": 1748.76,
+    "lang": "en"
+  },
+  {
+    "text": "remove that again and save",
+    "duration": 3.199,
+    "offset": 1752.2,
+    "lang": "en"
+  },
+  {
+    "text": "it it breaks again I.E we don&amp;#39;t get the",
+    "duration": 10,
+    "offset": 1755.679,
+    "lang": "en"
+  },
+  {
+    "text": "goodness from this function that we we",
+    "duration": 7.281,
+    "offset": 1760.919,
+    "lang": "en"
+  },
+  {
+    "text": "were given as the second parameter in",
+    "duration": 4.761,
+    "offset": 1765.679,
+    "lang": "en"
+  },
+  {
+    "text": "the call back when we were called okay",
+    "duration": 5.44,
+    "offset": 1768.2,
+    "lang": "en"
+  },
+  {
+    "text": "why is that well maybe somebody&amp;#39;s going",
+    "duration": 4.359,
+    "offset": 1770.44,
+    "lang": "en"
+  },
+  {
+    "text": "to put in the",
+    "duration": 4.48,
+    "offset": 1773.64,
+    "lang": "en"
+  },
+  {
+    "text": "chat have a think about and I think I",
+    "duration": 6.841,
+    "offset": 1774.799,
+    "lang": "en"
+  },
+  {
+    "text": "might have put it in here yes Arrow",
+    "duration": 6.84,
+    "offset": 1778.12,
+    "lang": "en"
+  },
+  {
+    "text": "function Expressions there we",
+    "duration": 7.879,
+    "offset": 1781.64,
+    "lang": "en"
+  },
+  {
+    "text": "go one of the beautiful one of the so",
+    "duration": 9.24,
+    "offset": 1784.96,
+    "lang": "en"
+  },
+  {
+    "text": "es6 ecmascript 6 came out in node.js",
+    "duration": 7.201,
+    "offset": 1789.519,
+    "lang": "en"
+  },
+  {
+    "text": "JavaScript quite a few years ago and it",
+    "duration": 4.52,
+    "offset": 1794.2,
+    "lang": "en"
+  },
+  {
+    "text": "brought with it a lot of beautiful",
+    "duration": 3.679,
+    "offset": 1796.72,
+    "lang": "en"
+  },
+  {
+    "text": "things to JavaScript it also brought in",
+    "duration": 3.199,
+    "offset": 1798.72,
+    "lang": "en"
+  },
+  {
+    "text": "a lot of ugly things to JavaScript",
+    "duration": 2.681,
+    "offset": 1800.399,
+    "lang": "en"
+  },
+  {
+    "text": "including",
+    "duration": 3.12,
+    "offset": 1801.919,
+    "lang": "en"
+  },
+  {
+    "text": "classes and I&amp;#39;ll say that again it",
+    "duration": 3.319,
+    "offset": 1803.08,
+    "lang": "en"
+  },
+  {
+    "text": "brought a lot of ugly things into",
+    "duration": 4.321,
+    "offset": 1805.039,
+    "lang": "en"
+  },
+  {
+    "text": "JavaScript including",
+    "duration": 5.64,
+    "offset": 1806.399,
+    "lang": "en"
+  },
+  {
+    "text": "classes however one of the things it did",
+    "duration": 6.039,
+    "offset": 1809.36,
+    "lang": "en"
+  },
+  {
+    "text": "bring in is this concept of Arrow",
+    "duration": 5.88,
+    "offset": 1812.039,
+    "lang": "en"
+  },
+  {
+    "text": "function expressions or fat Arrow",
+    "duration": 4.76,
+    "offset": 1815.399,
+    "lang": "en"
+  },
+  {
+    "text": "functions and a fat Arrow function",
+    "duration": 4.64,
+    "offset": 1817.919,
+    "lang": "en"
+  },
+  {
+    "text": "basically let&amp;#39;s go",
+    "duration": 8.4,
+    "offset": 1820.159,
+    "lang": "en"
+  },
+  {
+    "text": "here is a really nice way of defining",
+    "duration": 9.081,
+    "offset": 1822.559,
+    "lang": "en"
+  },
+  {
+    "text": "a an anonymous function in a really",
+    "duration": 5.6,
+    "offset": 1828.559,
+    "lang": "en"
+  },
+  {
+    "text": "succinct",
+    "duration": 5.519,
+    "offset": 1831.64,
+    "lang": "en"
+  },
+  {
+    "text": "way can we illustrate this by um by",
+    "duration": 5.041,
+    "offset": 1834.159,
+    "lang": "en"
+  },
+  {
+    "text": "doing",
+    "duration": 4.601,
+    "offset": 1837.159,
+    "lang": "en"
+  },
+  {
+    "text": "a yeah let&amp;#39;s do let&amp;#39;s try this uh if we",
+    "duration": 5.76,
+    "offset": 1839.2,
+    "lang": "en"
+  },
+  {
+    "text": "go into here let&amp;#39;s open node if we have",
+    "duration": 8.639,
+    "offset": 1841.76,
+    "lang": "en"
+  },
+  {
+    "text": "for example um numbers equals 1 2 3 okay",
+    "duration": 6.64,
+    "offset": 1844.96,
+    "lang": "en"
+  },
+  {
+    "text": "if we say",
+    "duration": 3.481,
+    "offset": 1850.399,
+    "lang": "en"
+  },
+  {
+    "text": "numbers",
+    "duration": 6.76,
+    "offset": 1851.6,
+    "lang": "en"
+  },
+  {
+    "text": "map okay uh oh sorry numbers. map and we",
+    "duration": 5.759,
+    "offset": 1853.88,
+    "lang": "en"
+  },
+  {
+    "text": "want to do something to each of the",
+    "duration": 4.199,
+    "offset": 1858.36,
+    "lang": "en"
+  },
+  {
+    "text": "numbers so either we could say function",
+    "duration": 4.201,
+    "offset": 1859.639,
+    "lang": "en"
+  },
+  {
+    "text": "I think",
+    "duration": 7.72,
+    "offset": 1862.559,
+    "lang": "en"
+  },
+  {
+    "text": "X return x uh time 10 right like",
+    "duration": 9.6,
+    "offset": 1863.84,
+    "lang": "en"
+  },
+  {
+    "text": "that see what happens there we go so you",
+    "duration": 4.721,
+    "offset": 1870.279,
+    "lang": "en"
+  },
+  {
+    "text": "know we multiply each of the numbers by",
+    "duration": 4.959,
+    "offset": 1873.44,
+    "lang": "en"
+  },
+  {
+    "text": "10 right but that&amp;#39;s quite",
+    "duration": 6.039,
+    "offset": 1875,
+    "lang": "en"
+  },
+  {
+    "text": "verose okay and when you start thinking",
+    "duration": 5.24,
+    "offset": 1878.399,
+    "lang": "en"
+  },
+  {
+    "text": "about developing in JavaScript in",
+    "duration": 4.6,
+    "offset": 1881.039,
+    "lang": "en"
+  },
+  {
+    "text": "node.js",
+    "duration": 5.241,
+    "offset": 1883.639,
+    "lang": "en"
+  },
+  {
+    "text": "JavaScript in this style where you have",
+    "duration": 5.361,
+    "offset": 1885.639,
+    "lang": "en"
+  },
+  {
+    "text": "a lot of callbacks a lot of handlers a",
+    "duration": 5,
+    "offset": 1888.88,
+    "lang": "en"
+  },
+  {
+    "text": "lot of anonymous",
+    "duration": 6.88,
+    "offset": 1891,
+    "lang": "en"
+  },
+  {
+    "text": "functions the fat Arrow function",
+    "duration": 6.6,
+    "offset": 1893.88,
+    "lang": "en"
+  },
+  {
+    "text": "style an arrow function expression is a",
+    "duration": 5.279,
+    "offset": 1897.88,
+    "lang": "en"
+  },
+  {
+    "text": "compact alternative to a additional",
+    "duration": 4.079,
+    "offset": 1900.48,
+    "lang": "en"
+  },
+  {
+    "text": "function expression so this is a",
+    "duration": 3.281,
+    "offset": 1903.159,
+    "lang": "en"
+  },
+  {
+    "text": "function",
+    "duration": 5,
+    "offset": 1904.559,
+    "lang": "en"
+  },
+  {
+    "text": "expression we could write this in a",
+    "duration": 5,
+    "offset": 1906.44,
+    "lang": "en"
+  },
+  {
+    "text": "similar way sorry we could write this in",
+    "duration": 3.761,
+    "offset": 1909.559,
+    "lang": "en"
+  },
+  {
+    "text": "a different way using a fat Arrow why do",
+    "duration": 3.599,
+    "offset": 1911.44,
+    "lang": "en"
+  },
+  {
+    "text": "I call it fat Arrow function because it",
+    "duration": 5.56,
+    "offset": 1913.32,
+    "lang": "en"
+  },
+  {
+    "text": "that that&amp;#39;s an arrow right that&amp;#39;s an",
+    "duration": 6.961,
+    "offset": 1915.039,
+    "lang": "en"
+  },
+  {
+    "text": "arrow make it a bit",
+    "duration": 6.72,
+    "offset": 1918.88,
+    "lang": "en"
+  },
+  {
+    "text": "bigger and and that to me is a fat Arrow",
+    "duration": 5.44,
+    "offset": 1922,
+    "lang": "en"
+  },
+  {
+    "text": "okay that&amp;#39;s why I and other people call",
+    "duration": 4.4,
+    "offset": 1925.6,
+    "lang": "en"
+  },
+  {
+    "text": "it a fat Arrow",
+    "duration": 7.8,
+    "offset": 1927.44,
+    "lang": "en"
+  },
+  {
+    "text": "function now we could say numbers do",
+    "duration": 8.12,
+    "offset": 1930,
+    "lang": "en"
+  },
+  {
+    "text": "map and we&amp;#39;ll use now what&amp;#39;s it what&amp;#39;s",
+    "duration": 5.72,
+    "offset": 1935.24,
+    "lang": "en"
+  },
+  {
+    "text": "the official term an arrow function",
+    "duration": 5,
+    "offset": 1938.12,
+    "lang": "en"
+  },
+  {
+    "text": "expression",
+    "duration": 5.599,
+    "offset": 1940.96,
+    "lang": "en"
+  },
+  {
+    "text": "x x *",
+    "duration": 9.12,
+    "offset": 1943.12,
+    "lang": "en"
+  },
+  {
+    "text": "10 there we go now",
+    "duration": 8.36,
+    "offset": 1946.559,
+    "lang": "en"
+  },
+  {
+    "text": "notice that as well as not having the",
+    "duration": 5.64,
+    "offset": 1952.24,
+    "lang": "en"
+  },
+  {
+    "text": "function keyword we don&amp;#39;t have any",
+    "duration": 5.041,
+    "offset": 1954.919,
+    "lang": "en"
+  },
+  {
+    "text": "return statement we don&amp;#39;t have any curly",
+    "duration": 4.799,
+    "offset": 1957.88,
+    "lang": "en"
+  },
+  {
+    "text": "braces we don&amp;#39;t have a block we could",
+    "duration": 4.8,
+    "offset": 1959.96,
+    "lang": "en"
+  },
+  {
+    "text": "have a block but if we put a block in",
+    "duration": 5.401,
+    "offset": 1962.679,
+    "lang": "en"
+  },
+  {
+    "text": "there as in a block constrained by curly",
+    "duration": 8.919,
+    "offset": 1964.76,
+    "lang": "en"
+  },
+  {
+    "text": "braces x * 10 right Watch What Happens",
+    "duration": 10,
+    "offset": 1968.08,
+    "lang": "en"
+  },
+  {
+    "text": "undefined undefined undefined",
+    "duration": 4.401,
+    "offset": 1973.679,
+    "lang": "en"
+  },
+  {
+    "text": "if we put something in a fat Arrow",
+    "duration": 4.36,
+    "offset": 1978.6,
+    "lang": "en"
+  },
+  {
+    "text": "function",
+    "duration": 4.879,
+    "offset": 1981.76,
+    "lang": "en"
+  },
+  {
+    "text": "style Anonymous function",
+    "duration": 7.04,
+    "offset": 1982.96,
+    "lang": "en"
+  },
+  {
+    "text": "definition if we put something inside of",
+    "duration": 6.081,
+    "offset": 1986.639,
+    "lang": "en"
+  },
+  {
+    "text": "a block like this a brace enclosed block",
+    "duration": 6.799,
+    "offset": 1990,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got to use the return",
+    "duration": 7.64,
+    "offset": 1992.72,
+    "lang": "en"
+  },
+  {
+    "text": "statement okay and it says here where",
+    "duration": 4.76,
+    "offset": 1996.799,
+    "lang": "en"
+  },
+  {
+    "text": "does it say I&amp;#39;ve even put it in the",
+    "duration": 2.12,
+    "offset": 2000.36,
+    "lang": "en"
+  },
+  {
+    "text": "thing I",
+    "duration": 4.08,
+    "offset": 2001.559,
+    "lang": "en"
+  },
+  {
+    "text": "think the braces can only be emitted if",
+    "duration": 4.919,
+    "offset": 2002.48,
+    "lang": "en"
+  },
+  {
+    "text": "the function directly returns an",
+    "duration": 3.92,
+    "offset": 2005.639,
+    "lang": "en"
+  },
+  {
+    "text": "expression if the body has additional",
+    "duration": 4.041,
+    "offset": 2007.399,
+    "lang": "en"
+  },
+  {
+    "text": "lines of processing the braces are",
+    "duration": 5.36,
+    "offset": 2009.559,
+    "lang": "en"
+  },
+  {
+    "text": "required and so is the return keyword",
+    "duration": 5.76,
+    "offset": 2011.44,
+    "lang": "en"
+  },
+  {
+    "text": "Arrow functions cannot guess what or",
+    "duration": 5.161,
+    "offset": 2014.919,
+    "lang": "en"
+  },
+  {
+    "text": "when you want to return okay so let&amp;#39;s",
+    "duration": 4.56,
+    "offset": 2017.2,
+    "lang": "en"
+  },
+  {
+    "text": "just think about that and look at this",
+    "duration": 4.24,
+    "offset": 2020.08,
+    "lang": "en"
+  },
+  {
+    "text": "again so because we put this in braces",
+    "duration": 4.159,
+    "offset": 2021.76,
+    "lang": "en"
+  },
+  {
+    "text": "here we&amp;#39;ve got to use the return",
+    "duration": 3.479,
+    "offset": 2024.32,
+    "lang": "en"
+  },
+  {
+    "text": "statement but if",
+    "duration": 6.521,
+    "offset": 2025.919,
+    "lang": "en"
+  },
+  {
+    "text": "we like that right uh but if we do it",
+    "duration": 5.88,
+    "offset": 2027.799,
+    "lang": "en"
+  },
+  {
+    "text": "that",
+    "duration": 4.119,
+    "offset": 2032.44,
+    "lang": "en"
+  },
+  {
+    "text": "way no braces we don&amp;#39;t need a return",
+    "duration": 5.84,
+    "offset": 2033.679,
+    "lang": "en"
+  },
+  {
+    "text": "statement basic the valuation of that",
+    "duration": 7.641,
+    "offset": 2036.559,
+    "lang": "en"
+  },
+  {
+    "text": "expression is the thing that&amp;#39;s returned",
+    "duration": 7.84,
+    "offset": 2039.519,
+    "lang": "en"
+  },
+  {
+    "text": "now let&amp;#39;s think about that and go back",
+    "duration": 7.479,
+    "offset": 2044.2,
+    "lang": "en"
+  },
+  {
+    "text": "to what we have here right so we&amp;#39;ve got",
+    "duration": 7.841,
+    "offset": 2047.359,
+    "lang": "en"
+  },
+  {
+    "text": "our Handler registration the on Handler",
+    "duration": 5.801,
+    "offset": 2051.679,
+    "lang": "en"
+  },
+  {
+    "text": "registration for the read event of the",
+    "duration": 6.919,
+    "offset": 2055.2,
+    "lang": "en"
+  },
+  {
+    "text": "books entity and here is",
+    "duration": 4.639,
+    "offset": 2057.48,
+    "lang": "en"
+  },
+  {
+    "text": "our function our Anonymous function",
+    "duration": 7.079,
+    "offset": 2062.32,
+    "lang": "en"
+  },
+  {
+    "text": "definition okay then there",
+    "duration": 6.56,
+    "offset": 2065.599,
+    "lang": "en"
+  },
+  {
+    "text": "is what I call the function signature I",
+    "duration": 3.881,
+    "offset": 2069.399,
+    "lang": "en"
+  },
+  {
+    "text": "don&amp;#39;t really know what that&amp;#39;s called but",
+    "duration": 3.76,
+    "offset": 2072.159,
+    "lang": "en"
+  },
+  {
+    "text": "basically the the list of",
+    "duration": 5.16,
+    "offset": 2073.28,
+    "lang": "en"
+  },
+  {
+    "text": "parameters there&amp;#39;s the fat arrow and",
+    "duration": 5,
+    "offset": 2075.919,
+    "lang": "en"
+  },
+  {
+    "text": "look we&amp;#39;ve got a",
+    "duration": 4.479,
+    "offset": 2078.44,
+    "lang": "en"
+  },
+  {
+    "text": "brace which",
+    "duration": 5.121,
+    "offset": 2080.919,
+    "lang": "en"
+  },
+  {
+    "text": "means that unless we use the return",
+    "duration": 6.041,
+    "offset": 2082.919,
+    "lang": "en"
+  },
+  {
+    "text": "statement nothing that&amp;#39;s done in here is",
+    "duration": 4.96,
+    "offset": 2086.04,
+    "lang": "en"
+  },
+  {
+    "text": "returned so we&amp;#39;re returning nothing so",
+    "duration": 3.679,
+    "offset": 2088.96,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re getting nothing here does that",
+    "duration": 3.839,
+    "offset": 2091,
+    "lang": "en"
+  },
+  {
+    "text": "make",
+    "duration": 2.2,
+    "offset": 2092.639,
+    "lang": "en"
+  },
+  {
+    "text": "sense um so Sunny says I am planning for",
+    "duration": 5.08,
+    "offset": 2095.48,
+    "lang": "en"
+  },
+  {
+    "text": "practice uh cap M but getting error in",
+    "duration": 3.839,
+    "offset": 2098.24,
+    "lang": "en"
+  },
+  {
+    "text": "both B and vs can anyone help me here to",
+    "duration": 5.44,
+    "offset": 2100.56,
+    "lang": "en"
+  },
+  {
+    "text": "fix the installation part um we Sunny",
+    "duration": 6.241,
+    "offset": 2102.079,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m sure we can but you need to supply a",
+    "duration": 3.96,
+    "offset": 2106,
+    "lang": "en"
+  },
+  {
+    "text": "little bit more information and probably",
+    "duration": 4.519,
+    "offset": 2108.32,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s better to ask that on the sap",
+    "duration": 5.76,
+    "offset": 2109.96,
+    "lang": "en"
+  },
+  {
+    "text": "Community or in LinkedIn or somewhere",
+    "duration": 5.201,
+    "offset": 2112.839,
+    "lang": "en"
+  },
+  {
+    "text": "stack Overflow wherever ask it where you",
+    "duration": 5.16,
+    "offset": 2115.72,
+    "lang": "en"
+  },
+  {
+    "text": "can supply some detail okay so Carson",
+    "duration": 6.4,
+    "offset": 2118.04,
+    "lang": "en"
+  },
+  {
+    "text": "says if you want to return a Json object",
+    "duration": 5.199,
+    "offset": 2120.88,
+    "lang": "en"
+  },
+  {
+    "text": "you can put it in curly brackets value",
+    "duration": 3.919,
+    "offset": 2124.44,
+    "lang": "en"
+  },
+  {
+    "text": "colon X yes for example that uh you need",
+    "duration": 6.321,
+    "offset": 2126.079,
+    "lang": "en"
+  },
+  {
+    "text": "to return exactly exactly I think this",
+    "duration": 5.121,
+    "offset": 2128.359,
+    "lang": "en"
+  },
+  {
+    "text": "also a",
+    "duration": 5.4,
+    "offset": 2132.4,
+    "lang": "en"
+  },
+  {
+    "text": "syntax um if I wanted to say um I wanted",
+    "duration": 8.48,
+    "offset": 2133.48,
+    "lang": "en"
+  },
+  {
+    "text": "to return an object like value x * 10",
+    "duration": 6.16,
+    "offset": 2137.8,
+    "lang": "en"
+  },
+  {
+    "text": "what Carson&amp;#39;s saying",
+    "duration": 5.32,
+    "offset": 2141.96,
+    "lang": "en"
+  },
+  {
+    "text": "here that is not really what we want but",
+    "duration": 5.56,
+    "offset": 2143.96,
+    "lang": "en"
+  },
+  {
+    "text": "I",
+    "duration": 2.24,
+    "offset": 2147.28,
+    "lang": "en"
+  },
+  {
+    "text": "think there we go if you can still have",
+    "duration": 9.121,
+    "offset": 2150.119,
+    "lang": "en"
+  },
+  {
+    "text": "a a braceless a block",
+    "duration": 6.72,
+    "offset": 2154.92,
+    "lang": "en"
+  },
+  {
+    "text": "expression but if you enclose that",
+    "duration": 4,
+    "offset": 2159.24,
+    "lang": "en"
+  },
+  {
+    "text": "expression which in this case with",
+    "duration": 4.56,
+    "offset": 2161.64,
+    "lang": "en"
+  },
+  {
+    "text": "Carson&amp;#39;s example you want to have an",
+    "duration": 5.24,
+    "offset": 2163.24,
+    "lang": "en"
+  },
+  {
+    "text": "expression which returns an object with",
+    "duration": 4.119,
+    "offset": 2166.2,
+    "lang": "en"
+  },
+  {
+    "text": "a single property the key of which is",
+    "duration": 3.68,
+    "offset": 2168.48,
+    "lang": "en"
+  },
+  {
+    "text": "value and the value of which is the X x",
+    "duration": 6.76,
+    "offset": 2170.319,
+    "lang": "en"
+  },
+  {
+    "text": "10 then you can put it in normal",
+    "duration": 7.12,
+    "offset": 2172.16,
+    "lang": "en"
+  },
+  {
+    "text": "brackets and that still works and it&amp;#39;s",
+    "duration": 5.841,
+    "offset": 2177.079,
+    "lang": "en"
+  },
+  {
+    "text": "still outside of or not in this block",
+    "duration": 5.44,
+    "offset": 2179.28,
+    "lang": "en"
+  },
+  {
+    "text": "style brace block style syntax does that",
+    "duration": 5.6,
+    "offset": 2182.92,
+    "lang": "en"
+  },
+  {
+    "text": "make sense uh so cast Andel okay oh oh",
+    "duration": 5.92,
+    "offset": 2184.72,
+    "lang": "en"
+  },
+  {
+    "text": "nice so helmet says helmet says that&amp;#39;s",
+    "duration": 3.4,
+    "offset": 2188.52,
+    "lang": "en"
+  },
+  {
+    "text": "why I love this YouTube channel we get",
+    "duration": 3.76,
+    "offset": 2190.64,
+    "lang": "en"
+  },
+  {
+    "text": "this detail information fantastic but",
+    "duration": 4.919,
+    "offset": 2191.92,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m also I&amp;#39;m also suddenly conscious ah",
+    "duration": 4.32,
+    "offset": 2194.4,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re supposed to be back to basics cap",
+    "duration": 3.24,
+    "offset": 2196.839,
+    "lang": "en"
+  },
+  {
+    "text": "but it&amp;#39;s really important right because",
+    "duration": 4.32,
+    "offset": 2198.72,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going writing a lot of we just",
+    "duration": 4.76,
+    "offset": 2200.079,
+    "lang": "en"
+  },
+  {
+    "text": "love DJ wherever he is heart oh thank",
+    "duration": 4.48,
+    "offset": 2203.04,
+    "lang": "en"
+  },
+  {
+    "text": "you Marian I love you too I love you all",
+    "duration": 6.081,
+    "offset": 2204.839,
+    "lang": "en"
+  },
+  {
+    "text": "um uh so V says DJ explains the AR",
+    "duration": 5.559,
+    "offset": 2207.52,
+    "lang": "en"
+  },
+  {
+    "text": "Expressions fantastic well I&amp;#39;m glad I&amp;#39;m",
+    "duration": 4.439,
+    "offset": 2210.92,
+    "lang": "en"
+  },
+  {
+    "text": "glad you&amp;#39;re okay with this because I",
+    "duration": 3.52,
+    "offset": 2213.079,
+    "lang": "en"
+  },
+  {
+    "text": "think it&amp;#39;s really important to",
+    "duration": 5.321,
+    "offset": 2215.359,
+    "lang": "en"
+  },
+  {
+    "text": "understand what is going on now let&amp;#39;s",
+    "duration": 7.041,
+    "offset": 2216.599,
+    "lang": "en"
+  },
+  {
+    "text": "just let&amp;#39;s just wrap this little bit of",
+    "duration": 6.439,
+    "offset": 2220.68,
+    "lang": "en"
+  },
+  {
+    "text": "a digression digression me never let&amp;#39;s",
+    "duration": 6.04,
+    "offset": 2223.64,
+    "lang": "en"
+  },
+  {
+    "text": "wrap this little bit of a digression",
+    "duration": 5.881,
+    "offset": 2227.119,
+    "lang": "en"
+  },
+  {
+    "text": "up by doing something a little bit",
+    "duration": 5.439,
+    "offset": 2229.68,
+    "lang": "en"
+  },
+  {
+    "text": "interesting hopefully let&amp;#39;s remove this",
+    "duration": 4.76,
+    "offset": 2233,
+    "lang": "en"
+  },
+  {
+    "text": "console log statement we don&amp;#39;t need",
+    "duration": 6.96,
+    "offset": 2235.119,
+    "lang": "en"
+  },
+  {
+    "text": "that it stands to reason doesn&amp;#39;t it that",
+    "duration": 6.88,
+    "offset": 2237.76,
+    "lang": "en"
+  },
+  {
+    "text": "okay if I save that it&amp;#39;s still going to",
+    "duration": 6.681,
+    "offset": 2242.079,
+    "lang": "en"
+  },
+  {
+    "text": "return an empty entity set value open",
+    "duration": 6.36,
+    "offset": 2244.64,
+    "lang": "en"
+  },
+  {
+    "text": "close brackets",
+    "duration": 6.16,
+    "offset": 2248.76,
+    "lang": "en"
+  },
+  {
+    "text": "okay but knowing what we know now let&amp;#39;s",
+    "duration": 5.04,
+    "offset": 2251,
+    "lang": "en"
+  },
+  {
+    "text": "put that on the same line for now",
+    "duration": 3.8,
+    "offset": 2254.92,
+    "lang": "en"
+  },
+  {
+    "text": "knowing what we know now if we were to",
+    "duration": 5.64,
+    "offset": 2256.04,
+    "lang": "en"
+  },
+  {
+    "text": "remove the",
+    "duration": 6.44,
+    "offset": 2258.72,
+    "lang": "en"
+  },
+  {
+    "text": "brace Block in this Anonymous function",
+    "duration": 7.08,
+    "offset": 2261.68,
+    "lang": "en"
+  },
+  {
+    "text": "definition this fat Arrow function",
+    "duration": 3.6,
+    "offset": 2265.16,
+    "lang": "en"
+  },
+  {
+    "text": "definition like",
+    "duration": 5,
+    "offset": 2269.56,
+    "lang": "en"
+  },
+  {
+    "text": "that so all I&amp;#39;ve done is remove the",
+    "duration": 6.959,
+    "offset": 2271.88,
+    "lang": "en"
+  },
+  {
+    "text": "brace which removes",
+    "duration": 4.279,
+    "offset": 2274.56,
+    "lang": "en"
+  },
+  {
+    "text": "the requirement for the return",
+    "duration": 6.84,
+    "offset": 2278.92,
+    "lang": "en"
+  },
+  {
+    "text": "keyword save that what you think is",
+    "duration": 5.24,
+    "offset": 2282.72,
+    "lang": "en"
+  },
+  {
+    "text": "going to",
+    "duration": 6.96,
+    "offset": 2285.76,
+    "lang": "en"
+  },
+  {
+    "text": "happen oh so ah okay I&amp;#39;m just I just was",
+    "duration": 6.76,
+    "offset": 2287.96,
+    "lang": "en"
+  },
+  {
+    "text": "doing the thing that I think Michael is",
+    "duration": 4.04,
+    "offset": 2292.72,
+    "lang": "en"
+  },
+  {
+    "text": "describing if I glanced at it just then",
+    "duration": 3.639,
+    "offset": 2294.72,
+    "lang": "en"
+  },
+  {
+    "text": "uh you okay what are you saying you",
+    "duration": 3.72,
+    "offset": 2296.76,
+    "lang": "en"
+  },
+  {
+    "text": "theoretically could remove the braces",
+    "duration": 3.72,
+    "offset": 2298.359,
+    "lang": "en"
+  },
+  {
+    "text": "and build a custom Handler which just",
+    "duration": 3.48,
+    "offset": 2300.48,
+    "lang": "en"
+  },
+  {
+    "text": "calls next with an implicit return",
+    "duration": 3.121,
+    "offset": 2302.079,
+    "lang": "en"
+  },
+  {
+    "text": "question is why you would need that in a",
+    "duration": 4.28,
+    "offset": 2303.96,
+    "lang": "en"
+  },
+  {
+    "text": "custom Handler Michael you are on it",
+    "duration": 5.76,
+    "offset": 2305.2,
+    "lang": "en"
+  },
+  {
+    "text": "like a car Bonet as people say somewhere",
+    "duration": 7.2,
+    "offset": 2308.24,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t know um maybe uh maybe",
+    "duration": 9.28,
+    "offset": 2310.96,
+    "lang": "en"
+  },
+  {
+    "text": "um I don&amp;#39;t know anyway so basically I",
+    "duration": 6.76,
+    "offset": 2315.44,
+    "lang": "en"
+  },
+  {
+    "text": "think what Michael is describing is",
+    "duration": 3.96,
+    "offset": 2320.24,
+    "lang": "en"
+  },
+  {
+    "text": "exactly what we&amp;#39;ve just tried here I",
+    "duration": 4.36,
+    "offset": 2322.2,
+    "lang": "en"
+  },
+  {
+    "text": "mean there&amp;#39;s no reason we would do this",
+    "duration": 5.919,
+    "offset": 2324.2,
+    "lang": "en"
+  },
+  {
+    "text": "apart from to sort of explore the juicy",
+    "duration": 5.759,
+    "offset": 2326.56,
+    "lang": "en"
+  },
+  {
+    "text": "goodness of what the heck is going on",
+    "duration": 4.48,
+    "offset": 2330.119,
+    "lang": "en"
+  },
+  {
+    "text": "here so can you understand what&amp;#39;s",
+    "duration": 5.921,
+    "offset": 2332.319,
+    "lang": "en"
+  },
+  {
+    "text": "Happening Here we are still calling next",
+    "duration": 5.961,
+    "offset": 2334.599,
+    "lang": "en"
+  },
+  {
+    "text": "that we get",
+    "duration": 4.2,
+    "offset": 2338.24,
+    "lang": "en"
+  },
+  {
+    "text": "past",
+    "duration": 5.799,
+    "offset": 2340.56,
+    "lang": "en"
+  },
+  {
+    "text": "but we&amp;#39;re calling it and returning the",
+    "duration": 7.24,
+    "offset": 2342.44,
+    "lang": "en"
+  },
+  {
+    "text": "result of calling it implicitly because",
+    "duration": 4.681,
+    "offset": 2346.359,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re not you know because we&amp;#39;re using a",
+    "duration": 5.12,
+    "offset": 2349.68,
+    "lang": "en"
+  },
+  {
+    "text": "fat Arrow syntax without braces okay",
+    "duration": 7.2,
+    "offset": 2351.04,
+    "lang": "en"
+  },
+  {
+    "text": "right right right",
+    "duration": 3.44,
+    "offset": 2354.8,
+    "lang": "en"
+  },
+  {
+    "text": "right what we could do and this is crazy",
+    "duration": 5.681,
+    "offset": 2358.599,
+    "lang": "en"
+  },
+  {
+    "text": "but um I think somebody",
+    "duration": 5.161,
+    "offset": 2361.839,
+    "lang": "en"
+  },
+  {
+    "text": "said um ah well oh Nikki lost that",
+    "duration": 4.76,
+    "offset": 2364.28,
+    "lang": "en"
+  },
+  {
+    "text": "question and it reminded",
+    "duration": 5.119,
+    "offset": 2367,
+    "lang": "en"
+  },
+  {
+    "text": "me to I&amp;#39;m going to have drunk that",
+    "duration": 7.039,
+    "offset": 2369.04,
+    "lang": "en"
+  },
+  {
+    "text": "coffee is so got some",
+    "duration": 3.96,
+    "offset": 2372.119,
+    "lang": "en"
+  },
+  {
+    "text": "water",
+    "duration": 5.48,
+    "offset": 2377.119,
+    "lang": "en"
+  },
+  {
+    "text": "okay it reminded me that just before",
+    "duration": 6.4,
+    "offset": 2378.64,
+    "lang": "en"
+  },
+  {
+    "text": "moving on because I want to I want",
+    "duration": 7.201,
+    "offset": 2382.599,
+    "lang": "en"
+  },
+  {
+    "text": "to do I want to move on to uh to the",
+    "duration": 6.44,
+    "offset": 2385.04,
+    "lang": "en"
+  },
+  {
+    "text": "maybe an after Handler and make should",
+    "duration": 4.44,
+    "offset": 2389.8,
+    "lang": "en"
+  },
+  {
+    "text": "we do some should we do some debugging",
+    "duration": 6.28,
+    "offset": 2391.48,
+    "lang": "en"
+  },
+  {
+    "text": "next just a toe in the water of",
+    "duration": 6.92,
+    "offset": 2394.24,
+    "lang": "en"
+  },
+  {
+    "text": "debugging this to see what this",
+    "duration": 5.8,
+    "offset": 2397.76,
+    "lang": "en"
+  },
+  {
+    "text": "parameter is okay to have a look what we",
+    "duration": 4.84,
+    "offset": 2401.16,
+    "lang": "en"
+  },
+  {
+    "text": "get past we could read the documentation",
+    "duration": 5.24,
+    "offset": 2403.56,
+    "lang": "en"
+  },
+  {
+    "text": "yes but we can also help",
+    "duration": 5.48,
+    "offset": 2406,
+    "lang": "en"
+  },
+  {
+    "text": "ourselves by running stuff in debug mode",
+    "duration": 5.64,
+    "offset": 2408.8,
+    "lang": "en"
+  },
+  {
+    "text": "and then looking at what we get okay let",
+    "duration": 4.08,
+    "offset": 2411.48,
+    "lang": "en"
+  },
+  {
+    "text": "me know if you want to do that or let me",
+    "duration": 2.32,
+    "offset": 2414.44,
+    "lang": "en"
+  },
+  {
+    "text": "know if you want to move on first of all",
+    "duration": 3.92,
+    "offset": 2415.56,
+    "lang": "en"
+  },
+  {
+    "text": "to the after and start playing around",
+    "duration": 5.559,
+    "offset": 2416.76,
+    "lang": "en"
+  },
+  {
+    "text": "with some data okay if you don&amp;#39;t say",
+    "duration": 3.8,
+    "offset": 2419.48,
+    "lang": "en"
+  },
+  {
+    "text": "anything then maybe we&amp;#39;ll do the",
+    "duration": 2.201,
+    "offset": 2422.319,
+    "lang": "en"
+  },
+  {
+    "text": "debugging first I don&amp;#39;t know I&amp;#39;m just",
+    "duration": 3.4,
+    "offset": 2423.28,
+    "lang": "en"
+  },
+  {
+    "text": "thinking out loud but before we do that",
+    "duration": 3.599,
+    "offset": 2424.52,
+    "lang": "en"
+  },
+  {
+    "text": "let us",
+    "duration": 3.919,
+    "offset": 2426.68,
+    "lang": "en"
+  },
+  {
+    "text": "do one more crazy",
+    "duration": 5.881,
+    "offset": 2428.119,
+    "lang": "en"
+  },
+  {
+    "text": "thing okay we",
+    "duration": 5.76,
+    "offset": 2430.599,
+    "lang": "en"
+  },
+  {
+    "text": "could return let&amp;#39;s let&amp;#39;s do this in",
+    "duration": 6.359,
+    "offset": 2434,
+    "lang": "en"
+  },
+  {
+    "text": "braces right so let&amp;#39;s do that",
+    "duration": 9.161,
+    "offset": 2436.359,
+    "lang": "en"
+  },
+  {
+    "text": "um there like that",
+    "duration": 7.841,
+    "offset": 2440.359,
+    "lang": "en"
+  },
+  {
+    "text": "return like that okay and in fact",
+    "duration": 4.319,
+    "offset": 2445.52,
+    "lang": "en"
+  },
+  {
+    "text": "because we&amp;#39;re",
+    "duration": 4.44,
+    "offset": 2448.2,
+    "lang": "en"
+  },
+  {
+    "text": "returning okay we&amp;#39;re returning something",
+    "duration": 3.841,
+    "offset": 2449.839,
+    "lang": "en"
+  },
+  {
+    "text": "what we&amp;#39;re returning is actually an",
+    "duration": 2.88,
+    "offset": 2452.64,
+    "lang": "en"
+  },
+  {
+    "text": "empty array which is basically sort of",
+    "duration": 3.96,
+    "offset": 2453.68,
+    "lang": "en"
+  },
+  {
+    "text": "going to confuse us because we get so",
+    "duration": 3.68,
+    "offset": 2455.52,
+    "lang": "en"
+  },
+  {
+    "text": "Kaza says let&amp;#39;s go for debug okay",
+    "duration": 3.24,
+    "offset": 2457.64,
+    "lang": "en"
+  },
+  {
+    "text": "perfect thank you Kaza thank you for",
+    "duration": 3.44,
+    "offset": 2459.2,
+    "lang": "en"
+  },
+  {
+    "text": "confirming that we you know because",
+    "duration": 4.16,
+    "offset": 2460.88,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re not using either this thing that",
+    "duration": 4.16,
+    "offset": 2462.64,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re not interested in or we&amp;#39;re not",
+    "duration": 6.2,
+    "offset": 2465.04,
+    "lang": "en"
+  },
+  {
+    "text": "calling next so actually what we can do",
+    "duration": 8.559,
+    "offset": 2466.8,
+    "lang": "en"
+  },
+  {
+    "text": "is go back to saying well you know yeah",
+    "duration": 5.56,
+    "offset": 2471.24,
+    "lang": "en"
+  },
+  {
+    "text": "maybe there are some things passed to",
+    "duration": 2.921,
+    "offset": 2475.359,
+    "lang": "en"
+  },
+  {
+    "text": "this callback function but we don&amp;#39;t care",
+    "duration": 2.559,
+    "offset": 2476.8,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t want to capture anything I don&amp;#39;t",
+    "duration": 3.16,
+    "offset": 2478.28,
+    "lang": "en"
+  },
+  {
+    "text": "want to specify any arguments to capture",
+    "duration": 3.801,
+    "offset": 2479.359,
+    "lang": "en"
+  },
+  {
+    "text": "those parameters that passed sorry I",
+    "duration": 2.879,
+    "offset": 2481.44,
+    "lang": "en"
+  },
+  {
+    "text": "don&amp;#39;t want to",
+    "duration": 4.72,
+    "offset": 2483.16,
+    "lang": "en"
+  },
+  {
+    "text": "specify I always think about",
+    "duration": 6.76,
+    "offset": 2484.319,
+    "lang": "en"
+  },
+  {
+    "text": "what words to use and in my brain the",
+    "duration": 5,
+    "offset": 2487.88,
+    "lang": "en"
+  },
+  {
+    "text": "things that appear",
+    "duration": 5.04,
+    "offset": 2491.079,
+    "lang": "en"
+  },
+  {
+    "text": "here those are what I call parameters",
+    "duration": 5.52,
+    "offset": 2492.88,
+    "lang": "en"
+  },
+  {
+    "text": "and the things that get passed and get",
+    "duration": 4.521,
+    "offset": 2496.119,
+    "lang": "en"
+  },
+  {
+    "text": "captured by these parameters by the",
+    "duration": 4.88,
+    "offset": 2498.4,
+    "lang": "en"
+  },
+  {
+    "text": "calling function by The Calling thing",
+    "duration": 4.679,
+    "offset": 2500.64,
+    "lang": "en"
+  },
+  {
+    "text": "are the arguments I don&amp;#39;t know maybe I&amp;#39;m",
+    "duration": 6,
+    "offset": 2503.28,
+    "lang": "en"
+  },
+  {
+    "text": "wrong but anyway so if we do that we get",
+    "duration": 7.721,
+    "offset": 2505.319,
+    "lang": "en"
+  },
+  {
+    "text": "that now we could say something",
+    "duration": 6.12,
+    "offset": 2509.28,
+    "lang": "en"
+  },
+  {
+    "text": "crazy",
+    "duration": 5.92,
+    "offset": 2513.04,
+    "lang": "en"
+  },
+  {
+    "text": "that okay now what&amp;#39;s",
+    "duration": 9,
+    "offset": 2515.4,
+    "lang": "en"
+  },
+  {
+    "text": "happened what the what the the returning",
+    "duration": 8.84,
+    "offset": 2518.96,
+    "lang": "en"
+  },
+  {
+    "text": "mechanism that then get kicks in after",
+    "duration": 5.56,
+    "offset": 2524.4,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve sort of overridden the standard",
+    "duration": 6.039,
+    "offset": 2527.8,
+    "lang": "en"
+  },
+  {
+    "text": "handling it tries to sort of turn what",
+    "duration": 6.28,
+    "offset": 2529.96,
+    "lang": "en"
+  },
+  {
+    "text": "we have supplied",
+    "duration": 8.561,
+    "offset": 2533.839,
+    "lang": "en"
+  },
+  {
+    "text": "into the the JavaScript object the Jason",
+    "duration": 8.92,
+    "offset": 2536.24,
+    "lang": "en"
+  },
+  {
+    "text": "yeah yeah the into the structure that",
+    "duration": 4.439,
+    "offset": 2542.4,
+    "lang": "en"
+  },
+  {
+    "text": "sort of represents an entity set which",
+    "duration": 5.48,
+    "offset": 2545.16,
+    "lang": "en"
+  },
+  {
+    "text": "is array of objects okay so 1 two 3 is",
+    "duration": 5.881,
+    "offset": 2546.839,
+    "lang": "en"
+  },
+  {
+    "text": "completely Bonkers why would you return",
+    "duration": 4.04,
+    "offset": 2550.64,
+    "lang": "en"
+  },
+  {
+    "text": "an array of numbers so let&amp;#39;s do this",
+    "duration": 6.04,
+    "offset": 2552.72,
+    "lang": "en"
+  },
+  {
+    "text": "okay so we could say return um just two",
+    "duration": 5.52,
+    "offset": 2554.68,
+    "lang": "en"
+  },
+  {
+    "text": "empty",
+    "duration": 4.12,
+    "offset": 2558.76,
+    "lang": "en"
+  },
+  {
+    "text": "objects and now we get two empty objects",
+    "duration": 4.08,
+    "offset": 2560.2,
+    "lang": "en"
+  },
+  {
+    "text": "and now we get it because we put some",
+    "duration": 2.719,
+    "offset": 2562.88,
+    "lang": "en"
+  },
+  {
+    "text": "empty objects there that if that makes",
+    "duration": 4.92,
+    "offset": 2564.28,
+    "lang": "en"
+  },
+  {
+    "text": "sense um so um so and let us explore the",
+    "duration": 7.041,
+    "offset": 2565.599,
+    "lang": "en"
+  },
+  {
+    "text": "woods it&amp;#39;s like let&amp;#39;s explore the woods",
+    "duration": 4.919,
+    "offset": 2569.2,
+    "lang": "en"
+  },
+  {
+    "text": "I like that I like that and let&amp;#39;s",
+    "duration": 3.24,
+    "offset": 2572.64,
+    "lang": "en"
+  },
+  {
+    "text": "explore the woods especially in",
+    "duration": 3.601,
+    "offset": 2574.119,
+    "lang": "en"
+  },
+  {
+    "text": "Philadelphia fantastic",
+    "duration": 3.92,
+    "offset": 2575.88,
+    "lang": "en"
+  },
+  {
+    "text": "um so can you see what we&amp;#39;re doing here",
+    "duration": 5.08,
+    "offset": 2577.72,
+    "lang": "en"
+  },
+  {
+    "text": "so we are",
+    "duration": 3,
+    "offset": 2579.8,
+    "lang": "en"
+  },
+  {
+    "text": "overriding the standard Handler right",
+    "duration": 6.359,
+    "offset": 2582.96,
+    "lang": "en"
+  },
+  {
+    "text": "which is different to what we probably",
+    "duration": 5.601,
+    "offset": 2585.599,
+    "lang": "en"
+  },
+  {
+    "text": "normally want to do we normally want to",
+    "duration": 4.721,
+    "offset": 2589.319,
+    "lang": "en"
+  },
+  {
+    "text": "just enhance or add bits to or modify",
+    "duration": 5.2,
+    "offset": 2591.2,
+    "lang": "en"
+  },
+  {
+    "text": "stuff as it passes through the default",
+    "duration": 4.48,
+    "offset": 2594.04,
+    "lang": "en"
+  },
+  {
+    "text": "handlers and in that case we want to use",
+    "duration": 4.959,
+    "offset": 2596.4,
+    "lang": "en"
+  },
+  {
+    "text": "a before or an after mostly an after",
+    "duration": 4.079,
+    "offset": 2598.52,
+    "lang": "en"
+  },
+  {
+    "text": "because we want to enhance the data",
+    "duration": 3.48,
+    "offset": 2601.359,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s already been received before is a",
+    "duration": 4.881,
+    "offset": 2602.599,
+    "lang": "en"
+  },
+  {
+    "text": "before Handler is more for or maybe",
+    "duration": 5.801,
+    "offset": 2604.839,
+    "lang": "en"
+  },
+  {
+    "text": "doing some specific checks to see if",
+    "duration": 4.72,
+    "offset": 2607.48,
+    "lang": "en"
+  },
+  {
+    "text": "whether the request should be handled in",
+    "duration": 2.76,
+    "offset": 2610.64,
+    "lang": "en"
+  },
+  {
+    "text": "the first place or not we&amp;#39;ll come to",
+    "duration": 2.159,
+    "offset": 2612.2,
+    "lang": "en"
+  },
+  {
+    "text": "that",
+    "duration": 3.56,
+    "offset": 2613.4,
+    "lang": "en"
+  },
+  {
+    "text": "later so we could say we could even say",
+    "duration": 6.921,
+    "offset": 2614.359,
+    "lang": "en"
+  },
+  {
+    "text": "here return you know um what&amp;#39;s the thing",
+    "duration": 6.68,
+    "offset": 2616.96,
+    "lang": "en"
+  },
+  {
+    "text": "ID uh oh tell you what let&amp;#39;s let&amp;#39;s do",
+    "duration": 5.92,
+    "offset": 2621.28,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s do this let&amp;#39;s go to there and have",
+    "duration": 6.56,
+    "offset": 2623.64,
+    "lang": "en"
+  },
+  {
+    "text": "another should I have another thing here",
+    "duration": 5.08,
+    "offset": 2627.2,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s just you know this is this is",
+    "duration": 3.919,
+    "offset": 2630.2,
+    "lang": "en"
+  },
+  {
+    "text": "especially for visas let&amp;#39;s use",
+    "duration": 3.36,
+    "offset": 2632.28,
+    "lang": "en"
+  },
+  {
+    "text": "compile",
+    "duration": 7.841,
+    "offset": 2634.119,
+    "lang": "en"
+  },
+  {
+    "text": "pile uh to yaml DB data what&amp;#39;s it called",
+    "duration": 11.12,
+    "offset": 2635.64,
+    "lang": "en"
+  },
+  {
+    "text": "DB schema. CDs okay so we can see",
+    "duration": 10,
+    "offset": 2641.96,
+    "lang": "en"
+  },
+  {
+    "text": "here that where is it um books has an ID",
+    "duration": 6.48,
+    "offset": 2646.76,
+    "lang": "en"
+  },
+  {
+    "text": "we could have just looked in the in the",
+    "duration": 3.72,
+    "offset": 2651.96,
+    "lang": "en"
+  },
+  {
+    "text": "scheme. CDs but you know that&amp;#39;s boring",
+    "duration": 4.28,
+    "offset": 2653.24,
+    "lang": "en"
+  },
+  {
+    "text": "so we can see the we&amp;#39;ve got an ID a",
+    "duration": 6.84,
+    "offset": 2655.68,
+    "lang": "en"
+  },
+  {
+    "text": "title and an author thing okay so the ID",
+    "duration": 10.079,
+    "offset": 2657.52,
+    "lang": "en"
+  },
+  {
+    "text": "is a u ID right so why don&amp;#39;t we say ID",
+    "duration": 6.839,
+    "offset": 2662.52,
+    "lang": "en"
+  },
+  {
+    "text": "um well some U ID I don&amp;#39;t know I&amp;#39;m just",
+    "duration": 3.321,
+    "offset": 2667.599,
+    "lang": "en"
+  },
+  {
+    "text": "going to make something it&amp;#39;s not U ID",
+    "duration": 2.641,
+    "offset": 2669.359,
+    "lang": "en"
+  },
+  {
+    "text": "but then",
+    "duration": 5,
+    "offset": 2670.92,
+    "lang": "en"
+  },
+  {
+    "text": "title the title and then we but we but",
+    "duration": 7.68,
+    "offset": 2672,
+    "lang": "en"
+  },
+  {
+    "text": "what we do here in terms of the let me",
+    "duration": 5.48,
+    "offset": 2675.92,
+    "lang": "en"
+  },
+  {
+    "text": "that there in terms of what we need to",
+    "duration": 4.28,
+    "offset": 2679.68,
+    "lang": "en"
+  },
+  {
+    "text": "think about in terms of the entity set",
+    "duration": 4.88,
+    "offset": 2681.4,
+    "lang": "en"
+  },
+  {
+    "text": "the entity set that you know that we&amp;#39;re",
+    "duration": 4.599,
+    "offset": 2683.96,
+    "lang": "en"
+  },
+  {
+    "text": "returning data for is at the service",
+    "duration": 4.16,
+    "offset": 2686.28,
+    "lang": "en"
+  },
+  {
+    "text": "level not at the schema level so let&amp;#39;s",
+    "duration": 3.641,
+    "offset": 2688.559,
+    "lang": "en"
+  },
+  {
+    "text": "have a look at the",
+    "duration": 5.399,
+    "offset": 2690.44,
+    "lang": "en"
+  },
+  {
+    "text": "serve there and here we see um where is",
+    "duration": 5.84,
+    "offset": 2692.2,
+    "lang": "en"
+  },
+  {
+    "text": "it uh let&amp;#39;s have look it&amp;#39;s quite hard to",
+    "duration": 3.921,
+    "offset": 2695.839,
+    "lang": "en"
+  },
+  {
+    "text": "see in",
+    "duration": 4.72,
+    "offset": 2698.04,
+    "lang": "en"
+  },
+  {
+    "text": "um tell you",
+    "duration": 5.68,
+    "offset": 2699.76,
+    "lang": "en"
+  },
+  {
+    "text": "what let&amp;#39;s do it let&amp;#39;s no let&amp;#39;s not do",
+    "duration": 4.72,
+    "offset": 2702.76,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s not do it there let&amp;#39;s do it let&amp;#39;s",
+    "duration": 3.72,
+    "offset": 2705.44,
+    "lang": "en"
+  },
+  {
+    "text": "get rid of that for a second and let&amp;#39;s",
+    "duration": 5.639,
+    "offset": 2707.48,
+    "lang": "en"
+  },
+  {
+    "text": "go here and open up um main.",
+    "duration": 6.6,
+    "offset": 2709.16,
+    "lang": "en"
+  },
+  {
+    "text": "CDs and then use this thing which is you",
+    "duration": 4.361,
+    "offset": 2713.119,
+    "lang": "en"
+  },
+  {
+    "text": "know part of the previous",
+    "duration": 4,
+    "offset": 2715.76,
+    "lang": "en"
+  },
+  {
+    "text": "release why is it gone to edmx I don&amp;#39;t",
+    "duration": 5.119,
+    "offset": 2717.48,
+    "lang": "en"
+  },
+  {
+    "text": "know um use a",
+    "duration": 6.64,
+    "offset": 2719.76,
+    "lang": "en"
+  },
+  {
+    "text": "yaml close that and have a look at",
+    "duration": 5.641,
+    "offset": 2722.599,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop dot where is it where is it",
+    "duration": 5.04,
+    "offset": 2726.4,
+    "lang": "en"
+  },
+  {
+    "text": "where is it Bookshop or qro authors uh",
+    "duration": 5.119,
+    "offset": 2728.24,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop orders Bookshop Bookshop",
+    "duration": 4.96,
+    "offset": 2731.44,
+    "lang": "en"
+  },
+  {
+    "text": "authors Bookshop books there we go we",
+    "duration": 5.641,
+    "offset": 2733.359,
+    "lang": "en"
+  },
+  {
+    "text": "got their ID title author and we could",
+    "duration": 5.64,
+    "offset": 2736.4,
+    "lang": "en"
+  },
+  {
+    "text": "also say for example here preview as",
+    "duration": 7.48,
+    "offset": 2739,
+    "lang": "en"
+  },
+  {
+    "text": "sequel there we go so we&amp;#39;ve got here um",
+    "duration": 7.92,
+    "offset": 2742.04,
+    "lang": "en"
+  },
+  {
+    "text": "books Bookshop books ID title author ID",
+    "duration": 5.639,
+    "offset": 2746.48,
+    "lang": "en"
+  },
+  {
+    "text": "so let&amp;#39;s return that okay let&amp;#39;s do that",
+    "duration": 4.48,
+    "offset": 2749.96,
+    "lang": "en"
+  },
+  {
+    "text": "so let&amp;#39;s return that and say title and",
+    "duration": 3.521,
+    "offset": 2752.119,
+    "lang": "en"
+  },
+  {
+    "text": "then",
+    "duration": 5.399,
+    "offset": 2754.44,
+    "lang": "en"
+  },
+  {
+    "text": "author ID d 2 no I&amp;#39;m just making things",
+    "duration": 6.16,
+    "offset": 2755.64,
+    "lang": "en"
+  },
+  {
+    "text": "up right let&amp;#39;s do that this is",
+    "duration": 4.72,
+    "offset": 2759.839,
+    "lang": "en"
+  },
+  {
+    "text": "completely crazy but we don&amp;#39;t learn this",
+    "duration": 5.279,
+    "offset": 2761.8,
+    "lang": "en"
+  },
+  {
+    "text": "without trying things",
+    "duration": 7.081,
+    "offset": 2764.559,
+    "lang": "en"
+  },
+  {
+    "text": "right so there we sort of get an idea of",
+    "duration": 6.721,
+    "offset": 2767.079,
+    "lang": "en"
+  },
+  {
+    "text": "you know we would&amp;#39;t do this for real but",
+    "duration": 4.36,
+    "offset": 2771.64,
+    "lang": "en"
+  },
+  {
+    "text": "we can sort of see this the thing that",
+    "duration": 5.72,
+    "offset": 2773.8,
+    "lang": "en"
+  },
+  {
+    "text": "we have to return if we were if we are",
+    "duration": 6.079,
+    "offset": 2776,
+    "lang": "en"
+  },
+  {
+    "text": "going to handle this and in fact here&amp;#39;s",
+    "duration": 4.64,
+    "offset": 2779.52,
+    "lang": "en"
+  },
+  {
+    "text": "a really cool thing how do we generate a",
+    "duration": 4.601,
+    "offset": 2782.079,
+    "lang": "en"
+  },
+  {
+    "text": "uu ID if we wanted to you know if we",
+    "duration": 4.199,
+    "offset": 2784.16,
+    "lang": "en"
+  },
+  {
+    "text": "wanted to generate you VI ID that&amp;#39;s",
+    "duration": 4.04,
+    "offset": 2786.68,
+    "lang": "en"
+  },
+  {
+    "text": "quite interesting I think um let&amp;#39;s just",
+    "duration": 4.841,
+    "offset": 2788.359,
+    "lang": "en"
+  },
+  {
+    "text": "do that for example oh let&amp;#39;s format it",
+    "duration": 4.48,
+    "offset": 2790.72,
+    "lang": "en"
+  },
+  {
+    "text": "there we go perfect",
+    "duration": 4.08,
+    "offset": 2793.2,
+    "lang": "en"
+  },
+  {
+    "text": "I uh save",
+    "duration": 5.68,
+    "offset": 2795.2,
+    "lang": "en"
+  },
+  {
+    "text": "that uh",
+    "duration": 3.6,
+    "offset": 2797.28,
+    "lang": "en"
+  },
+  {
+    "text": "for",
+    "duration": 5.68,
+    "offset": 2801.52,
+    "lang": "en"
+  },
+  {
+    "text": "format let&amp;#39;s just do",
+    "duration": 4,
+    "offset": 2803.2,
+    "lang": "en"
+  },
+  {
+    "text": "H let&amp;#39;s just have some space here for",
+    "duration": 6.041,
+    "offset": 2807.599,
+    "lang": "en"
+  },
+  {
+    "text": "there we go there we",
+    "duration": 2.68,
+    "offset": 2810.96,
+    "lang": "en"
+  },
+  {
+    "text": "go check it out crypto I think we use",
+    "duration": 7.639,
+    "offset": 2813.72,
+    "lang": "en"
+  },
+  {
+    "text": "this I get go random crypto",
+    "duration": 7.479,
+    "offset": 2817.64,
+    "lang": "en"
+  },
+  {
+    "text": "dot random U ID I found this out because",
+    "duration": 5.361,
+    "offset": 2821.359,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;ve got",
+    "duration": 4.921,
+    "offset": 2825.119,
+    "lang": "en"
+  },
+  {
+    "text": "somewhere uh Vic U",
+    "duration": 6.359,
+    "offset": 2826.72,
+    "lang": "en"
+  },
+  {
+    "text": "ID there we go I wanted to write have a",
+    "duration": 6.24,
+    "offset": 2830.04,
+    "lang": "en"
+  },
+  {
+    "text": "little uh a little um script which would",
+    "duration": 5.361,
+    "offset": 2833.079,
+    "lang": "en"
+  },
+  {
+    "text": "generate me uu IDs and we&amp;#39;ve used this",
+    "duration": 4.72,
+    "offset": 2836.28,
+    "lang": "en"
+  },
+  {
+    "text": "in a previous episode and the way I get",
+    "duration": 5.159,
+    "offset": 2838.44,
+    "lang": "en"
+  },
+  {
+    "text": "that to work is I just use node and I",
+    "duration": 4.28,
+    "offset": 2841,
+    "lang": "en"
+  },
+  {
+    "text": "use this crypto Library which is",
+    "duration": 3.881,
+    "offset": 2843.599,
+    "lang": "en"
+  },
+  {
+    "text": "standard you don&amp;#39;t have to you know",
+    "duration": 4.039,
+    "offset": 2845.28,
+    "lang": "en"
+  },
+  {
+    "text": "install it with mpm or anything and you",
+    "duration": 4.76,
+    "offset": 2847.48,
+    "lang": "en"
+  },
+  {
+    "text": "get that so it&amp;#39;s quite cool um so we can",
+    "duration": 6.121,
+    "offset": 2849.319,
+    "lang": "en"
+  },
+  {
+    "text": "say that do that there crypto random uid",
+    "duration": 4.44,
+    "offset": 2852.24,
+    "lang": "en"
+  },
+  {
+    "text": "save",
+    "duration": 5.56,
+    "offset": 2855.44,
+    "lang": "en"
+  },
+  {
+    "text": "that there we go we get uu ID but and",
+    "duration": 6.48,
+    "offset": 2856.68,
+    "lang": "en"
+  },
+  {
+    "text": "this is a little bit of a opening a door",
+    "duration": 4.119,
+    "offset": 2861,
+    "lang": "en"
+  },
+  {
+    "text": "as we&amp;#39;re going on Cor to say hey look in",
+    "duration": 4.159,
+    "offset": 2863.16,
+    "lang": "en"
+  },
+  {
+    "text": "there it&amp;#39;s quite quite cool we&amp;#39;re just",
+    "duration": 3.801,
+    "offset": 2865.119,
+    "lang": "en"
+  },
+  {
+    "text": "going to sort of you know do that in",
+    "duration": 4,
+    "offset": 2867.319,
+    "lang": "en"
+  },
+  {
+    "text": "passing check this",
+    "duration": 6,
+    "offset": 2868.92,
+    "lang": "en"
+  },
+  {
+    "text": "out CDs we&amp;#39;ve already got the CDs",
+    "duration": 6.961,
+    "offset": 2871.319,
+    "lang": "en"
+  },
+  {
+    "text": "constant here as a facade CDs s",
+    "duration": 6.159,
+    "offset": 2874.92,
+    "lang": "en"
+  },
+  {
+    "text": "utils",
+    "duration": 4.64,
+    "offset": 2878.28,
+    "lang": "en"
+  },
+  {
+    "text": "dot",
+    "duration": 5.401,
+    "offset": 2881.079,
+    "lang": "en"
+  },
+  {
+    "text": "uid check it",
+    "duration": 3.56,
+    "offset": 2882.92,
+    "lang": "en"
+  },
+  {
+    "text": "out so that&amp;#39;s just a little Glimpse",
+    "duration": 4.84,
+    "offset": 2888.04,
+    "lang": "en"
+  },
+  {
+    "text": "through the door of some amazing sort of",
+    "duration": 4.76,
+    "offset": 2890.52,
+    "lang": "en"
+  },
+  {
+    "text": "utility functions that we might want to",
+    "duration": 4.4,
+    "offset": 2892.88,
+    "lang": "en"
+  },
+  {
+    "text": "probably want to use when we",
+    "duration": 6,
+    "offset": 2895.28,
+    "lang": "en"
+  },
+  {
+    "text": "start developing a lot more custom stuff",
+    "duration": 7.64,
+    "offset": 2897.28,
+    "lang": "en"
+  },
+  {
+    "text": "okay anyway time&amp;#39;s 8:47 what is going on",
+    "duration": 5.2,
+    "offset": 2901.28,
+    "lang": "en"
+  },
+  {
+    "text": "right let&amp;#39;s do some debugging let&amp;#39;s do",
+    "duration": 2.6,
+    "offset": 2904.92,
+    "lang": "en"
+  },
+  {
+    "text": "some",
+    "duration": 3.96,
+    "offset": 2906.48,
+    "lang": "en"
+  },
+  {
+    "text": "debugging and what we&amp;#39;ll say here is",
+    "duration": 4.88,
+    "offset": 2907.52,
+    "lang": "en"
+  },
+  {
+    "text": "before we do anything else ah no we just",
+    "duration": 3.399,
+    "offset": 2910.44,
+    "lang": "en"
+  },
+  {
+    "text": "leave that there cuz it&amp;#39;s crazy it&amp;#39;s",
+    "duration": 3.28,
+    "offset": 2912.4,
+    "lang": "en"
+  },
+  {
+    "text": "stupid so let&amp;#39;s leave that there and go",
+    "duration": 3.641,
+    "offset": 2913.839,
+    "lang": "en"
+  },
+  {
+    "text": "back here and",
+    "duration": 7.28,
+    "offset": 2915.68,
+    "lang": "en"
+  },
+  {
+    "text": "say um a well if we were if we were&amp;#39;s",
+    "duration": 6.92,
+    "offset": 2917.48,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s yeah we got we got",
+    "duration": 4.44,
+    "offset": 2922.96,
+    "lang": "en"
+  },
+  {
+    "text": "time why don&amp;#39;t",
+    "duration": 6.76,
+    "offset": 2924.4,
+    "lang": "en"
+  },
+  {
+    "text": "we why don&amp;#39;t we say that have a scenario",
+    "duration": 5.679,
+    "offset": 2927.4,
+    "lang": "en"
+  },
+  {
+    "text": "where we say well we&amp;#39;ve got absolutely",
+    "duration": 3.36,
+    "offset": 2931.16,
+    "lang": "en"
+  },
+  {
+    "text": "no",
+    "duration": 4.841,
+    "offset": 2933.079,
+    "lang": "en"
+  },
+  {
+    "text": "idea what is going to get past how many",
+    "duration": 5.16,
+    "offset": 2934.52,
+    "lang": "en"
+  },
+  {
+    "text": "how many parameters I need to specify",
+    "duration": 4.6,
+    "offset": 2937.92,
+    "lang": "en"
+  },
+  {
+    "text": "you know we know we know that we need to",
+    "duration": 6.32,
+    "offset": 2939.68,
+    "lang": "en"
+  },
+  {
+    "text": "specify a parameter to capture the",
+    "duration": 6.039,
+    "offset": 2942.52,
+    "lang": "en"
+  },
+  {
+    "text": "incoming request and maybe use that to",
+    "duration": 6.04,
+    "offset": 2946,
+    "lang": "en"
+  },
+  {
+    "text": "work out how to you know how to um",
+    "duration": 5.161,
+    "offset": 2948.559,
+    "lang": "en"
+  },
+  {
+    "text": "Implement a custom Handler for that",
+    "duration": 4.039,
+    "offset": 2952.04,
+    "lang": "en"
+  },
+  {
+    "text": "request and return some data and we also",
+    "duration": 4.639,
+    "offset": 2953.72,
+    "lang": "en"
+  },
+  {
+    "text": "get this next function okay so those two",
+    "duration": 4.081,
+    "offset": 2956.079,
+    "lang": "en"
+  },
+  {
+    "text": "things we know but let&amp;#39;s say we didn&amp;#39;t",
+    "duration": 4.601,
+    "offset": 2958.359,
+    "lang": "en"
+  },
+  {
+    "text": "know how would you do it the way I would",
+    "duration": 5.24,
+    "offset": 2960.16,
+    "lang": "en"
+  },
+  {
+    "text": "do it is",
+    "duration": 5.839,
+    "offset": 2962.96,
+    "lang": "en"
+  },
+  {
+    "text": "using um I think this talking of the S6",
+    "duration": 4.959,
+    "offset": 2965.4,
+    "lang": "en"
+  },
+  {
+    "text": "I think this came in with the S6 as well",
+    "duration": 3.56,
+    "offset": 2968.799,
+    "lang": "en"
+  },
+  {
+    "text": "let me know in the comments if it",
+    "duration": 6.081,
+    "offset": 2970.359,
+    "lang": "en"
+  },
+  {
+    "text": "did the um the rest",
+    "duration": 6.281,
+    "offset": 2972.359,
+    "lang": "en"
+  },
+  {
+    "text": "operator sorry that was a bit crazy that",
+    "duration": 4.72,
+    "offset": 2976.44,
+    "lang": "en"
+  },
+  {
+    "text": "was because I&amp;#39;m in um normal mode the",
+    "duration": 3.959,
+    "offset": 2978.64,
+    "lang": "en"
+  },
+  {
+    "text": "rest",
+    "duration": 3.8,
+    "offset": 2981.16,
+    "lang": "en"
+  },
+  {
+    "text": "operator and then we&amp;#39;ll have something",
+    "duration": 4.48,
+    "offset": 2982.599,
+    "lang": "en"
+  },
+  {
+    "text": "like",
+    "duration": 5.359,
+    "offset": 2984.96,
+    "lang": "en"
+  },
+  {
+    "text": "things right so it doesn&amp;#39;t matter what",
+    "duration": 6.561,
+    "offset": 2987.079,
+    "lang": "en"
+  },
+  {
+    "text": "what it&amp;#39;s called now um by convention a",
+    "duration": 4.441,
+    "offset": 2990.319,
+    "lang": "en"
+  },
+  {
+    "text": "lot of people when they&amp;#39;re using the",
+    "duration": 3.52,
+    "offset": 2993.64,
+    "lang": "en"
+  },
+  {
+    "text": "rest operator like this they the",
+    "duration": 5.039,
+    "offset": 2994.76,
+    "lang": "en"
+  },
+  {
+    "text": "the parameter name that they use is the",
+    "duration": 6,
+    "offset": 2997.16,
+    "lang": "en"
+  },
+  {
+    "text": "word rest and what that means is the",
+    "duration": 5.04,
+    "offset": 2999.799,
+    "lang": "en"
+  },
+  {
+    "text": "rest of the things that",
+    "duration": 4.72,
+    "offset": 3003.16,
+    "lang": "en"
+  },
+  {
+    "text": "passed okay",
+    "duration": 5.72,
+    "offset": 3004.839,
+    "lang": "en"
+  },
+  {
+    "text": "now does anybody has anybody used the",
+    "duration": 5.28,
+    "offset": 3007.88,
+    "lang": "en"
+  },
+  {
+    "text": "rest operator and also does anybody know",
+    "duration": 4.321,
+    "offset": 3010.559,
+    "lang": "en"
+  },
+  {
+    "text": "the difference between the rest operator",
+    "duration": 4.04,
+    "offset": 3013.16,
+    "lang": "en"
+  },
+  {
+    "text": "and the spread operator or the spread",
+    "duration": 4,
+    "offset": 3014.88,
+    "lang": "en"
+  },
+  {
+    "text": "syntax because it&amp;#39;s basically the same",
+    "duration": 3.32,
+    "offset": 3017.2,
+    "lang": "en"
+  },
+  {
+    "text": "thing it&amp;#39;s three dots and they sort of",
+    "duration": 3.239,
+    "offset": 3018.88,
+    "lang": "en"
+  },
+  {
+    "text": "have the equal and opposite type of",
+    "duration": 5.52,
+    "offset": 3020.52,
+    "lang": "en"
+  },
+  {
+    "text": "effect in my brain so without without",
+    "duration": 6.24,
+    "offset": 3022.119,
+    "lang": "en"
+  },
+  {
+    "text": "trying to figure out this in theory",
+    "duration": 4.44,
+    "offset": 3026.04,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s debug and do it sort of like you",
+    "duration": 5,
+    "offset": 3028.359,
+    "lang": "en"
+  },
+  {
+    "text": "know let&amp;#39;s see what&amp;#39;s going on okay so",
+    "duration": 4.68,
+    "offset": 3030.48,
+    "lang": "en"
+  },
+  {
+    "text": "this is what I would do and the rest",
+    "duration": 4,
+    "offset": 3033.359,
+    "lang": "en"
+  },
+  {
+    "text": "thing is basically saying however many",
+    "duration": 5.639,
+    "offset": 3035.16,
+    "lang": "en"
+  },
+  {
+    "text": "things are are get to me here capture",
+    "duration": 6,
+    "offset": 3037.359,
+    "lang": "en"
+  },
+  {
+    "text": "them in an array called rest so let&amp;#39;s",
+    "duration": 5.04,
+    "offset": 3040.799,
+    "lang": "en"
+  },
+  {
+    "text": "put a debug thing click to add a break",
+    "duration": 3.96,
+    "offset": 3043.359,
+    "lang": "en"
+  },
+  {
+    "text": "point because people seem to want to go",
+    "duration": 3.121,
+    "offset": 3045.839,
+    "lang": "en"
+  },
+  {
+    "text": "debugging including",
+    "duration": 4.361,
+    "offset": 3047.319,
+    "lang": "en"
+  },
+  {
+    "text": "me and how do we debug well we&amp;#39;re ring",
+    "duration": 5.56,
+    "offset": 3048.96,
+    "lang": "en"
+  },
+  {
+    "text": "vs code which has you know some great",
+    "duration": 4.04,
+    "offset": 3051.68,
+    "lang": "en"
+  },
+  {
+    "text": "support for debugging nodejs",
+    "duration": 3.36,
+    "offset": 3054.52,
+    "lang": "en"
+  },
+  {
+    "text": "applications but the magic that allows",
+    "duration": 4.599,
+    "offset": 3055.72,
+    "lang": "en"
+  },
+  {
+    "text": "us to do what we&amp;#39;re going to be doing is",
+    "duration": 4.199,
+    "offset": 3057.88,
+    "lang": "en"
+  },
+  {
+    "text": "what we get in fact let&amp;#39;s do this here",
+    "duration": 5.961,
+    "offset": 3060.319,
+    "lang": "en"
+  },
+  {
+    "text": "right if do if I say um in temp CDs in",
+    "duration": 7.681,
+    "offset": 3062.079,
+    "lang": "en"
+  },
+  {
+    "text": "it X let just call it X",
+    "duration": 6.64,
+    "offset": 3066.28,
+    "lang": "en"
+  },
+  {
+    "text": "right and go into X and if we have a",
+    "duration": 7.72,
+    "offset": 3069.76,
+    "lang": "en"
+  },
+  {
+    "text": "look what&amp;#39;s in there we get a directory",
+    "duration": 7.48,
+    "offset": 3072.92,
+    "lang": "en"
+  },
+  {
+    "text": "automatically initialized for us called",
+    "duration": 5.24,
+    "offset": 3077.48,
+    "lang": "en"
+  },
+  {
+    "text": "dot vs code and that&amp;#39;s a magic directory",
+    "duration": 4.24,
+    "offset": 3080.4,
+    "lang": "en"
+  },
+  {
+    "text": "name that vs code recognizes obviously",
+    "duration": 4.44,
+    "offset": 3082.72,
+    "lang": "en"
+  },
+  {
+    "text": "right and inside of there",
+    "duration": 4.12,
+    "offset": 3084.64,
+    "lang": "en"
+  },
+  {
+    "text": "we",
+    "duration": 5.639,
+    "offset": 3087.16,
+    "lang": "en"
+  },
+  {
+    "text": "get a a launch configuration okay and",
+    "duration": 6.079,
+    "offset": 3088.76,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s these launch configurations it&amp;#39;s",
+    "duration": 4.641,
+    "offset": 3092.799,
+    "lang": "en"
+  },
+  {
+    "text": "like a vs code thing that allows us to",
+    "duration": 5.76,
+    "offset": 3094.839,
+    "lang": "en"
+  },
+  {
+    "text": "launch or start running start executing",
+    "duration": 5.72,
+    "offset": 3097.44,
+    "lang": "en"
+  },
+  {
+    "text": "stuff in different ways in different",
+    "duration": 3.96,
+    "offset": 3100.599,
+    "lang": "en"
+  },
+  {
+    "text": "modes now we&amp;#39;re not going to go into",
+    "duration": 4.679,
+    "offset": 3103.16,
+    "lang": "en"
+  },
+  {
+    "text": "that how that works and everything",
+    "duration": 6.361,
+    "offset": 3104.559,
+    "lang": "en"
+  },
+  {
+    "text": "however the upshot of that means that",
+    "duration": 5.28,
+    "offset": 3107.839,
+    "lang": "en"
+  },
+  {
+    "text": "because we&amp;#39;ve got this vs code vs code",
+    "duration": 4.8,
+    "offset": 3110.92,
+    "lang": "en"
+  },
+  {
+    "text": "directory in our project here vs code is",
+    "duration": 4.841,
+    "offset": 3113.119,
+    "lang": "en"
+  },
+  {
+    "text": "already",
+    "duration": 4.56,
+    "offset": 3115.72,
+    "lang": "en"
+  },
+  {
+    "text": "for us to say oh I would like to go to",
+    "duration": 5.879,
+    "offset": 3117.96,
+    "lang": "en"
+  },
+  {
+    "text": "the run and debug what&amp;#39;s the word run",
+    "duration": 6.12,
+    "offset": 3120.28,
+    "lang": "en"
+  },
+  {
+    "text": "and debug um perspective you know I know",
+    "duration": 4.441,
+    "offset": 3123.839,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s an eclipse term but this is what I",
+    "duration": 3.919,
+    "offset": 3126.4,
+    "lang": "en"
+  },
+  {
+    "text": "call these different things here let&amp;#39;s",
+    "duration": 3.4,
+    "offset": 3128.28,
+    "lang": "en"
+  },
+  {
+    "text": "go to the run and de book perspective",
+    "duration": 3.881,
+    "offset": 3130.319,
+    "lang": "en"
+  },
+  {
+    "text": "and this CDs serve that that phrase",
+    "duration": 6.04,
+    "offset": 3131.68,
+    "lang": "en"
+  },
+  {
+    "text": "there is exactly",
+    "duration": 3.52,
+    "offset": 3134.2,
+    "lang": "en"
+  },
+  {
+    "text": "from that thing there name of",
+    "duration": 4.479,
+    "offset": 3137.88,
+    "lang": "en"
+  },
+  {
+    "text": "configuration app oh if even says look",
+    "duration": 4.12,
+    "offset": 3139.88,
+    "lang": "en"
+  },
+  {
+    "text": "appears what&amp;#39;s it say appears in the",
+    "duration": 5.561,
+    "offset": 3142.359,
+    "lang": "en"
+  },
+  {
+    "text": "launch configuration drop-down menu",
+    "duration": 8.16,
+    "offset": 3144,
+    "lang": "en"
+  },
+  {
+    "text": "right so where is it there CDs serve",
+    "duration": 5.56,
+    "offset": 3147.92,
+    "lang": "en"
+  },
+  {
+    "text": "there is the launch configuration",
+    "duration": 5.159,
+    "offset": 3152.16,
+    "lang": "en"
+  },
+  {
+    "text": "dropdown menu so let&amp;#39;s do that in fact",
+    "duration": 5.319,
+    "offset": 3153.48,
+    "lang": "en"
+  },
+  {
+    "text": "because we&amp;#39;re going to be starting to",
+    "duration": 3.441,
+    "offset": 3157.319,
+    "lang": "en"
+  },
+  {
+    "text": "serve this to run the cap server let&amp;#39;s",
+    "duration": 3.481,
+    "offset": 3158.799,
+    "lang": "en"
+  },
+  {
+    "text": "stop this cap server that we&amp;#39;re running",
+    "duration": 4.359,
+    "offset": 3160.76,
+    "lang": "en"
+  },
+  {
+    "text": "here and let&amp;#39;s let&amp;#39;s also um oh no let&amp;#39;s",
+    "duration": 4.079,
+    "offset": 3162.28,
+    "lang": "en"
+  },
+  {
+    "text": "leave that running right let&amp;#39;s leave",
+    "duration": 3.24,
+    "offset": 3165.119,
+    "lang": "en"
+  },
+  {
+    "text": "that running no let&amp;#39;s not leave that",
+    "duration": 3.361,
+    "offset": 3166.359,
+    "lang": "en"
+  },
+  {
+    "text": "running let&amp;#39;s get rid of that let&amp;#39;s just",
+    "duration": 3.44,
+    "offset": 3168.359,
+    "lang": "en"
+  },
+  {
+    "text": "nice and clean",
+    "duration": 4.32,
+    "offset": 3169.72,
+    "lang": "en"
+  },
+  {
+    "text": "okay have we saved that no we haven&amp;#39;t",
+    "duration": 4.76,
+    "offset": 3171.799,
+    "lang": "en"
+  },
+  {
+    "text": "saved that yet let&amp;#39;s save that and now",
+    "duration": 5.96,
+    "offset": 3174.04,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s start",
+    "duration": 3.441,
+    "offset": 3176.559,
+    "lang": "en"
+  },
+  {
+    "text": "running check it out check it out we get",
+    "duration": 6.52,
+    "offset": 3180.68,
+    "lang": "en"
+  },
+  {
+    "text": "all sorts of crazy stuff here we&amp;#39;re not",
+    "duration": 3.52,
+    "offset": 3185.2,
+    "lang": "en"
+  },
+  {
+    "text": "going to look at this right now because",
+    "duration": 3.119,
+    "offset": 3187.2,
+    "lang": "en"
+  },
+  {
+    "text": "there&amp;#39;s a million things to look at it&amp;#39;s",
+    "duration": 2.92,
+    "offset": 3188.72,
+    "lang": "en"
+  },
+  {
+    "text": "a little bit",
+    "duration": 6.081,
+    "offset": 3190.319,
+    "lang": "en"
+  },
+  {
+    "text": "like so instead let&amp;#39;s put a break point",
+    "duration": 6.12,
+    "offset": 3191.64,
+    "lang": "en"
+  },
+  {
+    "text": "not here I didn&amp;#39;t mean to put it there",
+    "duration": 3.76,
+    "offset": 3196.4,
+    "lang": "en"
+  },
+  {
+    "text": "actually I I meant to put it here in",
+    "duration": 4.72,
+    "offset": 3197.76,
+    "lang": "en"
+  },
+  {
+    "text": "fact in fact let&amp;#39;s stop it let&amp;#39;s let&amp;#39;s",
+    "duration": 4.679,
+    "offset": 3200.16,
+    "lang": "en"
+  },
+  {
+    "text": "do it again let&amp;#39;s get rid of that and",
+    "duration": 3.68,
+    "offset": 3202.48,
+    "lang": "en"
+  },
+  {
+    "text": "put a breake point in the console log",
+    "duration": 3.881,
+    "offset": 3204.839,
+    "lang": "en"
+  },
+  {
+    "text": "first of all all",
+    "duration": 6.76,
+    "offset": 3206.16,
+    "lang": "en"
+  },
+  {
+    "text": "okay um so Mar Marian says uh I use",
+    "duration": 6,
+    "offset": 3208.72,
+    "lang": "en"
+  },
+  {
+    "text": "usually use a no debug terminal somehow",
+    "duration": 3.56,
+    "offset": 3212.92,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t like the run debug from vs code",
+    "duration": 3.2,
+    "offset": 3214.72,
+    "lang": "en"
+  },
+  {
+    "text": "yeah I I know what you mean I know what",
+    "duration": 4.68,
+    "offset": 3216.48,
+    "lang": "en"
+  },
+  {
+    "text": "you mean um the main reason I&amp;#39;m doing it",
+    "duration": 5.96,
+    "offset": 3217.92,
+    "lang": "en"
+  },
+  {
+    "text": "in VSS code is because you know we have",
+    "duration": 4.24,
+    "offset": 3221.16,
+    "lang": "en"
+  },
+  {
+    "text": "this facility provided to us on the",
+    "duration": 3.919,
+    "offset": 3223.88,
+    "lang": "en"
+  },
+  {
+    "text": "plate by you know the cap uh",
+    "duration": 4.6,
+    "offset": 3225.4,
+    "lang": "en"
+  },
+  {
+    "text": "initialization mechanism and you know",
+    "duration": 3.481,
+    "offset": 3227.799,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s stick with vs code for now I",
+    "duration": 2.599,
+    "offset": 3230,
+    "lang": "en"
+  },
+  {
+    "text": "actually quite like debugging used in",
+    "duration": 4.44,
+    "offset": 3231.28,
+    "lang": "en"
+  },
+  {
+    "text": "the Chrome attaching a chrome session to",
+    "duration": 6.561,
+    "offset": 3232.599,
+    "lang": "en"
+  },
+  {
+    "text": "my nodejs uh process which is quite cool",
+    "duration": 5.16,
+    "offset": 3235.72,
+    "lang": "en"
+  },
+  {
+    "text": "um another way open JavaScript debug",
+    "duration": 3.159,
+    "offset": 3239.16,
+    "lang": "en"
+  },
+  {
+    "text": "terminal in Visual Studio code and then",
+    "duration": 3.719,
+    "offset": 3240.88,
+    "lang": "en"
+  },
+  {
+    "text": "you can see you see this watch exactly",
+    "duration": 4.28,
+    "offset": 3242.319,
+    "lang": "en"
+  },
+  {
+    "text": "yeah there&amp;#39;s loads of different ways of",
+    "duration": 4.361,
+    "offset": 3244.599,
+    "lang": "en"
+  },
+  {
+    "text": "debugging but I&amp;#39;m super conscious that",
+    "duration": 3.76,
+    "offset": 3246.599,
+    "lang": "en"
+  },
+  {
+    "text": "this is a back to basic so let&amp;#39;s just",
+    "duration": 4.24,
+    "offset": 3248.96,
+    "lang": "en"
+  },
+  {
+    "text": "use the the basic tools that we get here",
+    "duration": 5,
+    "offset": 3250.359,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s right so I put a debug statement",
+    "duration": 3.919,
+    "offset": 3253.2,
+    "lang": "en"
+  },
+  {
+    "text": "on the console log for I&amp;#39;m in the",
+    "duration": 3.561,
+    "offset": 3255.359,
+    "lang": "en"
+  },
+  {
+    "text": "anonymous function right let&amp;#39;s do that",
+    "duration": 5.68,
+    "offset": 3257.119,
+    "lang": "en"
+  },
+  {
+    "text": "first let&amp;#39;s let&amp;#39;s run that",
+    "duration": 3.879,
+    "offset": 3258.92,
+    "lang": "en"
+  },
+  {
+    "text": "again and it stops a little bit early",
+    "duration": 7.48,
+    "offset": 3263.04,
+    "lang": "en"
+  },
+  {
+    "text": "because it stopped here so we could say",
+    "duration": 5.159,
+    "offset": 3267.2,
+    "lang": "en"
+  },
+  {
+    "text": "um well there&amp;#39;s nothing really to say",
+    "duration": 3.079,
+    "offset": 3270.52,
+    "lang": "en"
+  },
+  {
+    "text": "here uh",
+    "duration": 5,
+    "offset": 3272.359,
+    "lang": "en"
+  },
+  {
+    "text": "console.log can we do that x uh XXX some",
+    "duration": 5.24,
+    "offset": 3273.599,
+    "lang": "en"
+  },
+  {
+    "text": "kisses there we go yeah you can do that",
+    "duration": 3.72,
+    "offset": 3277.359,
+    "lang": "en"
+  },
+  {
+    "text": "right fine okay but",
+    "duration": 5.72,
+    "offset": 3278.839,
+    "lang": "en"
+  },
+  {
+    "text": "now let&amp;#39;s put a debug statement sorry",
+    "duration": 5,
+    "offset": 3281.079,
+    "lang": "en"
+  },
+  {
+    "text": "not a debug statement a break point",
+    "duration": 5.121,
+    "offset": 3284.559,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s put a break point here okay and",
+    "duration": 5.601,
+    "offset": 3286.079,
+    "lang": "en"
+  },
+  {
+    "text": "then we&amp;#39;re stopped at the moment so",
+    "duration": 2.84,
+    "offset": 3289.68,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s",
+    "duration": 4.08,
+    "offset": 3291.68,
+    "lang": "en"
+  },
+  {
+    "text": "continue continue over there right and",
+    "duration": 5.76,
+    "offset": 3292.52,
+    "lang": "en"
+  },
+  {
+    "text": "so it continues the the the cap server",
+    "duration": 4.96,
+    "offset": 3295.76,
+    "lang": "en"
+  },
+  {
+    "text": "continues to start up right and it&amp;#39;s",
+    "duration": 4.12,
+    "offset": 3298.28,
+    "lang": "en"
+  },
+  {
+    "text": "ready",
+    "duration": 4.32,
+    "offset": 3300.72,
+    "lang": "en"
+  },
+  {
+    "text": "now we&amp;#39;ve not reached this this",
+    "duration": 4.28,
+    "offset": 3302.4,
+    "lang": "en"
+  },
+  {
+    "text": "breakpoint yet because we haven&amp;#39;t made a",
+    "duration": 4.6,
+    "offset": 3305.04,
+    "lang": "en"
+  },
+  {
+    "text": "call so let&amp;#39;s open the terminal and say",
+    "duration": 8.399,
+    "offset": 3306.68,
+    "lang": "en"
+  },
+  {
+    "text": "curl um Local Host",
+    "duration": 5.439,
+    "offset": 3309.64,
+    "lang": "en"
+  },
+  {
+    "text": "404 o data V4",
+    "duration": 5.72,
+    "offset": 3315.44,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop",
+    "duration": 5,
+    "offset": 3319.119,
+    "lang": "en"
+  },
+  {
+    "text": "books okay so we don&amp;#39;t get a response",
+    "duration": 4.679,
+    "offset": 3321.16,
+    "lang": "en"
+  },
+  {
+    "text": "look down there it&amp;#39;s not come back it&amp;#39;s",
+    "duration": 3.801,
+    "offset": 3324.119,
+    "lang": "en"
+  },
+  {
+    "text": "not come back that because we&amp;#39;re now",
+    "duration": 5.641,
+    "offset": 3325.839,
+    "lang": "en"
+  },
+  {
+    "text": "inside our callback function it stopped",
+    "duration": 6.119,
+    "offset": 3327.92,
+    "lang": "en"
+  },
+  {
+    "text": "on this break point so let&amp;#39;s go back to",
+    "duration": 5.24,
+    "offset": 3331.48,
+    "lang": "en"
+  },
+  {
+    "text": "the debug",
+    "duration": 5.8,
+    "offset": 3334.039,
+    "lang": "en"
+  },
+  {
+    "text": "console and we could say oh let&amp;#39;s just",
+    "duration": 5.68,
+    "offset": 3336.72,
+    "lang": "en"
+  },
+  {
+    "text": "carry on okay so that&amp;#39;s continue so that",
+    "duration": 5.2,
+    "offset": 3339.839,
+    "lang": "en"
+  },
+  {
+    "text": "would continue and continue executing",
+    "duration": 5.08,
+    "offset": 3342.4,
+    "lang": "en"
+  },
+  {
+    "text": "from where we left off however let&amp;#39;s",
+    "duration": 3.921,
+    "offset": 3345.039,
+    "lang": "en"
+  },
+  {
+    "text": "examine",
+    "duration": 5.319,
+    "offset": 3347.48,
+    "lang": "en"
+  },
+  {
+    "text": "now what is inside this rest parameter",
+    "duration": 5.839,
+    "offset": 3348.96,
+    "lang": "en"
+  },
+  {
+    "text": "we can just type in here",
+    "duration": 5.961,
+    "offset": 3352.799,
+    "lang": "en"
+  },
+  {
+    "text": "rest and we can see let&amp;#39;s make that a",
+    "duration": 8.121,
+    "offset": 3354.799,
+    "lang": "en"
+  },
+  {
+    "text": "little bit bigger yeah we can see here",
+    "duration": 6.599,
+    "offset": 3358.76,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s a little bit of a you know if",
+    "duration": 5.24,
+    "offset": 3362.92,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re you&amp;#39;re not used to it it&amp;#39;s like",
+    "duration": 4.841,
+    "offset": 3365.359,
+    "lang": "en"
+  },
+  {
+    "text": "why is why is that why is that but we",
+    "duration": 2.84,
+    "offset": 3368.16,
+    "lang": "en"
+  },
+  {
+    "text": "can",
+    "duration": 5.599,
+    "offset": 3370.2,
+    "lang": "en"
+  },
+  {
+    "text": "see that the the the debug console is",
+    "duration": 7.92,
+    "offset": 3371,
+    "lang": "en"
+  },
+  {
+    "text": "telling us that the contents of this",
+    "duration": 5.441,
+    "offset": 3375.799,
+    "lang": "en"
+  },
+  {
+    "text": "rest",
+    "duration": 6.36,
+    "offset": 3378.92,
+    "lang": "en"
+  },
+  {
+    "text": "variable is an array of two things two",
+    "duration": 5.599,
+    "offset": 3381.24,
+    "lang": "en"
+  },
+  {
+    "text": "two things and open square brackets",
+    "duration": 3.2,
+    "offset": 3385.28,
+    "lang": "en"
+  },
+  {
+    "text": "closed square brackets it&amp;#39;s an",
+    "duration": 5.041,
+    "offset": 3386.839,
+    "lang": "en"
+  },
+  {
+    "text": "array and check it out it says that the",
+    "duration": 4.839,
+    "offset": 3388.48,
+    "lang": "en"
+  },
+  {
+    "text": "first",
+    "duration": 5.719,
+    "offset": 3391.88,
+    "lang": "en"
+  },
+  {
+    "text": "thing is an instance of an OD data",
+    "duration": 6.361,
+    "offset": 3393.319,
+    "lang": "en"
+  },
+  {
+    "text": "request maybe I take back a little bit",
+    "duration": 3.48,
+    "offset": 3397.599,
+    "lang": "en"
+  },
+  {
+    "text": "what I said about classes but maybe not",
+    "duration": 4.84,
+    "offset": 3399.68,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t know no anyway let&amp;#39;s not even go",
+    "duration": 7.161,
+    "offset": 3401.079,
+    "lang": "en"
+  },
+  {
+    "text": "there and the second thing is a an",
+    "duration": 6.599,
+    "offset": 3404.52,
+    "lang": "en"
+  },
+  {
+    "text": "italic F what do you think that means an",
+    "duration": 6.559,
+    "offset": 3408.24,
+    "lang": "en"
+  },
+  {
+    "text": "F in italics that tells me",
+    "duration": 8.761,
+    "offset": 3411.119,
+    "lang": "en"
+  },
+  {
+    "text": "function expand that so we can see the",
+    "duration": 8.04,
+    "offset": 3414.799,
+    "lang": "en"
+  },
+  {
+    "text": "zeroth element in this array of the rest",
+    "duration": 6.719,
+    "offset": 3419.88,
+    "lang": "en"
+  },
+  {
+    "text": "array is an O dat request the string",
+    "duration": 6.28,
+    "offset": 3422.839,
+    "lang": "en"
+  },
+  {
+    "text": "representation of which effectively is",
+    "duration": 5.24,
+    "offset": 3426.599,
+    "lang": "en"
+  },
+  {
+    "text": "read Bookshop do",
+    "duration": 7.281,
+    "offset": 3429.119,
+    "lang": "en"
+  },
+  {
+    "text": "books okay and the second thing is an",
+    "duration": 6.96,
+    "offset": 3431.839,
+    "lang": "en"
+  },
+  {
+    "text": "asynchronous",
+    "duration": 5.48,
+    "offset": 3436.4,
+    "lang": "en"
+  },
+  {
+    "text": "function basically that&amp;#39;s this thing",
+    "duration": 6.8,
+    "offset": 3438.799,
+    "lang": "en"
+  },
+  {
+    "text": "here right right and the asynchronous",
+    "duration": 6.04,
+    "offset": 3441.88,
+    "lang": "en"
+  },
+  {
+    "text": "function is sorry not this thing here",
+    "duration": 4.76,
+    "offset": 3445.599,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s the it&amp;#39;s the next function that we",
+    "duration": 4.48,
+    "offset": 3447.92,
+    "lang": "en"
+  },
+  {
+    "text": "could and we have been calling to say",
+    "duration": 4.72,
+    "offset": 3450.359,
+    "lang": "en"
+  },
+  {
+    "text": "just do the normal thing right does that",
+    "duration": 6.28,
+    "offset": 3452.4,
+    "lang": "en"
+  },
+  {
+    "text": "make sense so we can see just by using",
+    "duration": 5.681,
+    "offset": 3455.079,
+    "lang": "en"
+  },
+  {
+    "text": "the the rest operator which is this",
+    "duration": 4.879,
+    "offset": 3458.68,
+    "lang": "en"
+  },
+  {
+    "text": "thing here you know and just saying",
+    "duration": 5.2,
+    "offset": 3460.76,
+    "lang": "en"
+  },
+  {
+    "text": "anything that get past in fact let&amp;#39;s",
+    "duration": 5.121,
+    "offset": 3463.559,
+    "lang": "en"
+  },
+  {
+    "text": "there there there&amp;#39;s 856 oh my goodness",
+    "duration": 4.32,
+    "offset": 3465.96,
+    "lang": "en"
+  },
+  {
+    "text": "me let&amp;#39;s understand what this rest",
+    "duration": 6.119,
+    "offset": 3468.68,
+    "lang": "en"
+  },
+  {
+    "text": "operator does um let&amp;#39;s let&amp;#39;s continue",
+    "duration": 6.559,
+    "offset": 3470.28,
+    "lang": "en"
+  },
+  {
+    "text": "first of all so we can see we get the",
+    "duration": 4.601,
+    "offset": 3474.799,
+    "lang": "en"
+  },
+  {
+    "text": "output there there&amp;#39;s the output but",
+    "duration": 5.2,
+    "offset": 3476.839,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s stop it again right let&amp;#39;s stop it",
+    "duration": 6.52,
+    "offset": 3479.4,
+    "lang": "en"
+  },
+  {
+    "text": "make it a bit smaller again no small and",
+    "duration": 5.601,
+    "offset": 3482.039,
+    "lang": "en"
+  },
+  {
+    "text": "if we say okay well all right let&amp;#39;s",
+    "duration": 4.72,
+    "offset": 3485.92,
+    "lang": "en"
+  },
+  {
+    "text": "capture the request",
+    "duration": 6.84,
+    "offset": 3487.64,
+    "lang": "en"
+  },
+  {
+    "text": "oops and then whatever else I get sent",
+    "duration": 6.04,
+    "offset": 3490.64,
+    "lang": "en"
+  },
+  {
+    "text": "now let&amp;#39;s put that into the into this",
+    "duration": 4.76,
+    "offset": 3494.48,
+    "lang": "en"
+  },
+  {
+    "text": "rest variable uh or let&amp;#39;s again let&amp;#39;s",
+    "duration": 5.84,
+    "offset": 3496.68,
+    "lang": "en"
+  },
+  {
+    "text": "call it something else like other stuff",
+    "duration": 8.28,
+    "offset": 3499.24,
+    "lang": "en"
+  },
+  {
+    "text": "right save that and now run it again",
+    "duration": 6.96,
+    "offset": 3502.52,
+    "lang": "en"
+  },
+  {
+    "text": "what&amp;#39;s going on oh yeah there we go it&amp;#39;s",
+    "duration": 4.599,
+    "offset": 3507.52,
+    "lang": "en"
+  },
+  {
+    "text": "are we running yes we&amp;#39;re running um and",
+    "duration": 3.8,
+    "offset": 3509.48,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s get rid of that break point we",
+    "duration": 2.321,
+    "offset": 3512.119,
+    "lang": "en"
+  },
+  {
+    "text": "don&amp;#39;t don&amp;#39;t that break point let&amp;#39;s",
+    "duration": 3.319,
+    "offset": 3513.28,
+    "lang": "en"
+  },
+  {
+    "text": "continue and then we&amp;#39;ll ask for a",
+    "duration": 4.32,
+    "offset": 3514.44,
+    "lang": "en"
+  },
+  {
+    "text": "request again oh connection refuse what",
+    "duration": 6.921,
+    "offset": 3516.599,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re doing pause what&amp;#39;s going on De",
+    "duration": 6.44,
+    "offset": 3518.76,
+    "lang": "en"
+  },
+  {
+    "text": "console",
+    "duration": 3.64,
+    "offset": 3523.52,
+    "lang": "en"
+  },
+  {
+    "text": "terminal there we go fine that was a bit",
+    "duration": 5.72,
+    "offset": 3525.2,
+    "lang": "en"
+  },
+  {
+    "text": "too early right there so now request is",
+    "duration": 5.399,
+    "offset": 3527.16,
+    "lang": "en"
+  },
+  {
+    "text": "this read thing here so we can go into",
+    "duration": 5.439,
+    "offset": 3530.92,
+    "lang": "en"
+  },
+  {
+    "text": "the debug console R is that thing read",
+    "duration": 6.121,
+    "offset": 3532.559,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop books we&amp;#39;ll look into more next",
+    "duration": 6.24,
+    "offset": 3536.359,
+    "lang": "en"
+  },
+  {
+    "text": "time what that is it&amp;#39;s crazy good right",
+    "duration": 6.52,
+    "offset": 3538.68,
+    "lang": "en"
+  },
+  {
+    "text": "is that even English uh but also then we",
+    "duration": 6.121,
+    "offset": 3542.599,
+    "lang": "en"
+  },
+  {
+    "text": "have other stuff right so other",
+    "duration": 6.8,
+    "offset": 3545.2,
+    "lang": "en"
+  },
+  {
+    "text": "stuff is now just an array with one",
+    "duration": 5.079,
+    "offset": 3548.72,
+    "lang": "en"
+  },
+  {
+    "text": "thing because it&amp;#39;s just the rest of the",
+    "duration": 4.24,
+    "offset": 3552,
+    "lang": "en"
+  },
+  {
+    "text": "stuff right and that&amp;#39;s that function",
+    "duration": 5.681,
+    "offset": 3553.799,
+    "lang": "en"
+  },
+  {
+    "text": "that next function that we get past",
+    "duration": 6.599,
+    "offset": 3556.24,
+    "lang": "en"
+  },
+  {
+    "text": "right so that&amp;#39;s how we find out what we",
+    "duration": 6,
+    "offset": 3559.48,
+    "lang": "en"
+  },
+  {
+    "text": "get past and going back to the um",
+    "duration": 5.76,
+    "offset": 3562.839,
+    "lang": "en"
+  },
+  {
+    "text": "something related to what nickel asked",
+    "duration": 6.76,
+    "offset": 3565.48,
+    "lang": "en"
+  },
+  {
+    "text": "before in an anonymous function that&amp;#39;s",
+    "duration": 6.601,
+    "offset": 3568.599,
+    "lang": "en"
+  },
+  {
+    "text": "registered as an on Handler for in this",
+    "duration": 5.92,
+    "offset": 3572.24,
+    "lang": "en"
+  },
+  {
+    "text": "case a read request of the books entity",
+    "duration": 5.919,
+    "offset": 3575.2,
+    "lang": "en"
+  },
+  {
+    "text": "we don&amp;#39;t get any data passed in because",
+    "duration": 7.24,
+    "offset": 3578.16,
+    "lang": "en"
+  },
+  {
+    "text": "of course it&amp;#39;s an on Handler so it&amp;#39;s our",
+    "duration": 8.24,
+    "offset": 3581.119,
+    "lang": "en"
+  },
+  {
+    "text": "um our uh responsibility to",
+    "duration": 6.679,
+    "offset": 3585.4,
+    "lang": "en"
+  },
+  {
+    "text": "actually do whatever we need to do to",
+    "duration": 4.521,
+    "offset": 3589.359,
+    "lang": "en"
+  },
+  {
+    "text": "return the data to generate the data",
+    "duration": 2.801,
+    "offset": 3592.079,
+    "lang": "en"
+  },
+  {
+    "text": "which is what we&amp;#39;re doing here in a",
+    "duration": 2.919,
+    "offset": 3593.88,
+    "lang": "en"
+  },
+  {
+    "text": "really stupid way",
+    "duration": 4,
+    "offset": 3594.88,
+    "lang": "en"
+  },
+  {
+    "text": "we don&amp;#39;t get past the",
+    "duration": 4.881,
+    "offset": 3596.799,
+    "lang": "en"
+  },
+  {
+    "text": "data we will when we do an after Handler",
+    "duration": 4,
+    "offset": 3598.88,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s next",
+    "duration": 3.8,
+    "offset": 3601.68,
+    "lang": "en"
+  },
+  {
+    "text": "time what we get past is the most",
+    "duration": 5.6,
+    "offset": 3602.88,
+    "lang": "en"
+  },
+  {
+    "text": "important thing that we need in order to",
+    "duration": 6.359,
+    "offset": 3605.48,
+    "lang": "en"
+  },
+  {
+    "text": "fulfill our you know our destiny to to",
+    "duration": 6.16,
+    "offset": 3608.48,
+    "lang": "en"
+  },
+  {
+    "text": "to to replace the standard Handler for",
+    "duration": 3.96,
+    "offset": 3611.839,
+    "lang": "en"
+  },
+  {
+    "text": "the",
+    "duration": 3.959,
+    "offset": 3614.64,
+    "lang": "en"
+  },
+  {
+    "text": "on we get the request we get the details",
+    "duration": 6.28,
+    "offset": 3615.799,
+    "lang": "en"
+  },
+  {
+    "text": "of the request so we could say request",
+    "duration": 5.281,
+    "offset": 3618.599,
+    "lang": "en"
+  },
+  {
+    "text": "dot",
+    "duration": 5,
+    "offset": 3622.079,
+    "lang": "en"
+  },
+  {
+    "text": "method get request dot let&amp;#39;s have a look",
+    "duration": 5.239,
+    "offset": 3623.88,
+    "lang": "en"
+  },
+  {
+    "text": "what else we got here",
+    "duration": 7.321,
+    "offset": 3627.079,
+    "lang": "en"
+  },
+  {
+    "text": "query and the query is some SQL cql",
+    "duration": 6.92,
+    "offset": 3629.119,
+    "lang": "en"
+  },
+  {
+    "text": "right but we&amp;#39;re not even going to go",
+    "duration": 3.159,
+    "offset": 3634.4,
+    "lang": "en"
+  },
+  {
+    "text": "there because it&amp;#39;s",
+    "duration": 4.961,
+    "offset": 3636.039,
+    "lang": "en"
+  },
+  {
+    "text": "859 okay fantastic so thank you so much",
+    "duration": 4.441,
+    "offset": 3637.559,
+    "lang": "en"
+  },
+  {
+    "text": "for joining thank you for your",
+    "duration": 2.559,
+    "offset": 3641,
+    "lang": "en"
+  },
+  {
+    "text": "interaction and everything oh Visa says",
+    "duration": 2.64,
+    "offset": 3642,
+    "lang": "en"
+  },
+  {
+    "text": "I really like the spread operator in",
+    "duration": 2.56,
+    "offset": 3643.559,
+    "lang": "en"
+  },
+  {
+    "text": "the6 It&amp;#39;s Magic helps me a lot when I do",
+    "duration": 2.64,
+    "offset": 3644.64,
+    "lang": "en"
+  },
+  {
+    "text": "JavaScript types script I find myself",
+    "duration": 2.48,
+    "offset": 3646.119,
+    "lang": "en"
+  },
+  {
+    "text": "using the spread operator more often",
+    "duration": 4.279,
+    "offset": 3647.28,
+    "lang": "en"
+  },
+  {
+    "text": "than rest operator that&amp;#39;s cool main",
+    "duration": 5.041,
+    "offset": 3648.599,
+    "lang": "en"
+  },
+  {
+    "text": "thing is we know about what it is and we",
+    "duration": 3.961,
+    "offset": 3651.559,
+    "lang": "en"
+  },
+  {
+    "text": "know it&amp;#39;s useful for figuring out what",
+    "duration": 4.399,
+    "offset": 3653.64,
+    "lang": "en"
+  },
+  {
+    "text": "are we getting past here in this Handler",
+    "duration": 5.36,
+    "offset": 3655.52,
+    "lang": "en"
+  },
+  {
+    "text": "function anyway thanks for joining have",
+    "duration": 5,
+    "offset": 3658.039,
+    "lang": "en"
+  },
+  {
+    "text": "a great Friday uh I won&amp;#39;t see you next",
+    "duration": 4.479,
+    "offset": 3660.88,
+    "lang": "en"
+  },
+  {
+    "text": "week because I&amp;#39;m away and then we&amp;#39;ve got",
+    "duration": 5.241,
+    "offset": 3663.039,
+    "lang": "en"
+  },
+  {
+    "text": "um Kevin and Nora I think uh doing their",
+    "duration": 5.041,
+    "offset": 3665.359,
+    "lang": "en"
+  },
+  {
+    "text": "retrieval augmented Generation stuff on",
+    "duration": 4.64,
+    "offset": 3668.28,
+    "lang": "en"
+  },
+  {
+    "text": "live stream same time uh but we&amp;#39;ll see",
+    "duration": 4.76,
+    "offset": 3670.4,
+    "lang": "en"
+  },
+  {
+    "text": "you soon and look out for the you know",
+    "duration": 4.48,
+    "offset": 3672.92,
+    "lang": "en"
+  },
+  {
+    "text": "the next uh next event on LinkedIn",
+    "duration": 6.12,
+    "offset": 3675.16,
+    "lang": "en"
+  },
+  {
+    "text": "YouTube whatever okay bye for",
+    "duration": 3.88,
+    "offset": 3677.4,
+    "lang": "en"
+  },
+  {
+    "text": "now e",
+    "duration": 3.96,
+    "offset": 3684.92,
+    "lang": "en"
+  }
+]

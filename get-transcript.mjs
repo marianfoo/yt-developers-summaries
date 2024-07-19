@@ -50,10 +50,11 @@ async function fetchAndSaveTranscript(youtubeId) {
   try {
     const __dirname = path.dirname(fileURLToPath(import.meta.url));
     const folderPath = path.join(__dirname, 'transcripts');
-    const filePath = path.join(folderPath, `${youtubeId}.txt`);
+    const textFilePath = path.join(folderPath, `${youtubeId}.txt`);
+    const jsonFilePath = path.join(folderPath, `${youtubeId}.json`);
 
     // Check if the transcript already exists
-    if (fs.existsSync(filePath)) {
+    if (fs.existsSync(textFilePath) && fs.existsSync(jsonFilePath)) {
       console.log(`Transcript for ${youtubeId} already exists. Skipping...`);
       return;
     }
@@ -67,8 +68,12 @@ async function fetchAndSaveTranscript(youtubeId) {
     }
 
     // Save the transcript to a text file
-    fs.writeFileSync(filePath, transcriptText, 'utf8');
-    console.log(`Transcript saved to ${filePath}`);
+    fs.writeFileSync(textFilePath, transcriptText, 'utf8');
+    console.log(`Transcript saved to ${textFilePath}`);
+
+    // Save the transcript to a JSON file
+    fs.writeFileSync(jsonFilePath, JSON.stringify(transcript, null, 2), 'utf8');
+    console.log(`Transcript JSON saved to ${jsonFilePath}`);
   } catch (error) {
     if (error.name === 'YoutubeTranscriptDisabledError') {
       console.warn(`Transcript is disabled for video ${youtubeId}. Skipping...`);

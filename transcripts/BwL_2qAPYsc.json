@@ -1,0 +1,8438 @@
+[
+  {
+    "text": "e",
+    "duration": 3,
+    "offset": 0,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 9.029,
+    "offset": 36.41,
+    "lang": "en"
+  },
+  {
+    "text": "[Applause]",
+    "duration": 3.099,
+    "offset": 42.34,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 32.369,
+    "offset": 47.19,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 17.03,
+    "offset": 88.25,
+    "lang": "en"
+  },
+  {
+    "text": "[Applause]",
+    "duration": 35.72,
+    "offset": 102.41,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 32.85,
+    "offset": 105.28,
+    "lang": "en"
+  },
+  {
+    "text": "good morning good afternoon good evening",
+    "duration": 4.201,
+    "offset": 139.959,
+    "lang": "en"
+  },
+  {
+    "text": "welcome to Hands-On Sab Dev with me",
+    "duration": 6.759,
+    "offset": 141.48,
+    "lang": "en"
+  },
+  {
+    "text": "again DJ cacro welcome one and all uh",
+    "duration": 6.2,
+    "offset": 144.16,
+    "lang": "en"
+  },
+  {
+    "text": "welcome to visas",
+    "duration": 5.441,
+    "offset": 148.239,
+    "lang": "en"
+  },
+  {
+    "text": "in Bangkok Thailand great to have you",
+    "duration": 5.92,
+    "offset": 150.36,
+    "lang": "en"
+  },
+  {
+    "text": "again one of the uh one of the regulars",
+    "duration": 5.839,
+    "offset": 153.68,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s great to see you Vis and Ravi Kumar",
+    "duration": 5.64,
+    "offset": 156.28,
+    "lang": "en"
+  },
+  {
+    "text": "good morning to you or good afternoon",
+    "duration": 4.561,
+    "offset": 159.519,
+    "lang": "en"
+  },
+  {
+    "text": "maybe yes uh I&amp;#39;m looking at my watch",
+    "duration": 3.239,
+    "offset": 161.92,
+    "lang": "en"
+  },
+  {
+    "text": "here",
+    "duration": 5.36,
+    "offset": 164.08,
+    "lang": "en"
+  },
+  {
+    "text": "801 yes good afternoon to you in uh was",
+    "duration": 7.761,
+    "offset": 165.159,
+    "lang": "en"
+  },
+  {
+    "text": "it Bangalore and uh r r r r r what is",
+    "duration": 4.799,
+    "offset": 169.44,
+    "lang": "en"
+  },
+  {
+    "text": "Cap well you&amp;#39;ve come to the right place",
+    "duration": 4.399,
+    "offset": 172.92,
+    "lang": "en"
+  },
+  {
+    "text": "to find out good uh welcome uh cap is",
+    "duration": 6.841,
+    "offset": 174.239,
+    "lang": "en"
+  },
+  {
+    "text": "short for cloud application programming",
+    "duration": 5.92,
+    "offset": 177.319,
+    "lang": "en"
+  },
+  {
+    "text": "uh and more specifically sort of short",
+    "duration": 4.079,
+    "offset": 181.08,
+    "lang": "en"
+  },
+  {
+    "text": "for sap Cloud application programming",
+    "duration": 3.601,
+    "offset": 183.239,
+    "lang": "en"
+  },
+  {
+    "text": "model it&amp;#39;s a it&amp;#39;s a programming",
+    "duration": 4.241,
+    "offset": 185.159,
+    "lang": "en"
+  },
+  {
+    "text": "framework uh that supports nodejs and",
+    "duration": 4.759,
+    "offset": 186.84,
+    "lang": "en"
+  },
+  {
+    "text": "Java and it&amp;#39;s amazing it&amp;#39;s beautiful",
+    "duration": 4.559,
+    "offset": 189.4,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s built by a wonderful uh uh set of",
+    "duration": 5.121,
+    "offset": 191.599,
+    "lang": "en"
+  },
+  {
+    "text": "teams of people at sap and uh this is",
+    "duration": 5.041,
+    "offset": 193.959,
+    "lang": "en"
+  },
+  {
+    "text": "what this uh this back to basic series",
+    "duration": 5.64,
+    "offset": 196.72,
+    "lang": "en"
+  },
+  {
+    "text": "is all about the nodejs specific version",
+    "duration": 6.76,
+    "offset": 199,
+    "lang": "en"
+  },
+  {
+    "text": "or flavor of cap so uh yeah stick around",
+    "duration": 4.64,
+    "offset": 202.36,
+    "lang": "en"
+  },
+  {
+    "text": "and you&amp;#39;ll find out a little bit more",
+    "duration": 4.36,
+    "offset": 205.76,
+    "lang": "en"
+  },
+  {
+    "text": "good morning to you helmet in branke in",
+    "duration": 5.159,
+    "offset": 207,
+    "lang": "en"
+  },
+  {
+    "text": "and Antonio good morning to you and",
+    "duration": 6.24,
+    "offset": 210.12,
+    "lang": "en"
+  },
+  {
+    "text": "Kiara bonjo and AJ good afternoon to you",
+    "duration": 6.521,
+    "offset": 212.159,
+    "lang": "en"
+  },
+  {
+    "text": "and zahed good morning to you in suly",
+    "duration": 5.439,
+    "offset": 216.36,
+    "lang": "en"
+  },
+  {
+    "text": "Hall Sunny Su Hall fantastic I&amp;#39;m just a",
+    "duration": 4.639,
+    "offset": 218.68,
+    "lang": "en"
+  },
+  {
+    "text": "little bit further north than you I&amp;#39;m",
+    "duration": 3.401,
+    "offset": 221.799,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m sort of where&amp;#39;s the nearest place",
+    "duration": 5.041,
+    "offset": 223.319,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m in burco um which is sort of near Ms",
+    "duration": 5.72,
+    "offset": 225.2,
+    "lang": "en"
+  },
+  {
+    "text": "Kirk uh yeah Ms Kirk that sort of that",
+    "duration": 4.64,
+    "offset": 228.36,
+    "lang": "en"
+  },
+  {
+    "text": "sort of area Henrik good morning to you",
+    "duration": 4.519,
+    "offset": 230.92,
+    "lang": "en"
+  },
+  {
+    "text": "in Denmark and ansha hi good morning to",
+    "duration": 5.28,
+    "offset": 233,
+    "lang": "en"
+  },
+  {
+    "text": "you and Tom good morning from Greece",
+    "duration": 5.601,
+    "offset": 235.439,
+    "lang": "en"
+  },
+  {
+    "text": "Hass uh fantastic and Ola Monica Rafael",
+    "duration": 4.08,
+    "offset": 238.28,
+    "lang": "en"
+  },
+  {
+    "text": "good morning to you in Poland and",
+    "duration": 3.16,
+    "offset": 241.04,
+    "lang": "en"
+  },
+  {
+    "text": "Raphael good morning to you in SCH in",
+    "duration": 3.719,
+    "offset": 242.36,
+    "lang": "en"
+  },
+  {
+    "text": "Switzerland and ra R ra so no more abat",
+    "duration": 3.84,
+    "offset": 244.2,
+    "lang": "en"
+  },
+  {
+    "text": "for cap uh oh I&amp;#39;ll come back to that in",
+    "duration": 3.201,
+    "offset": 246.079,
+    "lang": "en"
+  },
+  {
+    "text": "a second to say all lots of good",
+    "duration": 3,
+    "offset": 248.04,
+    "lang": "en"
+  },
+  {
+    "text": "mornings it&amp;#39;s fantastic thank you all by",
+    "duration": 3.44,
+    "offset": 249.28,
+    "lang": "en"
+  },
+  {
+    "text": "the way for saying good morning I love",
+    "duration": 4.759,
+    "offset": 251.04,
+    "lang": "en"
+  },
+  {
+    "text": "it because it&amp;#39;s nice to see who&amp;#39;s on and",
+    "duration": 3.919,
+    "offset": 252.72,
+    "lang": "en"
+  },
+  {
+    "text": "you know it&amp;#39;s nice to see you",
+    "duration": 3.56,
+    "offset": 255.799,
+    "lang": "en"
+  },
+  {
+    "text": "interacting sasu good morning to you in",
+    "duration": 6.12,
+    "offset": 256.639,
+    "lang": "en"
+  },
+  {
+    "text": "Munich and anchel good morning to you in",
+    "duration": 5.441,
+    "offset": 259.359,
+    "lang": "en"
+  },
+  {
+    "text": "uh I don&amp;#39;t know where you are but am I",
+    "duration": 5.401,
+    "offset": 262.759,
+    "lang": "en"
+  },
+  {
+    "text": "from Germany No I um I&amp;#39;m from Manchester",
+    "duration": 5.72,
+    "offset": 264.8,
+    "lang": "en"
+  },
+  {
+    "text": "in brexitland uh uh that&amp;#39;s where I&amp;#39;m",
+    "duration": 6.36,
+    "offset": 268.16,
+    "lang": "en"
+  },
+  {
+    "text": "from um and I&amp;#39;m coming to you live from",
+    "duration": 5.76,
+    "offset": 270.52,
+    "lang": "en"
+  },
+  {
+    "text": "the leads in Liverpool Canal from my",
+    "duration": 5.959,
+    "offset": 274.52,
+    "lang": "en"
+  },
+  {
+    "text": "Naro as usual now um so",
+    "duration": 8.52,
+    "offset": 276.28,
+    "lang": "en"
+  },
+  {
+    "text": "ra so no more for cap well um there is",
+    "duration": 7.56,
+    "offset": 280.479,
+    "lang": "en"
+  },
+  {
+    "text": "an equivalent let&amp;#39;s call it equivalent",
+    "duration": 6.679,
+    "offset": 284.8,
+    "lang": "en"
+  },
+  {
+    "text": "um framework for the abop developers",
+    "duration": 5.681,
+    "offset": 288.039,
+    "lang": "en"
+  },
+  {
+    "text": "amongst us which is the restful",
+    "duration": 3.56,
+    "offset": 291.479,
+    "lang": "en"
+  },
+  {
+    "text": "application programming model and they",
+    "duration": 5.52,
+    "offset": 293.72,
+    "lang": "en"
+  },
+  {
+    "text": "share many similarities and they share a",
+    "duration": 5.72,
+    "offset": 295.039,
+    "lang": "en"
+  },
+  {
+    "text": "almost like you know I remember that",
+    "duration": 4.2,
+    "offset": 299.24,
+    "lang": "en"
+  },
+  {
+    "text": "phrase what&amp;#39;s that phrase uh the United",
+    "duration": 5.361,
+    "offset": 300.759,
+    "lang": "en"
+  },
+  {
+    "text": "Kingdom and the United States of America",
+    "duration": 6.16,
+    "offset": 303.44,
+    "lang": "en"
+  },
+  {
+    "text": "Two Nations divided by a common language",
+    "duration": 5.44,
+    "offset": 306.12,
+    "lang": "en"
+  },
+  {
+    "text": "English obviously so you know just",
+    "duration": 3.4,
+    "offset": 309.6,
+    "lang": "en"
+  },
+  {
+    "text": "different different sort of dialects",
+    "duration": 2.52,
+    "offset": 311.56,
+    "lang": "en"
+  },
+  {
+    "text": "different sort",
+    "duration": 4.199,
+    "offset": 313,
+    "lang": "en"
+  },
+  {
+    "text": "of yeah I supp versions of of of the",
+    "duration": 4.88,
+    "offset": 314.08,
+    "lang": "en"
+  },
+  {
+    "text": "same language in the same sort of way",
+    "duration": 5.161,
+    "offset": 317.199,
+    "lang": "en"
+  },
+  {
+    "text": "similar sort of way rap and cap both use",
+    "duration": 5.359,
+    "offset": 318.96,
+    "lang": "en"
+  },
+  {
+    "text": "the declarative language CDs but there",
+    "duration": 3.32,
+    "offset": 322.36,
+    "lang": "en"
+  },
+  {
+    "text": "are some subtle differences between the",
+    "duration": 3.841,
+    "offset": 324.319,
+    "lang": "en"
+  },
+  {
+    "text": "two but yeah stick around and uh yeah",
+    "duration": 3.68,
+    "offset": 325.68,
+    "lang": "en"
+  },
+  {
+    "text": "learn about a little bit about cap",
+    "duration": 3.92,
+    "offset": 328.16,
+    "lang": "en"
+  },
+  {
+    "text": "fantastic ftic uh Angel lovely fantastic",
+    "duration": 5.16,
+    "offset": 329.36,
+    "lang": "en"
+  },
+  {
+    "text": "to home of the Tom yes exactly home",
+    "duration": 5.92,
+    "offset": 332.08,
+    "lang": "en"
+  },
+  {
+    "text": "brexit land home of the idiots welcome",
+    "duration": 5.6,
+    "offset": 334.52,
+    "lang": "en"
+  },
+  {
+    "text": "so yeah we&amp;#39;re going to cover um let blow",
+    "duration": 4.88,
+    "offset": 338,
+    "lang": "en"
+  },
+  {
+    "text": "my nose for a second we&amp;#39;re going to",
+    "duration": 5.68,
+    "offset": 340.12,
+    "lang": "en"
+  },
+  {
+    "text": "cover compositions today when I say",
+    "duration": 5.48,
+    "offset": 342.88,
+    "lang": "en"
+  },
+  {
+    "text": "cover I was like woring all week like oh",
+    "duration": 5,
+    "offset": 345.8,
+    "lang": "en"
+  },
+  {
+    "text": "will we fit everything into the to the",
+    "duration": 4.92,
+    "offset": 348.36,
+    "lang": "en"
+  },
+  {
+    "text": "one uh one episode about compe",
+    "duration": 4.2,
+    "offset": 350.8,
+    "lang": "en"
+  },
+  {
+    "text": "compositions um I think we&amp;#39;ll do the",
+    "duration": 4.44,
+    "offset": 353.28,
+    "lang": "en"
+  },
+  {
+    "text": "basics certainly in in this episode but",
+    "duration": 4.36,
+    "offset": 355,
+    "lang": "en"
+  },
+  {
+    "text": "there are compositions are so important",
+    "duration": 3.36,
+    "offset": 357.72,
+    "lang": "en"
+  },
+  {
+    "text": "and there they&amp;#39;re so",
+    "duration": 4.36,
+    "offset": 359.36,
+    "lang": "en"
+  },
+  {
+    "text": "wonderful uh that we may have to extend",
+    "duration": 4.239,
+    "offset": 361.08,
+    "lang": "en"
+  },
+  {
+    "text": "into another episode but anyway let&amp;#39;s",
+    "duration": 4.24,
+    "offset": 363.72,
+    "lang": "en"
+  },
+  {
+    "text": "get going DJ stop talking anel says hi",
+    "duration": 4.841,
+    "offset": 365.319,
+    "lang": "en"
+  },
+  {
+    "text": "this is annal from Mumbai welcome to you",
+    "duration": 4.48,
+    "offset": 367.96,
+    "lang": "en"
+  },
+  {
+    "text": "annal and welcome to you Jennifer in",
+    "duration": 5.599,
+    "offset": 370.16,
+    "lang": "en"
+  },
+  {
+    "text": "India and Mark good morning in to you in",
+    "duration": 5.12,
+    "offset": 372.44,
+    "lang": "en"
+  },
+  {
+    "text": "ke hope to see you about comt and recap",
+    "duration": 4.56,
+    "offset": 375.759,
+    "lang": "en"
+  },
+  {
+    "text": "yes I&amp;#39;ll be there at code connect uh in",
+    "duration": 5.56,
+    "offset": 377.56,
+    "lang": "en"
+  },
+  {
+    "text": "June early June uh good morning DJ uh",
+    "duration": 4.44,
+    "offset": 380.319,
+    "lang": "en"
+  },
+  {
+    "text": "good morning to you NES as well",
+    "duration": 3.919,
+    "offset": 383.12,
+    "lang": "en"
+  },
+  {
+    "text": "fantastic let me let me move to the main",
+    "duration": 4.84,
+    "offset": 384.759,
+    "lang": "en"
+  },
+  {
+    "text": "screen so I can start sharing stuff so",
+    "duration": 3.44,
+    "offset": 387.039,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going to be looking at",
+    "duration": 3.361,
+    "offset": 389.599,
+    "lang": "en"
+  },
+  {
+    "text": "compositions today we&amp;#39;re going to be",
+    "duration": 5.601,
+    "offset": 390.479,
+    "lang": "en"
+  },
+  {
+    "text": "using the the cap B2B repo that we&amp;#39;ve",
+    "duration": 4.799,
+    "offset": 392.96,
+    "lang": "en"
+  },
+  {
+    "text": "been working on you know nice simple",
+    "duration": 3.08,
+    "offset": 396.08,
+    "lang": "en"
+  },
+  {
+    "text": "repo we",
+    "duration": 4.041,
+    "offset": 397.759,
+    "lang": "en"
+  },
+  {
+    "text": "moving uh moving from what we&amp;#39;ve got so",
+    "duration": 4.64,
+    "offset": 399.16,
+    "lang": "en"
+  },
+  {
+    "text": "far which is just books and authors with",
+    "duration": 4.04,
+    "offset": 401.8,
+    "lang": "en"
+  },
+  {
+    "text": "an association which is sort of related",
+    "duration": 4.36,
+    "offset": 403.8,
+    "lang": "en"
+  },
+  {
+    "text": "to compositions but not quite the same",
+    "duration": 5,
+    "offset": 405.84,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ll talk about that in a",
+    "duration": 5.159,
+    "offset": 408.16,
+    "lang": "en"
+  },
+  {
+    "text": "minute and we&amp;#39;ll sort of",
+    "duration": 4.039,
+    "offset": 410.84,
+    "lang": "en"
+  },
+  {
+    "text": "try",
+    "duration": 4.401,
+    "offset": 413.319,
+    "lang": "en"
+  },
+  {
+    "text": "transmogrify that stuff into uh",
+    "duration": 4.88,
+    "offset": 414.879,
+    "lang": "en"
+  },
+  {
+    "text": "something we can start thinking about",
+    "duration": 5.36,
+    "offset": 417.72,
+    "lang": "en"
+  },
+  {
+    "text": "composition compositions with um and it",
+    "duration": 5.28,
+    "offset": 419.759,
+    "lang": "en"
+  },
+  {
+    "text": "also says here let&amp;#39;s just jump in for a",
+    "duration": 4.28,
+    "offset": 423.08,
+    "lang": "en"
+  },
+  {
+    "text": "second cat run times provide these",
+    "duration": 4.44,
+    "offset": 425.039,
+    "lang": "en"
+  },
+  {
+    "text": "special treatments to compositions out",
+    "duration": 4.08,
+    "offset": 427.36,
+    "lang": "en"
+  },
+  {
+    "text": "of the box so we&amp;#39;re going to be seeing",
+    "duration": 5.56,
+    "offset": 429.479,
+    "lang": "en"
+  },
+  {
+    "text": "if we can see these treatments",
+    "duration": 5.68,
+    "offset": 431.44,
+    "lang": "en"
+  },
+  {
+    "text": "experience The Wonder of these",
+    "duration": 4.081,
+    "offset": 435.039,
+    "lang": "en"
+  },
+  {
+    "text": "particular these three treatments deep",
+    "duration": 4.84,
+    "offset": 437.12,
+    "lang": "en"
+  },
+  {
+    "text": "insert update cascaded delete and auto",
+    "duration": 5.079,
+    "offset": 439.12,
+    "lang": "en"
+  },
+  {
+    "text": "Exposition Auto Exposition is that the",
+    "duration": 5.16,
+    "offset": 441.96,
+    "lang": "en"
+  },
+  {
+    "text": "right word Auto exposure Exposition Auto",
+    "duration": 5.801,
+    "offset": 444.199,
+    "lang": "en"
+  },
+  {
+    "text": "exposure of uh composition targ what",
+    "duration": 4.199,
+    "offset": 447.12,
+    "lang": "en"
+  },
+  {
+    "text": "even does that mean we&amp;#39;re going to find",
+    "duration": 3.96,
+    "offset": 450,
+    "lang": "en"
+  },
+  {
+    "text": "out today uh hopefully uh so anyway",
+    "duration": 6.801,
+    "offset": 451.319,
+    "lang": "en"
+  },
+  {
+    "text": "before we get on um uh oh by the way so",
+    "duration": 6.76,
+    "offset": 453.96,
+    "lang": "en"
+  },
+  {
+    "text": "before I used to sort of you know pre",
+    "duration": 4.56,
+    "offset": 458.12,
+    "lang": "en"
+  },
+  {
+    "text": "preload the chat buffer here with all",
+    "duration": 3.72,
+    "offset": 460.72,
+    "lang": "en"
+  },
+  {
+    "text": "these URLs so of course then you have to",
+    "duration": 3.68,
+    "offset": 462.68,
+    "lang": "en"
+  },
+  {
+    "text": "go back to the chat and find out where",
+    "duration": 3.84,
+    "offset": 464.44,
+    "lang": "en"
+  },
+  {
+    "text": "these things are what the heck is that",
+    "duration": 2.959,
+    "offset": 466.36,
+    "lang": "en"
+  },
+  {
+    "text": "face doing there I don&amp;#39;t know what was",
+    "duration": 3.72,
+    "offset": 468.28,
+    "lang": "en"
+  },
+  {
+    "text": "going anyway",
+    "duration": 6.081,
+    "offset": 469.319,
+    "lang": "en"
+  },
+  {
+    "text": "um let me do that Bang there perfect uh",
+    "duration": 7.72,
+    "offset": 472,
+    "lang": "en"
+  },
+  {
+    "text": "get rid of that stuff um so uh but I",
+    "duration": 5.68,
+    "offset": 475.4,
+    "lang": "en"
+  },
+  {
+    "text": "thought of a better idea I have been",
+    "duration": 2.68,
+    "offset": 479.72,
+    "lang": "en"
+  },
+  {
+    "text": "doing this in the past let me know in",
+    "duration": 6.519,
+    "offset": 481.08,
+    "lang": "en"
+  },
+  {
+    "text": "the chat um we have uh in the sap events",
+    "duration": 7.519,
+    "offset": 482.4,
+    "lang": "en"
+  },
+  {
+    "text": "in the events part of the new sap",
+    "duration": 4.6,
+    "offset": 487.599,
+    "lang": "en"
+  },
+  {
+    "text": "Community platform we have sap Community",
+    "duration": 4.4,
+    "offset": 489.919,
+    "lang": "en"
+  },
+  {
+    "text": "event I will share that link because",
+    "duration": 4.241,
+    "offset": 492.199,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s really all you need I suppose uh",
+    "duration": 4.88,
+    "offset": 494.319,
+    "lang": "en"
+  },
+  {
+    "text": "put that down there and then in each",
+    "duration": 6.24,
+    "offset": 496.44,
+    "lang": "en"
+  },
+  {
+    "text": "each um what&amp;#39;s the word each week I will",
+    "duration": 7,
+    "offset": 499.199,
+    "lang": "en"
+  },
+  {
+    "text": "put in if I remember an entry so people",
+    "duration": 4.56,
+    "offset": 502.68,
+    "lang": "en"
+  },
+  {
+    "text": "can sort of subscribe to that and",
+    "duration": 2.44,
+    "offset": 506.199,
+    "lang": "en"
+  },
+  {
+    "text": "everything and blah blah blah you know",
+    "duration": 3.6,
+    "offset": 507.24,
+    "lang": "en"
+  },
+  {
+    "text": "you don&amp;#39;t have to do that but this is",
+    "duration": 4.361,
+    "offset": 508.639,
+    "lang": "en"
+  },
+  {
+    "text": "also good because that is therefore also",
+    "duration": 4.24,
+    "offset": 510.84,
+    "lang": "en"
+  },
+  {
+    "text": "where and you can go back and look in",
+    "duration": 4.479,
+    "offset": 513,
+    "lang": "en"
+  },
+  {
+    "text": "the calendar go back to",
+    "duration": 5.399,
+    "offset": 515.08,
+    "lang": "en"
+  },
+  {
+    "text": "previous uh you know there&amp;#39;s there&amp;#39;s um",
+    "duration": 5.641,
+    "offset": 517.479,
+    "lang": "en"
+  },
+  {
+    "text": "uh where is it go back to April and have",
+    "duration": 5.121,
+    "offset": 520.479,
+    "lang": "en"
+  },
+  {
+    "text": "a look there you can see uh back to",
+    "duration": 5.12,
+    "offset": 523.12,
+    "lang": "en"
+  },
+  {
+    "text": "basic back to basic back to so there&amp;#39;s",
+    "duration": 4.4,
+    "offset": 525.6,
+    "lang": "en"
+  },
+  {
+    "text": "one we did on the 8th of March for",
+    "duration": 4.36,
+    "offset": 528.24,
+    "lang": "en"
+  },
+  {
+    "text": "example and you can go back there and",
+    "duration": 6.12,
+    "offset": 530,
+    "lang": "en"
+  },
+  {
+    "text": "look at all the links to all the",
+    "duration": 5.919,
+    "offset": 532.6,
+    "lang": "en"
+  },
+  {
+    "text": "resources we talked about and so instead",
+    "duration": 4.6,
+    "offset": 536.12,
+    "lang": "en"
+  },
+  {
+    "text": "of putting all the URLs to all these",
+    "duration": 3.681,
+    "offset": 538.519,
+    "lang": "en"
+  },
+  {
+    "text": "different things I&amp;#39;m going to show you",
+    "duration": 2.88,
+    "offset": 540.72,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m going to put them in I&amp;#39;ve just",
+    "duration": 3.079,
+    "offset": 542.2,
+    "lang": "en"
+  },
+  {
+    "text": "started started typing them in while I",
+    "duration": 3.4,
+    "offset": 543.6,
+    "lang": "en"
+  },
+  {
+    "text": "was waiting for 8:00 to start and",
+    "duration": 3.56,
+    "offset": 545.279,
+    "lang": "en"
+  },
+  {
+    "text": "everything so I&amp;#39;ll put them in here if",
+    "duration": 4.6,
+    "offset": 547,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s okay let me know if that will be",
+    "duration": 5.481,
+    "offset": 548.839,
+    "lang": "en"
+  },
+  {
+    "text": "uh a better option for you okay so all",
+    "duration": 4.88,
+    "offset": 551.6,
+    "lang": "en"
+  },
+  {
+    "text": "these things in here are all these tabs",
+    "duration": 3.959,
+    "offset": 554.32,
+    "lang": "en"
+  },
+  {
+    "text": "here you can go back later on have a",
+    "duration": 3.2,
+    "offset": 556.48,
+    "lang": "en"
+  },
+  {
+    "text": "coffee after the live stream finished",
+    "duration": 4.201,
+    "offset": 558.279,
+    "lang": "en"
+  },
+  {
+    "text": "and get all the links from here oh by",
+    "duration": 6.12,
+    "offset": 559.68,
+    "lang": "en"
+  },
+  {
+    "text": "the way hello and welcome to um anel are",
+    "duration": 6.44,
+    "offset": 562.48,
+    "lang": "en"
+  },
+  {
+    "text": "we doing sap analytics Cloud oh uh no",
+    "duration": 6.64,
+    "offset": 565.8,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re not um so my very good friend and",
+    "duration": 7.28,
+    "offset": 568.92,
+    "lang": "en"
+  },
+  {
+    "text": "colleague Vitali um is is uh is the",
+    "duration": 5.56,
+    "offset": 572.44,
+    "lang": "en"
+  },
+  {
+    "text": "person to talk to there about sap",
+    "duration": 4.28,
+    "offset": 576.2,
+    "lang": "en"
+  },
+  {
+    "text": "analytics Cloud this is sap Cloud",
+    "duration": 5.36,
+    "offset": 578,
+    "lang": "en"
+  },
+  {
+    "text": "application programming naming what&amp;#39;s",
+    "duration": 4.76,
+    "offset": 580.48,
+    "lang": "en"
+  },
+  {
+    "text": "that what&amp;#39;s that adage uh in computer",
+    "duration": 4.4,
+    "offset": 583.36,
+    "lang": "en"
+  },
+  {
+    "text": "science there are two hard",
+    "duration": 5.88,
+    "offset": 585.24,
+    "lang": "en"
+  },
+  {
+    "text": "problems uh cash invalidation naming",
+    "duration": 5.24,
+    "offset": 587.76,
+    "lang": "en"
+  },
+  {
+    "text": "things and off by one errors see what I",
+    "duration": 3.2,
+    "offset": 591.12,
+    "lang": "en"
+  },
+  {
+    "text": "did there see what the joke did there",
+    "duration": 3.959,
+    "offset": 593,
+    "lang": "en"
+  },
+  {
+    "text": "anyway so yeah the names can be",
+    "duration": 4.199,
+    "offset": 594.32,
+    "lang": "en"
+  },
+  {
+    "text": "sometimes confusing this is the cloud",
+    "duration": 3.32,
+    "offset": 596.959,
+    "lang": "en"
+  },
+  {
+    "text": "application programming model um and",
+    "duration": 4.081,
+    "offset": 598.519,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s about you know um a programming",
+    "duration": 5.161,
+    "offset": 600.279,
+    "lang": "en"
+  },
+  {
+    "text": "model that allows us to build Services",
+    "duration": 6,
+    "offset": 602.6,
+    "lang": "en"
+  },
+  {
+    "text": "backend Services primarily for our Cloud",
+    "duration": 6.04,
+    "offset": 605.44,
+    "lang": "en"
+  },
+  {
+    "text": "applications it&amp;#39;s amazing um so Antonio",
+    "duration": 5.08,
+    "offset": 608.6,
+    "lang": "en"
+  },
+  {
+    "text": "good night good good night from Mexico",
+    "duration": 4.52,
+    "offset": 611.48,
+    "lang": "en"
+  },
+  {
+    "text": "good good yes good early morning uh and",
+    "duration": 3.44,
+    "offset": 613.68,
+    "lang": "en"
+  },
+  {
+    "text": "welcome and thank you for joining at",
+    "duration": 3.399,
+    "offset": 616,
+    "lang": "en"
+  },
+  {
+    "text": "asok thank you for joining uh in uh to",
+    "duration": 5.159,
+    "offset": 617.12,
+    "lang": "en"
+  },
+  {
+    "text": "you in Belgium amazing so uh we have the",
+    "duration": 5.201,
+    "offset": 619.399,
+    "lang": "en"
+  },
+  {
+    "text": "SB developer news there it came out last",
+    "duration": 4.481,
+    "offset": 622.279,
+    "lang": "en"
+  },
+  {
+    "text": "night there&amp;#39;s Antonio talking about Sab",
+    "duration": 4.88,
+    "offset": 624.6,
+    "lang": "en"
+  },
+  {
+    "text": "Co jams talking about sa Co jams here&amp;#39;s",
+    "duration": 4.92,
+    "offset": 626.76,
+    "lang": "en"
+  },
+  {
+    "text": "all the sap code jams upcoming and again",
+    "duration": 4.799,
+    "offset": 629.48,
+    "lang": "en"
+  },
+  {
+    "text": "you can get all the links in here um Tom",
+    "duration": 5.88,
+    "offset": 631.68,
+    "lang": "en"
+  },
+  {
+    "text": "and Rich our illustrious uh pair of",
+    "duration": 5.721,
+    "offset": 634.279,
+    "lang": "en"
+  },
+  {
+    "text": "abers uh in the developer Advocates team",
+    "duration": 4.88,
+    "offset": 637.56,
+    "lang": "en"
+  },
+  {
+    "text": "we of course got Miki as well um but",
+    "duration": 4.24,
+    "offset": 640,
+    "lang": "en"
+  },
+  {
+    "text": "they they have moved over they traveled",
+    "duration": 3.839,
+    "offset": 642.44,
+    "lang": "en"
+  },
+  {
+    "text": "over this week and they&amp;#39;re in uh where",
+    "duration": 5.92,
+    "offset": 644.24,
+    "lang": "en"
+  },
+  {
+    "text": "are they in uh in in in in in Amsterdam",
+    "duration": 5,
+    "offset": 646.279,
+    "lang": "en"
+  },
+  {
+    "text": "so they&amp;#39;re doing a CO Jam they&amp;#39;re",
+    "duration": 2.799,
+    "offset": 650.16,
+    "lang": "en"
+  },
+  {
+    "text": "starting a CO Jam right now so there&amp;#39;s",
+    "duration": 4.481,
+    "offset": 651.279,
+    "lang": "en"
+  },
+  {
+    "text": "another uh what&amp;#39;s it what&amp;#39;s the word uh",
+    "duration": 5.641,
+    "offset": 652.959,
+    "lang": "en"
+  },
+  {
+    "text": "Road road trip Cod Jam so check out all",
+    "duration": 4.92,
+    "offset": 655.76,
+    "lang": "en"
+  },
+  {
+    "text": "the Cod jams there",
+    "duration": 4.16,
+    "offset": 658.6,
+    "lang": "en"
+  },
+  {
+    "text": "the developer challenge being run by uh",
+    "duration": 5.399,
+    "offset": 660.68,
+    "lang": "en"
+  },
+  {
+    "text": "Daniel we&amp;#39;re in the the next week and",
+    "duration": 5.04,
+    "offset": 662.76,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s all about formula so check out the",
+    "duration": 4.161,
+    "offset": 666.079,
+    "lang": "en"
+  },
+  {
+    "text": "developer Challenge on sap build apps",
+    "duration": 5.68,
+    "offset": 667.8,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s amazing so Ian uh Ian th put a news",
+    "duration": 5.88,
+    "offset": 670.24,
+    "lang": "en"
+  },
+  {
+    "text": "item in the news this week about that um",
+    "duration": 4.56,
+    "offset": 673.48,
+    "lang": "en"
+  },
+  {
+    "text": "and I when I was sort of thinking about",
+    "duration": 4.92,
+    "offset": 676.12,
+    "lang": "en"
+  },
+  {
+    "text": "the compositions there&amp;#39;s a couple of uh",
+    "duration": 4.28,
+    "offset": 678.04,
+    "lang": "en"
+  },
+  {
+    "text": "like oh yeah I&amp;#39;ll write about this",
+    "duration": 2.599,
+    "offset": 681.04,
+    "lang": "en"
+  },
+  {
+    "text": "because it&amp;#39;s you know maybe some",
+    "duration": 4.04,
+    "offset": 682.32,
+    "lang": "en"
+  },
+  {
+    "text": "somebody might be interested so have a",
+    "duration": 4.241,
+    "offset": 683.639,
+    "lang": "en"
+  },
+  {
+    "text": "look at this so there&amp;#39;s a blog post here",
+    "duration": 3.719,
+    "offset": 686.36,
+    "lang": "en"
+  },
+  {
+    "text": "that I wrote um about basically",
+    "duration": 4.519,
+    "offset": 687.88,
+    "lang": "en"
+  },
+  {
+    "text": "sometimes um if you&amp;#39;re maintaining some",
+    "duration": 5,
+    "offset": 690.079,
+    "lang": "en"
+  },
+  {
+    "text": "Json data in a in in the project",
+    "duration": 4.721,
+    "offset": 692.399,
+    "lang": "en"
+  },
+  {
+    "text": "directory in a cap project directory and",
+    "duration": 3.601,
+    "offset": 695.079,
+    "lang": "en"
+  },
+  {
+    "text": "of course you you maintain that for",
+    "duration": 2.88,
+    "offset": 697.12,
+    "lang": "en"
+  },
+  {
+    "text": "whatever reason you want to use that as",
+    "duration": 3.159,
+    "offset": 698.68,
+    "lang": "en"
+  },
+  {
+    "text": "a payload in a curer request in a post",
+    "duration": 4.079,
+    "offset": 700,
+    "lang": "en"
+  },
+  {
+    "text": "request for example you might not want",
+    "duration": 3.721,
+    "offset": 701.839,
+    "lang": "en"
+  },
+  {
+    "text": "the cap server to restart and if you&amp;#39;re",
+    "duration": 3.041,
+    "offset": 704.079,
+    "lang": "en"
+  },
+  {
+    "text": "running it in CDs watch mode it will",
+    "duration": 3.12,
+    "offset": 705.56,
+    "lang": "en"
+  },
+  {
+    "text": "restart because that&amp;#39;s usually what you",
+    "duration": 3.76,
+    "offset": 707.12,
+    "lang": "en"
+  },
+  {
+    "text": "want so here&amp;#39;s a little bit of a hack as",
+    "duration": 5.48,
+    "offset": 708.68,
+    "lang": "en"
+  },
+  {
+    "text": "to how you can stop it automatically",
+    "duration": 5.32,
+    "offset": 710.88,
+    "lang": "en"
+  },
+  {
+    "text": "restarting as in stopping how we can",
+    "duration": 4.6,
+    "offset": 714.16,
+    "lang": "en"
+  },
+  {
+    "text": "stop the normal void the normal behavior",
+    "duration": 4.36,
+    "offset": 716.2,
+    "lang": "en"
+  },
+  {
+    "text": "so check out that blog post there the",
+    "duration": 5.639,
+    "offset": 718.76,
+    "lang": "en"
+  },
+  {
+    "text": "link again is in this thing here um and",
+    "duration": 7.44,
+    "offset": 720.56,
+    "lang": "en"
+  },
+  {
+    "text": "also yesterday uh what I&amp;#39;m doing now is",
+    "duration": 5.961,
+    "offset": 724.399,
+    "lang": "en"
+  },
+  {
+    "text": "uh and what we will be doing is you know",
+    "duration": 4.48,
+    "offset": 728,
+    "lang": "en"
+  },
+  {
+    "text": "having lots of terminals as normal and",
+    "duration": 4.32,
+    "offset": 730.36,
+    "lang": "en"
+  },
+  {
+    "text": "you know you know having all sorts of",
+    "duration": 5.4,
+    "offset": 732.48,
+    "lang": "en"
+  },
+  {
+    "text": "things on our vs code and sometimes uh",
+    "duration": 6.159,
+    "offset": 734.68,
+    "lang": "en"
+  },
+  {
+    "text": "or previously uh we had the the uh The",
+    "duration": 4.88,
+    "offset": 737.88,
+    "lang": "en"
+  },
+  {
+    "text": "Prompt ending here so I started sort of",
+    "duration": 4.321,
+    "offset": 740.839,
+    "lang": "en"
+  },
+  {
+    "text": "typing here and it wasn&amp;#39;t very long to",
+    "duration": 5.12,
+    "offset": 742.76,
+    "lang": "en"
+  },
+  {
+    "text": "type I like typing on a nice clean line",
+    "duration": 6.359,
+    "offset": 745.16,
+    "lang": "en"
+  },
+  {
+    "text": "so this blog post here um it just is a",
+    "duration": 6.6,
+    "offset": 747.88,
+    "lang": "en"
+  },
+  {
+    "text": "bit of a little bit of a hack on the",
+    "duration": 6.241,
+    "offset": 751.519,
+    "lang": "en"
+  },
+  {
+    "text": "PS1 um uh environment variable and a",
+    "duration": 5.599,
+    "offset": 754.48,
+    "lang": "en"
+  },
+  {
+    "text": "nice sort of light SED hack to say ah I",
+    "duration": 4.6,
+    "offset": 757.76,
+    "lang": "en"
+  },
+  {
+    "text": "want to move the dollar sign round to",
+    "duration": 5.081,
+    "offset": 760.079,
+    "lang": "en"
+  },
+  {
+    "text": "the next line in fact I personally",
+    "duration": 4.56,
+    "offset": 762.36,
+    "lang": "en"
+  },
+  {
+    "text": "prefer a semicolon because you know I&amp;#39;m",
+    "duration": 3.6,
+    "offset": 765.16,
+    "lang": "en"
+  },
+  {
+    "text": "cool or I like to be I like to think I&amp;#39;m",
+    "duration": 3.719,
+    "offset": 766.92,
+    "lang": "en"
+  },
+  {
+    "text": "cool I&amp;#39;m not I&amp;#39;m an idiot but there we",
+    "duration": 3.36,
+    "offset": 768.76,
+    "lang": "en"
+  },
+  {
+    "text": "go there&amp;#39;s the thing so that&amp;#39;s that&amp;#39;s",
+    "duration": 3.281,
+    "offset": 770.639,
+    "lang": "en"
+  },
+  {
+    "text": "why we&amp;#39;re now starting typing on a new",
+    "duration": 3.64,
+    "offset": 772.12,
+    "lang": "en"
+  },
+  {
+    "text": "line and if you want to know how I did",
+    "duration": 5.599,
+    "offset": 773.92,
+    "lang": "en"
+  },
+  {
+    "text": "that basically uh tail",
+    "duration": 7.16,
+    "offset": 775.76,
+    "lang": "en"
+  },
+  {
+    "text": "I did that by doing that right and that",
+    "duration": 5.721,
+    "offset": 779.519,
+    "lang": "en"
+  },
+  {
+    "text": "is explained in this blog post so",
+    "duration": 4.32,
+    "offset": 782.92,
+    "lang": "en"
+  },
+  {
+    "text": "there&amp;#39;s a blog post there and finally",
+    "duration": 3.8,
+    "offset": 785.24,
+    "lang": "en"
+  },
+  {
+    "text": "the final sort of announcement before we",
+    "duration": 5.399,
+    "offset": 787.24,
+    "lang": "en"
+  },
+  {
+    "text": "get started um as you know we&amp;#39;re in sort",
+    "duration": 5.84,
+    "offset": 789.04,
+    "lang": "en"
+  },
+  {
+    "text": "of the test drive period for sap build",
+    "duration": 5.281,
+    "offset": 792.639,
+    "lang": "en"
+  },
+  {
+    "text": "code which is amazing and um we&amp;#39;re going",
+    "duration": 4.759,
+    "offset": 794.88,
+    "lang": "en"
+  },
+  {
+    "text": "to do Tom uh Tom young and I are going",
+    "duration": 3.32,
+    "offset": 797.92,
+    "lang": "en"
+  },
+  {
+    "text": "to do a live stream oh look who&amp;#39;s I",
+    "duration": 3.56,
+    "offset": 799.639,
+    "lang": "en"
+  },
+  {
+    "text": "idiot uh Tom going to a live stream at",
+    "duration": 3.159,
+    "offset": 801.24,
+    "lang": "en"
+  },
+  {
+    "text": "the end of the test drive period which",
+    "duration": 3.76,
+    "offset": 803.199,
+    "lang": "en"
+  },
+  {
+    "text": "is going to be Friday April the",
+    "duration": 5.88,
+    "offset": 804.399,
+    "lang": "en"
+  },
+  {
+    "text": "26th and then uh I good friend Steve",
+    "duration": 5.921,
+    "offset": 806.959,
+    "lang": "en"
+  },
+  {
+    "text": "pointed out DJ you idiot um there you",
+    "duration": 4,
+    "offset": 810.279,
+    "lang": "en"
+  },
+  {
+    "text": "know you&amp;#39;re doing a test drive doing a",
+    "duration": 3.44,
+    "offset": 812.88,
+    "lang": "en"
+  },
+  {
+    "text": "test drive live stream but that doesn&amp;#39;t",
+    "duration": 4.281,
+    "offset": 814.279,
+    "lang": "en"
+  },
+  {
+    "text": "really cover uh the",
+    "duration": 4.519,
+    "offset": 816.32,
+    "lang": "en"
+  },
+  {
+    "text": "Americas uh for this special event so",
+    "duration": 6.56,
+    "offset": 818.56,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve added a new uh second live stream",
+    "duration": 6.761,
+    "offset": 820.839,
+    "lang": "en"
+  },
+  {
+    "text": "you know know have to go to one of them",
+    "duration": 4.079,
+    "offset": 825.12,
+    "lang": "en"
+  },
+  {
+    "text": "doing very similar things in both live",
+    "duration": 4.919,
+    "offset": 827.6,
+    "lang": "en"
+  },
+  {
+    "text": "streams but on the same day um 12 1200",
+    "duration": 8.681,
+    "offset": 829.199,
+    "lang": "en"
+  },
+  {
+    "text": "EDT I think is 5:00 p.m. UK uh I in 1700",
+    "duration": 7.361,
+    "offset": 832.519,
+    "lang": "en"
+  },
+  {
+    "text": "UK 1800",
+    "duration": 4.879,
+    "offset": 837.88,
+    "lang": "en"
+  },
+  {
+    "text": "EST so we got an extra live stream there",
+    "duration": 3.8,
+    "offset": 839.88,
+    "lang": "en"
+  },
+  {
+    "text": "so there we",
+    "duration": 3.361,
+    "offset": 842.759,
+    "lang": "en"
+  },
+  {
+    "text": "go uh now what&amp;#39;s going on here are we",
+    "duration": 3.599,
+    "offset": 843.68,
+    "lang": "en"
+  },
+  {
+    "text": "still connected yes we&amp;#39;re still",
+    "duration": 3.04,
+    "offset": 846.12,
+    "lang": "en"
+  },
+  {
+    "text": "connected let&amp;#39;s go let&amp;#39;s go let&amp;#39;s go",
+    "duration": 3.8,
+    "offset": 847.279,
+    "lang": "en"
+  },
+  {
+    "text": "okay clear don&amp;#39;t clear that one because",
+    "duration": 3.479,
+    "offset": 849.16,
+    "lang": "en"
+  },
+  {
+    "text": "I want to I want to keep adding things",
+    "duration": 5.161,
+    "offset": 851.079,
+    "lang": "en"
+  },
+  {
+    "text": "to that clear that one there we go so",
+    "duration": 6.76,
+    "offset": 852.639,
+    "lang": "en"
+  },
+  {
+    "text": "compositions somebody put in your chat",
+    "duration": 6.64,
+    "offset": 856.24,
+    "lang": "en"
+  },
+  {
+    "text": "just to start us off um what you think",
+    "duration": 6.36,
+    "offset": 859.399,
+    "lang": "en"
+  },
+  {
+    "text": "compositions are good for uh and while I",
+    "duration": 4.92,
+    "offset": 862.88,
+    "lang": "en"
+  },
+  {
+    "text": "give you a chance to put that in the",
+    "duration": 4.561,
+    "offset": 865.759,
+    "lang": "en"
+  },
+  {
+    "text": "chat uh let let&amp;#39;s go back and see",
+    "duration": 4.399,
+    "offset": 867.8,
+    "lang": "en"
+  },
+  {
+    "text": "remember where we are let&amp;#39;s get rid of",
+    "duration": 4.519,
+    "offset": 870.32,
+    "lang": "en"
+  },
+  {
+    "text": "that as well remember where we are um in",
+    "duration": 5.721,
+    "offset": 872.199,
+    "lang": "en"
+  },
+  {
+    "text": "our back to basic sort of um repo and as",
+    "duration": 4.521,
+    "offset": 874.839,
+    "lang": "en"
+  },
+  {
+    "text": "as you know you can probably find if",
+    "duration": 3.719,
+    "offset": 877.92,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re not aware you can find the cap",
+    "duration": 6.76,
+    "offset": 879.36,
+    "lang": "en"
+  },
+  {
+    "text": "B2B B repo here I should add that to uh",
+    "duration": 6.681,
+    "offset": 881.639,
+    "lang": "en"
+  },
+  {
+    "text": "there we go um let&amp;#39;s put it at the top",
+    "duration": 3.68,
+    "offset": 886.12,
+    "lang": "en"
+  },
+  {
+    "text": "there oh no let&amp;#39;s put that there",
+    "duration": 5.879,
+    "offset": 888.32,
+    "lang": "en"
+  },
+  {
+    "text": "actually let&amp;#39;s put it as we go um Cap B",
+    "duration": 6.36,
+    "offset": 889.8,
+    "lang": "en"
+  },
+  {
+    "text": "Tob re",
+    "duration": 3.681,
+    "offset": 894.199,
+    "lang": "en"
+  },
+  {
+    "text": "working",
+    "duration": 4.16,
+    "offset": 896.16,
+    "lang": "en"
+  },
+  {
+    "text": "repository there there there we go",
+    "duration": 4.8,
+    "offset": 897.88,
+    "lang": "en"
+  },
+  {
+    "text": "perfect uh in that",
+    "duration": 5.16,
+    "offset": 900.32,
+    "lang": "en"
+  },
+  {
+    "text": "repo we have and we&amp;#39;ve been doing it",
+    "duration": 4.88,
+    "offset": 902.68,
+    "lang": "en"
+  },
+  {
+    "text": "deliberately simple we&amp;#39;ve got a",
+    "duration": 5.359,
+    "offset": 905.48,
+    "lang": "en"
+  },
+  {
+    "text": "single CDs file services. CDs in the",
+    "duration": 5.719,
+    "offset": 907.56,
+    "lang": "en"
+  },
+  {
+    "text": "sort of the project route uh we&amp;#39;ve got",
+    "duration": 5.12,
+    "offset": 910.839,
+    "lang": "en"
+  },
+  {
+    "text": "some data as well in a data directory in",
+    "duration": 5.8,
+    "offset": 913.279,
+    "lang": "en"
+  },
+  {
+    "text": "the project route okay um and in that in",
+    "duration": 7.361,
+    "offset": 915.959,
+    "lang": "en"
+  },
+  {
+    "text": "that CDs file we&amp;#39;ve got um a service and",
+    "duration": 6.961,
+    "offset": 919.079,
+    "lang": "en"
+  },
+  {
+    "text": "inside that service directly we sort of",
+    "duration": 6.12,
+    "offset": 923.32,
+    "lang": "en"
+  },
+  {
+    "text": "on the Fly Define two entities a book&amp;#39;s",
+    "duration": 5.4,
+    "offset": 926.04,
+    "lang": "en"
+  },
+  {
+    "text": "entity and an author&amp;#39;s entity and we",
+    "duration": 4.319,
+    "offset": 929.44,
+    "lang": "en"
+  },
+  {
+    "text": "have a relationship",
+    "duration": 5.24,
+    "offset": 931.44,
+    "lang": "en"
+  },
+  {
+    "text": "between uh those two entities with this",
+    "duration": 4.681,
+    "offset": 933.759,
+    "lang": "en"
+  },
+  {
+    "text": "Association now somebody put something",
+    "duration": 3.76,
+    "offset": 936.68,
+    "lang": "en"
+  },
+  {
+    "text": "in the chat please just to make sure the",
+    "duration": 5.6,
+    "offset": 938.44,
+    "lang": "en"
+  },
+  {
+    "text": "chat I&amp;#39;m not sure my chat is updating so",
+    "duration": 4.68,
+    "offset": 940.44,
+    "lang": "en"
+  },
+  {
+    "text": "or maybe I could put something in the",
+    "duration": 4.159,
+    "offset": 944.04,
+    "lang": "en"
+  },
+  {
+    "text": "chat hello from",
+    "duration": 5.399,
+    "offset": 945.12,
+    "lang": "en"
+  },
+  {
+    "text": "myself will that will that appear in the",
+    "duration": 3.681,
+    "offset": 948.199,
+    "lang": "en"
+  },
+  {
+    "text": "chat oh there there it is there you&amp;#39;re",
+    "duration": 4.401,
+    "offset": 950.519,
+    "lang": "en"
+  },
+  {
+    "text": "just all very quiet am I am I um am I",
+    "duration": 5.519,
+    "offset": 951.88,
+    "lang": "en"
+  },
+  {
+    "text": "boring you to death",
+    "duration": 5.52,
+    "offset": 954.92,
+    "lang": "en"
+  },
+  {
+    "text": "already somebody put what you think um",
+    "duration": 4.68,
+    "offset": 957.399,
+    "lang": "en"
+  },
+  {
+    "text": "what you think compositions are good for",
+    "duration": 4.28,
+    "offset": 960.44,
+    "lang": "en"
+  },
+  {
+    "text": "and we&amp;#39;ll get around to it um so there",
+    "duration": 6.2,
+    "offset": 962.079,
+    "lang": "en"
+  },
+  {
+    "text": "we go so um so we have this now before",
+    "duration": 5.16,
+    "offset": 964.72,
+    "lang": "en"
+  },
+  {
+    "text": "we get into compositions and before we",
+    "duration": 4.761,
+    "offset": 968.279,
+    "lang": "en"
+  },
+  {
+    "text": "start to modify this to move not move",
+    "duration": 5.36,
+    "offset": 969.88,
+    "lang": "en"
+  },
+  {
+    "text": "away from associations we can see that",
+    "duration": 3.479,
+    "offset": 973.04,
+    "lang": "en"
+  },
+  {
+    "text": "associations",
+    "duration": 4.36,
+    "offset": 975.24,
+    "lang": "en"
+  },
+  {
+    "text": "here are about expressing relationships",
+    "duration": 6.281,
+    "offset": 976.519,
+    "lang": "en"
+  },
+  {
+    "text": "between what essentially a I can I&amp;#39;ve",
+    "duration": 5.159,
+    "offset": 979.6,
+    "lang": "en"
+  },
+  {
+    "text": "already sort of seen the pattern of text",
+    "duration": 3.76,
+    "offset": 982.8,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;ve not read the text from Henrik but I",
+    "duration": 4.601,
+    "offset": 984.759,
+    "lang": "en"
+  },
+  {
+    "text": "think Henrik is absolutely beautifully",
+    "duration": 5.56,
+    "offset": 986.56,
+    "lang": "en"
+  },
+  {
+    "text": "spot on and and I was hoping that we",
+    "duration": 5.399,
+    "offset": 989.36,
+    "lang": "en"
+  },
+  {
+    "text": "would allow ourselves to get to exactly",
+    "duration": 5.839,
+    "offset": 992.12,
+    "lang": "en"
+  },
+  {
+    "text": "that um so Daniel says classical header",
+    "duration": 6.64,
+    "offset": 994.759,
+    "lang": "en"
+  },
+  {
+    "text": "items coming up wink exactly exactly",
+    "duration": 8.081,
+    "offset": 997.959,
+    "lang": "en"
+  },
+  {
+    "text": "exactly exactly now so in contrast to",
+    "duration": 6.961,
+    "offset": 1001.399,
+    "lang": "en"
+  },
+  {
+    "text": "that which we&amp;#39;ll de into in a second",
+    "duration": 5.039,
+    "offset": 1006.04,
+    "lang": "en"
+  },
+  {
+    "text": "books are independent things authors are",
+    "duration": 5.12,
+    "offset": 1008.36,
+    "lang": "en"
+  },
+  {
+    "text": "independent things you know a book",
+    "duration": 5.601,
+    "offset": 1011.079,
+    "lang": "en"
+  },
+  {
+    "text": "exists as a as a thing an author a human",
+    "duration": 5.44,
+    "offset": 1013.48,
+    "lang": "en"
+  },
+  {
+    "text": "exists as a thing and they can be indep",
+    "duration": 4.2,
+    "offset": 1016.68,
+    "lang": "en"
+  },
+  {
+    "text": "dependent right once you once an",
+    "duration": 3.52,
+    "offset": 1018.92,
+    "lang": "en"
+  },
+  {
+    "text": "author&amp;#39;s written a book that book still",
+    "duration": 5.12,
+    "offset": 1020.88,
+    "lang": "en"
+  },
+  {
+    "text": "exists so that&amp;#39;s why um there&amp;#39;s no sort",
+    "duration": 7.32,
+    "offset": 1022.44,
+    "lang": "en"
+  },
+  {
+    "text": "of otherwise inherent dependency between",
+    "duration": 6.36,
+    "offset": 1026,
+    "lang": "en"
+  },
+  {
+    "text": "those two and the relationship in this",
+    "duration": 5.6,
+    "offset": 1029.76,
+    "lang": "en"
+  },
+  {
+    "text": "case then we express with an association",
+    "duration": 4.719,
+    "offset": 1032.36,
+    "lang": "en"
+  },
+  {
+    "text": "an author is associated with a book A",
+    "duration": 4.04,
+    "offset": 1035.36,
+    "lang": "en"
+  },
+  {
+    "text": "book is associated with an author right",
+    "duration": 5.041,
+    "offset": 1037.079,
+    "lang": "en"
+  },
+  {
+    "text": "however however however however has as",
+    "duration": 5.96,
+    "offset": 1039.4,
+    "lang": "en"
+  },
+  {
+    "text": "Henrik Henrik uh says absolutely",
+    "duration": 6.16,
+    "offset": 1042.12,
+    "lang": "en"
+  },
+  {
+    "text": "beautiful and refers to it as classical",
+    "duration": 4.72,
+    "offset": 1045.36,
+    "lang": "en"
+  },
+  {
+    "text": "why is the word classical use here by",
+    "duration": 4.16,
+    "offset": 1048.28,
+    "lang": "en"
+  },
+  {
+    "text": "Henrik because we&amp;#39;re thinking back",
+    "duration": 4.68,
+    "offset": 1050.08,
+    "lang": "en"
+  },
+  {
+    "text": "to I don&amp;#39;t mean back as in you old",
+    "duration": 4.239,
+    "offset": 1052.44,
+    "lang": "en"
+  },
+  {
+    "text": "fashioned I mean just thinking",
+    "duration": 5.799,
+    "offset": 1054.76,
+    "lang": "en"
+  },
+  {
+    "text": "about the classic the the",
+    "duration": 8.801,
+    "offset": 1056.679,
+    "lang": "en"
+  },
+  {
+    "text": "normal unit of of of of work almost in",
+    "duration": 8.321,
+    "offset": 1060.559,
+    "lang": "en"
+  },
+  {
+    "text": "sap R2 and R3 systems S4 H Hana",
+    "duration": 6.4,
+    "offset": 1065.48,
+    "lang": "en"
+  },
+  {
+    "text": "documents a document header and document",
+    "duration": 6.72,
+    "offset": 1068.88,
+    "lang": "en"
+  },
+  {
+    "text": "items or positions okay and that&amp;#39;s and",
+    "duration": 7.52,
+    "offset": 1071.88,
+    "lang": "en"
+  },
+  {
+    "text": "that is really the in my in my small",
+    "duration": 7.88,
+    "offset": 1075.6,
+    "lang": "en"
+  },
+  {
+    "text": "brain the main raise onra of the",
+    "duration": 6.6,
+    "offset": 1079.4,
+    "lang": "en"
+  },
+  {
+    "text": "composition type of relationship it&amp;#39;s",
+    "duration": 5.4,
+    "offset": 1083.48,
+    "lang": "en"
+  },
+  {
+    "text": "where you have a relationship between a",
+    "duration": 6.32,
+    "offset": 1086,
+    "lang": "en"
+  },
+  {
+    "text": "parent and children that are dependent",
+    "duration": 7.44,
+    "offset": 1088.88,
+    "lang": "en"
+  },
+  {
+    "text": "upon that parent and and yes while while",
+    "duration": 6.04,
+    "offset": 1092.32,
+    "lang": "en"
+  },
+  {
+    "text": "p parent child in the human in the human",
+    "duration": 3.32,
+    "offset": 1096.32,
+    "lang": "en"
+  },
+  {
+    "text": "context is still you know they&amp;#39;re still",
+    "duration": 5.16,
+    "offset": 1098.36,
+    "lang": "en"
+  },
+  {
+    "text": "independent things but it it makes it",
+    "duration": 5.919,
+    "offset": 1099.64,
+    "lang": "en"
+  },
+  {
+    "text": "makes more sense to think about",
+    "duration": 4.08,
+    "offset": 1103.52,
+    "lang": "en"
+  },
+  {
+    "text": "positions of document items of a",
+    "duration": 5.521,
+    "offset": 1105.559,
+    "lang": "en"
+  },
+  {
+    "text": "document and as not really having that",
+    "duration": 6.12,
+    "offset": 1107.6,
+    "lang": "en"
+  },
+  {
+    "text": "much meaning outside the context of that",
+    "duration": 4.12,
+    "offset": 1111.08,
+    "lang": "en"
+  },
+  {
+    "text": "document",
+    "duration": 4.079,
+    "offset": 1113.72,
+    "lang": "en"
+  },
+  {
+    "text": "okay so where you have a dependent",
+    "duration": 4,
+    "offset": 1115.2,
+    "lang": "en"
+  },
+  {
+    "text": "relationship does it say that in the",
+    "duration": 4.401,
+    "offset": 1117.799,
+    "lang": "en"
+  },
+  {
+    "text": "thing let&amp;#39;s have a look um uh yes",
+    "duration": 5,
+    "offset": 1119.2,
+    "lang": "en"
+  },
+  {
+    "text": "contained in there we go comp",
+    "duration": 4.64,
+    "offset": 1122.2,
+    "lang": "en"
+  },
+  {
+    "text": "compositions represent contained in",
+    "duration": 4.88,
+    "offset": 1124.2,
+    "lang": "en"
+  },
+  {
+    "text": "relationships okay so when we want to",
+    "duration": 4.44,
+    "offset": 1126.84,
+    "lang": "en"
+  },
+  {
+    "text": "express a classic thing like a doc a",
+    "duration": 4.959,
+    "offset": 1129.08,
+    "lang": "en"
+  },
+  {
+    "text": "purchase order with a header and items",
+    "duration": 5.44,
+    "offset": 1131.28,
+    "lang": "en"
+  },
+  {
+    "text": "or for example I know a a Goods receipt",
+    "duration": 6.361,
+    "offset": 1134.039,
+    "lang": "en"
+  },
+  {
+    "text": "document or a whatever invoice header",
+    "duration": 7.36,
+    "offset": 1136.72,
+    "lang": "en"
+  },
+  {
+    "text": "items this whole sap Enterprise you know",
+    "duration": 7.2,
+    "offset": 1140.4,
+    "lang": "en"
+  },
+  {
+    "text": "basic unit of work is a document right",
+    "duration": 6.88,
+    "offset": 1144.08,
+    "lang": "en"
+  },
+  {
+    "text": "so um Daniel Scher hello world hello",
+    "duration": 5.76,
+    "offset": 1147.6,
+    "lang": "en"
+  },
+  {
+    "text": "world Daniel nice have you Daniel on the",
+    "duration": 4.56,
+    "offset": 1150.96,
+    "lang": "en"
+  },
+  {
+    "text": "on the on the on the on the stream Sunny",
+    "duration": 3.6,
+    "offset": 1153.36,
+    "lang": "en"
+  },
+  {
+    "text": "hello everyone and DJ Adams good",
+    "duration": 2.8,
+    "offset": 1155.52,
+    "lang": "en"
+  },
+  {
+    "text": "afternoon from Mumbai good afternoon to",
+    "duration": 3.04,
+    "offset": 1156.96,
+    "lang": "en"
+  },
+  {
+    "text": "you in Mumbai as well and zahed",
+    "duration": 3.839,
+    "offset": 1158.32,
+    "lang": "en"
+  },
+  {
+    "text": "compositions are good to create document",
+    "duration": 6.48,
+    "offset": 1160,
+    "lang": "en"
+  },
+  {
+    "text": "structures fantastic so zahed and Henrik",
+    "duration": 7.681,
+    "offset": 1162.159,
+    "lang": "en"
+  },
+  {
+    "text": "are absolutely spot on so and we can see",
+    "duration": 4.84,
+    "offset": 1166.48,
+    "lang": "en"
+  },
+  {
+    "text": "here here&amp;#39;s an example right modeling",
+    "duration": 3.52,
+    "offset": 1169.84,
+    "lang": "en"
+  },
+  {
+    "text": "document structures the clues in the",
+    "duration": 5.12,
+    "offset": 1171.32,
+    "lang": "en"
+  },
+  {
+    "text": "name right the clues in the title entity",
+    "duration": 5.76,
+    "offset": 1173.36,
+    "lang": "en"
+  },
+  {
+    "text": "orders orders has this thing called",
+    "duration": 4.719,
+    "offset": 1176.44,
+    "lang": "en"
+  },
+  {
+    "text": "items notice the capital I right we&amp;#39;re",
+    "duration": 4.48,
+    "offset": 1179.12,
+    "lang": "en"
+  },
+  {
+    "text": "moving away in or away but in this",
+    "duration": 4.201,
+    "offset": 1181.159,
+    "lang": "en"
+  },
+  {
+    "text": "particular case where we&amp;#39;re",
+    "duration": 4.48,
+    "offset": 1183.6,
+    "lang": "en"
+  },
+  {
+    "text": "expressing uh or defining an element",
+    "duration": 6.28,
+    "offset": 1185.36,
+    "lang": "en"
+  },
+  {
+    "text": "which is is being defined when when",
+    "duration": 5.16,
+    "offset": 1188.08,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re defining an element which is being",
+    "duration": 5.519,
+    "offset": 1191.64,
+    "lang": "en"
+  },
+  {
+    "text": "described as being of type composition",
+    "duration": 5.96,
+    "offset": 1193.24,
+    "lang": "en"
+  },
+  {
+    "text": "you can see here that the con ition is",
+    "duration": 4.681,
+    "offset": 1197.159,
+    "lang": "en"
+  },
+  {
+    "text": "to actually capitalize the first letter",
+    "duration": 5.08,
+    "offset": 1199.2,
+    "lang": "en"
+  },
+  {
+    "text": "of that element name items okay and it&amp;#39;s",
+    "duration": 4.959,
+    "offset": 1201.84,
+    "lang": "en"
+  },
+  {
+    "text": "a composition of many order",
+    "duration": 5.04,
+    "offset": 1204.28,
+    "lang": "en"
+  },
+  {
+    "text": "items and then we have this this on",
+    "duration": 4.76,
+    "offset": 1206.799,
+    "lang": "en"
+  },
+  {
+    "text": "condition we&amp;#39;ll come to that later and",
+    "duration": 5.239,
+    "offset": 1209.32,
+    "lang": "en"
+  },
+  {
+    "text": "these order items here is another entity",
+    "duration": 5.161,
+    "offset": 1211.559,
+    "lang": "en"
+  },
+  {
+    "text": "right okay so we&amp;#39;ve still got two",
+    "duration": 4.321,
+    "offset": 1214.559,
+    "lang": "en"
+  },
+  {
+    "text": "entities maybe next week we&amp;#39;ll have to",
+    "duration": 4.4,
+    "offset": 1216.72,
+    "lang": "en"
+  },
+  {
+    "text": "do this next week but we can use aspects",
+    "duration": 3.919,
+    "offset": 1218.88,
+    "lang": "en"
+  },
+  {
+    "text": "to have sort of",
+    "duration": 6.32,
+    "offset": 1221.12,
+    "lang": "en"
+  },
+  {
+    "text": "inline uh contained entities down there",
+    "duration": 7.081,
+    "offset": 1222.799,
+    "lang": "en"
+  },
+  {
+    "text": "for example how beautiful is that right",
+    "duration": 4.359,
+    "offset": 1227.44,
+    "lang": "en"
+  },
+  {
+    "text": "but we&amp;#39;ll do that maybe next week let&amp;#39;s",
+    "duration": 6.36,
+    "offset": 1229.88,
+    "lang": "en"
+  },
+  {
+    "text": "get Basics out the way the basics Basics",
+    "duration": 6.041,
+    "offset": 1231.799,
+    "lang": "en"
+  },
+  {
+    "text": "so",
+    "duration": 4.84,
+    "offset": 1236.24,
+    "lang": "en"
+  },
+  {
+    "text": "associations independent entities",
+    "duration": 6.6,
+    "offset": 1237.84,
+    "lang": "en"
+  },
+  {
+    "text": "compositions contained in relationships",
+    "duration": 5,
+    "offset": 1241.08,
+    "lang": "en"
+  },
+  {
+    "text": "but before we do anything else I think",
+    "duration": 4.68,
+    "offset": 1244.44,
+    "lang": "en"
+  },
+  {
+    "text": "819 I think what we should do is um sun",
+    "duration": 4.4,
+    "offset": 1246.08,
+    "lang": "en"
+  },
+  {
+    "text": "says this is my first time watching DJ",
+    "duration": 3.12,
+    "offset": 1249.12,
+    "lang": "en"
+  },
+  {
+    "text": "Adams in capitals video live I always",
+    "duration": 3.76,
+    "offset": 1250.48,
+    "lang": "en"
+  },
+  {
+    "text": "use recorded videos well welcome sunny",
+    "duration": 3.919,
+    "offset": 1252.24,
+    "lang": "en"
+  },
+  {
+    "text": "and thanks thanks for joining live I",
+    "duration": 4.319,
+    "offset": 1254.24,
+    "lang": "en"
+  },
+  {
+    "text": "hope you um take advantage of and enjoy",
+    "duration": 3.88,
+    "offset": 1256.159,
+    "lang": "en"
+  },
+  {
+    "text": "enjoy the chat which you are doing which",
+    "duration": 3.48,
+    "offset": 1258.559,
+    "lang": "en"
+  },
+  {
+    "text": "is fantastic you make you you&amp;#39;re um",
+    "duration": 3.841,
+    "offset": 1260.039,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re a good example and a good role",
+    "duration": 4.52,
+    "offset": 1262.039,
+    "lang": "en"
+  },
+  {
+    "text": "model for uh for everyone here who joins",
+    "duration": 4.6,
+    "offset": 1263.88,
+    "lang": "en"
+  },
+  {
+    "text": "live chat chat chat give me your opinion",
+    "duration": 3.24,
+    "offset": 1266.559,
+    "lang": "en"
+  },
+  {
+    "text": "give me your questions as many as you",
+    "duration": 3.439,
+    "offset": 1268.48,
+    "lang": "en"
+  },
+  {
+    "text": "want um I can&amp;#39;t answer any of them maybe",
+    "duration": 3.76,
+    "offset": 1269.799,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t know but anyway let&amp;#39;s let&amp;#39;s keep",
+    "duration": 4.481,
+    "offset": 1271.919,
+    "lang": "en"
+  },
+  {
+    "text": "going so what we&amp;#39;re going to do is we",
+    "duration": 5.081,
+    "offset": 1273.559,
+    "lang": "en"
+  },
+  {
+    "text": "going to move away from this sort of",
+    "duration": 5.56,
+    "offset": 1276.4,
+    "lang": "en"
+  },
+  {
+    "text": "simple single Services only and data and",
+    "duration": 6.279,
+    "offset": 1278.64,
+    "lang": "en"
+  },
+  {
+    "text": "then move back to where we started from",
+    "duration": 5.04,
+    "offset": 1281.96,
+    "lang": "en"
+  },
+  {
+    "text": "right at the start when we do a CDs in",
+    "duration": 6.88,
+    "offset": 1284.919,
+    "lang": "en"
+  },
+  {
+    "text": "fact let&amp;#39;s go over here uh CDs init uh",
+    "duration": 8.08,
+    "offset": 1287,
+    "lang": "en"
+  },
+  {
+    "text": "temp uh temp",
+    "duration": 7.041,
+    "offset": 1291.799,
+    "lang": "en"
+  },
+  {
+    "text": "project if we go to Temp project",
+    "duration": 6.839,
+    "offset": 1295.08,
+    "lang": "en"
+  },
+  {
+    "text": "now and have that we have we get three",
+    "duration": 5.28,
+    "offset": 1298.84,
+    "lang": "en"
+  },
+  {
+    "text": "directories as we all know this now",
+    "duration": 3.281,
+    "offset": 1301.919,
+    "lang": "en"
+  },
+  {
+    "text": "because we&amp;#39;ve done we know we looked at",
+    "duration": 2.84,
+    "offset": 1304.12,
+    "lang": "en"
+  },
+  {
+    "text": "the other previous episodes here we get",
+    "duration": 3.76,
+    "offset": 1305.2,
+    "lang": "en"
+  },
+  {
+    "text": "an app director a DB director and server",
+    "duration": 3.28,
+    "offset": 1306.96,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going to go back to that now so",
+    "duration": 4.319,
+    "offset": 1308.96,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s go back there from RF temp from",
+    "duration": 6.039,
+    "offset": 1310.24,
+    "lang": "en"
+  },
+  {
+    "text": "temp project and let&amp;#39;s make deer uh",
+    "duration": 5.52,
+    "offset": 1313.279,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s make a DB directory and also a",
+    "duration": 4.201,
+    "offset": 1316.279,
+    "lang": "en"
+  },
+  {
+    "text": "serve",
+    "duration": 4.921,
+    "offset": 1318.799,
+    "lang": "en"
+  },
+  {
+    "text": "directory okay um and in those",
+    "duration": 6.88,
+    "offset": 1320.48,
+    "lang": "en"
+  },
+  {
+    "text": "directories ahim hello sap myap friends",
+    "duration": 6.28,
+    "offset": 1323.72,
+    "lang": "en"
+  },
+  {
+    "text": "uh my sap friends that&amp;#39;s a good Emoji uh",
+    "duration": 5.72,
+    "offset": 1327.36,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s a good name as well actually um",
+    "duration": 5.799,
+    "offset": 1330,
+    "lang": "en"
+  },
+  {
+    "text": "uh so if we do that oh Sunny has my",
+    "duration": 4.24,
+    "offset": 1333.08,
+    "lang": "en"
+  },
+  {
+    "text": "question which is good environmental cap",
+    "duration": 3.921,
+    "offset": 1335.799,
+    "lang": "en"
+  },
+  {
+    "text": "mass or Visual Studio Cod either are",
+    "duration": 6.2,
+    "offset": 1337.32,
+    "lang": "en"
+  },
+  {
+    "text": "great either have the same um that&amp;#39;s a",
+    "duration": 5.88,
+    "offset": 1339.72,
+    "lang": "en"
+  },
+  {
+    "text": "good question either have have the same",
+    "duration": 3.159,
+    "offset": 1343.52,
+    "lang": "en"
+  },
+  {
+    "text": "uh what&amp;#39;s it called where is it called",
+    "duration": 3.8,
+    "offset": 1345.6,
+    "lang": "en"
+  },
+  {
+    "text": "where is it ah Dev it&amp;#39;s in the dev",
+    "duration": 4.801,
+    "offset": 1346.679,
+    "lang": "en"
+  },
+  {
+    "text": "container don&amp;#39;t locally installed um the",
+    "duration": 4.759,
+    "offset": 1349.4,
+    "lang": "en"
+  },
+  {
+    "text": "same sap CDs Lang language",
+    "duration": 6.52,
+    "offset": 1351.48,
+    "lang": "en"
+  },
+  {
+    "text": "support extension which makes developing",
+    "duration": 6.801,
+    "offset": 1354.159,
+    "lang": "en"
+  },
+  {
+    "text": "cap stuff magic it&amp;#39;s fantastic so if you",
+    "duration": 6.24,
+    "offset": 1358,
+    "lang": "en"
+  },
+  {
+    "text": "want you know a cloud-based um uh",
+    "duration": 4.8,
+    "offset": 1360.96,
+    "lang": "en"
+  },
+  {
+    "text": "approach then the business application",
+    "duration": 3.36,
+    "offset": 1364.24,
+    "lang": "en"
+  },
+  {
+    "text": "studio if you want uh you know a local",
+    "duration": 3.44,
+    "offset": 1365.76,
+    "lang": "en"
+  },
+  {
+    "text": "approach use vs code but actually",
+    "duration": 3.36,
+    "offset": 1367.6,
+    "lang": "en"
+  },
+  {
+    "text": "they&amp;#39;re the same thing you know business",
+    "duration": 3.28,
+    "offset": 1369.2,
+    "lang": "en"
+  },
+  {
+    "text": "application studi these days based on",
+    "duration": 2.88,
+    "offset": 1370.96,
+    "lang": "en"
+  },
+  {
+    "text": "code OSS which is the open source",
+    "duration": 3.88,
+    "offset": 1372.48,
+    "lang": "en"
+  },
+  {
+    "text": "portion of vs code and there&amp;#39;s all sorts",
+    "duration": 3.92,
+    "offset": 1373.84,
+    "lang": "en"
+  },
+  {
+    "text": "of relationships between them you can",
+    "duration": 3.36,
+    "offset": 1376.36,
+    "lang": "en"
+  },
+  {
+    "text": "sort of you know go from vs code and you",
+    "duration": 4.64,
+    "offset": 1377.76,
+    "lang": "en"
+  },
+  {
+    "text": "can attach to a Dev space in B and all",
+    "duration": 4.68,
+    "offset": 1379.72,
+    "lang": "en"
+  },
+  {
+    "text": "sorts of different things so it&amp;#39;s the",
+    "duration": 4.24,
+    "offset": 1382.4,
+    "lang": "en"
+  },
+  {
+    "text": "same thing so great question though uh I",
+    "duration": 4,
+    "offset": 1384.4,
+    "lang": "en"
+  },
+  {
+    "text": "think some of the previous uh episodes",
+    "duration": 4.36,
+    "offset": 1386.64,
+    "lang": "en"
+  },
+  {
+    "text": "we talked a little bit about that okay",
+    "duration": 4.12,
+    "offset": 1388.4,
+    "lang": "en"
+  },
+  {
+    "text": "so now what I&amp;#39;m going to do I&amp;#39;m going to",
+    "duration": 3.96,
+    "offset": 1391,
+    "lang": "en"
+  },
+  {
+    "text": "move uh or let me copy first of I&amp;#39;ll",
+    "duration": 6.48,
+    "offset": 1392.52,
+    "lang": "en"
+  },
+  {
+    "text": "copy Services into uh DB let&amp;#39;s call it",
+    "duration": 8.56,
+    "offset": 1394.96,
+    "lang": "en"
+  },
+  {
+    "text": "schema. CDs okay uh and then open that",
+    "duration": 9,
+    "offset": 1399,
+    "lang": "en"
+  },
+  {
+    "text": "uh uh code schema CDs uh Services",
+    "duration": 7.039,
+    "offset": 1403.52,
+    "lang": "en"
+  },
+  {
+    "text": "services on that one there there we go",
+    "duration": 6.679,
+    "offset": 1408,
+    "lang": "en"
+  },
+  {
+    "text": "uh there let&amp;#39;s move that there now I&amp;#39;ve",
+    "duration": 7.041,
+    "offset": 1410.559,
+    "lang": "en"
+  },
+  {
+    "text": "now split off let&amp;#39;s go back to the um",
+    "duration": 5.961,
+    "offset": 1414.679,
+    "lang": "en"
+  },
+  {
+    "text": "thingy here I&amp;#39;ve now split off uh I want",
+    "duration": 4.52,
+    "offset": 1417.6,
+    "lang": "en"
+  },
+  {
+    "text": "to split off here so we got to get rid",
+    "duration": 3.96,
+    "offset": 1420.64,
+    "lang": "en"
+  },
+  {
+    "text": "of services and get rid of that and",
+    "duration": 5.32,
+    "offset": 1422.12,
+    "lang": "en"
+  },
+  {
+    "text": "format that i&amp;#39; I&amp;#39;ve worked out why I",
+    "duration": 4.559,
+    "offset": 1424.6,
+    "lang": "en"
+  },
+  {
+    "text": "can&amp;#39;t do this keyboard shortcut because",
+    "duration": 3.4,
+    "offset": 1427.44,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m already using that keyboard shortcut",
+    "duration": 3.561,
+    "offset": 1429.159,
+    "lang": "en"
+  },
+  {
+    "text": "for amethyst my window manager so there",
+    "duration": 4.079,
+    "offset": 1430.84,
+    "lang": "en"
+  },
+  {
+    "text": "we go so there we go let&amp;#39;s let&amp;#39;s have",
+    "duration": 4.16,
+    "offset": 1432.72,
+    "lang": "en"
+  },
+  {
+    "text": "some some sort of beautiful formatting",
+    "duration": 4.24,
+    "offset": 1434.919,
+    "lang": "en"
+  },
+  {
+    "text": "so now we&amp;#39;ve moved from defining having",
+    "duration": 4.399,
+    "offset": 1436.88,
+    "lang": "en"
+  },
+  {
+    "text": "these entities defined inside a service",
+    "duration": 3.841,
+    "offset": 1439.159,
+    "lang": "en"
+  },
+  {
+    "text": "inside a services. CDS file in the",
+    "duration": 4.481,
+    "offset": 1441.279,
+    "lang": "en"
+  },
+  {
+    "text": "project route to defining these just the",
+    "duration": 4.96,
+    "offset": 1443,
+    "lang": "en"
+  },
+  {
+    "text": "schema layer so you know in the DB",
+    "duration": 4.2,
+    "offset": 1445.76,
+    "lang": "en"
+  },
+  {
+    "text": "directory more like persistence things",
+    "duration": 4.599,
+    "offset": 1447.96,
+    "lang": "en"
+  },
+  {
+    "text": "okay so got books okay and and and",
+    "duration": 5.52,
+    "offset": 1449.96,
+    "lang": "en"
+  },
+  {
+    "text": "authors and now we&amp;#39;re also going I&amp;#39;m",
+    "duration": 5.921,
+    "offset": 1452.559,
+    "lang": "en"
+  },
+  {
+    "text": "also going to copy the services into uh",
+    "duration": 5.72,
+    "offset": 1455.48,
+    "lang": "en"
+  },
+  {
+    "text": "serve and call it main. CDs for example",
+    "duration": 7.72,
+    "offset": 1458.48,
+    "lang": "en"
+  },
+  {
+    "text": "right um and code serve main.",
+    "duration": 8.44,
+    "offset": 1461.2,
+    "lang": "en"
+  },
+  {
+    "text": "CDs and now we get get rid of that and",
+    "duration": 5.16,
+    "offset": 1466.2,
+    "lang": "en"
+  },
+  {
+    "text": "we want to bring oh actually want the",
+    "duration": 4.68,
+    "offset": 1469.64,
+    "lang": "en"
+  },
+  {
+    "text": "services but now we want to bring in",
+    "duration": 5.439,
+    "offset": 1471.36,
+    "lang": "en"
+  },
+  {
+    "text": "something in there okay let me move that",
+    "duration": 3.68,
+    "offset": 1474.32,
+    "lang": "en"
+  },
+  {
+    "text": "across to",
+    "duration": 3.921,
+    "offset": 1476.799,
+    "lang": "en"
+  },
+  {
+    "text": "here uh there I&amp;#39;m put my head down the",
+    "duration": 5.279,
+    "offset": 1478,
+    "lang": "en"
+  },
+  {
+    "text": "bottom okay do that okay so this is",
+    "duration": 4.439,
+    "offset": 1480.72,
+    "lang": "en"
+  },
+  {
+    "text": "where we start to think",
+    "duration": 4.801,
+    "offset": 1483.279,
+    "lang": "en"
+  },
+  {
+    "text": "about not separation of concerns but",
+    "duration": 6.281,
+    "offset": 1485.159,
+    "lang": "en"
+  },
+  {
+    "text": "using the beauty of the CDs language",
+    "duration": 5.76,
+    "offset": 1488.08,
+    "lang": "en"
+  },
+  {
+    "text": "itself in how it enables us and",
+    "duration": 5.4,
+    "offset": 1491.44,
+    "lang": "en"
+  },
+  {
+    "text": "encourages us really to think about",
+    "duration": 5.04,
+    "offset": 1493.84,
+    "lang": "en"
+  },
+  {
+    "text": "cleanly and",
+    "duration": 5,
+    "offset": 1496.84,
+    "lang": "en"
+  },
+  {
+    "text": "separately defining the things that make",
+    "duration": 4.96,
+    "offset": 1498.88,
+    "lang": "en"
+  },
+  {
+    "text": "it a little bit more maintainable and",
+    "duration": 6.959,
+    "offset": 1501.84,
+    "lang": "en"
+  },
+  {
+    "text": "clean and beautiful so over here what we",
+    "duration": 7.28,
+    "offset": 1503.84,
+    "lang": "en"
+  },
+  {
+    "text": "want to do is give it give give these",
+    "duration": 4.441,
+    "offset": 1508.799,
+    "lang": "en"
+  },
+  {
+    "text": "entities a name space we don&amp;#39;t have to",
+    "duration": 5.64,
+    "offset": 1511.12,
+    "lang": "en"
+  },
+  {
+    "text": "but it makes our lives easier and also",
+    "duration": 4.6,
+    "offset": 1513.24,
+    "lang": "en"
+  },
+  {
+    "text": "of course when you start working in",
+    "duration": 2.68,
+    "offset": 1516.76,
+    "lang": "en"
+  },
+  {
+    "text": "larger projects larger than just one",
+    "duration": 4.48,
+    "offset": 1517.84,
+    "lang": "en"
+  },
+  {
+    "text": "person you know it makes it a little bit",
+    "duration": 4.8,
+    "offset": 1519.44,
+    "lang": "en"
+  },
+  {
+    "text": "more",
+    "duration": 5.359,
+    "offset": 1522.32,
+    "lang": "en"
+  },
+  {
+    "text": "um explicit in what you&amp;#39;re changing what",
+    "duration": 4.96,
+    "offset": 1524.24,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re importing and so on so I&amp;#39;m going",
+    "duration": 8,
+    "offset": 1527.679,
+    "lang": "en"
+  },
+  {
+    "text": "to say uh Nam space um or. macro think",
+    "duration": 8.24,
+    "offset": 1529.2,
+    "lang": "en"
+  },
+  {
+    "text": "of my um think it might sort of what&amp;#39;s",
+    "duration": 4,
+    "offset": 1535.679,
+    "lang": "en"
+  },
+  {
+    "text": "it called k.org domain name right",
+    "duration": 6.44,
+    "offset": 1537.44,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;ll do right so in this file we&amp;#39;ve",
+    "duration": 5.921,
+    "offset": 1539.679,
+    "lang": "en"
+  },
+  {
+    "text": "now got the same entities and this",
+    "duration": 4.08,
+    "offset": 1543.88,
+    "lang": "en"
+  },
+  {
+    "text": "aspect I could I could import the aspect",
+    "duration": 4.199,
+    "offset": 1545.6,
+    "lang": "en"
+  },
+  {
+    "text": "from sap CDs comma but leave that there",
+    "duration": 4.079,
+    "offset": 1547.96,
+    "lang": "en"
+  },
+  {
+    "text": "for now let&amp;#39;s not go down that route 824",
+    "duration": 7.12,
+    "offset": 1549.799,
+    "lang": "en"
+  },
+  {
+    "text": "DJ come on I&amp;#39;m sort of panicking um and",
+    "duration": 9.601,
+    "offset": 1552.039,
+    "lang": "en"
+  },
+  {
+    "text": "now we can go into here and say using",
+    "duration": 6.441,
+    "offset": 1556.919,
+    "lang": "en"
+  },
+  {
+    "text": "org",
+    "duration": 3.96,
+    "offset": 1561.64,
+    "lang": "en"
+  },
+  {
+    "text": "from DB",
+    "duration": 6.16,
+    "offset": 1563.36,
+    "lang": "en"
+  },
+  {
+    "text": "schema Deb what&amp;#39;s going on here schema",
+    "duration": 6.24,
+    "offset": 1565.6,
+    "lang": "en"
+  },
+  {
+    "text": "we don&amp;#39;t need the CDs um what&amp;#39;s it",
+    "duration": 4,
+    "offset": 1569.52,
+    "lang": "en"
+  },
+  {
+    "text": "called the CDs extension because that&amp;#39;s",
+    "duration": 4.199,
+    "offset": 1571.84,
+    "lang": "en"
+  },
+  {
+    "text": "automatic using or schema there we go",
+    "duration": 3.68,
+    "offset": 1573.52,
+    "lang": "en"
+  },
+  {
+    "text": "and we get that squidly underline",
+    "duration": 2.601,
+    "offset": 1576.039,
+    "lang": "en"
+  },
+  {
+    "text": "because of course it&amp;#39;s saying DJ you",
+    "duration": 3.479,
+    "offset": 1577.2,
+    "lang": "en"
+  },
+  {
+    "text": "haven&amp;#39;t used or but we&amp;#39;re going to do",
+    "duration": 4.32,
+    "offset": 1578.64,
+    "lang": "en"
+  },
+  {
+    "text": "that now so so now we can sort of bring",
+    "duration": 4.561,
+    "offset": 1580.679,
+    "lang": "en"
+  },
+  {
+    "text": "in those two entities into our service",
+    "duration": 3.839,
+    "offset": 1582.96,
+    "lang": "en"
+  },
+  {
+    "text": "and have exactly the same as what we had",
+    "duration": 3.76,
+    "offset": 1585.24,
+    "lang": "en"
+  },
+  {
+    "text": "before in that same",
+    "duration": 4.401,
+    "offset": 1586.799,
+    "lang": "en"
+  },
+  {
+    "text": "in in that single services. CDs file",
+    "duration": 4.52,
+    "offset": 1589,
+    "lang": "en"
+  },
+  {
+    "text": "which had both in right so we&amp;#39;ve now",
+    "duration": 5.44,
+    "offset": 1591.2,
+    "lang": "en"
+  },
+  {
+    "text": "separated out the service definition",
+    "duration": 7,
+    "offset": 1593.52,
+    "lang": "en"
+  },
+  {
+    "text": "from the schema level definition entity",
+    "duration": 6.44,
+    "offset": 1596.64,
+    "lang": "en"
+  },
+  {
+    "text": "books as",
+    "duration": 5.519,
+    "offset": 1600.52,
+    "lang": "en"
+  },
+  {
+    "text": "projection on",
+    "duration": 6.12,
+    "offset": 1603.08,
+    "lang": "en"
+  },
+  {
+    "text": "org. Q look at that see see so going",
+    "duration": 4.601,
+    "offset": 1606.039,
+    "lang": "en"
+  },
+  {
+    "text": "back to your question Sunny whether you",
+    "duration": 3.44,
+    "offset": 1609.2,
+    "lang": "en"
+  },
+  {
+    "text": "use uh business application Studio or",
+    "duration": 3.48,
+    "offset": 1610.64,
+    "lang": "en"
+  },
+  {
+    "text": "whether you use vs code with this",
+    "duration": 3.48,
+    "offset": 1612.64,
+    "lang": "en"
+  },
+  {
+    "text": "extension you get this",
+    "duration": 4.64,
+    "offset": 1614.12,
+    "lang": "en"
+  },
+  {
+    "text": "beauty cacro do books",
+    "duration": 4.96,
+    "offset": 1616.12,
+    "lang": "en"
+  },
+  {
+    "text": "and then just have that there",
+    "duration": 5.519,
+    "offset": 1618.76,
+    "lang": "en"
+  },
+  {
+    "text": "authors and there let&amp;#39;s have that save",
+    "duration": 6.839,
+    "offset": 1621.08,
+    "lang": "en"
+  },
+  {
+    "text": "that why don&amp;#39;t we also do a CDS watch",
+    "duration": 7.921,
+    "offset": 1624.279,
+    "lang": "en"
+  },
+  {
+    "text": "okay uh so uh huno welcome huno says and",
+    "duration": 6.081,
+    "offset": 1627.919,
+    "lang": "en"
+  },
+  {
+    "text": "I like the chat between you as well uh",
+    "duration": 3.16,
+    "offset": 1632.2,
+    "lang": "en"
+  },
+  {
+    "text": "both passes based on the open source",
+    "duration": 3.48,
+    "offset": 1634,
+    "lang": "en"
+  },
+  {
+    "text": "version of V code exactly exactly you",
+    "duration": 6,
+    "offset": 1635.36,
+    "lang": "en"
+  },
+  {
+    "text": "know thank you for that uh do what uh do",
+    "duration": 5.679,
+    "offset": 1637.48,
+    "lang": "en"
+  },
+  {
+    "text": "a definition of artifact Bookshop in",
+    "duration": 4.84,
+    "offset": 1641.36,
+    "lang": "en"
+  },
+  {
+    "text": "Services Bookshop uh what&amp;#39;s going on oh",
+    "duration": 5.24,
+    "offset": 1643.159,
+    "lang": "en"
+  },
+  {
+    "text": "ah why why do we get that why do get",
+    "duration": 4.4,
+    "offset": 1646.2,
+    "lang": "en"
+  },
+  {
+    "text": "that because I&amp;#39;ve still got well check",
+    "duration": 5.321,
+    "offset": 1648.399,
+    "lang": "en"
+  },
+  {
+    "text": "it out actually um CDs watch um it&amp;#39;s",
+    "duration": 4.48,
+    "offset": 1650.6,
+    "lang": "en"
+  },
+  {
+    "text": "bringing",
+    "duration": 4.28,
+    "offset": 1653.72,
+    "lang": "en"
+  },
+  {
+    "text": "in uh list in fact",
+    "duration": 7.56,
+    "offset": 1655.08,
+    "lang": "en"
+  },
+  {
+    "text": "find uh max depth 2 just send one",
+    "duration": 7.24,
+    "offset": 1658,
+    "lang": "en"
+  },
+  {
+    "text": "directory here in One Directory name",
+    "duration": 5.8,
+    "offset": 1662.64,
+    "lang": "en"
+  },
+  {
+    "text": "star. CDs what have we got we&amp;#39;ve still",
+    "duration": 6.2,
+    "offset": 1665.24,
+    "lang": "en"
+  },
+  {
+    "text": "got services. CDs remove services. CDs",
+    "duration": 4.64,
+    "offset": 1668.44,
+    "lang": "en"
+  },
+  {
+    "text": "CDs",
+    "duration": 6.359,
+    "offset": 1671.44,
+    "lang": "en"
+  },
+  {
+    "text": "watch there we go now okay so now we&amp;#39;ve",
+    "duration": 6.599,
+    "offset": 1673.08,
+    "lang": "en"
+  },
+  {
+    "text": "oh H says on the other hand on your",
+    "duration": 3.081,
+    "offset": 1677.799,
+    "lang": "en"
+  },
+  {
+    "text": "local machine you will have to take care",
+    "duration": 4.441,
+    "offset": 1679.679,
+    "lang": "en"
+  },
+  {
+    "text": "of everything by yourself yes true very",
+    "duration": 5.159,
+    "offset": 1680.88,
+    "lang": "en"
+  },
+  {
+    "text": "true yeah so some people like that some",
+    "duration": 3.96,
+    "offset": 1684.12,
+    "lang": "en"
+  },
+  {
+    "text": "people like it to be you know managed",
+    "duration": 4.36,
+    "offset": 1686.039,
+    "lang": "en"
+  },
+  {
+    "text": "for them best of both",
+    "duration": 5.8,
+    "offset": 1688.08,
+    "lang": "en"
+  },
+  {
+    "text": "ones so basically now we&amp;#39;re almost back",
+    "duration": 5.601,
+    "offset": 1690.399,
+    "lang": "en"
+  },
+  {
+    "text": "but I would like to",
+    "duration": 7.399,
+    "offset": 1693.88,
+    "lang": "en"
+  },
+  {
+    "text": "also move the data directory into the DB",
+    "duration": 6.679,
+    "offset": 1696,
+    "lang": "en"
+  },
+  {
+    "text": "directory because the data Direction at",
+    "duration": 4,
+    "offset": 1701.279,
+    "lang": "en"
+  },
+  {
+    "text": "the moment is in our project route but",
+    "duration": 4.961,
+    "offset": 1702.679,
+    "lang": "en"
+  },
+  {
+    "text": "now really we should sort move it I&amp;#39;m",
+    "duration": 3.88,
+    "offset": 1705.279,
+    "lang": "en"
+  },
+  {
+    "text": "not going to drag I&amp;#39;m going to say move",
+    "duration": 7.08,
+    "offset": 1707.64,
+    "lang": "en"
+  },
+  {
+    "text": "data into DB DB and there we go uh CD",
+    "duration": 6.921,
+    "offset": 1709.159,
+    "lang": "en"
+  },
+  {
+    "text": "data",
+    "duration": 5,
+    "offset": 1714.72,
+    "lang": "en"
+  },
+  {
+    "text": "and really now Bookshop let&amp;#39;s let&amp;#39;s",
+    "duration": 5.199,
+    "offset": 1716.08,
+    "lang": "en"
+  },
+  {
+    "text": "clean that one up as well we we did that",
+    "duration": 3.24,
+    "offset": 1719.72,
+    "lang": "en"
+  },
+  {
+    "text": "just to prove a point that it&amp;#39;s Dash or",
+    "duration": 5.12,
+    "offset": 1721.279,
+    "lang": "en"
+  },
+  {
+    "text": "dot so let&amp;#39;s say move Bookshop dot uh uh",
+    "duration": 7.24,
+    "offset": 1722.96,
+    "lang": "en"
+  },
+  {
+    "text": "there&amp;#39;s a bookshops Das um",
+    "duration": 7.681,
+    "offset": 1726.399,
+    "lang": "en"
+  },
+  {
+    "text": "authors. CSV uh sorry I&amp;#39;m going do it",
+    "duration": 8.44,
+    "offset": 1730.2,
+    "lang": "en"
+  },
+  {
+    "text": "books. CSV there we go CDs watch",
+    "duration": 7.16,
+    "offset": 1734.08,
+    "lang": "en"
+  },
+  {
+    "text": "oh I&amp;#39;m in the wrong directory CDs and",
+    "duration": 5.639,
+    "offset": 1738.64,
+    "lang": "en"
+  },
+  {
+    "text": "wrong directory again CDs watch there we",
+    "duration": 5.88,
+    "offset": 1741.24,
+    "lang": "en"
+  },
+  {
+    "text": "go Lauren laurren good morning to you",
+    "duration": 4.12,
+    "offset": 1744.279,
+    "lang": "en"
+  },
+  {
+    "text": "from the Netherland struggling with",
+    "duration": 2.6,
+    "offset": 1747.12,
+    "lang": "en"
+  },
+  {
+    "text": "Cloud so happy to finally join a light",
+    "duration": 3.64,
+    "offset": 1748.399,
+    "lang": "en"
+  },
+  {
+    "text": "Breeze with cap a light Breeze with cap",
+    "duration": 3.88,
+    "offset": 1749.72,
+    "lang": "en"
+  },
+  {
+    "text": "maybe I should rename the series a light",
+    "duration": 6.081,
+    "offset": 1752.039,
+    "lang": "en"
+  },
+  {
+    "text": "Breeze with cap brilliant um there we",
+    "duration": 4.52,
+    "offset": 1753.6,
+    "lang": "en"
+  },
+  {
+    "text": "go so we&amp;#39;ve now got same as we have",
+    "duration": 6.64,
+    "offset": 1758.399,
+    "lang": "en"
+  },
+  {
+    "text": "before um let&amp;#39;s bring in a um another",
+    "duration": 5.24,
+    "offset": 1761.48,
+    "lang": "en"
+  },
+  {
+    "text": "bring that to there another little",
+    "duration": 6.64,
+    "offset": 1765.039,
+    "lang": "en"
+  },
+  {
+    "text": "thingy here and start going to um",
+    "duration": 7.199,
+    "offset": 1766.72,
+    "lang": "en"
+  },
+  {
+    "text": "404 this is what we had before bookshops",
+    "duration": 3.921,
+    "offset": 1771.679,
+    "lang": "en"
+  },
+  {
+    "text": "authors there we go same thing right we",
+    "duration": 3.48,
+    "offset": 1773.919,
+    "lang": "en"
+  },
+  {
+    "text": "got everything there that we we&amp;#39;ve had",
+    "duration": 5.079,
+    "offset": 1775.6,
+    "lang": "en"
+  },
+  {
+    "text": "before we got the metadata looks nice",
+    "duration": 5.16,
+    "offset": 1777.399,
+    "lang": "en"
+  },
+  {
+    "text": "there beautiful we got our enti type",
+    "duration": 4.36,
+    "offset": 1780.679,
+    "lang": "en"
+  },
+  {
+    "text": "books enti type authors and we&amp;#39;ve got",
+    "duration": 4.881,
+    "offset": 1782.559,
+    "lang": "en"
+  },
+  {
+    "text": "the books and authors exposed and we can",
+    "duration": 3.921,
+    "offset": 1785.039,
+    "lang": "en"
+  },
+  {
+    "text": "look at the data there we got the player",
+    "duration": 3.359,
+    "offset": 1787.44,
+    "lang": "en"
+  },
+  {
+    "text": "of games s i guide and mostly harmless",
+    "duration": 4.8,
+    "offset": 1788.96,
+    "lang": "en"
+  },
+  {
+    "text": "and we&amp;#39;ve also got that okay so we&amp;#39;re no",
+    "duration": 5.161,
+    "offset": 1790.799,
+    "lang": "en"
+  },
+  {
+    "text": "further on than we than we were before",
+    "duration": 5.56,
+    "offset": 1793.76,
+    "lang": "en"
+  },
+  {
+    "text": "but now we&amp;#39;ve got a a lot more in my in",
+    "duration": 6.319,
+    "offset": 1795.96,
+    "lang": "en"
+  },
+  {
+    "text": "my opinion um",
+    "duration": 5.8,
+    "offset": 1799.32,
+    "lang": "en"
+  },
+  {
+    "text": "beautiful clean separation between the",
+    "duration": 5.12,
+    "offset": 1802.279,
+    "lang": "en"
+  },
+  {
+    "text": "persistance layer DB schema. CDs where",
+    "duration": 4.2,
+    "offset": 1805.12,
+    "lang": "en"
+  },
+  {
+    "text": "we got the entities defined in in a name",
+    "duration": 3.561,
+    "offset": 1807.399,
+    "lang": "en"
+  },
+  {
+    "text": "space and the service definition so we",
+    "duration": 3.28,
+    "offset": 1809.32,
+    "lang": "en"
+  },
+  {
+    "text": "could have multiple service files and",
+    "duration": 3.04,
+    "offset": 1810.96,
+    "lang": "en"
+  },
+  {
+    "text": "different Services looking at different",
+    "duration": 3.04,
+    "offset": 1812.6,
+    "lang": "en"
+  },
+  {
+    "text": "at different sort of views",
+    "duration": 3.76,
+    "offset": 1814,
+    "lang": "en"
+  },
+  {
+    "text": "on different combinations of these",
+    "duration": 5.32,
+    "offset": 1815.64,
+    "lang": "en"
+  },
+  {
+    "text": "things so now um we can start to think",
+    "duration": 6.24,
+    "offset": 1817.76,
+    "lang": "en"
+  },
+  {
+    "text": "about compositions and why don&amp;#39;t we go",
+    "duration": 6.76,
+    "offset": 1820.96,
+    "lang": "en"
+  },
+  {
+    "text": "here and um grab the I&amp;#39;m I&amp;#39;m pointing",
+    "duration": 4.84,
+    "offset": 1824,
+    "lang": "en"
+  },
+  {
+    "text": "this screen you can&amp;#39;t see my finger can",
+    "duration": 4.079,
+    "offset": 1827.72,
+    "lang": "en"
+  },
+  {
+    "text": "you grab this code here and start with",
+    "duration": 4.719,
+    "offset": 1828.84,
+    "lang": "en"
+  },
+  {
+    "text": "that oh I see a question from sunny",
+    "duration": 4.401,
+    "offset": 1831.799,
+    "lang": "en"
+  },
+  {
+    "text": "sunny your qu your your uh question few",
+    "duration": 4.321,
+    "offset": 1833.559,
+    "lang": "en"
+  },
+  {
+    "text": "is very strong today brilliant could you",
+    "duration": 2.959,
+    "offset": 1836.2,
+    "lang": "en"
+  },
+  {
+    "text": "please share the use cases when we need",
+    "duration": 2.56,
+    "offset": 1837.88,
+    "lang": "en"
+  },
+  {
+    "text": "to use a cap based framework or a r",
+    "duration": 3.201,
+    "offset": 1839.159,
+    "lang": "en"
+  },
+  {
+    "text": "based framework assuming using Cloud for",
+    "duration": 4.119,
+    "offset": 1840.44,
+    "lang": "en"
+  },
+  {
+    "text": "both cap and R I said that&amp;#39;s the classic",
+    "duration": 4.08,
+    "offset": 1842.36,
+    "lang": "en"
+  },
+  {
+    "text": "question and I will answer it very",
+    "duration": 4.48,
+    "offset": 1844.559,
+    "lang": "en"
+  },
+  {
+    "text": "briefly um by saying if you know if you",
+    "duration": 4.04,
+    "offset": 1846.44,
+    "lang": "en"
+  },
+  {
+    "text": "have if you have AB developers if you&amp;#39;re",
+    "duration": 2.36,
+    "offset": 1849.039,
+    "lang": "en"
+  },
+  {
+    "text": "an AB",
+    "duration": 3.16,
+    "offset": 1850.48,
+    "lang": "en"
+  },
+  {
+    "text": "developer and have a lot invested in",
+    "duration": 4.76,
+    "offset": 1851.399,
+    "lang": "en"
+  },
+  {
+    "text": "that uh area which of course is you know",
+    "duration": 4.519,
+    "offset": 1853.64,
+    "lang": "en"
+  },
+  {
+    "text": "uh very likely CU it&amp;#39;s awesome and and",
+    "duration": 5.441,
+    "offset": 1856.159,
+    "lang": "en"
+  },
+  {
+    "text": "you know very likely because of uh um",
+    "duration": 6.4,
+    "offset": 1858.159,
+    "lang": "en"
+  },
+  {
+    "text": "history then it makes a lot of sense to",
+    "duration": 5.24,
+    "offset": 1861.6,
+    "lang": "en"
+  },
+  {
+    "text": "keep investing in that area about cloud",
+    "duration": 5.72,
+    "offset": 1864.559,
+    "lang": "en"
+  },
+  {
+    "text": "and rap but if you are you know if",
+    "duration": 5.439,
+    "offset": 1866.84,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re got a different organization and",
+    "duration": 3.721,
+    "offset": 1870.279,
+    "lang": "en"
+  },
+  {
+    "text": "you you have developers that are not",
+    "duration": 4.681,
+    "offset": 1872.279,
+    "lang": "en"
+  },
+  {
+    "text": "vers in abat then cap is the perfect cor",
+    "duration": 4.96,
+    "offset": 1874,
+    "lang": "en"
+  },
+  {
+    "text": "coroller is that the right word I don&amp;#39;t",
+    "duration": 4.4,
+    "offset": 1876.96,
+    "lang": "en"
+  },
+  {
+    "text": "know I just came to me the perfect sort",
+    "duration": 5.04,
+    "offset": 1878.96,
+    "lang": "en"
+  },
+  {
+    "text": "of alternative okay so if you&amp;#39;ve got",
+    "duration": 4.52,
+    "offset": 1881.36,
+    "lang": "en"
+  },
+  {
+    "text": "Java developers or JavaScript or",
+    "duration": 4.84,
+    "offset": 1884,
+    "lang": "en"
+  },
+  {
+    "text": "typescript developers then",
+    "duration": 6.519,
+    "offset": 1885.88,
+    "lang": "en"
+  },
+  {
+    "text": "cap is um is an appropriate framework to",
+    "duration": 7.439,
+    "offset": 1888.84,
+    "lang": "en"
+  },
+  {
+    "text": "use so you know that&amp;#39;s one very very",
+    "duration": 5.64,
+    "offset": 1892.399,
+    "lang": "en"
+  },
+  {
+    "text": "basic way of thinking about it but it&amp;#39;s",
+    "duration": 3.4,
+    "offset": 1896.279,
+    "lang": "en"
+  },
+  {
+    "text": "also something that makes sense to me",
+    "duration": 3.681,
+    "offset": 1898.039,
+    "lang": "en"
+  },
+  {
+    "text": "you know use the developers that you",
+    "duration": 4.48,
+    "offset": 1899.679,
+    "lang": "en"
+  },
+  {
+    "text": "have and therefore use the languages",
+    "duration": 3.76,
+    "offset": 1901.72,
+    "lang": "en"
+  },
+  {
+    "text": "that they&amp;#39;re proficient in and",
+    "duration": 4.681,
+    "offset": 1904.159,
+    "lang": "en"
+  },
+  {
+    "text": "comfortable in and so on uh so oh uh",
+    "duration": 4.88,
+    "offset": 1905.48,
+    "lang": "en"
+  },
+  {
+    "text": "Henrik says perhaps a session on the",
+    "duration": 3.199,
+    "offset": 1908.84,
+    "lang": "en"
+  },
+  {
+    "text": "magic of CDs watch could name it who",
+    "duration": 6.159,
+    "offset": 1910.36,
+    "lang": "en"
+  },
+  {
+    "text": "watches the Watchers quis custodiat IPOs",
+    "duration": 7.041,
+    "offset": 1912.039,
+    "lang": "en"
+  },
+  {
+    "text": "custodios is that the",
+    "duration": 5.561,
+    "offset": 1916.519,
+    "lang": "en"
+  },
+  {
+    "text": "pheis",
+    "duration": 3,
+    "offset": 1919.08,
+    "lang": "en"
+  },
+  {
+    "text": "codet yes oh c yes we go chis custo not",
+    "duration": 7.481,
+    "offset": 1922.519,
+    "lang": "en"
+  },
+  {
+    "text": "custodes custodes Latin I&amp;#39;ve not done",
+    "duration": 5.439,
+    "offset": 1927.08,
+    "lang": "en"
+  },
+  {
+    "text": "Latin for a long time um but there we go",
+    "duration": 4.48,
+    "offset": 1930,
+    "lang": "en"
+  },
+  {
+    "text": "who guards the guards who guards those",
+    "duration": 3.841,
+    "offset": 1932.519,
+    "lang": "en"
+  },
+  {
+    "text": "guards that&amp;#39;s where the original phrase",
+    "duration": 3.88,
+    "offset": 1934.48,
+    "lang": "en"
+  },
+  {
+    "text": "is from in fact I should put that in the",
+    "duration": 4.64,
+    "offset": 1936.36,
+    "lang": "en"
+  },
+  {
+    "text": "thing as well shouldn&amp;#39;t I there we go um",
+    "duration": 7.12,
+    "offset": 1938.36,
+    "lang": "en"
+  },
+  {
+    "text": "put that in um there uh quis",
+    "duration": 7.32,
+    "offset": 1941,
+    "lang": "en"
+  },
+  {
+    "text": "custodiet ipsos",
+    "duration": 4.439,
+    "offset": 1945.48,
+    "lang": "en"
+  },
+  {
+    "text": "those",
+    "duration": 4.199,
+    "offset": 1948.32,
+    "lang": "en"
+  },
+  {
+    "text": "custo that&amp;#39;s accusative plural isn&amp;#39;t it",
+    "duration": 5,
+    "offset": 1949.919,
+    "lang": "en"
+  },
+  {
+    "text": "but it&amp;#39;s like third or fourth declension",
+    "duration": 3.961,
+    "offset": 1952.519,
+    "lang": "en"
+  },
+  {
+    "text": "I don&amp;#39;t know I can&amp;#39;t",
+    "duration": 4.841,
+    "offset": 1954.919,
+    "lang": "en"
+  },
+  {
+    "text": "remember um we I think we did some on",
+    "duration": 5.159,
+    "offset": 1956.48,
+    "lang": "en"
+  },
+  {
+    "text": "the magic of CDs watch didn&amp;#39;t we on",
+    "duration": 3.84,
+    "offset": 1959.76,
+    "lang": "en"
+  },
+  {
+    "text": "previous uh on a previous episode in",
+    "duration": 5.201,
+    "offset": 1961.639,
+    "lang": "en"
+  },
+  {
+    "text": "this series I think we did uh Lorenzo",
+    "duration": 5.24,
+    "offset": 1963.6,
+    "lang": "en"
+  },
+  {
+    "text": "says hi DJ the convention for mock DB",
+    "duration": 3.679,
+    "offset": 1966.84,
+    "lang": "en"
+  },
+  {
+    "text": "data should be namespace entity",
+    "duration": 3.319,
+    "offset": 1968.84,
+    "lang": "en"
+  },
+  {
+    "text": "shouldn&amp;#39;t it how is it loading anyway",
+    "duration": 6.681,
+    "offset": 1970.519,
+    "lang": "en"
+  },
+  {
+    "text": "datas with Nam oh without uh you know",
+    "duration": 7.081,
+    "offset": 1972.159,
+    "lang": "en"
+  },
+  {
+    "text": "what I was hoping somebody would spot",
+    "duration": 4.88,
+    "offset": 1977.2,
+    "lang": "en"
+  },
+  {
+    "text": "that um that&amp;#39;s a great question can I",
+    "duration": 5.559,
+    "offset": 1979.24,
+    "lang": "en"
+  },
+  {
+    "text": "come to that question a little bit later",
+    "duration": 6.04,
+    "offset": 1982.08,
+    "lang": "en"
+  },
+  {
+    "text": "um because it it it is very very subtle",
+    "duration": 6.401,
+    "offset": 1984.799,
+    "lang": "en"
+  },
+  {
+    "text": "it will load it um so basically as you",
+    "duration": 5.32,
+    "offset": 1988.12,
+    "lang": "en"
+  },
+  {
+    "text": "can see here uh well no let&amp;#39;s answer",
+    "duration": 3.64,
+    "offset": 1991.2,
+    "lang": "en"
+  },
+  {
+    "text": "that question now sounds like question",
+    "duration": 3.16,
+    "offset": 1993.44,
+    "lang": "en"
+  },
+  {
+    "text": "because it&amp;#39;s a great question and a",
+    "duration": 4.28,
+    "offset": 1994.84,
+    "lang": "en"
+  },
+  {
+    "text": "thousand points for observing that what",
+    "duration": 6.079,
+    "offset": 1996.6,
+    "lang": "en"
+  },
+  {
+    "text": "we have in here um did oh yeah here we",
+    "duration": 6.159,
+    "offset": 1999.12,
+    "lang": "en"
+  },
+  {
+    "text": "go we removed it right DB data Bookshop",
+    "duration": 7,
+    "offset": 2002.679,
+    "lang": "en"
+  },
+  {
+    "text": "authors Bookshop uh uh books let&amp;#39;s think",
+    "duration": 5.721,
+    "offset": 2005.279,
+    "lang": "en"
+  },
+  {
+    "text": "about that for a",
+    "duration": 5.561,
+    "offset": 2009.679,
+    "lang": "en"
+  },
+  {
+    "text": "second okay the um in fact we can think",
+    "duration": 6.48,
+    "offset": 2011,
+    "lang": "en"
+  },
+  {
+    "text": "about it with the help of where is it",
+    "duration": 5.919,
+    "offset": 2015.24,
+    "lang": "en"
+  },
+  {
+    "text": "where is it where is it with the help of",
+    "duration": 5.84,
+    "offset": 2017.48,
+    "lang": "en"
+  },
+  {
+    "text": "I think uh the metadata let&amp;#39;s bring that",
+    "duration": 3.961,
+    "offset": 2021.159,
+    "lang": "en"
+  },
+  {
+    "text": "back there let&amp;#39;s look at the metadata oh",
+    "duration": 4.44,
+    "offset": 2023.32,
+    "lang": "en"
+  },
+  {
+    "text": "I&amp;#39;m not running CDs watch CDs",
+    "duration": 4.72,
+    "offset": 2025.12,
+    "lang": "en"
+  },
+  {
+    "text": "watch metadata come on come on come on",
+    "duration": 3.12,
+    "offset": 2027.76,
+    "lang": "en"
+  },
+  {
+    "text": "come on",
+    "duration": 4.719,
+    "offset": 2029.84,
+    "lang": "en"
+  },
+  {
+    "text": "metadata oh come on come on come",
+    "duration": 3.679,
+    "offset": 2030.88,
+    "lang": "en"
+  },
+  {
+    "text": "on there metat go right we have",
+    "duration": 7,
+    "offset": 2034.679,
+    "lang": "en"
+  },
+  {
+    "text": "here we can",
+    "duration": 5.801,
+    "offset": 2039.679,
+    "lang": "en"
+  },
+  {
+    "text": "see that we have this namespace Bookshop",
+    "duration": 6.12,
+    "offset": 2041.679,
+    "lang": "en"
+  },
+  {
+    "text": "where is that namespace coming from it&amp;#39;s",
+    "duration": 6.639,
+    "offset": 2045.48,
+    "lang": "en"
+  },
+  {
+    "text": "coming from the service sort of",
+    "duration": 7.36,
+    "offset": 2047.799,
+    "lang": "en"
+  },
+  {
+    "text": "context in which these two entities are",
+    "duration": 8.28,
+    "offset": 2052.119,
+    "lang": "en"
+  },
+  {
+    "text": "defined okay and the the automatic CSV",
+    "duration": 7.72,
+    "offset": 2055.159,
+    "lang": "en"
+  },
+  {
+    "text": "data loading mechanism is actually quite",
+    "duration": 5.44,
+    "offset": 2060.399,
+    "lang": "en"
+  },
+  {
+    "text": "cool in that it will",
+    "duration": 7.401,
+    "offset": 2062.879,
+    "lang": "en"
+  },
+  {
+    "text": "recognize that you&amp;#39;ve got files that are",
+    "duration": 8.121,
+    "offset": 2065.839,
+    "lang": "en"
+  },
+  {
+    "text": "named after the entity in that context",
+    "duration": 6.879,
+    "offset": 2070.28,
+    "lang": "en"
+  },
+  {
+    "text": "there but also I think also let&amp;#39;s just",
+    "duration": 5.84,
+    "offset": 2073.96,
+    "lang": "en"
+  },
+  {
+    "text": "do this um oh tell you what let&amp;#39;s do it",
+    "duration": 5.72,
+    "offset": 2077.159,
+    "lang": "en"
+  },
+  {
+    "text": "here let&amp;#39;s do it here let&amp;#39;s CDs watch",
+    "duration": 4.839,
+    "offset": 2079.8,
+    "lang": "en"
+  },
+  {
+    "text": "and also let&amp;#39;s have that there let&amp;#39;s go",
+    "duration": 8.76,
+    "offset": 2082.879,
+    "lang": "en"
+  },
+  {
+    "text": "to books and also let&amp;#39;s go to um",
+    "duration": 7,
+    "offset": 2084.639,
+    "lang": "en"
+  },
+  {
+    "text": "authors there&amp;#39;s the authors let&amp;#39;s rename",
+    "duration": 5.68,
+    "offset": 2091.8,
+    "lang": "en"
+  },
+  {
+    "text": "this Bookshop Let&amp;#39;s do let&amp;#39;s do Q macro",
+    "duration": 6.119,
+    "offset": 2095.24,
+    "lang": "en"
+  },
+  {
+    "text": "no or. qro or.",
+    "duration": 9.08,
+    "offset": 2097.48,
+    "lang": "en"
+  },
+  {
+    "text": "macro there we go and also um there or.",
+    "duration": 7.121,
+    "offset": 2101.359,
+    "lang": "en"
+  },
+  {
+    "text": "Q",
+    "duration": 4.92,
+    "offset": 2106.56,
+    "lang": "en"
+  },
+  {
+    "text": "macro can you see it&amp;#39;s still doing the",
+    "duration": 5.28,
+    "offset": 2108.48,
+    "lang": "en"
+  },
+  {
+    "text": "initialization in it from DB data or Q",
+    "duration": 4.92,
+    "offset": 2111.48,
+    "lang": "en"
+  },
+  {
+    "text": "macro and if we refresh",
+    "duration": 5.88,
+    "offset": 2113.76,
+    "lang": "en"
+  },
+  {
+    "text": "that it&amp;#39;s still there so it&amp;#39;s very I",
+    "duration": 5.28,
+    "offset": 2116.4,
+    "lang": "en"
+  },
+  {
+    "text": "mean one of the things one of the things",
+    "duration": 4.8,
+    "offset": 2119.64,
+    "lang": "en"
+  },
+  {
+    "text": "you got to think about in cap and in",
+    "duration": 5.12,
+    "offset": 2121.68,
+    "lang": "en"
+  },
+  {
+    "text": "specifically to do with uh what Henrik",
+    "duration": 3.84,
+    "offset": 2124.44,
+    "lang": "en"
+  },
+  {
+    "text": "was saying about you know the magic of",
+    "duration": 2.96,
+    "offset": 2126.8,
+    "lang": "en"
+  },
+  {
+    "text": "CDs",
+    "duration": 5.6,
+    "offset": 2128.28,
+    "lang": "en"
+  },
+  {
+    "text": "watch there&amp;#39;s a there&amp;#39;s a there&amp;#39;s",
+    "duration": 6.359,
+    "offset": 2129.76,
+    "lang": "en"
+  },
+  {
+    "text": "a a br I think we&amp;#39;ve talked about this",
+    "duration": 4.239,
+    "offset": 2133.88,
+    "lang": "en"
+  },
+  {
+    "text": "before a long time ago there&amp;#39;s a an",
+    "duration": 5.521,
+    "offset": 2136.119,
+    "lang": "en"
+  },
+  {
+    "text": "adage uh a motto",
+    "duration": 7.281,
+    "offset": 2138.119,
+    "lang": "en"
+  },
+  {
+    "text": "um uh DM it&amp;#39;s not it&amp;#39;s not the",
+    "duration": 5.84,
+    "offset": 2141.64,
+    "lang": "en"
+  },
+  {
+    "text": "distribution I want it dim do what I",
+    "duration": 6.719,
+    "offset": 2145.4,
+    "lang": "en"
+  },
+  {
+    "text": "mean do what I mean dim pill there we go",
+    "duration": 6.32,
+    "offset": 2147.48,
+    "lang": "en"
+  },
+  {
+    "text": "there we go writing pear programs do",
+    "duration": 5,
+    "offset": 2152.119,
+    "lang": "en"
+  },
+  {
+    "text": "what I mean and I would I would argue",
+    "duration": 9.08,
+    "offset": 2153.8,
+    "lang": "en"
+  },
+  {
+    "text": "that the CDs design time facilities the",
+    "duration": 5.761,
+    "offset": 2157.119,
+    "lang": "en"
+  },
+  {
+    "text": "tools follow the dwim philosophy I.E",
+    "duration": 6.08,
+    "offset": 2163.2,
+    "lang": "en"
+  },
+  {
+    "text": "just do it do what I mean you know I",
+    "duration": 4.161,
+    "offset": 2167.359,
+    "lang": "en"
+  },
+  {
+    "text": "don&amp;#39;t have toel it out to you just you",
+    "duration": 4.52,
+    "offset": 2169.28,
+    "lang": "en"
+  },
+  {
+    "text": "know you know what I mean just do what I",
+    "duration": 3.2,
+    "offset": 2171.52,
+    "lang": "en"
+  },
+  {
+    "text": "want you to",
+    "duration": 4.36,
+    "offset": 2173.8,
+    "lang": "en"
+  },
+  {
+    "text": "do okay and this is an example I think",
+    "duration": 6.52,
+    "offset": 2174.72,
+    "lang": "en"
+  },
+  {
+    "text": "of cap doing that um so it will say well",
+    "duration": 5.439,
+    "offset": 2178.16,
+    "lang": "en"
+  },
+  {
+    "text": "well you know you&amp;#39;ve got these files",
+    "duration": 5.839,
+    "offset": 2181.24,
+    "lang": "en"
+  },
+  {
+    "text": "here defined for an entity in this name",
+    "duration": 5.24,
+    "offset": 2183.599,
+    "lang": "en"
+  },
+  {
+    "text": "space recognize that namespace but",
+    "duration": 5.04,
+    "offset": 2187.079,
+    "lang": "en"
+  },
+  {
+    "text": "basically but basically also where is",
+    "duration": 7,
+    "offset": 2188.839,
+    "lang": "en"
+  },
+  {
+    "text": "it let&amp;#39;s put that there also that acts",
+    "duration": 5.321,
+    "offset": 2192.119,
+    "lang": "en"
+  },
+  {
+    "text": "as a sort of name space so it&amp;#39;s taking",
+    "duration": 3.28,
+    "offset": 2195.839,
+    "lang": "en"
+  },
+  {
+    "text": "it from it will take it from either or",
+    "duration": 4.679,
+    "offset": 2197.44,
+    "lang": "en"
+  },
+  {
+    "text": "both and even if we move let&amp;#39;s let&amp;#39;s do",
+    "duration": 6.601,
+    "offset": 2199.119,
+    "lang": "en"
+  },
+  {
+    "text": "this let&amp;#39;s open up another terminal um",
+    "duration": 5.881,
+    "offset": 2202.119,
+    "lang": "en"
+  },
+  {
+    "text": "uh there we go how do I do that oh yes",
+    "duration": 4.359,
+    "offset": 2205.72,
+    "lang": "en"
+  },
+  {
+    "text": "there what&amp;#39;s going on I thought I knew",
+    "duration": 4.68,
+    "offset": 2208,
+    "lang": "en"
+  },
+  {
+    "text": "the keyboard shortcut for opening oh",
+    "duration": 5.681,
+    "offset": 2210.079,
+    "lang": "en"
+  },
+  {
+    "text": "there right there we go it&amp;#39;s uh command",
+    "duration": 6.399,
+    "offset": 2212.68,
+    "lang": "en"
+  },
+  {
+    "text": "backslash uh if we say for example move",
+    "duration": 6.839,
+    "offset": 2215.76,
+    "lang": "en"
+  },
+  {
+    "text": "DB data to",
+    "duration": 3.52,
+    "offset": 2219.079,
+    "lang": "en"
+  },
+  {
+    "text": "serve move that okay it&amp;#39;s not going to",
+    "duration": 3.921,
+    "offset": 2223.319,
+    "lang": "en"
+  },
+  {
+    "text": "restart because it&amp;#39;s not watching for",
+    "duration": 3,
+    "offset": 2225.68,
+    "lang": "en"
+  },
+  {
+    "text": "that sort of thing but if we do CDs",
+    "duration": 6.64,
+    "offset": 2227.24,
+    "lang": "en"
+  },
+  {
+    "text": "watch now we still it&amp;#39;ll still find",
+    "duration": 8.2,
+    "offset": 2228.68,
+    "lang": "en"
+  },
+  {
+    "text": "those data files 836 okay I&amp;#39;m panicking",
+    "duration": 5.28,
+    "offset": 2233.88,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;ll still find those data files those",
+    "duration": 4.52,
+    "offset": 2236.88,
+    "lang": "en"
+  },
+  {
+    "text": "CSV data files but in the serve because",
+    "duration": 4.72,
+    "offset": 2239.16,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s got this this this hierarchy of",
+    "duration": 4.16,
+    "offset": 2241.4,
+    "lang": "en"
+  },
+  {
+    "text": "roots remember we talked about this",
+    "duration": 4.76,
+    "offset": 2243.88,
+    "lang": "en"
+  },
+  {
+    "text": "before cdsn roots",
+    "duration": 5.92,
+    "offset": 2245.56,
+    "lang": "en"
+  },
+  {
+    "text": "that it will look in not only for CDs",
+    "duration": 6.4,
+    "offset": 2248.64,
+    "lang": "en"
+  },
+  {
+    "text": "files for the overall CDs model but also",
+    "duration": 6.72,
+    "offset": 2251.48,
+    "lang": "en"
+  },
+  {
+    "text": "for data okay so in the same way it will",
+    "duration": 6.559,
+    "offset": 2255.04,
+    "lang": "en"
+  },
+  {
+    "text": "also you know be very lenient in terms",
+    "duration": 5.36,
+    "offset": 2258.2,
+    "lang": "en"
+  },
+  {
+    "text": "of well yeah okay you know books within",
+    "duration": 3.961,
+    "offset": 2261.599,
+    "lang": "en"
+  },
+  {
+    "text": "the oq macro or books within the book",
+    "duration": 4.519,
+    "offset": 2263.56,
+    "lang": "en"
+  },
+  {
+    "text": "shop have it let&amp;#39;s have it does that",
+    "duration": 4.16,
+    "offset": 2265.56,
+    "lang": "en"
+  },
+  {
+    "text": "make sense that was a really long answer",
+    "duration": 4.561,
+    "offset": 2268.079,
+    "lang": "en"
+  },
+  {
+    "text": "I apologize that was okay though um some",
+    "duration": 6.96,
+    "offset": 2269.72,
+    "lang": "en"
+  },
+  {
+    "text": "more yes there we go um so Lorenzo I",
+    "duration": 6.479,
+    "offset": 2272.64,
+    "lang": "en"
+  },
+  {
+    "text": "hope that sort of uh I don&amp;#39;t know",
+    "duration": 3.72,
+    "offset": 2276.68,
+    "lang": "en"
+  },
+  {
+    "text": "answers your question addresses your",
+    "duration": 3.161,
+    "offset": 2279.119,
+    "lang": "en"
+  },
+  {
+    "text": "question talks about your question uh",
+    "duration": 3.04,
+    "offset": 2280.4,
+    "lang": "en"
+  },
+  {
+    "text": "but these questions are great so let&amp;#39;s",
+    "duration": 4,
+    "offset": 2282.28,
+    "lang": "en"
+  },
+  {
+    "text": "answer the questions um whoo says cap no",
+    "duration": 4.919,
+    "offset": 2283.44,
+    "lang": "en"
+  },
+  {
+    "text": "JS Java versus rap ab app normally if",
+    "duration": 3.44,
+    "offset": 2286.28,
+    "lang": "en"
+  },
+  {
+    "text": "you want to do real scalable apps you",
+    "duration": 2.921,
+    "offset": 2288.359,
+    "lang": "en"
+  },
+  {
+    "text": "would go with cap in the other hand if",
+    "duration": 4.639,
+    "offset": 2289.72,
+    "lang": "en"
+  },
+  {
+    "text": "you developers you would go oh that&amp;#39;s a",
+    "duration": 4.839,
+    "offset": 2291.28,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s fighting talk I would have to",
+    "duration": 5.201,
+    "offset": 2294.359,
+    "lang": "en"
+  },
+  {
+    "text": "disagree with part of that I think one",
+    "duration": 5.521,
+    "offset": 2296.119,
+    "lang": "en"
+  },
+  {
+    "text": "of the most scalable",
+    "duration": 4.84,
+    "offset": 2299.56,
+    "lang": "en"
+  },
+  {
+    "text": "platforms um and languages is the abat",
+    "duration": 4.24,
+    "offset": 2301.64,
+    "lang": "en"
+  },
+  {
+    "text": "platform and the abat language",
+    "duration": 3.16,
+    "offset": 2304.4,
+    "lang": "en"
+  },
+  {
+    "text": "especially with rap okay so it&amp;#39;s not",
+    "duration": 4.28,
+    "offset": 2305.88,
+    "lang": "en"
+  },
+  {
+    "text": "about whether you need to have something",
+    "duration": 5.12,
+    "offset": 2307.56,
+    "lang": "en"
+  },
+  {
+    "text": "scalable I think it&amp;#39;s um you know the",
+    "duration": 5.159,
+    "offset": 2310.16,
+    "lang": "en"
+  },
+  {
+    "text": "way that these uh these Services you",
+    "duration": 5.76,
+    "offset": 2312.68,
+    "lang": "en"
+  },
+  {
+    "text": "know some of the largest",
+    "duration": 6.441,
+    "offset": 2315.319,
+    "lang": "en"
+  },
+  {
+    "text": "Enterprise um Enterprise systems in the",
+    "duration": 5.8,
+    "offset": 2318.44,
+    "lang": "en"
+  },
+  {
+    "text": "world are up based systems on the based",
+    "duration": 4.319,
+    "offset": 2321.76,
+    "lang": "en"
+  },
+  {
+    "text": "on the R3 architecture you know s S4",
+    "duration": 3.64,
+    "offset": 2324.24,
+    "lang": "en"
+  },
+  {
+    "text": "Hann is still on the R3 architecture",
+    "duration": 3.561,
+    "offset": 2326.079,
+    "lang": "en"
+  },
+  {
+    "text": "which is a beautiful architecture and",
+    "duration": 4.239,
+    "offset": 2327.88,
+    "lang": "en"
+  },
+  {
+    "text": "that scales beautifully so it&amp;#39;s not I",
+    "duration": 3.6,
+    "offset": 2329.64,
+    "lang": "en"
+  },
+  {
+    "text": "don&amp;#39;t think it&amp;#39;s about",
+    "duration": 3.2,
+    "offset": 2332.119,
+    "lang": "en"
+  },
+  {
+    "text": "scalability um I think for me it&amp;#39;s more",
+    "duration": 4.52,
+    "offset": 2333.24,
+    "lang": "en"
+  },
+  {
+    "text": "about language uh if you forgive me for",
+    "duration": 5.361,
+    "offset": 2335.319,
+    "lang": "en"
+  },
+  {
+    "text": "saying that who know um put in the chat",
+    "duration": 4.44,
+    "offset": 2337.76,
+    "lang": "en"
+  },
+  {
+    "text": "if you disagree that&amp;#39;s Al also cool sun",
+    "duration": 3.28,
+    "offset": 2340.68,
+    "lang": "en"
+  },
+  {
+    "text": "says addition to question in terms of",
+    "duration": 2.96,
+    "offset": 2342.2,
+    "lang": "en"
+  },
+  {
+    "text": "client client will prefer which",
+    "duration": 3.68,
+    "offset": 2343.96,
+    "lang": "en"
+  },
+  {
+    "text": "framework yes exact that&amp;#39;s very true",
+    "duration": 3.959,
+    "offset": 2345.16,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s very true you know you go to a",
+    "duration": 3.24,
+    "offset": 2347.64,
+    "lang": "en"
+  },
+  {
+    "text": "client I worked in a long time decades",
+    "duration": 3.72,
+    "offset": 2349.119,
+    "lang": "en"
+  },
+  {
+    "text": "in the sort of Consulting World in sap",
+    "duration": 3.479,
+    "offset": 2350.88,
+    "lang": "en"
+  },
+  {
+    "text": "and you know different clients different",
+    "duration": 3.961,
+    "offset": 2352.839,
+    "lang": "en"
+  },
+  {
+    "text": "customers have different different ways",
+    "duration": 4.801,
+    "offset": 2354.359,
+    "lang": "en"
+  },
+  {
+    "text": "they like to do things so yeah it&amp;#39;s also",
+    "duration": 6,
+    "offset": 2356.8,
+    "lang": "en"
+  },
+  {
+    "text": "client driven uh nit hello and helmet uh",
+    "duration": 6.199,
+    "offset": 2359.16,
+    "lang": "en"
+  },
+  {
+    "text": "huno uh oh helmet is is going with you",
+    "duration": 4.4,
+    "offset": 2362.8,
+    "lang": "en"
+  },
+  {
+    "text": "huno that&amp;#39;s helmet that&amp;#39;s that&amp;#39;s that&amp;#39;s",
+    "duration": 3.921,
+    "offset": 2365.359,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s that&amp;#39;s a good opinion to have uh",
+    "duration": 4.639,
+    "offset": 2367.2,
+    "lang": "en"
+  },
+  {
+    "text": "strong opinions uh loosely held I think",
+    "duration": 3.96,
+    "offset": 2369.28,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s another phrase strong opinions",
+    "duration": 3.721,
+    "offset": 2371.839,
+    "lang": "en"
+  },
+  {
+    "text": "loosely held uh I&amp;#39;ll put the oh did I",
+    "duration": 4.68,
+    "offset": 2373.24,
+    "lang": "en"
+  },
+  {
+    "text": "put the do what I mean in there H what",
+    "duration": 5.96,
+    "offset": 2375.56,
+    "lang": "en"
+  },
+  {
+    "text": "we talk about um there we go let put in",
+    "duration": 5.72,
+    "offset": 2377.92,
+    "lang": "en"
+  },
+  {
+    "text": "let me put that in there as well ah",
+    "duration": 6.799,
+    "offset": 2381.52,
+    "lang": "en"
+  },
+  {
+    "text": "Pearl and dwim there and",
+    "duration": 8.24,
+    "offset": 2383.64,
+    "lang": "en"
+  },
+  {
+    "text": "strong strong opinions",
+    "duration": 7.28,
+    "offset": 2388.319,
+    "lang": "en"
+  },
+  {
+    "text": "loose held who said that Lucy held um",
+    "duration": 5.959,
+    "offset": 2391.88,
+    "lang": "en"
+  },
+  {
+    "text": "this is the go beong strong opinions Luc",
+    "duration": 3.451,
+    "offset": 2395.599,
+    "lang": "en"
+  },
+  {
+    "text": "held",
+    "duration": 3.641,
+    "offset": 2397.839,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 7.069,
+    "offset": 2399.05,
+    "lang": "en"
+  },
+  {
+    "text": "uh anyway let me just put that um",
+    "duration": 6.879,
+    "offset": 2401.48,
+    "lang": "en"
+  },
+  {
+    "text": "search in there because they&amp;#39;ll remind",
+    "duration": 4.121,
+    "offset": 2406.119,
+    "lang": "en"
+  },
+  {
+    "text": "you to look it up there we go strong",
+    "duration": 5.441,
+    "offset": 2408.359,
+    "lang": "en"
+  },
+  {
+    "text": "opinions loosely held strong opinions",
+    "duration": 5.52,
+    "offset": 2410.24,
+    "lang": "en"
+  },
+  {
+    "text": "Loosely it&amp;#39;s a good it&amp;#39;s a good",
+    "duration": 4.64,
+    "offset": 2413.8,
+    "lang": "en"
+  },
+  {
+    "text": "philosophy interesting philosophy held",
+    "duration": 7.04,
+    "offset": 2415.76,
+    "lang": "en"
+  },
+  {
+    "text": "held there right go right okay brilliant",
+    "duration": 5.679,
+    "offset": 2418.44,
+    "lang": "en"
+  },
+  {
+    "text": "brilliant brilliant so youo says",
+    "duration": 2.6,
+    "offset": 2422.8,
+    "lang": "en"
+  },
+  {
+    "text": "probably the only one probably the only",
+    "duration": 2.321,
+    "offset": 2424.119,
+    "lang": "en"
+  },
+  {
+    "text": "one which cost less for him for the",
+    "duration": 2.24,
+    "offset": 2425.4,
+    "lang": "en"
+  },
+  {
+    "text": "client so his business people do not",
+    "duration": 2.8,
+    "offset": 2426.44,
+    "lang": "en"
+  },
+  {
+    "text": "care about the technical stuff that&amp;#39;s",
+    "duration": 3.8,
+    "offset": 2427.64,
+    "lang": "en"
+  },
+  {
+    "text": "true sadly true uh in the sap world most",
+    "duration": 3.56,
+    "offset": 2429.24,
+    "lang": "en"
+  },
+  {
+    "text": "of customers would have saved with ECC",
+    "duration": 2.48,
+    "offset": 2431.44,
+    "lang": "en"
+  },
+  {
+    "text": "if they would not be forced to upgrade",
+    "duration": 2.76,
+    "offset": 2432.8,
+    "lang": "en"
+  },
+  {
+    "text": "ss4 I&amp;#39;m not going to get into that who",
+    "duration": 5.8,
+    "offset": 2433.92,
+    "lang": "en"
+  },
+  {
+    "text": "know uh it&amp;#39;s uh it&amp;#39;s a big it&amp;#39;s a big",
+    "duration": 5.84,
+    "offset": 2435.56,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s a big discussion so Renzo and so",
+    "duration": 2.96,
+    "offset": 2439.72,
+    "lang": "en"
+  },
+  {
+    "text": "that is the reason why we can mock even",
+    "duration": 2.52,
+    "offset": 2441.4,
+    "lang": "en"
+  },
+  {
+    "text": "data from external services with the",
+    "duration": 3.08,
+    "offset": 2442.68,
+    "lang": "en"
+  },
+  {
+    "text": "same convention right exactly yeah if",
+    "duration": 4.919,
+    "offset": 2443.92,
+    "lang": "en"
+  },
+  {
+    "text": "you have a look at if you have a look at",
+    "duration": 6.839,
+    "offset": 2445.76,
+    "lang": "en"
+  },
+  {
+    "text": "um H what&amp;#39;s it called uh service",
+    "duration": 6.48,
+    "offset": 2448.839,
+    "lang": "en"
+  },
+  {
+    "text": "integration code jum in",
+    "duration": 5.641,
+    "offset": 2452.599,
+    "lang": "en"
+  },
+  {
+    "text": "here service",
+    "duration": 6.841,
+    "offset": 2455.319,
+    "lang": "en"
+  },
+  {
+    "text": "integration with cap code Jam there if",
+    "duration": 6.359,
+    "offset": 2458.24,
+    "lang": "en"
+  },
+  {
+    "text": "you have a look at that you will see in",
+    "duration": 4.08,
+    "offset": 2462.16,
+    "lang": "en"
+  },
+  {
+    "text": "one of the exercises where we bring in",
+    "duration": 3.321,
+    "offset": 2464.599,
+    "lang": "en"
+  },
+  {
+    "text": "an external service and we would Define",
+    "duration": 5.04,
+    "offset": 2466.24,
+    "lang": "en"
+  },
+  {
+    "text": "some data locally for that to be served",
+    "duration": 5.199,
+    "offset": 2467.92,
+    "lang": "en"
+  },
+  {
+    "text": "in the mocking of that external service",
+    "duration": 4.12,
+    "offset": 2471.28,
+    "lang": "en"
+  },
+  {
+    "text": "exactly the point Lorenzo so helmet says",
+    "duration": 3.921,
+    "offset": 2473.119,
+    "lang": "en"
+  },
+  {
+    "text": "unfortunately I know helmet&amp;#39;s always got",
+    "duration": 3.4,
+    "offset": 2475.4,
+    "lang": "en"
+  },
+  {
+    "text": "great opinions unfortunately or there&amp;#39;s",
+    "duration": 3.6,
+    "offset": 2477.04,
+    "lang": "en"
+  },
+  {
+    "text": "not any real it strategy at customer",
+    "duration": 3.48,
+    "offset": 2478.8,
+    "lang": "en"
+  },
+  {
+    "text": "side Sab customers wait for what sap",
+    "duration": 2.92,
+    "offset": 2480.64,
+    "lang": "en"
+  },
+  {
+    "text": "leads to and decid to take the route",
+    "duration": 2.4,
+    "offset": 2482.28,
+    "lang": "en"
+  },
+  {
+    "text": "that cost",
+    "duration": 3.96,
+    "offset": 2483.56,
+    "lang": "en"
+  },
+  {
+    "text": "less yes exactly but this is all about",
+    "duration": 5.159,
+    "offset": 2484.68,
+    "lang": "en"
+  },
+  {
+    "text": "cap so let&amp;#39;s talk about cap um so we&amp;#39;ve",
+    "duration": 4.12,
+    "offset": 2487.52,
+    "lang": "en"
+  },
+  {
+    "text": "got this fantastic this is brilliant",
+    "duration": 3.28,
+    "offset": 2489.839,
+    "lang": "en"
+  },
+  {
+    "text": "though I love it I love it I love it",
+    "duration": 2.84,
+    "offset": 2491.64,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s get to the first part let&amp;#39;s see if",
+    "duration": 3.521,
+    "offset": 2493.119,
+    "lang": "en"
+  },
+  {
+    "text": "we can get get a composition going in so",
+    "duration": 3.96,
+    "offset": 2494.48,
+    "lang": "en"
+  },
+  {
+    "text": "get rid of that there we go so I think",
+    "duration": 3.52,
+    "offset": 2496.64,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ll leave the data there uh should we",
+    "duration": 2.76,
+    "offset": 2498.44,
+    "lang": "en"
+  },
+  {
+    "text": "leave yeah let&amp;#39;s leave the data there it",
+    "duration": 2.28,
+    "offset": 2500.16,
+    "lang": "en"
+  },
+  {
+    "text": "doesn&amp;#39;t matter so we got the data in",
+    "duration": 6.24,
+    "offset": 2501.2,
+    "lang": "en"
+  },
+  {
+    "text": "there LS LR tree serve there we&amp;#39;ve got",
+    "duration": 7.2,
+    "offset": 2502.44,
+    "lang": "en"
+  },
+  {
+    "text": "yes okay that&amp;#39;s put oh no actually",
+    "duration": 4.08,
+    "offset": 2507.44,
+    "lang": "en"
+  },
+  {
+    "text": "because it&amp;#39;s got or. caker it makes more",
+    "duration": 5.24,
+    "offset": 2509.64,
+    "lang": "en"
+  },
+  {
+    "text": "sense to me to move uh serve data back",
+    "duration": 5.72,
+    "offset": 2511.52,
+    "lang": "en"
+  },
+  {
+    "text": "to DB because that&amp;#39;s where the orq macro",
+    "duration": 5.08,
+    "offset": 2514.88,
+    "lang": "en"
+  },
+  {
+    "text": "is right so tree DB we got that there",
+    "duration": 6.28,
+    "offset": 2517.24,
+    "lang": "en"
+  },
+  {
+    "text": "tree serve we got that there fine okay",
+    "duration": 6.08,
+    "offset": 2519.96,
+    "lang": "en"
+  },
+  {
+    "text": "now have I still got that in my um",
+    "duration": 4.799,
+    "offset": 2523.52,
+    "lang": "en"
+  },
+  {
+    "text": "buffer no let&amp;#39;s copy that and let&amp;#39;s",
+    "duration": 3.88,
+    "offset": 2526.04,
+    "lang": "en"
+  },
+  {
+    "text": "bring that in okay let&amp;#39;s get rid of that",
+    "duration": 3.481,
+    "offset": 2528.319,
+    "lang": "en"
+  },
+  {
+    "text": "we don&amp;#39;t need that for now um do we need",
+    "duration": 5.84,
+    "offset": 2529.92,
+    "lang": "en"
+  },
+  {
+    "text": "that no and no let&amp;#39;s go down here and",
+    "duration": 6.16,
+    "offset": 2531.8,
+    "lang": "en"
+  },
+  {
+    "text": "add those",
+    "duration": 4.88,
+    "offset": 2535.76,
+    "lang": "en"
+  },
+  {
+    "text": "things let&amp;#39;s now start to a it&amp;#39;s taking",
+    "duration": 5.76,
+    "offset": 2537.96,
+    "lang": "en"
+  },
+  {
+    "text": "me 41 minutes to type in a composition",
+    "duration": 4.919,
+    "offset": 2540.64,
+    "lang": "en"
+  },
+  {
+    "text": "but let&amp;#39;s get rid of that because that&amp;#39;s",
+    "duration": 4.24,
+    "offset": 2543.72,
+    "lang": "en"
+  },
+  {
+    "text": "just you know uh from the from the from",
+    "duration": 6.361,
+    "offset": 2545.559,
+    "lang": "en"
+  },
+  {
+    "text": "the example uh there uh there but let&amp;#39;s",
+    "duration": 6.2,
+    "offset": 2547.96,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s subtly leave this commen in to be",
+    "duration": 3.639,
+    "offset": 2551.92,
+    "lang": "en"
+  },
+  {
+    "text": "accessed through orders only what does",
+    "duration": 2.84,
+    "offset": 2554.16,
+    "lang": "en"
+  },
+  {
+    "text": "that mean what do you think to be",
+    "duration": 3.481,
+    "offset": 2555.559,
+    "lang": "en"
+  },
+  {
+    "text": "accessed through orders only means it&amp;#39;s",
+    "duration": 5.319,
+    "offset": 2557,
+    "lang": "en"
+  },
+  {
+    "text": "one of these three um three what&amp;#39;s it",
+    "duration": 6.12,
+    "offset": 2559.04,
+    "lang": "en"
+  },
+  {
+    "text": "called uh three treatments special",
+    "duration": 5.28,
+    "offset": 2562.319,
+    "lang": "en"
+  },
+  {
+    "text": "treatments okay have a look at that I",
+    "duration": 5.439,
+    "offset": 2565.16,
+    "lang": "en"
+  },
+  {
+    "text": "keep going to my uh screen one um okay",
+    "duration": 4.281,
+    "offset": 2567.599,
+    "lang": "en"
+  },
+  {
+    "text": "thank you",
+    "duration": 4.24,
+    "offset": 2570.599,
+    "lang": "en"
+  },
+  {
+    "text": "Lorenzo so what have we got entity",
+    "duration": 4.679,
+    "offset": 2571.88,
+    "lang": "en"
+  },
+  {
+    "text": "orders let&amp;#39;s define an entity orders",
+    "duration": 4.52,
+    "offset": 2574.839,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s have another called so we can see",
+    "duration": 4.56,
+    "offset": 2576.559,
+    "lang": "en"
+  },
+  {
+    "text": "which ones which cuz goids are really",
+    "duration": 4.641,
+    "offset": 2579.359,
+    "lang": "en"
+  },
+  {
+    "text": "hard to look at with my eyes so comment",
+    "duration": 4.081,
+    "offset": 2581.119,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s have a comment in the order you",
+    "duration": 3,
+    "offset": 2584,
+    "lang": "en"
+  },
+  {
+    "text": "know this order is placed by whatever",
+    "duration": 8,
+    "offset": 2585.2,
+    "lang": "en"
+  },
+  {
+    "text": "string right okay and T do T do so what",
+    "duration": 8.76,
+    "offset": 2587,
+    "lang": "en"
+  },
+  {
+    "text": "have we got here what have we got we&amp;#39;ve",
+    "duration": 4.28,
+    "offset": 2593.2,
+    "lang": "en"
+  },
+  {
+    "text": "got an orders",
+    "duration": 4.48,
+    "offset": 2595.76,
+    "lang": "en"
+  },
+  {
+    "text": "entity and we&amp;#39;ve got this composition of",
+    "duration": 5.48,
+    "offset": 2597.48,
+    "lang": "en"
+  },
+  {
+    "text": "many order items very similar to",
+    "duration": 6.92,
+    "offset": 2600.24,
+    "lang": "en"
+  },
+  {
+    "text": "Association of too many um something",
+    "duration": 6,
+    "offset": 2602.96,
+    "lang": "en"
+  },
+  {
+    "text": "things remember we have the books the",
+    "duration": 3.76,
+    "offset": 2607.16,
+    "lang": "en"
+  },
+  {
+    "text": "author&amp;#39;s Association the backlink",
+    "duration": 3.52,
+    "offset": 2608.96,
+    "lang": "en"
+  },
+  {
+    "text": "association where we said for example",
+    "duration": 3.52,
+    "offset": 2610.92,
+    "lang": "en"
+  },
+  {
+    "text": "here oh there it is there it is",
+    "duration": 4.28,
+    "offset": 2612.48,
+    "lang": "en"
+  },
+  {
+    "text": "Association too many books on books to",
+    "duration": 6.08,
+    "offset": 2614.44,
+    "lang": "en"
+  },
+  {
+    "text": "author equals Dollar Self we&amp;#39;ve got a",
+    "duration": 7.4,
+    "offset": 2616.76,
+    "lang": "en"
+  },
+  {
+    "text": "similar too many Association too many",
+    "duration": 5.599,
+    "offset": 2620.52,
+    "lang": "en"
+  },
+  {
+    "text": "relationship but this time it&amp;#39;s a",
+    "duration": 4.199,
+    "offset": 2624.16,
+    "lang": "en"
+  },
+  {
+    "text": "composition and also note this I just",
+    "duration": 4.361,
+    "offset": 2626.119,
+    "lang": "en"
+  },
+  {
+    "text": "love the subtle",
+    "duration": 5.601,
+    "offset": 2628.359,
+    "lang": "en"
+  },
+  {
+    "text": "um the subtle difference between the",
+    "duration": 7.44,
+    "offset": 2630.48,
+    "lang": "en"
+  },
+  {
+    "text": "preposition here two Association two",
+    "duration": 6.44,
+    "offset": 2633.96,
+    "lang": "en"
+  },
+  {
+    "text": "okay which implies a sort",
+    "duration": 4.36,
+    "offset": 2637.92,
+    "lang": "en"
+  },
+  {
+    "text": "of",
+    "duration": 6.36,
+    "offset": 2640.4,
+    "lang": "en"
+  },
+  {
+    "text": "equal existential existentially equal uh",
+    "duration": 6.16,
+    "offset": 2642.28,
+    "lang": "en"
+  },
+  {
+    "text": "relationship between the books and",
+    "duration": 4.04,
+    "offset": 2646.76,
+    "lang": "en"
+  },
+  {
+    "text": "authors both of which can uh exist",
+    "duration": 4.8,
+    "offset": 2648.44,
+    "lang": "en"
+  },
+  {
+    "text": "independent of each other whereas here",
+    "duration": 6.84,
+    "offset": 2650.8,
+    "lang": "en"
+  },
+  {
+    "text": "notice that the preposition used is of",
+    "duration": 6.96,
+    "offset": 2653.24,
+    "lang": "en"
+  },
+  {
+    "text": "so that sort of implies also this thing",
+    "duration": 4.84,
+    "offset": 2657.64,
+    "lang": "en"
+  },
+  {
+    "text": "here where it says what is it um",
+    "duration": 7.159,
+    "offset": 2660.2,
+    "lang": "en"
+  },
+  {
+    "text": "where uh contained in see that contained",
+    "duration": 7.72,
+    "offset": 2662.48,
+    "lang": "en"
+  },
+  {
+    "text": "in so composition of that should give",
+    "duration": 4.601,
+    "offset": 2667.359,
+    "lang": "en"
+  },
+  {
+    "text": "you a clue and start your brain thinking",
+    "duration": 5,
+    "offset": 2670.2,
+    "lang": "en"
+  },
+  {
+    "text": "about this header items relationship",
+    "duration": 8,
+    "offset": 2671.96,
+    "lang": "en"
+  },
+  {
+    "text": "that uh Henrik uh Henrik uh",
+    "duration": 7.159,
+    "offset": 2675.2,
+    "lang": "en"
+  },
+  {
+    "text": "mentioned many order items we still",
+    "duration": 5.159,
+    "offset": 2679.96,
+    "lang": "en"
+  },
+  {
+    "text": "because it&amp;#39;s to many we still need to",
+    "duration": 5.121,
+    "offset": 2682.359,
+    "lang": "en"
+  },
+  {
+    "text": "have this sort of condition okay but",
+    "duration": 4.48,
+    "offset": 2685.119,
+    "lang": "en"
+  },
+  {
+    "text": "basically it it follows the same idea we",
+    "duration": 4.96,
+    "offset": 2687.48,
+    "lang": "en"
+  },
+  {
+    "text": "have how do you define the condition the",
+    "duration": 5.48,
+    "offset": 2689.599,
+    "lang": "en"
+  },
+  {
+    "text": "first part of the of the left hand of",
+    "duration": 4.399,
+    "offset": 2692.44,
+    "lang": "en"
+  },
+  {
+    "text": "the of the equals for example left hand",
+    "duration": 6.04,
+    "offset": 2695.079,
+    "lang": "en"
+  },
+  {
+    "text": "of the the um equality uh condition says",
+    "duration": 6.041,
+    "offset": 2696.839,
+    "lang": "en"
+  },
+  {
+    "text": "items what is that referring to that is",
+    "duration": 4.361,
+    "offset": 2701.119,
+    "lang": "en"
+  },
+  {
+    "text": "referring to the name of this element",
+    "duration": 3.959,
+    "offset": 2702.88,
+    "lang": "en"
+  },
+  {
+    "text": "and then this element points to",
+    "duration": 3.4,
+    "offset": 2705.48,
+    "lang": "en"
+  },
+  {
+    "text": "something okay it points to the order",
+    "duration": 5.121,
+    "offset": 2706.839,
+    "lang": "en"
+  },
+  {
+    "text": "items so the the right hand part of the",
+    "duration": 6.08,
+    "offset": 2708.88,
+    "lang": "en"
+  },
+  {
+    "text": "or let&amp;#39;s say this part of the uh left",
+    "duration": 5.96,
+    "offset": 2711.96,
+    "lang": "en"
+  },
+  {
+    "text": "hand side of the equals after the dot is",
+    "duration": 5.24,
+    "offset": 2714.96,
+    "lang": "en"
+  },
+  {
+    "text": "an element in the pointed two thing so",
+    "duration": 4.439,
+    "offset": 2717.92,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s there pair even highlights it for",
+    "duration": 4.96,
+    "offset": 2720.2,
+    "lang": "en"
+  },
+  {
+    "text": "us right so",
+    "duration": 6.2,
+    "offset": 2722.359,
+    "lang": "en"
+  },
+  {
+    "text": "basically Dollar Self is effectively the",
+    "duration": 6.159,
+    "offset": 2725.16,
+    "lang": "en"
+  },
+  {
+    "text": "key of this entity is me right Dollar",
+    "duration": 5.641,
+    "offset": 2728.559,
+    "lang": "en"
+  },
+  {
+    "text": "Self me this order right this this",
+    "duration": 5.681,
+    "offset": 2731.319,
+    "lang": "en"
+  },
+  {
+    "text": "instance of the order as entity has to",
+    "duration": 5.639,
+    "offset": 2734.2,
+    "lang": "en"
+  },
+  {
+    "text": "be the same as the key of this because",
+    "duration": 5.72,
+    "offset": 2737,
+    "lang": "en"
+  },
+  {
+    "text": "remember oh also we need um we need to",
+    "duration": 5.921,
+    "offset": 2739.839,
+    "lang": "en"
+  },
+  {
+    "text": "have don&amp;#39;t we don&amp;#39;t we have the CU ID",
+    "duration": 4.359,
+    "offset": 2742.72,
+    "lang": "en"
+  },
+  {
+    "text": "right let&amp;#39;s put the CU ID in there",
+    "duration": 5,
+    "offset": 2745.76,
+    "lang": "en"
+  },
+  {
+    "text": "comment items orders uh should we have",
+    "duration": 6.04,
+    "offset": 2747.079,
+    "lang": "en"
+  },
+  {
+    "text": "the C see we&amp;#39;ll see what happens if we",
+    "duration": 5.079,
+    "offset": 2750.76,
+    "lang": "en"
+  },
+  {
+    "text": "just take that um we probably need a CU",
+    "duration": 6.2,
+    "offset": 2753.119,
+    "lang": "en"
+  },
+  {
+    "text": "ID don&amp;#39;t we anyway or some ID so let&amp;#39;s",
+    "duration": 4.921,
+    "offset": 2755.839,
+    "lang": "en"
+  },
+  {
+    "text": "start let&amp;#39;s start that up and have a",
+    "duration": 3.561,
+    "offset": 2759.319,
+    "lang": "en"
+  },
+  {
+    "text": "look what we get okay first of all let&amp;#39;s",
+    "duration": 6.24,
+    "offset": 2760.76,
+    "lang": "en"
+  },
+  {
+    "text": "save that let&amp;#39;s go and open here CDs",
+    "duration": 6.84,
+    "offset": 2762.88,
+    "lang": "en"
+  },
+  {
+    "text": "watch and now let&amp;#39;s bring in let&amp;#39;s bring",
+    "duration": 4.359,
+    "offset": 2767,
+    "lang": "en"
+  },
+  {
+    "text": "that back in again we don&amp;#39;t need that",
+    "duration": 5.24,
+    "offset": 2769.72,
+    "lang": "en"
+  },
+  {
+    "text": "one um let&amp;#39;s go back here back there",
+    "duration": 6.2,
+    "offset": 2771.359,
+    "lang": "en"
+  },
+  {
+    "text": "back there what&amp;#39;s going on here oh ah",
+    "duration": 3.52,
+    "offset": 2774.96,
+    "lang": "en"
+  },
+  {
+    "text": "why aren&amp;#39;t we getting that because we",
+    "duration": 3.161,
+    "offset": 2777.559,
+    "lang": "en"
+  },
+  {
+    "text": "haven&amp;#39;t exposed it idiot DJ so let&amp;#39;s",
+    "duration": 4.48,
+    "offset": 2778.48,
+    "lang": "en"
+  },
+  {
+    "text": "bring that in and open up um what&amp;#39;s it",
+    "duration": 6.2,
+    "offset": 2780.72,
+    "lang": "en"
+  },
+  {
+    "text": "called main. CDs and let&amp;#39;s just expose",
+    "duration": 6.24,
+    "offset": 2782.96,
+    "lang": "en"
+  },
+  {
+    "text": "and let&amp;#39;s just sort of think about what",
+    "duration": 5.28,
+    "offset": 2786.92,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re doing here we want to",
+    "duration": 4.52,
+    "offset": 2789.2,
+    "lang": "en"
+  },
+  {
+    "text": "expose",
+    "duration": 4.56,
+    "offset": 2792.2,
+    "lang": "en"
+  },
+  {
+    "text": "um just our orders because we have",
+    "duration": 5.92,
+    "offset": 2793.72,
+    "lang": "en"
+  },
+  {
+    "text": "composition targets are exposed Auto",
+    "duration": 5.2,
+    "offset": 2796.76,
+    "lang": "en"
+  },
+  {
+    "text": "exposed in service interfaces let&amp;#39;s",
+    "duration": 3.919,
+    "offset": 2799.64,
+    "lang": "en"
+  },
+  {
+    "text": "start taking",
+    "duration": 4.359,
+    "offset": 2801.96,
+    "lang": "en"
+  },
+  {
+    "text": "a A Towing in the water approach to",
+    "duration": 5.161,
+    "offset": 2803.559,
+    "lang": "en"
+  },
+  {
+    "text": "thinking about what the heck that might",
+    "duration": 5.321,
+    "offset": 2806.319,
+    "lang": "en"
+  },
+  {
+    "text": "mean so we want to say here for example",
+    "duration": 6.68,
+    "offset": 2808.72,
+    "lang": "en"
+  },
+  {
+    "text": "uh let&amp;#39;s do that orders as and as there",
+    "duration": 7.199,
+    "offset": 2811.64,
+    "lang": "en"
+  },
+  {
+    "text": "okay let&amp;#39;s do that",
+    "duration": 3.439,
+    "offset": 2815.4,
+    "lang": "en"
+  },
+  {
+    "text": "uh come on restart please thank you very",
+    "duration": 6.08,
+    "offset": 2818.88,
+    "lang": "en"
+  },
+  {
+    "text": "much there we go now there we get",
+    "duration": 6.799,
+    "offset": 2820.52,
+    "lang": "en"
+  },
+  {
+    "text": "orders okay no orders in fact let&amp;#39;s add",
+    "duration": 3.92,
+    "offset": 2824.96,
+    "lang": "en"
+  },
+  {
+    "text": "some orders let&amp;#39;s add some a couple of",
+    "duration": 5.04,
+    "offset": 2827.319,
+    "lang": "en"
+  },
+  {
+    "text": "orders let&amp;#39;s go and get um yeah let&amp;#39;s",
+    "duration": 4.8,
+    "offset": 2828.88,
+    "lang": "en"
+  },
+  {
+    "text": "have a let&amp;#39;s well let&amp;#39;s have look at the",
+    "duration": 4.081,
+    "offset": 2832.359,
+    "lang": "en"
+  },
+  {
+    "text": "metadata first of all in the",
+    "duration": 6.6,
+    "offset": 2833.68,
+    "lang": "en"
+  },
+  {
+    "text": "orders there orders entity type there&amp;#39;s",
+    "duration": 4.919,
+    "offset": 2836.44,
+    "lang": "en"
+  },
+  {
+    "text": "the entity type",
+    "duration": 2.96,
+    "offset": 2840.28,
+    "lang": "en"
+  },
+  {
+    "text": "definition have you noticed what&amp;#39;s",
+    "duration": 4.361,
+    "offset": 2841.359,
+    "lang": "en"
+  },
+  {
+    "text": "missing there right what&amp;#39;s missing there",
+    "duration": 5.04,
+    "offset": 2843.24,
+    "lang": "en"
+  },
+  {
+    "text": "is something like this where we have a",
+    "duration": 5.639,
+    "offset": 2845.72,
+    "lang": "en"
+  },
+  {
+    "text": "key property defined property o data",
+    "duration": 7.76,
+    "offset": 2848.28,
+    "lang": "en"
+  },
+  {
+    "text": "term element CDs term right so this of",
+    "duration": 8.121,
+    "offset": 2851.359,
+    "lang": "en"
+  },
+  {
+    "text": "course is just a you know this is just a",
+    "duration": 5.12,
+    "offset": 2856.04,
+    "lang": "en"
+  },
+  {
+    "text": "the important bits of an entity",
+    "duration": 3.76,
+    "offset": 2859.48,
+    "lang": "en"
+  },
+  {
+    "text": "definition so we do need a Cy of course",
+    "duration": 5.24,
+    "offset": 2861.16,
+    "lang": "en"
+  },
+  {
+    "text": "obviously need a key so let&amp;#39;s go back to",
+    "duration": 6.839,
+    "offset": 2863.24,
+    "lang": "en"
+  },
+  {
+    "text": "um schema. CDs and add in here uh",
+    "duration": 6.4,
+    "offset": 2866.4,
+    "lang": "en"
+  },
+  {
+    "text": "willing fatless let&amp;#39;s annotate it with",
+    "duration": 4.961,
+    "offset": 2870.079,
+    "lang": "en"
+  },
+  {
+    "text": "annotate it is that the word no let&amp;#39;s",
+    "duration": 6.039,
+    "offset": 2872.8,
+    "lang": "en"
+  },
+  {
+    "text": "decorate it with the CI aspect okay oh",
+    "duration": 6.36,
+    "offset": 2875.04,
+    "lang": "en"
+  },
+  {
+    "text": "LAX say good morning good afternoon to",
+    "duration": 4.321,
+    "offset": 2878.839,
+    "lang": "en"
+  },
+  {
+    "text": "you could you also show how the DB table",
+    "duration": 5.56,
+    "offset": 2881.4,
+    "lang": "en"
+  },
+  {
+    "text": "gets created the DB table gets created",
+    "duration": 6.88,
+    "offset": 2883.16,
+    "lang": "en"
+  },
+  {
+    "text": "um what do you mean specifically there I",
+    "duration": 4.639,
+    "offset": 2886.96,
+    "lang": "en"
+  },
+  {
+    "text": "think I might know what you mean or I&amp;#39;m",
+    "duration": 2.88,
+    "offset": 2890.04,
+    "lang": "en"
+  },
+  {
+    "text": "going to take a guess as to what you",
+    "duration": 5.641,
+    "offset": 2891.599,
+    "lang": "en"
+  },
+  {
+    "text": "mean which is the SQL light thing here",
+    "duration": 7.399,
+    "offset": 2892.92,
+    "lang": "en"
+  },
+  {
+    "text": "um or do you mean for example um do you",
+    "duration": 5.599,
+    "offset": 2897.24,
+    "lang": "en"
+  },
+  {
+    "text": "mean let&amp;#39;s just get do this for example",
+    "duration": 4.081,
+    "offset": 2900.319,
+    "lang": "en"
+  },
+  {
+    "text": "this thing here so we can look at SQL",
+    "duration": 3.52,
+    "offset": 2902.839,
+    "lang": "en"
+  },
+  {
+    "text": "previous squel Daniel SCH pointed us",
+    "duration": 4.28,
+    "offset": 2904.4,
+    "lang": "en"
+  },
+  {
+    "text": "this week brand new in March 2024",
+    "duration": 5.041,
+    "offset": 2906.359,
+    "lang": "en"
+  },
+  {
+    "text": "release of cap we can see the SQL so",
+    "duration": 7.879,
+    "offset": 2908.68,
+    "lang": "en"
+  },
+  {
+    "text": "this is how um the schema. CDs",
+    "duration": 8.959,
+    "offset": 2911.4,
+    "lang": "en"
+  },
+  {
+    "text": "translates into SQL so we have ddl",
+    "duration": 6.321,
+    "offset": 2916.559,
+    "lang": "en"
+  },
+  {
+    "text": "statements here um that are based upon",
+    "duration": 3.96,
+    "offset": 2920.359,
+    "lang": "en"
+  },
+  {
+    "text": "the definitions in here so we have the",
+    "duration": 4.959,
+    "offset": 2922.88,
+    "lang": "en"
+  },
+  {
+    "text": "create table org qro orders so the the",
+    "duration": 6.04,
+    "offset": 2924.319,
+    "lang": "en"
+  },
+  {
+    "text": "the name space gets translated as it",
+    "duration": 3.881,
+    "offset": 2927.839,
+    "lang": "en"
+  },
+  {
+    "text": "were into a",
+    "duration": 4.561,
+    "offset": 2930.359,
+    "lang": "en"
+  },
+  {
+    "text": "prefix for the table in the persistence",
+    "duration": 5.879,
+    "offset": 2931.72,
+    "lang": "en"
+  },
+  {
+    "text": "lay in the ddl okay and here for example",
+    "duration": 4.52,
+    "offset": 2934.92,
+    "lang": "en"
+  },
+  {
+    "text": "orders the",
+    "duration": 4.161,
+    "offset": 2937.599,
+    "lang": "en"
+  },
+  {
+    "text": "cuid which is basically the CU you can",
+    "duration": 5.56,
+    "offset": 2939.44,
+    "lang": "en"
+  },
+  {
+    "text": "see the cuid key ID which adds basically",
+    "duration": 6.72,
+    "offset": 2941.76,
+    "lang": "en"
+  },
+  {
+    "text": "adds an an element called ID which is a",
+    "duration": 6.04,
+    "offset": 2945,
+    "lang": "en"
+  },
+  {
+    "text": "key element of Type U",
+    "duration": 7.24,
+    "offset": 2948.48,
+    "lang": "en"
+  },
+  {
+    "text": "ID that gets translated into ID narr 36",
+    "duration": 7.12,
+    "offset": 2951.04,
+    "lang": "en"
+  },
+  {
+    "text": "why is it 36 because a u ID is 36",
+    "duration": 3.72,
+    "offset": 2955.72,
+    "lang": "en"
+  },
+  {
+    "text": "characters long it&amp;#39;s sort of like a",
+    "duration": 2.679,
+    "offset": 2958.16,
+    "lang": "en"
+  },
+  {
+    "text": "string but not a string it&amp;#39;s like an",
+    "duration": 3.04,
+    "offset": 2959.44,
+    "lang": "en"
+  },
+  {
+    "text": "opaque",
+    "duration": 4.041,
+    "offset": 2960.839,
+    "lang": "en"
+  },
+  {
+    "text": "string yeah opaque you do not look at it",
+    "duration": 3.8,
+    "offset": 2962.48,
+    "lang": "en"
+  },
+  {
+    "text": "do not interpret it do not pass go do",
+    "duration": 2.88,
+    "offset": 2964.88,
+    "lang": "en"
+  },
+  {
+    "text": "not collect to",
+    "duration": 3.72,
+    "offset": 2966.28,
+    "lang": "en"
+  },
+  {
+    "text": "00 have a comment and and then we get",
+    "duration": 4.079,
+    "offset": 2967.76,
+    "lang": "en"
+  },
+  {
+    "text": "the primary key ID it&amp;#39;s the primary key",
+    "duration": 3.559,
+    "offset": 2970,
+    "lang": "en"
+  },
+  {
+    "text": "is the ID so is that what you mean or we",
+    "duration": 4.52,
+    "offset": 2971.839,
+    "lang": "en"
+  },
+  {
+    "text": "can also do a deploy to the SQL light",
+    "duration": 4.401,
+    "offset": 2973.559,
+    "lang": "en"
+  },
+  {
+    "text": "database and have a look at that as well",
+    "duration": 3.361,
+    "offset": 2976.359,
+    "lang": "en"
+  },
+  {
+    "text": "let me know let me know in the chat if I",
+    "duration": 4.08,
+    "offset": 2977.96,
+    "lang": "en"
+  },
+  {
+    "text": "probably not answer any question um so",
+    "duration": 4.8,
+    "offset": 2979.72,
+    "lang": "en"
+  },
+  {
+    "text": "now let&amp;#39;s let&amp;#39;s have a look here and",
+    "duration": 5.519,
+    "offset": 2982.04,
+    "lang": "en"
+  },
+  {
+    "text": "refresh that and now we get what we&amp;#39;re",
+    "duration": 5.16,
+    "offset": 2984.52,
+    "lang": "en"
+  },
+  {
+    "text": "looking for here which is something that",
+    "duration": 4.8,
+    "offset": 2987.559,
+    "lang": "en"
+  },
+  {
+    "text": "is sort of capable of maintaining a",
+    "duration": 4.399,
+    "offset": 2989.68,
+    "lang": "en"
+  },
+  {
+    "text": "contained in relationship where the",
+    "duration": 5.2,
+    "offset": 2992.359,
+    "lang": "en"
+  },
+  {
+    "text": "children can point back go to their",
+    "duration": 6.801,
+    "offset": 2994.079,
+    "lang": "en"
+  },
+  {
+    "text": "parent Association to orders look and",
+    "duration": 5.28,
+    "offset": 2997.559,
+    "lang": "en"
+  },
+  {
+    "text": "that because this is an managed",
+    "duration": 3.88,
+    "offset": 3000.88,
+    "lang": "en"
+  },
+  {
+    "text": "Association composition doesn&amp;#39;t",
+    "duration": 4.841,
+    "offset": 3002.839,
+    "lang": "en"
+  },
+  {
+    "text": "necessarily mean that you know two",
+    "duration": 4.96,
+    "offset": 3004.76,
+    "lang": "en"
+  },
+  {
+    "text": "contained in relationship doesn&amp;#39;t mean",
+    "duration": 4.84,
+    "offset": 3007.68,
+    "lang": "en"
+  },
+  {
+    "text": "that you only use compositions you use a",
+    "duration": 5.04,
+    "offset": 3009.72,
+    "lang": "en"
+  },
+  {
+    "text": "composition to express the you know the",
+    "duration": 5.96,
+    "offset": 3012.52,
+    "lang": "en"
+  },
+  {
+    "text": "pointing to the the contained in thing",
+    "duration": 6.12,
+    "offset": 3014.76,
+    "lang": "en"
+  },
+  {
+    "text": "but that contained in thing can point",
+    "duration": 4.68,
+    "offset": 3018.48,
+    "lang": "en"
+  },
+  {
+    "text": "back to its parent through a managed",
+    "duration": 4.6,
+    "offset": 3020.88,
+    "lang": "en"
+  },
+  {
+    "text": "Association ah okay perfect thank you",
+    "duration": 6.639,
+    "offset": 3023.16,
+    "lang": "en"
+  },
+  {
+    "text": "very much uh laxa um so now we can see",
+    "duration": 8.24,
+    "offset": 3025.48,
+    "lang": "en"
+  },
+  {
+    "text": "here the order items has two key uh",
+    "duration": 6.681,
+    "offset": 3029.799,
+    "lang": "en"
+  },
+  {
+    "text": "properties the parent ID where is that",
+    "duration": 4.44,
+    "offset": 3033.72,
+    "lang": "en"
+  },
+  {
+    "text": "coming from that&amp;#39;s coming from the manag",
+    "duration": 3.119,
+    "offset": 3036.48,
+    "lang": "en"
+  },
+  {
+    "text": "association remember the manag",
+    "duration": 4.72,
+    "offset": 3038.16,
+    "lang": "en"
+  },
+  {
+    "text": "association takes the the from part the",
+    "duration": 5.121,
+    "offset": 3039.599,
+    "lang": "en"
+  },
+  {
+    "text": "parent and the two part that it&amp;#39;s",
+    "duration": 5.04,
+    "offset": 3042.88,
+    "lang": "en"
+  },
+  {
+    "text": "referring to which is the ID in orders",
+    "duration": 6.28,
+    "offset": 3044.72,
+    "lang": "en"
+  },
+  {
+    "text": "there ID and squ them together with an",
+    "duration": 6.76,
+    "offset": 3047.92,
+    "lang": "en"
+  },
+  {
+    "text": "underscore okay and generates that as as",
+    "duration": 6.24,
+    "offset": 3051,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s do that again uh in the main CDs",
+    "duration": 4.679,
+    "offset": 3054.68,
+    "lang": "en"
+  },
+  {
+    "text": "oh no let&amp;#39;s do it here I&amp;#39;ll do in in",
+    "duration": 6.559,
+    "offset": 3057.24,
+    "lang": "en"
+  },
+  {
+    "text": "there what what what uh no don&amp;#39;t that",
+    "duration": 7.24,
+    "offset": 3059.359,
+    "lang": "en"
+  },
+  {
+    "text": "what&amp;#39;s it what&amp;#39;s going on SQL there um",
+    "duration": 7.8,
+    "offset": 3063.799,
+    "lang": "en"
+  },
+  {
+    "text": "in there parent ID okay",
+    "duration": 8.24,
+    "offset": 3066.599,
+    "lang": "en"
+  },
+  {
+    "text": "right 850 we&amp;#39;ll have to do a second",
+    "duration": 4.96,
+    "offset": 3071.599,
+    "lang": "en"
+  },
+  {
+    "text": "episode in this because there&amp;#39;s so much",
+    "duration": 3.441,
+    "offset": 3074.839,
+    "lang": "en"
+  },
+  {
+    "text": "to explore in competitions we&amp;#39; only just",
+    "duration": 4.841,
+    "offset": 3076.559,
+    "lang": "en"
+  },
+  {
+    "text": "got started right um so let&amp;#39;s add some",
+    "duration": 4.519,
+    "offset": 3078.28,
+    "lang": "en"
+  },
+  {
+    "text": "data let&amp;#39;s add some",
+    "duration": 4.959,
+    "offset": 3081.4,
+    "lang": "en"
+  },
+  {
+    "text": "data um because because because because",
+    "duration": 4.8,
+    "offset": 3082.799,
+    "lang": "en"
+  },
+  {
+    "text": "because",
+    "duration": 3.521,
+    "offset": 3086.359,
+    "lang": "en"
+  },
+  {
+    "text": "because um we don&amp;#39;t have any data let&amp;#39;s",
+    "duration": 4.041,
+    "offset": 3087.599,
+    "lang": "en"
+  },
+  {
+    "text": "add some data and let&amp;#39;s go here and say",
+    "duration": 3.479,
+    "offset": 3089.88,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s have a uu",
+    "duration": 5.04,
+    "offset": 3091.64,
+    "lang": "en"
+  },
+  {
+    "text": "ID in fact let&amp;#39;s have two orders U ID um",
+    "duration": 7.081,
+    "offset": 3093.359,
+    "lang": "en"
+  },
+  {
+    "text": "U ID let&amp;#39;s copy those that&amp;#39;ll do",
+    "duration": 5.879,
+    "offset": 3096.68,
+    "lang": "en"
+  },
+  {
+    "text": "uh and let&amp;#39;s bring that into there and",
+    "duration": 3.84,
+    "offset": 3100.44,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s now open let&amp;#39;s just that there",
+    "duration": 6.201,
+    "offset": 3102.559,
+    "lang": "en"
+  },
+  {
+    "text": "again and let&amp;#39;s open up um let&amp;#39;s have",
+    "duration": 7.279,
+    "offset": 3104.28,
+    "lang": "en"
+  },
+  {
+    "text": "another file let&amp;#39;s have another file um",
+    "duration": 6.319,
+    "offset": 3108.76,
+    "lang": "en"
+  },
+  {
+    "text": "data new file oh doc can you hear my",
+    "duration": 5.52,
+    "offset": 3111.559,
+    "lang": "en"
+  },
+  {
+    "text": "stomach rumbling I&amp;#39;m starving",
+    "duration": 5.881,
+    "offset": 3115.079,
+    "lang": "en"
+  },
+  {
+    "text": "orders. CSV oh no DJ what are you doing",
+    "duration": 6.081,
+    "offset": 3117.079,
+    "lang": "en"
+  },
+  {
+    "text": "we can we can be lazy can&amp;#39;t we lazy one",
+    "duration": 5.159,
+    "offset": 3120.96,
+    "lang": "en"
+  },
+  {
+    "text": "of the three main features of a of a",
+    "duration": 6.159,
+    "offset": 3123.16,
+    "lang": "en"
+  },
+  {
+    "text": "great programmer be lazy any can anybody",
+    "duration": 5.921,
+    "offset": 3126.119,
+    "lang": "en"
+  },
+  {
+    "text": "put in the chat what I&amp;#39;m referring to uh",
+    "duration": 6.76,
+    "offset": 3129.319,
+    "lang": "en"
+  },
+  {
+    "text": "that the famous Larry wall uh adage the",
+    "duration": 7.6,
+    "offset": 3132.04,
+    "lang": "en"
+  },
+  {
+    "text": "three the three um aspects of a great",
+    "duration": 5.921,
+    "offset": 3136.079,
+    "lang": "en"
+  },
+  {
+    "text": "programmer laziness something and",
+    "duration": 5.88,
+    "offset": 3139.64,
+    "lang": "en"
+  },
+  {
+    "text": "something so I&amp;#39;m going to say CDs add",
+    "duration": 5.599,
+    "offset": 3142,
+    "lang": "en"
+  },
+  {
+    "text": "data what&amp;#39;s going to happen here what is",
+    "duration": 3.799,
+    "offset": 3145.52,
+    "lang": "en"
+  },
+  {
+    "text": "going to happen",
+    "duration": 6.161,
+    "offset": 3147.599,
+    "lang": "en"
+  },
+  {
+    "text": "here I&amp;#39;ve got it to give me to create in",
+    "duration": 7.441,
+    "offset": 3149.319,
+    "lang": "en"
+  },
+  {
+    "text": "the data directory in DB data the files",
+    "duration": 4.559,
+    "offset": 3153.76,
+    "lang": "en"
+  },
+  {
+    "text": "are missing we&amp;#39;ve still got the authors",
+    "duration": 3.24,
+    "offset": 3156.76,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve still got the books but now we&amp;#39;ve",
+    "duration": 3.76,
+    "offset": 3158.319,
+    "lang": "en"
+  },
+  {
+    "text": "got those two files there I don&amp;#39;t have",
+    "duration": 4,
+    "offset": 3160,
+    "lang": "en"
+  },
+  {
+    "text": "to create them with the names and also",
+    "duration": 4.28,
+    "offset": 3162.079,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s got the things here so ID let&amp;#39;s put",
+    "duration": 5.52,
+    "offset": 3164,
+    "lang": "en"
+  },
+  {
+    "text": "that in there and comment first order uh",
+    "duration": 6.24,
+    "offset": 3166.359,
+    "lang": "en"
+  },
+  {
+    "text": "second order second order there we go",
+    "duration": 4.52,
+    "offset": 3169.52,
+    "lang": "en"
+  },
+  {
+    "text": "and let&amp;#39;s add the items as well right so",
+    "duration": 4.681,
+    "offset": 3172.599,
+    "lang": "en"
+  },
+  {
+    "text": "we got the items we got um parent ID",
+    "duration": 7.12,
+    "offset": 3174.04,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s have uh position one position one",
+    "duration": 6.2,
+    "offset": 3177.28,
+    "lang": "en"
+  },
+  {
+    "text": "and quantity 10 and quantity 10 let&amp;#39;s",
+    "duration": 4.76,
+    "offset": 3181.16,
+    "lang": "en"
+  },
+  {
+    "text": "have in the second order let&amp;#39;s",
+    "duration": 4.96,
+    "offset": 3183.48,
+    "lang": "en"
+  },
+  {
+    "text": "have uh sorry in the second position",
+    "duration": 5.52,
+    "offset": 3185.92,
+    "lang": "en"
+  },
+  {
+    "text": "second line item we&amp;#39;ll have sorry in the",
+    "duration": 5.96,
+    "offset": 3188.44,
+    "lang": "en"
+  },
+  {
+    "text": "second order will&amp;#39;ll have two positions",
+    "duration": 5.72,
+    "offset": 3191.44,
+    "lang": "en"
+  },
+  {
+    "text": "two items item one and item two where",
+    "duration": 4.76,
+    "offset": 3194.4,
+    "lang": "en"
+  },
+  {
+    "text": "the quantity is 10 in the first one and",
+    "duration": 5,
+    "offset": 3197.16,
+    "lang": "en"
+  },
+  {
+    "text": "you you know what I mean right okay ah",
+    "duration": 5.04,
+    "offset": 3199.16,
+    "lang": "en"
+  },
+  {
+    "text": "there so let&amp;#39;s just have a look at that",
+    "duration": 3.959,
+    "offset": 3202.16,
+    "lang": "en"
+  },
+  {
+    "text": "together let&amp;#39;s put that over there so",
+    "duration": 5.24,
+    "offset": 3204.2,
+    "lang": "en"
+  },
+  {
+    "text": "they go we got our order ac5 there&amp;#39;s AC",
+    "duration": 5.921,
+    "offset": 3206.119,
+    "lang": "en"
+  },
+  {
+    "text": "5&amp;#39;s item single item with 10 quantity",
+    "duration": 5.359,
+    "offset": 3209.44,
+    "lang": "en"
+  },
+  {
+    "text": "and Order 609 there we got two order",
+    "duration": 5.68,
+    "offset": 3212.04,
+    "lang": "en"
+  },
+  {
+    "text": "items one with 10 and one with 20 fine",
+    "duration": 4.921,
+    "offset": 3214.799,
+    "lang": "en"
+  },
+  {
+    "text": "okay so now CDs",
+    "duration": 4.92,
+    "offset": 3217.72,
+    "lang": "en"
+  },
+  {
+    "text": "watch let&amp;#39;s bring that back again and",
+    "duration": 6.599,
+    "offset": 3219.72,
+    "lang": "en"
+  },
+  {
+    "text": "refresh there we go but the really so",
+    "duration": 4.8,
+    "offset": 3222.64,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going to we&amp;#39;re going to be able to",
+    "duration": 3.601,
+    "offset": 3226.319,
+    "lang": "en"
+  },
+  {
+    "text": "capture or start to have a look at and",
+    "duration": 4.56,
+    "offset": 3227.44,
+    "lang": "en"
+  },
+  {
+    "text": "stare",
+    "duration": 3.6,
+    "offset": 3229.92,
+    "lang": "en"
+  },
+  {
+    "text": "at",
+    "duration": 5.119,
+    "offset": 3232,
+    "lang": "en"
+  },
+  {
+    "text": "one just one for now let&amp;#39;s",
+    "duration": 5.24,
+    "offset": 3233.52,
+    "lang": "en"
+  },
+  {
+    "text": "are you okay put in the chat somebody",
+    "duration": 2.881,
+    "offset": 3237.119,
+    "lang": "en"
+  },
+  {
+    "text": "who&amp;#39;s somebody who&amp;#39;s put in the chat",
+    "duration": 3.079,
+    "offset": 3238.76,
+    "lang": "en"
+  },
+  {
+    "text": "already put some more in the chat if",
+    "duration": 3.799,
+    "offset": 3240,
+    "lang": "en"
+  },
+  {
+    "text": "you&amp;#39;re okay in us doing a second episode",
+    "duration": 3.321,
+    "offset": 3241.839,
+    "lang": "en"
+  },
+  {
+    "text": "I think we need to do a second episode",
+    "duration": 4.081,
+    "offset": 3243.799,
+    "lang": "en"
+  },
+  {
+    "text": "on compositions put in the chat you know",
+    "duration": 4.24,
+    "offset": 3245.16,
+    "lang": "en"
+  },
+  {
+    "text": "tell us it&amp;#39;s all right to do a second",
+    "duration": 3.239,
+    "offset": 3247.88,
+    "lang": "en"
+  },
+  {
+    "text": "episode on compositions so we can we can",
+    "duration": 3.28,
+    "offset": 3249.4,
+    "lang": "en"
+  },
+  {
+    "text": "do it",
+    "duration": 7.2,
+    "offset": 3251.119,
+    "lang": "en"
+  },
+  {
+    "text": "justice um notice what I haven&amp;#39;t put in",
+    "duration": 7.48,
+    "offset": 3252.68,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s put that over there a bit uh let&amp;#39;s",
+    "duration": 4.201,
+    "offset": 3258.319,
+    "lang": "en"
+  },
+  {
+    "text": "go here get rid of that get rid of that",
+    "duration": 5.88,
+    "offset": 3260.16,
+    "lang": "en"
+  },
+  {
+    "text": "get rid of that in our main CDs in serve",
+    "duration": 5.68,
+    "offset": 3262.52,
+    "lang": "en"
+  },
+  {
+    "text": "Main CD you can see serve that&amp;#39;s quite",
+    "duration": 3.88,
+    "offset": 3266.04,
+    "lang": "en"
+  },
+  {
+    "text": "nice there the breadcrumbs serve main",
+    "duration": 4.84,
+    "offset": 3268.2,
+    "lang": "en"
+  },
+  {
+    "text": "CDs in Bookshop right I&amp;#39;ve",
+    "duration": 5.56,
+    "offset": 3269.92,
+    "lang": "en"
+  },
+  {
+    "text": "defined I&amp;#39;m exposing an entity called",
+    "duration": 4.079,
+    "offset": 3273.04,
+    "lang": "en"
+  },
+  {
+    "text": "orders and it&amp;#39;s a projection on the org",
+    "duration": 4.04,
+    "offset": 3275.48,
+    "lang": "en"
+  },
+  {
+    "text": "qro orders which I&amp;#39;ve imported from the",
+    "duration": 4.72,
+    "offset": 3277.119,
+    "lang": "en"
+  },
+  {
+    "text": "schema level thank you visas thank you",
+    "duration": 4.799,
+    "offset": 3279.52,
+    "lang": "en"
+  },
+  {
+    "text": "thank you so much right",
+    "duration": 4.641,
+    "offset": 3281.839,
+    "lang": "en"
+  },
+  {
+    "text": "okay but I&amp;#39;ve not",
+    "duration": 4.361,
+    "offset": 3284.319,
+    "lang": "en"
+  },
+  {
+    "text": "exposed order",
+    "duration": 5.119,
+    "offset": 3286.48,
+    "lang": "en"
+  },
+  {
+    "text": "items because it says here composition",
+    "duration": 6.24,
+    "offset": 3288.68,
+    "lang": "en"
+  },
+  {
+    "text": "targets DJ are Auto exposed in service",
+    "duration": 4.841,
+    "offset": 3291.599,
+    "lang": "en"
+  },
+  {
+    "text": "interfaces",
+    "duration": 3.36,
+    "offset": 3294.92,
+    "lang": "en"
+  },
+  {
+    "text": "so let&amp;#39;s have a look what that means",
+    "duration": 2.84,
+    "offset": 3296.44,
+    "lang": "en"
+  },
+  {
+    "text": "first of",
+    "duration": 3.559,
+    "offset": 3298.28,
+    "lang": "en"
+  },
+  {
+    "text": "all we&amp;#39;ve already seen partly what put",
+    "duration": 3.88,
+    "offset": 3299.28,
+    "lang": "en"
+  },
+  {
+    "text": "my head at the top again we&amp;#39;ve already",
+    "duration": 4.921,
+    "offset": 3301.839,
+    "lang": "en"
+  },
+  {
+    "text": "seen partly what that means look down",
+    "duration": 8.04,
+    "offset": 3303.16,
+    "lang": "en"
+  },
+  {
+    "text": "here we&amp;#39;ve got our books entity type",
+    "duration": 6,
+    "offset": 3306.76,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got our author&amp;#39;s entity type and",
+    "duration": 5.32,
+    "offset": 3311.2,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got our sorry authors entity type",
+    "duration": 6.24,
+    "offset": 3312.76,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;ve got our orders entity type we",
+    "duration": 4.48,
+    "offset": 3316.52,
+    "lang": "en"
+  },
+  {
+    "text": "haven&amp;#39;t said anything about order items",
+    "duration": 4.68,
+    "offset": 3319,
+    "lang": "en"
+  },
+  {
+    "text": "but it&amp;#39;s in the metadata why is it in",
+    "duration": 4.4,
+    "offset": 3321,
+    "lang": "en"
+  },
+  {
+    "text": "the metadata because it needs to be in",
+    "duration": 3.6,
+    "offset": 3323.68,
+    "lang": "en"
+  },
+  {
+    "text": "the metadata in order in order to have",
+    "duration": 4.32,
+    "offset": 3325.4,
+    "lang": "en"
+  },
+  {
+    "text": "this relationship expressed in the",
+    "duration": 5.88,
+    "offset": 3327.28,
+    "lang": "en"
+  },
+  {
+    "text": "service and that&amp;#39;s what this is",
+    "duration": 7.68,
+    "offset": 3329.72,
+    "lang": "en"
+  },
+  {
+    "text": "partly referring to Auto exposed in fact",
+    "duration": 5.639,
+    "offset": 3333.16,
+    "lang": "en"
+  },
+  {
+    "text": "in",
+    "duration": 4.959,
+    "offset": 3337.4,
+    "lang": "en"
+  },
+  {
+    "text": "fact if we have a look here get rid of",
+    "duration": 6.481,
+    "offset": 3338.799,
+    "lang": "en"
+  },
+  {
+    "text": "that for a second if we have a look at",
+    "duration": 6.24,
+    "offset": 3342.359,
+    "lang": "en"
+  },
+  {
+    "text": "the let&amp;#39;s look at the",
+    "duration": 3.319,
+    "offset": 3345.28,
+    "lang": "en"
+  },
+  {
+    "text": "yaml if we collapse this is basically",
+    "duration": 5.919,
+    "offset": 3348.64,
+    "lang": "en"
+  },
+  {
+    "text": "the yaml encoding the yaml language",
+    "duration": 5.919,
+    "offset": 3351.88,
+    "lang": "en"
+  },
+  {
+    "text": "encoding rather than Jon encoding of the",
+    "duration": 5.321,
+    "offset": 3354.559,
+    "lang": "en"
+  },
+  {
+    "text": "core schema notation the sort of machine",
+    "duration": 5.841,
+    "offset": 3357.799,
+    "lang": "en"
+  },
+  {
+    "text": "readable version of this of main right",
+    "duration": 5.6,
+    "offset": 3359.88,
+    "lang": "en"
+  },
+  {
+    "text": "but we&amp;#39;ll we&amp;#39;ll dig into that a little",
+    "duration": 3.12,
+    "offset": 3363.64,
+    "lang": "en"
+  },
+  {
+    "text": "bit more this you know this is a back to",
+    "duration": 2.2,
+    "offset": 3365.48,
+    "lang": "en"
+  },
+  {
+    "text": "Bases we&amp;#39;re not going to look at this",
+    "duration": 3.319,
+    "offset": 3366.76,
+    "lang": "en"
+  },
+  {
+    "text": "too much but looking at this stuff tells",
+    "duration": 6.8,
+    "offset": 3367.68,
+    "lang": "en"
+  },
+  {
+    "text": "us a ton of stuff so org Q macro orders",
+    "duration": 6.601,
+    "offset": 3370.079,
+    "lang": "en"
+  },
+  {
+    "text": "org Q look at this don&amp;#39;t look at that",
+    "duration": 5.52,
+    "offset": 3374.48,
+    "lang": "en"
+  },
+  {
+    "text": "bottom bit yet look at that there we&amp;#39;ve",
+    "duration": 6.119,
+    "offset": 3376.68,
+    "lang": "en"
+  },
+  {
+    "text": "got where is",
+    "duration": 6.72,
+    "offset": 3380,
+    "lang": "en"
+  },
+  {
+    "text": "it oh damn move oh miss oh yeah oh it&amp;#39;s",
+    "duration": 5.641,
+    "offset": 3382.799,
+    "lang": "en"
+  },
+  {
+    "text": "because I&amp;#39;m I&amp;#39;m not used to VSS code",
+    "duration": 3.04,
+    "offset": 3386.72,
+    "lang": "en"
+  },
+  {
+    "text": "let&amp;#39;s do that again and double click so",
+    "duration": 3.919,
+    "offset": 3388.44,
+    "lang": "en"
+  },
+  {
+    "text": "it stays there right let&amp;#39;s just go down",
+    "duration": 6.4,
+    "offset": 3389.76,
+    "lang": "en"
+  },
+  {
+    "text": "there uh or cacro orders no orq macro",
+    "duration": 6.68,
+    "offset": 3392.359,
+    "lang": "en"
+  },
+  {
+    "text": "order items that reflects exactly this",
+    "duration": 5.159,
+    "offset": 3396.16,
+    "lang": "en"
+  },
+  {
+    "text": "thing here Order items right order items",
+    "duration": 3.961,
+    "offset": 3399.039,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s an entity it&amp;#39;s got these elements",
+    "duration": 3.361,
+    "offset": 3401.319,
+    "lang": "en"
+  },
+  {
+    "text": "parent pause and",
+    "duration": 5.119,
+    "offset": 3403,
+    "lang": "en"
+  },
+  {
+    "text": "quantity but the Bookshop order items so",
+    "duration": 5.76,
+    "offset": 3404.68,
+    "lang": "en"
+  },
+  {
+    "text": "going back to your question uh Lorenzo",
+    "duration": 6.48,
+    "offset": 3408.119,
+    "lang": "en"
+  },
+  {
+    "text": "this is why this the C the cap Server",
+    "duration": 6.159,
+    "offset": 3410.44,
+    "lang": "en"
+  },
+  {
+    "text": "doesn&amp;#39;t really well distinguish es of",
+    "duration": 3.921,
+    "offset": 3414.599,
+    "lang": "en"
+  },
+  {
+    "text": "course it distinguishes but it has both",
+    "duration": 4.641,
+    "offset": 3416.599,
+    "lang": "en"
+  },
+  {
+    "text": "it&amp;#39;s thinking already about both",
+    "duration": 5.2,
+    "offset": 3418.52,
+    "lang": "en"
+  },
+  {
+    "text": "prefixed things order items in the OR",
+    "duration": 4.799,
+    "offset": 3421.24,
+    "lang": "en"
+  },
+  {
+    "text": "qro context and Order items context",
+    "duration": 4.56,
+    "offset": 3423.72,
+    "lang": "en"
+  },
+  {
+    "text": "again is an overloaded word in the OR",
+    "duration": 4.921,
+    "offset": 3426.039,
+    "lang": "en"
+  },
+  {
+    "text": "cacro Arena and Order items in the",
+    "duration": 4.92,
+    "offset": 3428.28,
+    "lang": "en"
+  },
+  {
+    "text": "Bookshop Arena Bookshop service or qro",
+    "duration": 4.44,
+    "offset": 3430.96,
+    "lang": "en"
+  },
+  {
+    "text": "namespace these are separate things but",
+    "duration": 5,
+    "offset": 3433.2,
+    "lang": "en"
+  },
+  {
+    "text": "they both exist and look at that CDs",
+    "duration": 7.04,
+    "offset": 3435.4,
+    "lang": "en"
+  },
+  {
+    "text": "Auto exposed with a d you may have",
+    "duration": 6.48,
+    "offset": 3438.2,
+    "lang": "en"
+  },
+  {
+    "text": "already seen the CDs Auto",
+    "duration": 6.119,
+    "offset": 3442.44,
+    "lang": "en"
+  },
+  {
+    "text": "expose without a D annotation we&amp;#39;ll get",
+    "duration": 6.439,
+    "offset": 3444.68,
+    "lang": "en"
+  },
+  {
+    "text": "to that so zahed and Ravi says thank you",
+    "duration": 4.04,
+    "offset": 3448.559,
+    "lang": "en"
+  },
+  {
+    "text": "yes thank you very much for responding",
+    "duration": 4.72,
+    "offset": 3451.119,
+    "lang": "en"
+  },
+  {
+    "text": "in the chat chat is great uh so",
+    "duration": 6.921,
+    "offset": 3452.599,
+    "lang": "en"
+  },
+  {
+    "text": "that has been generated when it&amp;#39;s when",
+    "duration": 5.72,
+    "offset": 3455.839,
+    "lang": "en"
+  },
+  {
+    "text": "this schema. CDs is converted and the",
+    "duration": 3.64,
+    "offset": 3459.52,
+    "lang": "en"
+  },
+  {
+    "text": "main CDs converted of course as well you",
+    "duration": 3.321,
+    "offset": 3461.559,
+    "lang": "en"
+  },
+  {
+    "text": "know the whole when the model is",
+    "duration": 4.399,
+    "offset": 3463.16,
+    "lang": "en"
+  },
+  {
+    "text": "built it&amp;#39;s this it&amp;#39;s a season that",
+    "duration": 4.88,
+    "offset": 3464.88,
+    "lang": "en"
+  },
+  {
+    "text": "matters and what we get in the generated",
+    "duration": 5.881,
+    "offset": 3467.559,
+    "lang": "en"
+  },
+  {
+    "text": "season is this CDs Auto exposed true",
+    "duration": 5.76,
+    "offset": 3469.76,
+    "lang": "en"
+  },
+  {
+    "text": "that means you know in my brain the fact",
+    "duration": 4.599,
+    "offset": 3473.44,
+    "lang": "en"
+  },
+  {
+    "text": "that it&amp;#39;s a past participle Auto exposed",
+    "duration": 5.44,
+    "offset": 3475.52,
+    "lang": "en"
+  },
+  {
+    "text": "with a d means that it&amp;#39;s done for us",
+    "duration": 5,
+    "offset": 3478.039,
+    "lang": "en"
+  },
+  {
+    "text": "right and that relates exactly to Auto",
+    "duration": 4.159,
+    "offset": 3480.96,
+    "lang": "en"
+  },
+  {
+    "text": "expose even says there Auto expose you",
+    "duration": 4.76,
+    "offset": 3483.039,
+    "lang": "en"
+  },
+  {
+    "text": "know clues in the name type thing what",
+    "duration": 5.72,
+    "offset": 3485.119,
+    "lang": "en"
+  },
+  {
+    "text": "does that mean that means that we get it",
+    "duration": 7.04,
+    "offset": 3487.799,
+    "lang": "en"
+  },
+  {
+    "text": "there but what that also means",
+    "duration": 6.161,
+    "offset": 3490.839,
+    "lang": "en"
+  },
+  {
+    "text": "is across there a minute what that also",
+    "duration": 4.321,
+    "offset": 3494.839,
+    "lang": "en"
+  },
+  {
+    "text": "means is when we go to",
+    "duration": 6.079,
+    "offset": 3497,
+    "lang": "en"
+  },
+  {
+    "text": "orders we can say can we say can we say",
+    "duration": 7.36,
+    "offset": 3499.16,
+    "lang": "en"
+  },
+  {
+    "text": "can we say will this work",
+    "duration": 7.04,
+    "offset": 3503.079,
+    "lang": "en"
+  },
+  {
+    "text": "expand equals what&amp;#39;s it going to be",
+    "duration": 5.92,
+    "offset": 3506.52,
+    "lang": "en"
+  },
+  {
+    "text": "items items because let&amp;#39;s get rid that",
+    "duration": 6.321,
+    "offset": 3510.119,
+    "lang": "en"
+  },
+  {
+    "text": "for a second that get that there because",
+    "duration": 6.119,
+    "offset": 3512.44,
+    "lang": "en"
+  },
+  {
+    "text": "this is the the relationship the",
+    "duration": 4.879,
+    "offset": 3516.44,
+    "lang": "en"
+  },
+  {
+    "text": "navigation property in od data terms",
+    "duration": 5.201,
+    "offset": 3518.559,
+    "lang": "en"
+  },
+  {
+    "text": "that we&amp;#39;ve defined because of this",
+    "duration": 4.201,
+    "offset": 3521.319,
+    "lang": "en"
+  },
+  {
+    "text": "composition that we&amp;#39;re using items",
+    "duration": 4.24,
+    "offset": 3523.76,
+    "lang": "en"
+  },
+  {
+    "text": "capital I expand equals items will this",
+    "duration": 4.36,
+    "offset": 3525.52,
+    "lang": "en"
+  },
+  {
+    "text": "work",
+    "duration": 5.079,
+    "offset": 3528,
+    "lang": "en"
+  },
+  {
+    "text": "yes yes yes and more yes what I want to",
+    "duration": 5.6,
+    "offset": 3529.88,
+    "lang": "en"
+  },
+  {
+    "text": "leave you with though is a really",
+    "duration": 4.561,
+    "offset": 3533.079,
+    "lang": "en"
+  },
+  {
+    "text": "straight",
+    "duration": 4.599,
+    "offset": 3535.48,
+    "lang": "en"
+  },
+  {
+    "text": "thing um oh no actually no that&amp;#39;ll do",
+    "duration": 4.04,
+    "offset": 3537.64,
+    "lang": "en"
+  },
+  {
+    "text": "for now that&amp;#39;ll do for",
+    "duration": 4.361,
+    "offset": 3540.079,
+    "lang": "en"
+  },
+  {
+    "text": "now so let&amp;#39;s just recap in the in the",
+    "duration": 4.119,
+    "offset": 3541.68,
+    "lang": "en"
+  },
+  {
+    "text": "final",
+    "duration": 4.56,
+    "offset": 3544.44,
+    "lang": "en"
+  },
+  {
+    "text": "minute we have defined let&amp;#39;s get rid of",
+    "duration": 5.401,
+    "offset": 3545.799,
+    "lang": "en"
+  },
+  {
+    "text": "that there we&amp;#39;ve",
+    "duration": 5.16,
+    "offset": 3549,
+    "lang": "en"
+  },
+  {
+    "text": "defined a new entity orders and a new",
+    "duration": 5.24,
+    "offset": 3551.2,
+    "lang": "en"
+  },
+  {
+    "text": "entity order items two separate entities",
+    "duration": 3.919,
+    "offset": 3554.16,
+    "lang": "en"
+  },
+  {
+    "text": "next week hopefully we&amp;#39;ll get round to",
+    "duration": 4.04,
+    "offset": 3556.44,
+    "lang": "en"
+  },
+  {
+    "text": "looking at where we don&amp;#39;t have to",
+    "duration": 4.921,
+    "offset": 3558.079,
+    "lang": "en"
+  },
+  {
+    "text": "define a separate entity which is you",
+    "duration": 6.52,
+    "offset": 3560.48,
+    "lang": "en"
+  },
+  {
+    "text": "know is sort of very subtly slightly",
+    "duration": 6.88,
+    "offset": 3563,
+    "lang": "en"
+  },
+  {
+    "text": "not cumbersome but you know flat footed",
+    "duration": 6.16,
+    "offset": 3567,
+    "lang": "en"
+  },
+  {
+    "text": "you know we I don&amp;#39;t know it it would be",
+    "duration": 5.84,
+    "offset": 3569.88,
+    "lang": "en"
+  },
+  {
+    "text": "nice to define something like this sort",
+    "duration": 4.679,
+    "offset": 3573.16,
+    "lang": "en"
+  },
+  {
+    "text": "of in line so that&amp;#39;s what we&amp;#39;ll look at",
+    "duration": 5.04,
+    "offset": 3575.72,
+    "lang": "en"
+  },
+  {
+    "text": "as well but we&amp;#39;ll also look",
+    "duration": 6.161,
+    "offset": 3577.839,
+    "lang": "en"
+  },
+  {
+    "text": "at more on the auto",
+    "duration": 5.559,
+    "offset": 3580.76,
+    "lang": "en"
+  },
+  {
+    "text": "exposure right and the difference",
+    "duration": 4.599,
+    "offset": 3584,
+    "lang": "en"
+  },
+  {
+    "text": "between oh tell you what tell you what",
+    "duration": 4.24,
+    "offset": 3586.319,
+    "lang": "en"
+  },
+  {
+    "text": "really subtle 858 and the difference",
+    "duration": 4.841,
+    "offset": 3588.599,
+    "lang": "en"
+  },
+  {
+    "text": "between Auto exposed let&amp;#39;s do that let&amp;#39;s",
+    "duration": 10.24,
+    "offset": 3590.559,
+    "lang": "en"
+  },
+  {
+    "text": "do that um and Auto if I say CDs Auto",
+    "duration": 10.399,
+    "offset": 3593.44,
+    "lang": "en"
+  },
+  {
+    "text": "expose without a D Auto exose as in I&amp;#39;m",
+    "duration": 5.921,
+    "offset": 3600.799,
+    "lang": "en"
+  },
+  {
+    "text": "doing it as a human annotating that I do",
+    "duration": 6.601,
+    "offset": 3603.839,
+    "lang": "en"
+  },
+  {
+    "text": "that that will restart if we now go",
+    "duration": 8.319,
+    "offset": 3606.72,
+    "lang": "en"
+  },
+  {
+    "text": "here refresh it&amp;#39;s there right there&amp;#39;s a",
+    "duration": 6.599,
+    "offset": 3610.44,
+    "lang": "en"
+  },
+  {
+    "text": "subtle difference between Auto Expos and",
+    "duration": 4.52,
+    "offset": 3615.039,
+    "lang": "en"
+  },
+  {
+    "text": "auto exposed Auto exposed is sort of",
+    "duration": 5.121,
+    "offset": 3617.039,
+    "lang": "en"
+  },
+  {
+    "text": "internal implicit and auto expose now we",
+    "duration": 4.841,
+    "offset": 3619.559,
+    "lang": "en"
+  },
+  {
+    "text": "can look at the order items right before",
+    "duration": 4.48,
+    "offset": 3622.16,
+    "lang": "en"
+  },
+  {
+    "text": "we couldn&amp;#39;t and in fact the final thing",
+    "duration": 3.6,
+    "offset": 3624.4,
+    "lang": "en"
+  },
+  {
+    "text": "if we get rid of the auto Expos oh my",
+    "duration": 3.199,
+    "offset": 3626.64,
+    "lang": "en"
+  },
+  {
+    "text": "goodness me get rid of that and save",
+    "duration": 4.319,
+    "offset": 3628,
+    "lang": "en"
+  },
+  {
+    "text": "that uh did I get rid of that",
+    "duration": 4.72,
+    "offset": 3629.839,
+    "lang": "en"
+  },
+  {
+    "text": "no come on down there down there down",
+    "duration": 5.681,
+    "offset": 3632.319,
+    "lang": "en"
+  },
+  {
+    "text": "there delete save restart oh go there",
+    "duration": 5.681,
+    "offset": 3634.559,
+    "lang": "en"
+  },
+  {
+    "text": "and go back there again but if we re",
+    "duration": 4.599,
+    "offset": 3638,
+    "lang": "en"
+  },
+  {
+    "text": "refresh that it&amp;#39;ll say entity bookshops",
+    "duration": 6.16,
+    "offset": 3640.24,
+    "lang": "en"
+  },
+  {
+    "text": "order items is not explicitly exposed as",
+    "duration": 6.161,
+    "offset": 3642.599,
+    "lang": "en"
+  },
+  {
+    "text": "part of the service bombshell to leave",
+    "duration": 5.159,
+    "offset": 3646.4,
+    "lang": "en"
+  },
+  {
+    "text": "on so we&amp;#39;ll look at what the heck that",
+    "duration": 5.52,
+    "offset": 3648.76,
+    "lang": "en"
+  },
+  {
+    "text": "means what that means in terms of the",
+    "duration": 4.921,
+    "offset": 3651.559,
+    "lang": "en"
+  },
+  {
+    "text": "composition targets Auto expose",
+    "duration": 3.799,
+    "offset": 3654.28,
+    "lang": "en"
+  },
+  {
+    "text": "we&amp;#39;re going to do cascaded deletes next",
+    "duration": 3.16,
+    "offset": 3656.48,
+    "lang": "en"
+  },
+  {
+    "text": "week which is like",
+    "duration": 3.561,
+    "offset": 3658.079,
+    "lang": "en"
+  },
+  {
+    "text": "beautyful and then we&amp;#39;re going to do",
+    "duration": 4.08,
+    "offset": 3659.64,
+    "lang": "en"
+  },
+  {
+    "text": "some deep inserts as well so basically",
+    "duration": 3.439,
+    "offset": 3661.64,
+    "lang": "en"
+  },
+  {
+    "text": "this is a classic sort of again going",
+    "duration": 2.72,
+    "offset": 3663.72,
+    "lang": "en"
+  },
+  {
+    "text": "back to what Henrik said right at the",
+    "duration": 3.401,
+    "offset": 3665.079,
+    "lang": "en"
+  },
+  {
+    "text": "start this is the classic document",
+    "duration": 4.72,
+    "offset": 3666.44,
+    "lang": "en"
+  },
+  {
+    "text": "structure header items often you want to",
+    "duration": 4.2,
+    "offset": 3668.48,
+    "lang": "en"
+  },
+  {
+    "text": "create a whole document with the header",
+    "duration": 3.919,
+    "offset": 3671.16,
+    "lang": "en"
+  },
+  {
+    "text": "and the items together bam compositions",
+    "duration": 4.76,
+    "offset": 3672.68,
+    "lang": "en"
+  },
+  {
+    "text": "are what are beautiful for that okay",
+    "duration": 3.76,
+    "offset": 3675.079,
+    "lang": "en"
+  },
+  {
+    "text": "that&amp;#39;s it for now thanks for joining",
+    "duration": 2.84,
+    "offset": 3677.44,
+    "lang": "en"
+  },
+  {
+    "text": "have a great weekend and see you next",
+    "duration": 2.151,
+    "offset": 3678.839,
+    "lang": "en"
+  },
+  {
+    "text": "time",
+    "duration": 3.8,
+    "offset": 3680.28,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 3.09,
+    "offset": 3680.99,
+    "lang": "en"
+  },
+  {
+    "text": "bye e",
+    "duration": 3.96,
+    "offset": 3684.92,
+    "lang": "en"
+  }
+]
