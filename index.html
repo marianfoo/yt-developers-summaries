@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <button id="toggleSidebar">☰</button>
   <aside>
     <h1>Summaries</h1>
     <ul>
@@ -401,5 +402,14 @@
 <p>The chat is interactive, with viewers sharing their thoughts on participating in the SAP developer challenge and asking DJ various questions about implementation techniques and best practices. Some viewers express appreciation for the coding hints provided during the session, crediting the practical approach to learning in the live stream.</p>
     </section>
   </main>
+  <script>
+    // Toggle sidebar for mobile view
+    const sidebar = document.querySelector('aside');
+    const toggleButton = document.getElementById('toggleSidebar');
+    
+    toggleButton.addEventListener('click', () => {
+      sidebar.classList.toggle('open');
+    });
+  </script>
 </body>
 </html>

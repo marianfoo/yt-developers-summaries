@@ -6,6 +6,19 @@ body {
     overflow-x: hidden; /* Prevent horizontal scrolling */
   }
   
+  #toggleSidebar {
+    display: none; /* Hide by default */
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
   aside {
     width: 200px;
     padding: 20px;
@@ -14,6 +27,7 @@ body {
     box-sizing: border-box;
     height: 100vh;
     overflow-y: auto; /* Allow vertical scrolling in sidebar */
+    transition: transform 0.3s ease;
   }
   
   aside h1 {
@@ -40,7 +54,9 @@ body {
     flex: 1;
     padding: 20px;
     box-sizing: border-box;
+    margin-left: 2px; /* Margin to offset the fixed sidebar */
     overflow-y: auto; /* Allow vertical scrolling in main content */
+    transition: margin-left 0.3s ease;
   }
   
   main section {
@@ -60,5 +76,25 @@ body {
     white-space: pre-wrap; /* Ensure code blocks wrap */
     word-wrap: break-word;
     overflow-wrap: break-word;
+  }
+  
+  /* Media queries for responsiveness */
+  @media (max-width: 768px) {
+    #toggleSidebar {
+      display: block; /* Show the toggle button on mobile */
+    }
+  
+    aside {
+      position: fixed;
+      transform: translateX(-100%);
+    }
+  
+    aside.open {
+      transform: translateX(0);
+    }
+  
+    main {
+      margin-left: 0;
+    }
   }
   

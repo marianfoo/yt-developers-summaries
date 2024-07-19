@@ -23,10 +23,12 @@ function loadMetadata() {
 function loadSummaries() {
   const summaries = [];
   fs.readdirSync(summariesFolderPath).forEach(file => {
-    const youtubeId = path.basename(file, '.md');
-    const summaryContent = fs.readFileSync(path.join(summariesFolderPath, file), 'utf8');
-    const htmlContent = converter.makeHtml(summaryContent);
-    summaries.push({ youtubeId, htmlContent });
+    if (path.extname(file) === '.md') {  // Process only .md files
+      const youtubeId = path.basename(file, '.md');
+      const summaryContent = fs.readFileSync(path.join(summariesFolderPath, file), 'utf8');
+      const htmlContent = converter.makeHtml(summaryContent);
+      summaries.push({ youtubeId, htmlContent });
+    }
   });
   return summaries;
 }
@@ -62,6 +64,7 @@ function generateHTML(metadata, summaries) {
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <button id="toggleSidebar">☰</button>
   <aside>
     <h1>Summaries</h1>
     <ul>
@@ -71,6 +74,15 @@ function generateHTML(metadata, summaries) {
   <main>
     ${summarySections}
   </main>
+  <script>
+    // Toggle sidebar for mobile view
+    const sidebar = document.querySelector('aside');
+    const toggleButton = document.getElementById('toggleSidebar');
+    
+    toggleButton.addEventListener('click', () => {
+      sidebar.classList.toggle('open');
+    });
+  </script>
 </body>
 </html>`;
 }
