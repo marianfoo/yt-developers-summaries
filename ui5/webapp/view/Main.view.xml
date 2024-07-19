@@ -1,0 +1,62 @@
+<mvc:View
+	controllerName="com.marianzeis.controller.Main"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:core="sap.ui.core"
+	xmlns:l="sap.ui.layout"
+	core:require="{
+		formatter: 'com/marianzeis/model/formatter'
+	}">
+
+	<Page
+		title="{i18n>appTitle}"
+		id="page">
+		<content>
+			<l:VerticalLayout>
+				<l:HorizontalLayout>
+					<Input
+						id="searchField"
+						placeholder="Search by title or summary"
+						liveChange="onSearch"/>
+					<Select
+						id="sortSelect"
+						change="onSort">
+						<core:Item key="viewCount" text="View Count"/>
+						<core:Item key="publishedAt" text="Published At"/>
+					</Select>
+				</l:HorizontalLayout>
+				<Table
+					id="videoTable"
+					items="{path: 'data>/'}">
+					<headerToolbar>
+						<Toolbar>
+							<Title text="Videos"/>
+						</Toolbar>
+					</headerToolbar>
+					<columns>
+						<Column>
+							<Text text="Title"/>
+						</Column>
+						<Column>
+							<Text text="View Count"/>
+						</Column>
+						<Column>
+							<Text text="Published At"/>
+						</Column>
+					</columns>
+					<items>
+						<ColumnListItem>
+							<cells>
+								<Text text="{data>title}"/>
+								<Text text="{data>viewCount}"/>
+								<Text text="{data>publishedAt}"/>
+							</cells>
+						</ColumnListItem>
+					</items>
+				</Table>
+			</l:VerticalLayout>
+		</content>
+	</Page>
+
+</mvc:View>
