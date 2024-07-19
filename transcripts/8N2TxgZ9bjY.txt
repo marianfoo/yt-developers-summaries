@@ -1,0 +1,1461 @@
+good morning good afternoon good evening
+welcome to another episode of hands onb
+Dev with me DJ
+cacro welcome to the early birds Lu one
+Lu 2 I&amp;#39;m going to call you that I&amp;#39;ve
+just decided uh and welcome to Javier
+again welcome back and welcome to weas
+Vis visas in Thailand uh yeah so um it&amp;#39;s
+great to be back and Raul hi there and
+welcome welcome aboard um we&amp;#39;re in the
+second episode now already uh of this
+Back to Basics series on cap I&amp;#39;m looking
+forward to this very much Kiara hi good
+morning and welcome AP good morning from
+or to d off and mad half
+Ashok uh welcome one and all now I&amp;#39;ve
+got a very interesting uh experiment
+I&amp;#39;ve got now I&amp;#39;m I&amp;#39;m I noticed when I
+played back this session with us um oh
+wow it&amp;#39;s really raining suddenly hard uh
+when I played about this session last
+time um from last Friday I noticed that
+you know the camera&amp;#39;s here hello um and
+I&amp;#39;m looking down hey AJ hey so one of my
+friends and colleagues from the
+developer Advocates team AJ is here good
+morning Joe blower Joe blower welcome
+nice oh old friend Joe is back here
+Santiago Alo how you all doing Aman
+hello hello hello fantastic I&amp;#39;ve got my
+coffee got my hands on hands onb Dev uh
+mug here as usual for those uh Old
+Timers here um yeah so I was saying I
+kept looking down at my uh little
+Chromebook um tablet here for the
+chat and um you know the camera is up
+here so I&amp;#39;ve now mounted my phone I
+don&amp;#39;t know whether it&amp;#39;s going to go to
+sleep but I&amp;#39;ve got it looking at the
+chat of the on you on the YouTube app so
+hopefully I don&amp;#39;t know maybe it&amp;#39;ll go to
+sleep maybe it won&amp;#39;t I don&amp;#39;t know um but
+if it goes to sleep I&amp;#39;ll stop looking up
+here I can look down here instead good
+morning FedEx FedEx that&amp;#39;s an
+interesting uh uh name Rohan good good
+morning Rohan and welcome to you in
+Melbourne abijit good morning to you
+good afternoon good evening whatever uh
+I can&amp;#39;t remember my brain is not working
+Bangalore Luis and Stefano
+ponoo so we see I&amp;#39;m just going to switch
+already uh to the well no I won&amp;#39;t switch
+yet but I&amp;#39;ll switch to the capier uh
+documentation in a
+minute very very excited for this series
+says rajat uh so am I so am I actually
+thank you for saying that so yeah let&amp;#39;s
+get going so where we um where we going
+with this series is just to take a
+really gentle walk through the basics of
+cap uh specifically OJs as you know ah L
+thank you for asking are you better yes
+I&amp;#39;m pretty much I you know say 95% I
+went for a little run this morning been
+running this week
+okay I&amp;#39;m not coughing from uh to you
+know to to sort of you know emphasize
+the effect of being ill like I said I
+think last week as well when I started
+speaking to you that&amp;#39;s the first words
+that have come out of my mouth and I&amp;#39;ve
+been up since you know I don&amp;#39;t know for
+the last three hours um and I&amp;#39;m not said
+anything so as soon as I start speaking
+I I sort of cough a little bit jittin
+and helmet and cognet everybody Welcome
+in good morning good morning to uh Brown
+strike in Germany to helmet there we go
+lovely H it&amp;#39;s fantastic to see you all
+here
+so yeah so the idea of this is we&amp;#39;re
+going to go slowly gently look at things
+and I&amp;#39;m going to be relying on
+you you lot in the chat to say Hey DJ
+stop there what is that what does that
+mean what does that do shall we try this
+okay we&amp;#39;re not going to try anything
+sort of spectacularly complex or
+anything because we want this to be um
+you know a series for everyone um and
+the way I learn and maybe the way you
+learn as well is that you know we don&amp;#39;t
+we try not to skip over things we try
+not to skim the
+surface and you know I quite like
+staring at things now as a great uh a
+great developer that I talk about uh a
+lot whose name has completely got on my
+head um the the the guy
+the guy from the Netherlands who wears
+these sort of tie dye
+t-shirts I can&amp;#39;t remember he&amp;#39;s a
+brilliant uh language technician uh he
+did a brilliant series on uh functional
+programming with fshp and link l andq uh
+his name will come to me shortly um Eric
+Meer Eric Meyer uh m e i j r and uh he
+says basically you know if you stare at
+something long enough you start to
+understand it and I think that&amp;#39;s what
+this series is partly about where we all
+together just look at things and stare
+at them and just what does that mean do
+we understand that yes okay now we can
+move on Aman say Aman says Hey DJ could
+you touch upon if we can use baz on btp
+for this series oh yes thank you Amma
+for asking that question now let me
+switch to the main
+scene um and I I think I might have
+mentioned it super briefly last Friday
+but what I did was uh on the
+weekend uh write a blog post developing
+in cap containers three ways so to
+answer your question specifically uh
+Aman yes you can uh so if you in fact
+let me share this I&amp;#39;ve got I&amp;#39;ve got the
+chat here so I can actually uh paste
+that in there but let me go back and
+just explain uh what&amp;#39;s in here a bit of
+a background as to why I think uh
+contain containers in general and
+development containers in particular are
+an amazing tool for those
+developers um and then I start to talk
+about developing with cap no JS in a
+container and talk about de container
+definitions and then after the dev
+container definition which is basically
+what we&amp;#39;re basing our exploration on
+this is where we&amp;#39;re going to start this
+is where we were last time cap B2B main
+that was our directory we opened up vs
+code to have a look at that directory
+inside there is this doev container
+directory a well-known name that VSS
+code will recognize it&amp;#39;s also part of
+the dev containers initiative uh the
+open uh standard it&amp;#39;s got a Docker file
+and and a Dev container and this part of
+the documentation this part of the blog
+post explains that and then it says you
+can do it with vs code there&amp;#39;s loads of
+different ways but I pick three with vs
+code and dock a desktop locally or you
+can also uh come on D I wrote a lot here
+de um also use get up code
+spaces but you can also use the sap
+business application studio so that&amp;#39;s
+all in there so check that out now while
+I&amp;#39;m pasting links uh let me also put the
+link to the uh latest sap developer news
+and in there in fact in there our lovely
+friend uh Riley Riley rainy um he has
+got uh a new blog post about the
+developer insights survey so get out
+there well not right now oh look at that
+that&amp;#39;s interesting uh too long to paste
+oh thank you uh marketing um uh extra
+bits there oh dear let&amp;#39;s get rid of all
+that nonsense here uh so we can actually
+paste it there we go too big to paste
+because of the tracking there we go how
+ironic is that there we go good night in
+to Le liakat good night in leat and
+welcome okay so once uh this is finished
+today later on on the weekend check out
+that survey and fill it in it&amp;#39;d be
+amazing okay so uh I hope that answers
+your question am man let&amp;#39;s get going um
+we&amp;#39;ve got um okay great very useful
+thank you L uh we&amp;#39;ve got here let me get
+rid of that uh there is the repo with
+that stuff in just in case you missed it
+last week bth Antonio and welcome
+welcome in Antonio so everybody say hi
+to Antonio in the chat um the more chat
+the better the more we learn from each
+other and with each other
+right so um where do we where do we
+leave off well in fact we left let me
+let me let me close vs code right let me
+let me um uh let me let me actually uh
+yeah close this so we can start sort of
+from scratch close remote connection
+right so starting from
+scratch open up BS
+code and we got some uh oh Al look uh
+good good morning Al uh Alec says I see
+you more emphasis on no. JS although
+Java is faster than node.js that&amp;#39;s a bit
+of a a bold claim don&amp;#39;t you think alog
+Java is faster than noes don&amp;#39;t you think
+it may be something to do with the fact
+that uh uh you know or the fact there&amp;#39;s
+a factor which which is efficient
+programming um speed is one thing but I
+don&amp;#39;t think speed is always the most
+important um you know uh machines are
+fast humans are slower and uh so
+anyway let&amp;#39;s not get into that debate
+this is about no. JS um oh you want me
+to comment on it okay um I&amp;#39;m not a I&amp;#39;m
+not a big Java programmer to be honest
+this is this is partly why I&amp;#39;m I&amp;#39;m doing
+no JS because I love JavaScript
+JavaScript is an incredibly interesting
+language um and um I&amp;#39;m not really a big
+big on Java however I have been talking
+to folks internally there are some
+awesome Java people of course in the cap
+team at
+sap so maybe later this year I&amp;#39;m going
+to be able to try try and get hold of
+one or more of those lovely people and
+get them on the live stream and get them
+to talk about the sort of the Java angle
+on uh cap let me know in the chat not
+just you aloc but uh everybody else as
+well let me know if that would be uh
+something you&amp;#39;re interested
+in uh Le from in D in Turkey excellent
+excellent okay so yeah uh I hope that&amp;#39;s
+uh comment enough there a look uh but
+yeah this is going to be JavaScript hola
+um okay so I&amp;#39;ve open vs code and now
+what I&amp;#39;m going to do is open
+open open folder there we go Dev
+containers open folder in container in
+fact if we just open folder right folder
+directory same thing just really annoys
+me that they call it folder these days
+so I&amp;#39;m going to go here this is where we
+started last time and you can see inside
+as well um you got that Dev those Dev
+container definitions so again we&amp;#39;re
+going to open that this is the last time
+I&amp;#39;ll go through this you know go through
+this next week um and it&amp;#39;s going to say
+is it not going to say what&amp;#39;s going on
+here Dev container oh oh I&amp;#39;ve opened the
+wrong thing sorry wait a minute file
+file close close close folder file there
+we go file open folder I open I opened
+specifically the dev container folder
+but I&amp;#39;m supposed to be opening the the
+folder that contains the dev contains
+folder in which case then VSS code will
+say oh got Dev container definition do
+you want me to reopen this folder in the
+container and you say yes right so
+anyway this is this is where we left off
+last time
+so in here I&amp;#39;ve got a terminal I&amp;#39;m the
+use a node
+inside the Linux container and we&amp;#39;ve got
+all the tools we need we&amp;#39;ve got curl we
+got git we even got JQ and most
+importantly we&amp;#39;ve got CDs okay right
+that&amp;#39;s where we left off last time in
+fact what we did last time is we were
+looking at the help weren&amp;#39;t we let get
+rid of that and rid of that and we went
+into the get started and we&amp;#39;ve been
+through the jump start development we&amp;#39;ve
+got all these tools here we got these
+all
+installed
+so we&amp;#39;re sort of ready to jump start a
+project now we said so helmet says I&amp;#39;ve
+been a Java developer and love
+JavaScript no JS typescript much more
+thank you helmet yes I mean you know I
+don&amp;#39;t want to turn this into a lang
+there&amp;#39;s no point having a language War
+we each have our own preferences and
+everything uh lots of people I know love
+Java uh lots of people I know love
+JavaScript typescript um and so on I do
+actually one of the really interesting
+things is that while I&amp;#39;m not a big fan
+of of java the language I&amp;#39;m a huge fan
+of uh Java the development Arena because
+of the jvm one of the languages I do
+like to dabble in uh I used to program
+it a little bit more than I do these
+days is a language it&amp;#39;s a closure
+language c l o j u r e um
+closure it&amp;#39;s a lisp okay closure is a
+predominantly functional programming
+language and a dialect of the Lis
+programming language um so closure
+basically compiles to jvm bik code and
+there are other languages as well which
+are wonderful and compiled to jvm uh bik
+code for example Scara right so um and
+and also these languages can sort of
+share libraries with each other right so
+you know there&amp;#39;s nothing wrong with you
+know the Java ecosystem at all it&amp;#39;s just
+that I&amp;#39;m not a big fan of the Java
+language itself anyway that&amp;#39;s just me
+personal DJ so liat says we build
+extension Factory Kut Java WS with Oingo
+oo I&amp;#39;ve not heard about all not heard
+about I&amp;#39;ve not heard about Oingo for
+such a long time um I&amp;#39;ll come back to
+that in a second uh Oda connecting C4
+and S4 also have no JS scha functions
+for use excellently cat that&amp;#39;s good
+stuff so we&amp;#39;re going to be relying on
+you and many of the other folks in the
+uh chat uh for help with everything bioo
+hello DJ uh hello bio in Germany I too
+hate Java I didn&amp;#39;t say a hate
+Java uh I didn&amp;#39;t say hate ja at all you
+know Hate&amp;#39;s a very strong word um I just
+you know I&amp;#39;m not likeing on it
+basically anyway anyway uh I&amp;#39;ve already
+started digressing commant DJ get with
+the program what we
+said um was we can clone a starter repo
+there&amp;#39;s some amazing examples on GitHub
+we have ANP samples organization on
+GitHub and in there we&amp;#39;ve got for
+example Cloud Cap samples as a
+repo but we&amp;#39;re not going to go there
+actually what we did last week and we&amp;#39;re
+going to do this again and take our time
+time um is we&amp;#39;re going to play around
+with the command line tool CDs CDs in it
+we&amp;#39;re going to look at CDs in it we&amp;#39;re
+going to look at CDs ad and then we&amp;#39;re
+going to look at CDs watch okay just to
+start as you know having a good feel for
+sort of what&amp;#39;s going on uh by the way
+this this phone thing is working uh I
+need maybe need to make the font a
+little bit bigger because my you know
+it&amp;#39;s right over there uh but you know
+it&amp;#39;s quite good so maybe you can you
+know I feel as I&amp;#39;m interacting with you
+a little bit better because I&amp;#39;m looking
+up here and the phone&amp;#39;s over here here
+so Visa says I am one who prefers uh oh
+in fact there&amp;#39;s a heart thing that&amp;#39;s in
+the way of the text prefers the C family
+languages instead of java oh interesting
+yes categorization anyway fantastic all
+chat welcome let me know what you think
+uh about anything technical you know not
+just anything anything so CDs in
+Bookshop and then code Bookshop and then
+CDs watch let&amp;#39;s think about what those
+are so let&amp;#39;s go back into here and what
+we did CDs in its
+Bookshop remember what we
+did in fact CDs init
+d-el we saw this information here
+initialize a new project in a folder
+that we specify here with the current
+working directory is default so if you
+don&amp;#39;t specify uh a folder name you know
+a project name it&amp;#39;s going to create it
+in in the current folder okay so let&amp;#39;s
+just um have a oh my my water pump&amp;#39;s
+going going on what&amp;#39;s going on let&amp;#39;s
+just say uh for the time being we&amp;#39;re
+going to have this little throwaway
+little cap project so we&amp;#39;ll we&amp;#39;ll
+specify a directory a pro a folder
+called
+Bookshop what we can do when we
+initialize a project we can add features
+directly but we&amp;#39;re not going to do that
+yet we&amp;#39;re going to look at CDs ad
+shortly okay so there are some examples
+so what we&amp;#39;ll do is we&amp;#39;ll say CDs in its
+Bookshop
+now what
+happens is that we get there&amp;#39;s Dev
+container we already had we get this new
+directory called Bookshop let&amp;#39;s go into
+Bookshop
+now and in fact let&amp;#39;s look at all of
+them oh I can hear my ah I knew I could
+hear something I can hear myself on the
+YouTube video here let me just turn this
+down to there ah it&amp;#39;s like I can hear
+myself somewhere uh there we go that say
+it&amp;#39;s
+three minus a okay rather you that&amp;#39;s
+good look come on DJ use vs code
+properly let&amp;#39;s look here right so let&amp;#39;s
+work
+through what this does for us it creates
+an
+dietry and it creates a ton of files in
+there so let&amp;#39;s make
+sure we know what each of these files
+and each of these directories are we&amp;#39;re
+not going to dig into them too much yet
+but let&amp;#39;s leave no stone
+unturned so first of all can anybody
+tell we&amp;#39;ll come back to this but can
+anybody tell me for for example what
+thees lint RC is all about what theg
+ignore is about put it in the chat we&amp;#39;ll
+come to those shortly okay and uh
+because those are sort of not cap
+specific nor is package.json for that
+matter okay so remember this is a nodejs
+flavor of cap so hey good morning
+Christian this is nodejs flavor of cap
+um but we of course we&amp;#39;re using you know
+sort of not Reinventing everything with
+with cap you know it uses a lot lot of
+amazing tools and and Technologies and
+techniques okay so tell me in the chat
+what you think uh lrc andg ignore are
+all about we&amp;#39;ll come to those
+shortly so Christian says a little bit
+more input for the language War language
+War who said about anything about
+language War language discussion I think
+an empirical comparison of C C++ Java
+Pearl love Pearl uh python Rex oh used
+to prang wrecks a lot on the IBM
+Mainframe and TCL for a search string
+processing program uh where that quote
+from oh ah Christian did you put a URL
+in that little bit of um uh chat there
+cuz Antonio remind me later when we chat
+later Antonio let&amp;#39;s figure out how we
+can allow people to post URLs in the
+live chat I think I think if I&amp;#39;m right
+uh Christian you tried to post a URL to
+an article that had that quote in it I&amp;#39;m
+guessing right so Stefano says G ignore
+stores all the files that will not go to
+the git repo exactly right we&amp;#39;ll come to
+that in a second uh Luis at the moment
+you are creating all of this app
+components in the bass space in local
+btp or Bass instance well actually Louis
+I&amp;#39;m I&amp;#39;m creating on my local file
+system um on this Mac OS device but from
+the from the confines from the context
+of a container so check out that blog
+post that I posted a link to um earlier
+and that will explain things in fact if
+I go back to that blog post for a second
+um there&amp;#39;s a diagram that that might
+help there&amp;#39;s a diagram you know who
+doesn&amp;#39;t like an asky art diagram here uh
+where is it where is it there we go
+there&amp;#39;s a
+diagram oh Antonio thank you for
+answering as well yep okay um so this is
+my MacBook which is there uh the host is
+a Macos device in there I&amp;#39;ve got uh my
+user ID in the users directory you know
+there this is Darwin Mac OS this is sort
+of a BSD based distribution but it&amp;#39;s a
+you know so it&amp;#39;s sort of Linux or Unix
+like so rather than than sort of slome
+is SL users there&amp;#39;s my ID there&amp;#39;s work
+in there scratch that&amp;#39;s what you can see
+there home well user that&amp;#39;s another
+container ignore that that&amp;#39;s too
+complicated uh then inside there in a
+scratch dire I got cat B2B main but now
+I&amp;#39;m actually inside a container where
+this cap B2B main directory is bind
+mounted into it and that&amp;#39;s all described
+in this blog post here so I&amp;#39;m actually
+in while I&amp;#39;m in vs code here I&amp;#39;m in a
+container that&amp;#39;s why the user ID is node
+not I 347 whatever it is right fantastic
+so um visas also said oh and uh oh it&amp;#39;s
+quite ah okay let me just see here it&amp;#39;s
+all scrolling up too fast it&amp;#39;s brilliant
+so uh Luis says oh no okay Lu get ignore
+is for ignoring files back up to get in
+GitHub perfect um Christian drum it&amp;#39;s
+quite quite all paper it&amp;#39;s a quite old
+paper maybe you thought to say uh R says
+get ignore ignores apps uh that do not
+need to be uploaded to GitHub um
+interesting
+let&amp;#39;s make sure we understand the
+difference between git and GitHub I mean
+at the end of the day you know they can
+but so you can think of those as one of
+the same thing but they&amp;#39;re not they&amp;#39;re
+completely different things git is the
+protocol and the distributed Version
+Control System mechanism GitHub is a um
+an online social coding website that
+supports git based repositories right
+remember git uh is a distributed version
+control system which means that you can
+have a you know a copy of your
+repository locally and then a remote
+copy on GitHub for example or gitlab or
+Source or something like all these
+different things Source gitlab they&amp;#39;re
+all and and I&amp;#39;m sure there&amp;#39;s other
+things at Lan&amp;#39;s has got one as well got
+what it is um but the those are all sort
+of places you can store remotely a clone
+or a copy of your repo so uh the phone&amp;#39;s
+working well but it&amp;#39;s scrolling past two
+BR there&amp;#39;s so much chat I to look down
+here um so let&amp;#39;s make sure we know the
+difference there get ignore app said
+Raul and Visa as well getor is man Ed
+for managing the files that we want get
+to track or untrack them yeah we want uh
+the do basically the dog ignore let&amp;#39;s
+have a look let&amp;#39;s have a look at that
+dotg ignore has got all the stuff that
+shouldn&amp;#39;t be tracked by git when we
+start to to manage our our source code
+in our source code control system which
+is
+git it&amp;#39;ll by default track everything
+okay store and save everything and run
+you can you know you into the repository
+locally and then you can push that
+repository to a remote destination for
+example GitHub but if you&amp;#39;ve
+got
+Secrets database user IDs
+passwords um you know SSH keys or
+whatever right you don&amp;#39;t want those
+going into repository that&amp;#39;s on a remote
+server certainly not a remote server
+that you know is exposing that
+repository publicly also you got a ton
+of stuff which is just generated you
+know it&amp;#39;s just uh it&amp;#39;s just a lot of
+stuff for example the node modules
+directory you know the node modules
+directory contains all of the node
+modules the node packages that you
+install and all the ones that they
+require all their dependences their
+dependencies dependencies dependen
+dependencies so it&amp;#39;s a
+huge set of uh modules that you don&amp;#39;t
+really need to track because they can be
+rebuilt regenerated you know reinstalled
+so you you know to save time to save
+space you don&amp;#39;t want to track those
+either and the way you specify I don&amp;#39;t
+want to track this I don&amp;#39;t want to track
+that I don&amp;#39;t want this in my repo is you
+put the the the references to those in
+the G ignore file okay perfect perfect
+perfect perfect so um so Antonio thank
+you for answering uh aloc is also uh
+spot on there FedEx yes lint RC okay so
+let&amp;#39;s talk about es lint RC by the way
+um bit bucket ah that was that was the
+one from last isn&amp;#39;t it Antonio bit
+bucket so
+uh where are we oh yeah so felex uh
+sorry felex I forgot your name again is
+it I can&amp;#39;t remember anyway so I&amp;#39;ll just
+say Felix um esnc is to capture show
+compile time errors in JavaScript to
+avoid runtime errors now exactly so es
+lint is a very well established and very
+capable linting tool so when you lint
+your code basically you run a program
+over it and it looks uh at your code and
+has a a rule set that it applies to that
+code to say well is is that the right
+and and the and the rule set you can you
+can have rules that say well you know
+don&amp;#39;t capitalize this or if you&amp;#39;re going
+to have um for example an if and else
+statement then it&amp;#39;s going to look like
+this or it&amp;#39;s it&amp;#39;s got to have an else or
+whatever all sorts of different rules
+that you can implement
+for your code and there are clearly
+Global rules that make sense for
+everyone regardless of what project
+they&amp;#39;re on for
+example and there are language specific
+rules that you might want and there
+might be Project Specific rules you know
+you in your organization might have
+rules that you know house rules let&amp;#39;s
+say do you also want uh your developers
+to comply with and with
+eslint you can run the linting over the
+code
+base Point es lint to standard rules
+Global
+rules organization specific rules
+Project Specific rules and it will spit
+out information I said well you
+shouldn&amp;#39;t really be doing this and
+you&amp;#39;ve done this and this is definitely
+wrong you need to fix this some rules
+will point out issues that are
+automatically fixable other rules will
+point out uh issues that you have to fix
+okay and there are different sort of
+levels of you know information warning
+error Etc brilliant this is I mean let
+me know I mean we&amp;#39;ve not even started
+talking about cap yet but this is super
+important if you&amp;#39;ve going to understand
+what everything is in this directory and
+also why don&amp;#39;t we have actually have a
+look at the the linting mechanism in CDs
+because let&amp;#39;s jump to that now uh this
+is a this is a really nice um segue
+what&amp;#39;s the word segue uh
+CDs CDs lint there we go look at that
+CDs lint rules so
+to catch issues with CDs models we not
+even started talking about CDs models
+yet but once we start defining our
+database schema our entities and the
+relationships between them and the
+properties therein and once we start
+defining services for example all in CDs
+in this declarative language beautiful
+declarative language we also may want to
+um I can&amp;#39;t think of a better word than
+to police that uh to check that uh set
+of definitions According to some house
+rules and CDs cap with the CDs command
+provides a way to do that using
+eslint with an eslint plugin
+specifically oh CS specifically for cap
+specifically for CDs okay in fact why
+don&amp;#39;t we do this shortly what time is it
+now already 827 oh my goodness me 827
+we&amp;#39;ll do that and we&amp;#39;ll do that as an
+example of we want to add the CDs lint
+capabilities to our project and we&amp;#39;ll do
+that with CDs ad amazing okay so um so
+so thank you FedEx for bringing that up
+by the way does anybody know have a look
+at this have a look at this um we have
+two files in here oh oh Hussein good
+night in Hussein uh why don&amp;#39;t we see a
+pretty RC that&amp;#39;s not standard we could
+add a prettier RC so husin um rather
+than me go on
+yeah well you can do it if you want
+another digression put in the chat
+Hussein very briefly what prettier RC is
+all about and that also reminds me to
+point out with Hussein&amp;#39;s example of a
+prer
+RC CDs
+rc. eslint
+RC why why do all these files end in
+RC yeah also why do they all start with
+a DOT and can put somebody put in the
+chat what they think about those two
+aspects of those file names ending in RC
+all right Jason is the extension to say
+it&amp;#39;s Jason etc etc fine don&amp;#39;t get me
+started on Jason that&amp;#39;s not really Jason
+because it comments Jason with comments
+and it&amp;#39;s still do Jason and then you JQ
+blows up when it tries to display it for
+you ah anyway um here here&amp;#39;s here&amp;#39;s an
+example of Jason with comments look at
+that uh extensions look at that that&amp;#39;s
+not Jason shouldn&amp;#39;t have a Jason
+extension DJ calm down calm down DJ I
+think it should be Jason C I think
+anyway anyway anyway anyway vs code is
+good enough to realize that it&amp;#39;s not
+Jason it&amp;#39;s Jason with comments and
+format it nicely let me know anyway so
+um where are we uh the app components
+are stored in the btb B instance the dev
+container will only provide the runtime
+environment of the code but the data is
+stored outside the container exactly
+heavier exactly um of course you can
+store the code in a container but
+containers by definition and
+philosophically should always think of
+them as Emeral as in you know they could
+be here today gone tomorrow or here this
+minute gone the next minute and
+recreated in this sort of micr service
+think of think of cloud Foundry think of
+kubernetes think of autoscaling Auto
+reducing containers should be or are
+Emeral and you should never store
+important data that needs to be
+persisted inside a container that&amp;#39;s what
+Mount mounted bind mounted directories
+are for that&amp;#39;s what volumes are for
+volume is another component Concept in
+you know the container land like Docker
+and so on um so yeah shouldn&amp;#39;t store
+data inside the docker container you
+should you know once you delete the
+container it should not matter to you
+okay uh so es JavaScript Lin like syntax
+highlighting the format managed by es ex
+exactly exactly exactly so there are
+many services to support git like git
+lab and bit bucket Javier good morning
+learning stop before the first meeting
+that should be a I should get another
+mug learning stuff before your first
+meeting there we go excellent Javier
+thank you very much for that phrase um R
+good on your mate I&amp;#39;ve never seen the
+section in sap pass what section I
+missed
+that uh are you talking about yes L
+brilliant okay so I saying yeah don&amp;#39;t
+forget put in the chat what um am I
+still online by the way uh yeah I&amp;#39;m
+still online oh very good um don&amp;#39;t
+forget to put in the chat what pretty RC
+is so I&amp;#39;ll come back to the RC the dot
+files and RC so es Lin that&amp;#39;s what it
+looks like these are sort of basic
+rules Okay so so when when es lint runs
+over the code
+base okay it&amp;#39;s going to link things like
+the CDs files it&amp;#39;s going to lint
+JavaScript
+files and rather than es lint rather
+than have es lint say oh by the way
+you&amp;#39;re using this this Global here a
+select statement in JavaScript as it
+work it&amp;#39;s actually a it&amp;#39;s a
+constant before defining it so this is
+sort of telling es Lin to sort of ignore
+this is my language to sort of ignore
+don&amp;#39;t worry about these particular
+globals in the JavaScript code don&amp;#39;t
+complain about them because they&amp;#39;re
+deliberately there okay you can also
+turn different rules on and off in fact
+let&amp;#39;s go to where is it here um
+recommended rules here we go uh es lint
+extension recommended rules tell you
+what tell you what mpm let&amp;#39;s search for
+mpm uh CDs es
+lint there we go
+this is the es lint plugin let me post
+in the chat there that is the eslint
+plugin that
+provides that provides where is it where
+is it where is it recommended rules uh
+the recommended rules where&amp;#39;s the rule
+there we go that&amp;#39;ll do oh here CDs lint
+rules the CDs lint rules are rules that
+you can Implement and have checked with
+es lint but rules specific to C
+development specific in this case to CDs
+for example I don&amp;#39;t know
+um oh there we go yeah no dollar prefix
+names names must not start with dollar
+to avoid possible shadowing of reserved
+variables let&amp;#39;s play with that okay oh
+here we go so uh Kiara says something uh
+oh message retracted okay that&amp;#39;s fine um
+and husin good day to all the RC naming
+Convention of RC files was inspired by
+the rcom family oh my my goodness me
+Hussein fantastic history there yes
+basically it goes back a very long way
+back to the early Unix Days Run commands
+a lot of a lot of simple units commands
+you might want to have configuration and
+it was like the Run configuration or the
+run run uh yeah run configuration type
+thing so it&amp;#39;s just a very old standard
+so when you see something ending in RC
+it&amp;#39;s usually a configuration file for a
+command line tool and often these files
+just so they don&amp;#39;t clutter up um when
+you do a a and LS for example in a
+directory here we go if I if I say the
+ls you know we just see the uh 1 2 3 4
+five but in fact if we sell us show me
+all the files we get more we got thec so
+these are called hidden files right so
+uh goes back to un Grand oh my goodness
+Hussein what a fantastic contribution
+there to the chat exactly ctss
+uh I can&amp;#39;t remember what C was uh but
+time sharing system it was basically the
+predecessor to
+multics which was a you know ultimately
+a failed or an abandoned project to
+rebuild what CTS as a time sharing
+system was in the 50s and early 60s but
+out of out of the ashes of multic came
+Unix right and as we all know Linux is
+basically a Unix with Cano and you know
+the the cloud is just a whole load of
+Linux machines Unix machines fantastic
+um oh uh okay that&amp;#39;s what you quot
+quotes me finally joined Phil welcome
+and finally joined yes Kiara says I
+suppose originally RC stood for run
+command perfect and Visa says I love do
+bash RC exactly um so there we go okay
+so good morning S paath as well um I&amp;#39;m
+I&amp;#39;m talking a lot let me know if this is
+uh well yeah let&amp;#39;s just let&amp;#39;s just stare
+at everything okay let&amp;#39;s play withint RC
+why don&amp;#39;t we just don&amp;#39;t jump oh no no
+let&amp;#39;s go through these things first so
+we got V vs code vs code hidden
+directory and this is also created these
+files are created by the CDs init
+process to help us use cap within vs
+code so it&amp;#39;s got some recommendations
+for extensions that should be installed
+do you anybody recognize those for
+example these extensions are in also our
+Dev container Json look uh oh horrible
+formatting there uh the VSS code
+extension for cap CDs development es
+lint extension
+the HTTP client SQL light viewer rainbow
+CSV oh look they look familiar yeah
+there we go there&amp;#39;s another one as well
+nightow no idea what that is maybe it&amp;#39;s
+some sort of theme I don&amp;#39;t know uh
+nightow don&amp;#39;t know unwanted
+recommendations fine we got launched up
+Jason which is all about launching cap
+servers in vs code so you can for
+example debug them and tasks uh also
+similar we don&amp;#39;t need to go into what
+those are now uh let&amp;#39;s not confuse
+ourselves with vs but these are
+basically helper definition files for a
+really comfortable uh experience
+building and developing with cap in vs
+code because vs code right uh good
+morning and hey Phil oh everybody
+knows each other it&amp;#39;s all fantastic uh
+love Tech devfest here good morning
+colleagues to us SVO as well
+now another thing that the CDs init
+command creates is a set of directories
+these are where wellknown
+directories for now we&amp;#39;re just going to
+briefly talk about what they are and
+then forget them in fact we&amp;#39;re going to
+delete them in a
+minute think of cap as a programming
+Model A framework with which you can
+build Services as in backend Services o
+data services and other restful HTTP
+Based Services or even with you know if
+if you&amp;#39;re uh if you&amp;#39;re that way inclined
+you know you can put a graphql adapter
+on the front as
+well um that was that was a weird thing
+uh but basically you can build headless
+services and that is what the DB and the
+serve directories I think of are for
+okay so you
+define effectively your entities what
+they are books authors whatever you in
+the Bookshop thing you define the
+properties in them you define what keys
+there are you define the relationships
+between those for example associations
+compositions and that&amp;#39;s what I think of
+as a persistence layer right the DB I
+said last week that it&amp;#39;s unfortunate
+that the you know alphabetical order-
+wise these are not quite the way I think
+of them because the bottom is the
+persistence layer nearest the
+database okay and then you might want to
+build one or more services to
+expose combinations of and you know uh
+combinations of these entities and these
+relationships filtered out for
+certain um purpos purposes so you might
+have you know a mobile client running on
+you know um Android and and what is it
+iOS uh you might have a web Cent you
+might have an API that you want you know
+B2B or you know machine to machine
+different ways of looking at essentially
+the same data at the same persistence
+layer so you want to be have multiple
+Services defined that point to an expose
+different combinations of the entities
+right and that you traditionally
+you you separate the definition of the
+services out from the definition of the
+entities you separate the persistence
+layer out from the service layer so you
+got the DB at the bottom DB directory at
+the bottom the server serve service
+layer sort of in the middle as it were
+and those are that&amp;#39;s where you expose
+these different services and you can
+annotate these Services as well and you
+know apply restrictions and whatever you
+can do that database layer as well and
+then also if you
+want essentially the the core of the cap
+server is based upon Express so you can
+serve anything so why not serve some
+static content that is for example uh an
+HTML 5 front end provided for example by
+ui5 you know providing a fury front end
+or view or react or angular or whever
+you want and you stick that stuff in the
+app directory so it&amp;#39;s all beautifully
+organized okay you don&amp;#39;t have to do that
+but it makes a lot of sense and in fact
+one of the amazing things about the DS
+language itself is that it gives us so
+many opportunities to build
+reusable and modularized that&amp;#39;s not even
+a word
+modularized definitions of things that
+you can then share within your project
+within your organization you can bring
+things in as well from you know other
+other parts so it&amp;#39;s a it&amp;#39;s a language
+that has a lot of facility for doing the
+right thing in terms of not repeating
+yourself doing things succinct ly doing
+things in a way that doesn&amp;#39;t stamp all
+over things you&amp;#39;ve imported for example
+it&amp;#39;s amazing okay so those three
+directories then we have the CDs LC I&amp;#39;m
+going to come back to that when we start
+talking about the CDs
+environment okay but basically you can
+Define settings that you want sort of
+globally within your project
+okay es link we&amp;#39;ve already talked about
+get ignore we talked about and maybe not
+the most important but the most
+prominent fire in the stuff that&amp;#39;s
+generated right is the package Json
+package Json it&amp;#39;s not a cap thing it&amp;#39;s a
+node.js thing and the package manager
+node package manager of nodejs you
+define your project your package in
+package Json so you can see here this is
+this is the the default that&amp;#39;s that&amp;#39;s um
+generated and we have you know sort of
+Usual Suspects what&amp;#39;s the name of this
+thing what&amp;#39;s the version what&amp;#39;s the
+description if there&amp;#39;s a GitHub or a bit
+bucket or whatever you know remote repo
+what&amp;#39;s that put a license in blah blah
+blah blah blah so let&amp;#39;s talk about the
+three sort of objects here there are
+many more objects but this is this is
+purely this there are no cap specific
+items in this package Json yet okay when
+there are cap specific items we&amp;#39;ll also
+see another object or a property called
+CDs which got a whole lot of stuff in
+there but we don&amp;#39;t need to come to that
+yet what we&amp;#39;re saying here
+or what this package Jason is saying is
+this project this thing this
+Bookshop depends upon a couple of node
+packages node modules package module
+Library you know I&amp;#39;ll probably say these
+words
+interchangeably there we
+go it depends upon the at saap CDs
+package at sap is a you know a name
+space effectively a
+prefix and it also depends upon you know
+the very uh very popular ubiquitous one
+might also also almost say uh fast
+unopinionated and minimalist web
+framework upon which cap relies cap noj
+relies in the chat
+somebody we talked about this last week
+briefly somebody tell me what the
+difference is between sap CDs and sap
+CDs ddk okay remember that put that in
+the chat while somebody puts that in the
+chat we have
+dependencies but we also have Dev
+dependencies think about this in terms
+of the two phases in
+which you&amp;#39;re operating or you&amp;#39;re
+thinking and your app is or your
+service initially you&amp;#39;re developing it
+building it fixing it redoing it
+rerunning it adding some more features
+and so on so design let&amp;#39;s call it design
+time development time does sounds a bit
+weird design
+time so during design time you&amp;#39;re going
+to need extra tools to help you linting
+tools you know you don&amp;#39;t need the
+linter in production in the same way you
+don&amp;#39;t need for example an auto um Auto
+checking to see if files have Chang an
+auto restarting mechanism that will
+restart your cap server if you make some
+changes that will restart it automatic
+you don&amp;#39;t need that in production right
+so these tools are design time
+tools um and uh to preempt whoever is
+going to put what in the chat these
+design time tools like The Watcher like
+the auto restarter which is invoked with
+CDs watch which we&amp;#39;ll hopefully look at
+before we finish today which looks like
+last week that uh those tools are in the
+CDs DK in the development kit so cognet
+81 says CDs DK has the design tools and
+CDs has the core runtime environment
+beautiful okay we want a smaller
+footprint as possible in production we
+don&amp;#39;t want any Cru we don&amp;#39;t want any
+extra tools a because you know it&amp;#39;s a
+waste of network transfer it&amp;#39;s a waste
+of startup time but it&amp;#39;s also a bigger
+surface area from a security perspective
+so we want the minimum possible in our
+containers that we run on kubernetes and
+in Cloud Foundry and whatever there&amp;#39;s no
+point in sending up all the all the
+design
+tools you know to production okay so
+design time on time and the diff that&amp;#39;s
+the difference also reflected in
+dependencies versus Dev dependencies so
+in design time while we&amp;#39;re building this
+stuff
+out we can and we might want to connect
+to a remote sap Hanah
+Cloud uh instance okay with an HDI
+container maybe we&amp;#39;ll do that in the
+future
+but for super quick development
+turnaround it makes a lot of sense to
+have a persistence layer that is a lot
+quicker a lot more local and that
+persistence layer by default is SQL
+light it&amp;#39;s a file based persistence
+system file based rdbms okay so while
+we&amp;#39;re developing not while we&amp;#39;re running
+in production you would never really
+want to run in production with SQL light
+although some people do for some weird
+Edge case reasons because why not but
+anyway that&amp;#39;s another
+story you can use SQL light so that&amp;#39;s
+why SQL light is a Dev dependency okay
+so here we go uh so oh mad have I love
+that phrase CDs is fat free where a cdsd
+k my words now is full fat you get all
+the goodness of all the tools exactly
+extra features for developers Mt have 10
+points of VI for saying CDs is fat free
+brilliant uh bioo says sap Cloud SDK is
+a set of libraries and tools provided by
+sap to simplify the development it is
+now sap Cloud SDK is
+not what you might think it is it&amp;#39;s not
+sap CD
+SDK sap Cloud SDK is a separate separate
+project separate
+library in the same sort of space in
+fact sap
+CDs cap uses the sap Cloud
+SDK to manage and use connections to
+remote systems services apis and so on
+okay if anybody&amp;#39;s attended
+the uh we have a service integration
+with cap code Jam that the developer
+that the developer Advocates have and we
+talk a lot about the sap cloud cloud DK
+in that when you connect to a remote API
+the sap cloud SDK is used internally by
+cap to make that connection and manage
+that connection uh Juan is a thumbs up
+Luis could juel support us in design
+yeah my goodness me um Luis check out on
+the maybe Antonio can find it for me
+please uh on the I think it&amp;#39;s on the sap
+YouTube channel there&amp;#39;s the developer
+keynote from November last year one of
+the items in that keynote is using
+jewel in the sap
+uh business application toio as part of
+sap build code to generate CDs and it
+was amazing you know I was mind blown
+and you know there we go and I was there
+uh so yeah check it out and so the
+answer is yes uh CDs is call Libs we
+have to be pack them into the output
+bundle but SDK is the tool for perfect
+you&amp;#39;re all we&amp;#39;re all on the same page
+brilliant okay so and then finally you
+can
+have scripts script names that then you
+can call with npm blah blah blah script
+name and it will do whatever is defined
+it&amp;#39;s almost like an alias really almost
+um what&amp;#39;s defined in here run by the npm
+start command Okay um now one of the
+interesting things where this comes into
+play is when you deploy such a project
+to for example Cloud Foundry
+automatically npm start will be invoked
+okay so what do you whatever you define
+for the start script in your package
+Json is the thing that will start your
+whole service running
+okay um so CDs serve will come on to CDs
+serve that&amp;#39;s part that&amp;#39;s not part of the
+CDs DK that&amp;#39;s part of the C sap CDs
+that&amp;#39;s part of the run time okay right
+so thank you Antonio for sharing that
+link perfect okay
+so where are we ah yes okay so what
+we&amp;#39;ll do in fact Let me let me how do I
+do this now let me put that up there so
+it&amp;#39;s a little bit better teral drag the
+terminal to
+there there we go L of mouse clicky
+clicky but there we go okay so what
+we&amp;#39;ll
+do is in es lint RC in fact let&amp;#39;s do
+this CDs add D- help we&amp;#39;ve looked at
+we&amp;#39;ve looked at CDs in it to initialize
+the project and CDs in it will produce
+all these files for us so let&amp;#39;s do a CDS
+ad first of all let&amp;#39;s have a bit of a
+help what can it do for us okay uh let&amp;#39;s
+move a little bit over there so we don&amp;#39;t
+wrap the lines oh hello there we go so
+CDs ad and adds one or more features to
+an existing project one of the one of
+the beautiful concepts of cap convention
+over configuration grow as you go so try
+not to boil the ocean when you&amp;#39;re
+starting out a project do the simplest
+thing that could possibly work that&amp;#39;s
+one of the phrases from the from the
+amazing uh Ward Cunningham inventure of
+the wiki etc etc and anyway
+um so we didn&amp;#39;t need anything until now
+so now let&amp;#39;s let&amp;#39;s have a CDS ad so
+we&amp;#39;re going to add support for sap
+Hannah add support for SQL lights add
+support for app rout I think we talked
+about that last week and Daniel also
+pointed out Daniel scha pointed out that
+yeah this is if you want to if you want
+to manage that rout with you know
+workspace you do something different but
+if you want your Standalone app rout see
+this add app rter all sorts of things to
+do with messaging and so on but there&amp;#39;s
+one here we&amp;#39;ll we&amp;#39;ll try a simple one
+tiny sample what do I think Elton John
+when I see Tiny sample U add minimal
+sample files and that&amp;#39;s going to be
+really helpful for us uh oh so R says uh
+DJ I noticed sap B has different files
+compared to visual studio code is there
+any adjustment to be made in sap BS
+before deployment there shouldn&amp;#39;t be
+what can you give me an example of what
+different files there are when you do a
+CDs in
+it um you should see all these files the
+vs code directory with uh you know
+extensions launch and tasks app DB and
+serve directories CDs RC Jason es lint
+all those files you should see when you
+do a CDs in it in sap pass um there&amp;#39;s
+also a what&amp;#39;s it called uh helper thing
+a wizard a is it a wizard yeah I don&amp;#39;t
+know in in bass which will give you a
+sort of a graphical way of doing uh
+similar sort of thing but you should end
+up with the same thing Che Antonio see
+you in the future live stream check out
+keep keep looking ATB devs everybody for
+Antonio&amp;#39;s live streams as well anyway
+let&amp;#39;s do a CDS add tiny sample now I&amp;#39;m
+going to clear screen so we can see it
+there keep your eye on not that uh keep
+your eye
+on what&amp;#39;s In Here DB and serve there&amp;#39;s
+nothing in app nothing in DB nothing in
+serve if I run that now adding feature
+tiny sample successfully added features
+to your project and what we get we can
+get rid of that what we get is stuff in
+the DB directory and stuff in the serve
+directory what we get is a very simple
+dat dat
+model OKAY interesting es lint RC ah
+could it
+be that the default display in the
+Explorer in sap
+Bas doesn&amp;#39;t show hidden files could it
+be that can you see the do get ignore
+file in the in the list there I wonder
+if it&amp;#39;s just a display thing go into a
+terminal and say LS space minus a go to
+a terminal do this LS minus a or LS
+minus L8 you know long list and you
+should see that if not let me know um so
+oh uh so AP is saying no addition to ad
+CDs DK ah okay so that&amp;#39;s a great
+question thank you for asking
+AP we&amp;#39;re already we already have CDs DK
+installed if you check out last week&amp;#39;s
+live stream and or check out in the doev
+container
+directory there we have the dev
+container file but we also have the
+docker file don&amp;#39;t forget we&amp;#39;re in the
+docker container uh not now thank you
+much in
+here the container that we in here you
+name minus a who am I I&amp;#39;m the user node
+in a Linux container
+here that container has been created
+from the image that&amp;#39;s been defined with
+this Docker file definition where we&amp;#39;ve
+installed a couple of tools and we&amp;#39;ve
+also installed the sap CDs DK already
+globally Okay so we&amp;#39;ve already got so if
+I say it&amp;#39;s a great question though
+brilliant LS sorry mpm
+ls-- Global let&amp;#39;s see what
+happens there we go what have what I&amp;#39;m
+saying is in this container in this
+context of where I
+am npm what packages are installed
+globally okay if I if I did a um npm LS
+like
+that nothing&amp;#39;s installed we haven&amp;#39;t done
+an mpm install yet that&amp;#39;s fine just I
+just want show you nothing&amp;#39;s install
+even though uh the package.json says we
+need this we need this and we need this
+we haven&amp;#39;t installed those yet but when
+we do NL npm LS Global globally we have
+the sap CD
+SDK um and we also have V lint and I
+don&amp;#39;t know what pnpm is no idea uh don&amp;#39;t
+know but probably a dependency of sap
+csdk what is p anyway somebody we find
+out what pnpm is quite interesting so R
+thanks ba check tomorrow I went to use
+CDs in npm when npm is all the is is a
+node pack is the node package manager so
+when we&amp;#39;re installing packages which may
+or may not be cap specific or cap
+related CDs related packages use npm
+when you&amp;#39;re doing things to um create
+and grow and nurture and garden your cap
+project and also run a cap server which
+we&amp;#39;ll do in a minute you use a CDS
+command so we&amp;#39;ve done a CDS ad and now
+we can say um we can have a look here we
+can see the data model there where is it
+data model books fine uh in a namespace
+we&amp;#39;ve even got some data okay withing
+Heights and Jane air uh fine guess who&amp;#39;s
+that author there uh Bronte there we go
+and we&amp;#39;ve also got a very simple service
+definition file which exposes this is
+what we saying before you know at the at
+the um persistence layer we have the
+basic entities no relations because
+there only one entity but then the
+service layer one thing higher up we&amp;#39;re
+bringing in those entity definitions
+from here and sort of calling them local
+name my then we&amp;#39;re defining a service
+called catalog service we&amp;#39;re going we&amp;#39;re
+going to look at this in a lot more
+detail next
+week defining a service and exposing
+that books entity here we got also going
+to call it books and also we&amp;#39;re going to
+annotate this by saying oh this
+particular entity is read only
+annotations is a huge area amazing
+powerful
+area Okay so we&amp;#39;ve done a CDS ad and
+we&amp;#39;ve had tiny example but if we do CDs
+ad lint for example oh let&amp;#39;s go into the
+um package Json CDs ad lint install
+depend while that&amp;#39;s installing let&amp;#39;s
+talk about what so I&amp;#39;ve used CDs ad
+again to bring in another tool another
+feature to this particular project I
+want to have linting
+facilities that have cap specific or CDs
+specific rules here that I might may or
+may not want to add to later
+on um so I&amp;#39;m using the CDs ad mechanism
+to install this lint feature which will
+do lots of different things um oh I
+should have I should have done a g um in
+it so we can see the changes but there
+you can see there&amp;#39;s no changes here
+we&amp;#39;re already referring to by default DS
+es lint RC has already got the reference
+to the what es lint r should
+use but now we&amp;#39;ve got in our package
+Json two more Dev
+dependencies again they&amp;#39;re Dev
+dependencies because we&amp;#39;re owning in
+them during development we got the Sap&amp;#39;s
+es lint plug-in CDs which we looked at
+before on mpm and we got es lent itself
+now if we if we do this let&amp;#39;s do this
+let&amp;#39;s go into the data model say now we
+can say CDs
+lint everything dot this this Direct for
+example let&amp;#39;s see what
+happens so CD we&amp;#39;re calling CDs so again
+to answer your question um some
+question uh when do we use mpm when do
+we see when we&amp;#39;re doing things with with
+our cap project itself we use a CDS
+command and the CDs command here is bit
+of bit little bit like a wrapper because
+it&amp;#39;s going to call es lint okay not very
+exciting output a blank line because
+everything&amp;#39;s fine okay what is it&amp;#39;s done
+is it&amp;#39;s C in fact in
+fact a little bit into the I think we
+want to look at this later on but debug
+equals all CDs lint dot let&amp;#39;s set the
+environment variable debug to all magic
+and CDs lint let&amp;#39;s see what happens oh
+my goodness me oh it&amp;#39;s doing all this
+doing all this oh what is going on look
+it&amp;#39;s checking all these rules here it&amp;#39;s
+checking our CSV file it&amp;#39;s checking our
+data model CDs file that one there and
+it&amp;#39;s checking our cat service file now
+remember that one that we saw here we go
+yes here we go uh no dollar here we go
+no dollar prefix names let&amp;#39;s do that one
+so we not allowed to have basically a a
+property right that begin the name of
+which begins with a dollar sign so let&amp;#39;s
+go and do that because we&amp;#39;re Rebels if I
+say for example dollar title okay let
+save
+that let&amp;#39;s run that again and I&amp;#39;ll keep
+the debug
+on oh so thank you uh thank you uh bioo
+pnpm the Tidy roommate of package
+managers mpm the one who throws no MERS
+party in every project brilliant oh
+check that out where is Tiny sample
+defined for it to be added when we use
+CDs ad great question Rohan great
+question it&amp;#39;s actually defined in the
+CDs DK right um one of the amazing
+things uh that you might want to know oh
+it&amp;#39;s 859 you might want to know is if we
+look at CDs EnV uh L yes right if we do
+that we get a million things if we look
+at um grep home we can see where is the
+cdsk cdsd K installed there it is so we
+could say for example
+um I don&amp;#39;t I have no idea right I have
+no idea what wait a minute let&amp;#39;s see my
+Bookshop books Jane air so if we should
+do a GP um recursive uh look for
+Jane I have no idea if this is going to
+work a or
+uh where do we do want to do that we
+want to do that uh where
+cdsn uh LS and get uh
+home uh CDs DK will that
+work oh hold on uh oh there we go get
+rid of that one
+there there we go look at
+that that&amp;#39;s where it is to answer your
+question specifically uh who was that to
+ask it Rohan there look in the CDs DK
+that&amp;#39;s installed globally that&amp;#39;s why
+it&amp;#39;s say use a local share mpm Global Li
+node
+module template sample files DB data cap
+bookshops book CSV that&amp;#39;s where it is in
+fact let&amp;#39;s just do that a little bit
+shorter to just say just show me the
+file names rather than the content
+they&amp;#39;re in there they&amp;#39;re in that&amp;#39;s where
+it is okay so you can always find things
+out anyway it&amp;#39;s 9:01 uh we hav done half
+of what I wanted to do but let me know
+if if that&amp;#39;s helpful let me know if I
+went too deep um here we go oh let&amp;#39;s
+make sure we um answer all the questions
+pnpm is like a space saving supero
+projects NE oh there we go okay perfect
+uh so AP says no addition to add CD SDK
+ah okay yeah so AP so so kind of you so
+kind of globally added but no de
+dependency exactly it&amp;#39;s not a Dev it&amp;#39;s
+not really a Dev dependency because it&amp;#39;s
+already installed locally because you
+sort of like need sap CD SDK to
+bootstrap that package Json you know
+without sap CD SDK we can&amp;#39;t
+do a CDs in it and therefore we can&amp;#39;t
+create that package Jason a bit of like
+you know a chicken and egg situation if
+that makes sense okay uh let&amp;#39;s stop here
+because people got meetings and
+everything thanks so much for joining
+thanks for much brilliant chat we&amp;#39;ll
+carry on with this next week we&amp;#39;ll Deep
+dive in a bit more to CDs ad and then
+CDs watch which is just amazing so see
+you soon thanks for everything and see
+you oh no next week is I&amp;#39;m doing AO Jam
+so it be the week after oh my goodness
+bye for
+now

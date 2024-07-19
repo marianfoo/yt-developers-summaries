@@ -1,0 +1,25 @@
+{
+  "name": "youtube-transript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run get:metadata && npm run get:transcript && npm run create:summary && npm run create:webpage",
+    "get:metadata": "node get-metadata.mjs",
+    "get:transcript": "node get-transcript.mjs",
+    "create:summary": "node create-summary.mjs",
+    "create:webpage": "node generateWebpage.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.52.7",
+    "path": "^0.12.7",
+    "showdown": "^2.1.0",
+    "url": "^0.11.3",
+    "youtube-transcript": "^1.2.1"
+  }
+}

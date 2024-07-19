@@ -1,0 +1,1458 @@
+good morning good afternoon good evening
+welcome to handson sap Dev with me DJ
+qro it&amp;#39;s great to be back it&amp;#39;s been a
+long time so thank you everybody for
+joining this first live stream of
+2024 so uh hi to V vadir is an old
+friend of the stream and lots of Old
+Friends actually so uh Lu have you got
+your large mug of coffee ready it&amp;#39;s 5 a.
+at your time isn&amp;#39;t it bom di to you guda
+to Thomas and Bones Diaz Antonio my
+friend and colleague Antonio Santiago
+bues Diaz Michael good morning helmet mo
+mo to
+brke Brunswick in North Germany Abu hi
+to AB in Bangalore welcome everybody
+this is this is amazing good morning
+Henry
+so so I apologize I&amp;#39;m just recovering
+from
+um oh dear two or three weeks of flu and
+you know what I&amp;#39;ve been getting up in
+the morning and I you know I uh I&amp;#39;m I&amp;#39;m
+on my own on the boat here the narrow
+boat of M I&amp;#39;ll explain a little bit more
+about that in a second but because I&amp;#39;ve
+not I&amp;#39;ve not spoken a word this morning
+you know as soon as you start
+speaking I don&amp;#39;t know you get ill again
+I don&amp;#39;t know hey hello hello hello Chik
+CH uh sorry sorry chakia chakia is that
+how you pronounce your name I I probably
+butchered that to death Stefano good
+morning to Barcelona madav good morning
+arif&amp;#39;s learning Arif learning lab hello
+in Bangkok as well hello DJ DJ the OG
+that&amp;#39;s quite hard to say and Matias
+Matias how&amp;#39;s the sticker game going on
+your laptop I think I think Matias
+always uh always impresses me with the
+number of stickers on his huge laptop
+good morning to Matias in Dortmund I&amp;#39;m
+super excited um this is like I say the
+first uh the first live stream of 2024
+we&amp;#39;re back with a vengeance and uh we
+got a new design uh you know new scenes
+and layouts thanks to another one of my
+wonderful friends and colleagues Nico sh
+um and oh good morning darid and Lucas
+good morning to Poland excellent abet as
+well oh AB good to see you as well uh so
+fantastic
+now um what oh yeah just want I&amp;#39;m I&amp;#39;m
+broadcasting broadcasting is that the
+right word
+streaming um from a new location so I
+think the last live streams we all did
+together were in sort
+of late summer Early Autumn early fall
+Bethal good morning B Diaz to you in
+Spain um to uh in in August September
+and I was
+um what was I doing then I can&amp;#39;t
+remember anyway anyway now I think this
+is the for me this is the first live
+stream let me just switch to uh the main
+scene the first live stream from a new
+location and that new location you can
+sort of see here open image new tab
+maybe uh you can sort of see that&amp;#39;s my
+new location so I live on a narrow booat
+uh on the English and Welsh canal system
+and in fact I am right now the the thing
+you can see behind me the window you can
+see behind me is well it&amp;#39;s a pair of
+Windows on this little duck so-called
+duck hatch so that&amp;#39;s exactly where I&amp;#39;m
+sitting at the moment there&amp;#39;s my
+internet connection there&amp;#39;s my uh 4G 5G
+Omni directional antenna so I&amp;#39;m coming
+to you via that
+antenna so there we go and inside so if
+you if you were to open these catch
+doors you would see this is where I&amp;#39;m
+sitting right now you would
+see um this is where I am so I&amp;#39;ve got
+quite a nice space and so this is
+literally where I&amp;#39;m sitting right now
+I&amp;#39;ve got my Chromebook monitoring the
+chat but also monitoring my uh
+containers I&amp;#39;ve got my main screen I&amp;#39;ve
+got my Elgato key light like camera and
+everything so yeah there we go uh so
+it&amp;#39;s great to see everybody it&amp;#39;s great
+to see everybody sarup Krishna Phil good
+day Phil to down
+under this is amazing absolutely amazing
+so um what are we going to do well let
+me let me explain a little bit more
+first we&amp;#39;ve got that&amp;#39;s us right now and
+in 24 it&amp;#39;s going to be even more
+exciting and uh I&amp;#39;m looking forward to
+this as much as you
+because we&amp;#39;re not only live streaming on
+Fridays as usual but also thanks Lu and
+thanks Phil uh but also in fact I&amp;#39;ll
+share the um I&amp;#39;ll share my hacky profile
+anyway I&amp;#39;ve got a little chat here
+woohoo oh by the way um there we go
+there&amp;#39;s the we&amp;#39;re going to be referring
+to that URL there there is the thing
+with the picture on it and also um
+there&amp;#39;s
+uh there&amp;#39;s the post on my blog uh where
+you can see the picture of literally
+where I&amp;#39;m sitting right now anyway
+anyway anyway let close that close that
+close that so Antonio is in the chat as
+well I know you said hello before
+Antonio but say hello again Ian good
+morning Ian fellow Runner fantastic
+perfect setup well you know it&amp;#39;s um I
+you know what this um this these fairy
+lights behind me of course i&amp;#39; got them
+still from uh from from having them up
+at Christmas but I put them across there
+I was inspired by another live streamer
+that I watch a lot which is Brett Fisher
+uh in fact if I go to here Brett Fisher
+there we go Docker and devops let me
+share that as well he&amp;#39;s back he&amp;#39;s back
+uh I I really love this uh this channel
+Brett&amp;#39;s got a lot of stuff on Docker
+devops cubetti swarm
+everything hi Antonio there there we go
+nice little Segway to CPU memory
+Graphics yes yes good morning Antonio to
+bomia in uh Portugal there we go uh so
+yeah so we got
+Antonio also live streaming next week on
+what day is it it&amp;#39;s on uh wed Tuesday or
+Wednesday it&amp;#39;s midweek isn&amp;#39;t it um so
+there we go so let&amp;#39;s have a look live in
+five days I think it&amp;#39;s Tuesday isn&amp;#39;t it
+Antonio let us know Antonio when it is I
+can&amp;#39;t work out which day in my head
+right now so we got a lot of things
+going coming so with the new design as
+well Antonio&amp;#39;s done a live stream
+already that&amp;#39;s that&amp;#39;s why it&amp;#39;s number
+two but that&amp;#39;s why ours for example
+number one this is the first
+episode of a new series Hussein good
+good night to you in Istanbul welcome
+welcome welcome himansu hello as
+well uh so this is the first number one
+episode of a new series where we&amp;#39;re
+going back to basics so I
+think I&amp;#39;ve had we&amp;#39;ve all the Advocates
+have had feedback um from doing code
+jams from tutorial participants from Dev
+toober Fest at the live stream&amp;#39;s on
+Wednesday thanks Antonio the Antonio&amp;#39;s
+live stream is on Wednesday make sure
+you go over here and subscribe to the
+channel I&amp;#39;m on this is my know this is
+the sap developers ID now but subscribe
+to the channel and then hit
+notifications and everything so you get
+the notifications fcan good morning to
+you as well and welcome so um
+I&amp;#39;ve lost what I was gon to say now uh
+oh yeah
+so a lot of folks have asked for a sort
+of a Back to Basics and more
+fundamentals on cap okay we have done on
+hands on SCB
+Dev a number of sort of miniseries on
+various aspects of cap sort of quite
+Niche things like man in fact you can if
+you want to look at those we have the
+playlists here where are the playlists
+here for example I&amp;#39;m hoping I can find
+them straight away yeah so we did a we
+did a live stream series on managed
+associations um and we also did a live
+stream series on service integration so
+those are quite sort of focused but
+really what we&amp;#39;re going to be doing in
+this new series is just going back to
+basics and starting from absolute
+scratch um and dispelling any fears or
+questions you may have so that&amp;#39;s the
+other thing during this episode and all
+future episodes and I&amp;#39;m sure Antonio
+would say the same thing as well with
+his live streams and all my other
+developer Advocate colleagues who may or
+may not be doing live streams in the
+future in
+2024 the whole point for you and for me
+is that you can ask questions we can
+interact in the chat because I&amp;#39;m
+monitoring the chat down here you saw
+that little Chromebook uh thing on my
+desk I&amp;#39;ve got the chat there now so I
+can see people saying hello and
+everything so there&amp;#39;s no question too
+silly to ask okay I might not be able to
+answer it but we can work it out
+together I it hello Amit and
+welcome so um it&amp;#39;s all about cap sap
+cloudification programming model and
+what I thought we could do just today
+this first episode is start really
+really
+simple and I wanted
+to start with a setup it&amp;#39;s very warm
+actually I put the fire on but it&amp;#39;s
+quite warm now in fact open the window
+maybe not um that door there there we go
+that&amp;#39;s better
+um so that&amp;#39;s the door to the bathroom by
+the way so if you look in fact if you
+look at the this is this is just
+completely going off piece if you go to
+my blog and look at this for this latest
+blog post that&amp;#39;s where I am so right now
+open imion new tab that&amp;#39;s where I am
+there&amp;#39;s my desk and there&amp;#39;s a monitor
+there and I&amp;#39;ve just opened that door to
+the bathroom there we go anyway anyway
+that&amp;#39;s just too much information
+um if we can do this so that everybody
+can follow along either live while we do
+it and some of those folks who are crazy
+or silly or brave enough to do that
+would be amazing let me know but I want
+to do this uh in a way that everybody
+can play along
+now the web page we&amp;#39;ve got up here
+welcome to cap the cloud application
+programming model this is known
+colloquially internally as well I think
+some people pronounce it Kayo I
+pronounce it capaya which is sort of not
+really authentic the idea is that it&amp;#39;s
+uh play on the Italian word cap who is
+any anybody from Italy here who can uh
+who can correct my pronunciation but
+capir is obviously to understand to to
+Gro okay and the whole point of capire
+is that it&amp;#39;s documentation that helps
+you understand cap right
+so and it&amp;#39;s a wonderful resource so
+we&amp;#39;re going to be going through over the
+next few
+episodes the getting started okay partly
+because you know I can&amp;#39;t think of
+anything better because this is great
+partly because I think these days I
+think we sort of need certainly me I
+speaking for myself but let me know in
+the chat we
+need sometimes a reason to go and stare
+at the documentation and work through it
+so we&amp;#39;re going going to be working
+through this documentation together
+because it&amp;#39;s
+awesome the other thing though is that
+hey poke poke geek or is it Pokey geek
+is it as in Pokemon or poke as in Peak
+and poke from the home computers of the
+1980s let me know uh but hello
+anyway um so the the point is that we&amp;#39;ve
+got this getting started section and
+we&amp;#39;ve jumped here getting started in a
+nutshell from the big get started button
+here however however however
+however okay all this getting started
+here
+assumes that you&amp;#39;ve got the appropriate
+tools and libraries and everything set
+up RTM Antonio Antonio says RTM I think
+You&amp;#39; missed out a letter there Antonio I
+think that letter might be F and I think
+we&amp;#39;re allowed to say rtfm maybe not
+spell it out loud but yeah
+rtfm you know what I capir so Lu L is
+saying capir excellent um yeah so the
+jump start guide which is this jump
+start development the one before this is
+like the description of what anybody
+needs to do to set up for local
+development and I&amp;#39;ll say up front as
+well I said this in the uh we wrote this
+in the description of this live stream
+episode that we&amp;#39;re going to be focusing
+on node.js there has been a question
+about Java I&amp;#39;m not a Java person uh
+maybe we can get somebody on to to S
+cover some of the Java aspects because
+it&amp;#39;s also awesome it&amp;#39;s Pokemon itself
+poke geek excellent um there&amp;#39;s probably
+only a few of us around here that old
+enough to remember Peak and poke those
+commands on the 8bit computers of the
+1980s where you could read and write
+memory locations
+directly
+anyway um so we&amp;#39;re going to be doing no.
+JS now if you have a look at uh the
+table of contents here if you want to
+set up for local
+development right which is what we&amp;#39;re
+going to do because one of the beauties
+of cap is that you can develop it in the
+cloud for example using Sab business
+application Studio or Dev space there or
+a code space on GitHub or whatever right
+um but quite often and and embracing the
+beauty of this sort
+of fast Dev turnaround you want to be be
+able to develop locally on your own
+machine however I was thinking
+hm if you want to install for local
+devel set up for local development any
+of you out there including me on your
+machine whether it&amp;#39;s a Windows a Linux a
+Mac device you know whatever Chromebook
+Chrome OS all these different things you
+need to install node.js you need to
+install the CDs DK we&amp;#39;ll talk about what
+that is shortly you need to install
+git
+SQL light if you&amp;#39;re doing Java cap you
+need to install Java Maven and you need
+to install Visual Studio code vs code I
+mean you can use any editor you
+want vs code is what uh
+cap um promotes because a it&amp;#39;s pretty a
+pretty awesome
+editor and it&amp;#39;s available for all
+platforms and also of course the sap
+business application Studio Dev spaces
+are also based B on the
+open-source components of vs code code
+OSS I think it&amp;#39;s called okay so I think
+when when was it Antonio I can&amp;#39;t
+remember maybe two or three four months
+ago they switched from Eclipse Thea as a
+basis for the depth spaces in the
+business publication Studio to code OSS
+and it&amp;#39;s awesome and it allows for a
+little bit of a better sharing of
+extensions between actual vs code and
+Dev spaces in the business application
+Studio and also of
+course GitHub code spaces are basically
+also the same as Dev spaces in the
+business application Studio or vice
+versa so it makes sense to have a vs
+code based set however however however
+you know having spoke to many of you
+during code jamps a lot of you have you
+know laptop configurations that
+maybe prevent you from installing these
+sort of things and you don&amp;#39;t want to or
+you not allowed to install
+things so what I&amp;#39;ve decided and also
+because I&amp;#39;m you know I&amp;#39;m obsessed with
+everything in
+containers what I want to do is go on
+this little journey with you with the
+minimum footprint possible on your
+actual laptop so that you can do all
+sorts of things without messing up your
+laptop installing you things having to
+maybe have admin rights and so on and so
+forth
+so all I&amp;#39;m going to require you to to
+install if you want to follow along is
+vs code and also a container engine now
+this is not a
+container Series so we&amp;#39;re not going to
+get into the vagaries of you know Docker
+desktop versus podman desktop versus lxc
+all these different container
+Technologies for the purposes of
+learning
+I use Docker desktop okay and for anyone
+learning personally you know this is
+free so it&amp;#39;s great now if you&amp;#39;re using
+it for your corporate work for your for
+the you know for your client sorry for
+your client for your employer there may
+be a contract in place with Docker to
+use Docker desktop with a license
+version brought from a personal learning
+perspective you know that&amp;#39;s what I
+use and it&amp;#39;s awesome I mean again like I
+say you can install pod man deskt and
+use the same sort of thing but I&amp;#39;m going
+to be using Docker desktop so all you
+need is Docker desktop vs code and
+that&amp;#39;s it okay so with that in
+mind let me show you what I&amp;#39;ve set up
+for us so that we can start on this
+journey helmet containers thumbs up
+excellent Nico good morning Nico Nico
+how come you haven&amp;#39;t got a um a spanner
+next to your name uh you should we&amp;#39;ll
+talk about that later you should have
+admin access as your own personal IDE
+anyway fan yes oh oh does anyone have
+experience in build oh sorry I missed
+that question does anyone have
+experience in building a cap software as
+a service without any DB just
+projections on public apis yes and Nico
+answers it&amp;#39;s literally as simple as not
+using a DB yes I mean it&amp;#39;s it&amp;#39;s a
+beautifully uh flippant but well well
+meaning uh reply but basically that&amp;#39;s
+exactly what it is what Nico says so
+effectively you know to to to run a cap
+service you can either have you know
+persist layer and that persistence layer
+can be you know anything like you know
+SQL light but there are you know there
+are sort of things to think about when
+you&amp;#39;re using SQL light which is
+a a file based uh SQL storage system to
+something like postest or something like
+sap Hannah sap Hannah cloud and so on
+you can also run a an inprocess in
+memory SQL light database for sort of
+you know ephemeral data if you&amp;#39;re just
+doing sort of calculation SE and so on
+or you don&amp;#39;t need any database at all
+and the other thing is that you can
+build a cap service that is effectively
+a proxy so you integrate other services
+we we do we&amp;#39;ve got a Cod jam on this
+we&amp;#39;ve got a service integration with cap
+that is all about bringing in the
+definition of an API a public API in
+this case an S4 hanter
+API and then sort of wrapping that with
+some uh new entity definitions some
+schema definitions to sort of minimize
+the the exposure that we want to control
+of that public API in a new API sort of
+putting a you know a veneer on it okay
+there&amp;#39;s no database involved there right
+so yeah absolutely uh super
+straightforward with cap you&amp;#39;ll find
+that one of the one of the beauties of
+of cap is that what&amp;#39;s that phrase it
+makes simple things easy things simple
+and hard things possible something like
+that pearl easy simple hard
+possible is from oh yeah making the easy
+things easy and the hard things possible
+there we go inspired by uh the creator
+of one of the most beautiful programming
+languages in the world pearl of course
+and that&amp;#39;s what that&amp;#39;s what cap is for
+me as well okay um so here we go also
+there&amp;#39;s brilliant discussion between
+Nico and fulan I&amp;#39;ll let that continue
+because what I want to show you is in uh
+oh by the way by the way the sap devs
+the latest developer news is out let me
+share that oh yes let me share that URL
+there across
+here Bang there there&amp;#39;s the latest sap
+developer news now let me go across to
+this ridiculously small deliberately
+small
+starter okay it&amp;#39;s got read me which is
+literally just that title so that&amp;#39;s
+useless and then it&amp;#39;s got this directory
+called
+Dev container which is like a well-known
+name and vs code will recognize that
+when it starts up and says oh there&amp;#39;s
+something in here that&amp;#39;s important in
+terms of running within a container okay
+so this will allow us to all read from
+the same page and all do the things
+together so all you need is vs code
+installed I&amp;#39;ve got VSS code started up
+here it&amp;#39;s completely blank slate I&amp;#39;ve
+also got Docker running now one of the
+uh things in here one of the files is
+this Docker file
+this Docker
+file basically will give all of
+us the facilities we need the tools that
+we need that is described effectively on
+this page on this page here so we will
+have no JS which is in fact let me put
+that side by
+side there there we go we&amp;#39;ve
+got there we go that&amp;#39;s better uh uh so
+uh we have um the
+nodejs image from Microsoft Microsoft
+container registry it&amp;#39;s the node uh the
+node 20 uh container image okay and uh
+we also then install some tools it&amp;#39;s
+basically based upon I think a
+Debian a Debian distribution of Linux
+now the other thing is the other
+interesting thing is that um the
+container you will have regardless of
+your underlying operating system whether
+it&amp;#39;s Mac OS or Windows or Chrome OS or
+whatever the operating system that&amp;#39;s
+running in your container or in your Dev
+space in sap business application studio
+is Linux because Linux is everywhere the
+cloud is just made up of Linux machines
+okay so the sooner you embrace the one
+true operating system Unix Linux Etc um
+that&amp;#39;s my personal opinion of course um
+the better so we&amp;#39;re we&amp;#39;re using a Debian
+based operating system you don&amp;#39;t need to
+know this by the way this is just giving
+you the background because what I want
+to do is leave no stone unturned in
+terms of do this do that do the other I
+want you to understand what we&amp;#39;re doing
+by the way um let me know in the
+comments whether this is interesting
+useful whether it&amp;#39;s too much information
+noded enough information um more
+questions more questions more questions
+rhl
+oh is that Red Hat Linux Arif is that
+Red Hat Linux is what you&amp;#39;re talking
+about um yeah cool so we&amp;#39;re going to
+install three tools curl of course you
+know the command line HTTP client which
+is awesome git so we can do some uh
+source code control and SQL light three
+because at some stage not today at some
+stage we&amp;#39;re going to want to use SQL
+light as a persistent store when we&amp;#39;re
+developing our cap service okay by the
+way does anybody anybody know why I&amp;#39;m
+deliberately using the word cap service
+instead of CAP app okay let me know in
+the comments and let me know what you
+think the difference is between a
+service and an app from a from a
+microservice perspective from a cloud
+software or service perspective from a
+cap perspective from a cap directory
+perspective there&amp;#39;s a bit of a hint
+there let me
+know and then once we&amp;#39;ve installed curl
+git and SQL lights through three which
+is the command line tool because then
+with SQL light 3 we can actually look
+inside the SQL light database files and
+say oh there&amp;#39;s a table oh there&amp;#39;s some
+row rows in that
+table then we&amp;#39;re going to set the user
+to nodes because we don&amp;#39;t you know we
+don&amp;#39;t want to run as root in the
+container then we&amp;#39;re going to
+install this thing here okay so for
+those not familiar with what npm is and
+what node is so node is effectively
+JavaScript but it&amp;#39;s JavaScript on the
+server side and it&amp;#39;s a little bit more
+than that in terms of you know it&amp;#39;s a
+it&amp;#39;s a a an asynchronous event based uh
+engine and there&amp;#39;s a package manager
+just like there is for many many other
+languages generally uh so cpan is the
+package manager or the package system
+for Pearl and I can&amp;#39;t think of cargo is
+the package management for rust you know
+all that sort of thing um so npm node
+package manager is the package manager
+for node and the cap engine and tools
+development tools are all
+available as an npm package and they&amp;#39;re
+all prefixed you can see this at sap
+here at sap this is like a nam space
+they&amp;#39;re all prefixed with at sap so
+these are you know you can tell these
+come from sap if we go to if we were to
+go to npm I&amp;#39;ve got a little you know
+Chrome search thing here uh sap fact at
+sap CDs let&amp;#39;s do SAP CDs first of all
+and not CDs DK there we go so we&amp;#39;ve got
+there&amp;#39;s the node package node package
+nice nice little playful thing here each
+time you go there it&amp;#39;s got a little
+different different meaning for mpm
+nitrogen peroxide monoxide what it going
+to say next refresh oh maybe it doesn&amp;#39;t
+change I don&amp;#39;t know who knows um cap so
+uh utash says cap services are
+microservices an app is a service and
+yes exactly I mean an app is a Services
+an app is a Services an app what I in my
+brain when I say service a cap service
+I&amp;#39;m thinking headless I&amp;#39;m thinking a
+service with no front end with no guey
+with
+no uii fiori view react angular whatever
+web front end I&amp;#39;m just thinking of a
+service in terms of for example a no
+data service a headless service that
+then other things can attach to and
+consume okay and with
+cap quite often folks use cap to build
+headless services but also cap has the
+facility to allow you to put together a
+front end and Cat will also serve that
+okay especially when you&amp;#39;re building and
+uh in in this sort of tight Loop
+development cycle locally and we&amp;#39;ll see
+that with the different the three
+different folders this there&amp;#39;s a
+hierarchy the the
+triumvirate of of uh folders of
+directories app serve and DB so we&amp;#39;ll
+come on to that
+okay so here we go we can see sap CDs
+and there&amp;#39;s also sap oh Rising there we
+go hey hey Martin sap CDs and um Sab CDs
+DK okay Sab Cloud application programing
+model I to hit search sap CDs
+DK there we go a direct hit now the
+difference between sap CDs and sap cdsd
+K notice here there&amp;#39;s sap sap Cloud
+application programming model CDs for
+node.js
+think of this package as the package you
+need the runtime package the
+lean fat free cap runtime package okay
+so when you deploy your application to
+the
+cloud your cap service is going to need
+uh Lu yeah do I need to install
+something do yes you need to yeah Docker
+you need to install Docker
+desktop and V s code and that&amp;#39;s it you
+don&amp;#39;t need to install node npm git
+anything else just dock a desktop and vs
+code and that gives us the beauty of
+abstracting everything so you&amp;#39;re not
+messing up your own personal computer
+your laptop whatever with stuff that you
+don&amp;#39;t want otherwise okay so this is the
+the lean fat free
+runtime for when your servic is running
+in the cloud but for when you&amp;#39;re
+developing you want all of that lean
+fat-free run time plus the extra fat and
+the extra goodness and the beauty and
+the
+tools that allow you to develop in the
+most efficient way
+possible can anybody tell so a classic
+for those who have been
+developing with cap already there&amp;#39;s a
+command that you run when you&amp;#39;re sort of
+halfway through development and you sort
+of you know you&amp;#39;re in this sort of flow
+of making modifications and seeing those
+ch changes in your service but you run
+this this this CDs command CDs
+something what is that command that you
+run that command the one I&amp;#39;m thinking of
+the one I&amp;#39;m hoping somebody will say
+that
+command is part of sap CDs DK is part of
+the development kit because it makes no
+sense to have that restarting command
+this sort of development type Loop cycle
+in the cloud when your appap is just
+running headless service
+so there&amp;#39;s the difference the CDs DK is
+a development kit with CDs in it but
+lots of other tools and then sap CDs
+itself is just the sort of the the run
+time version does that make sense I&amp;#39;ve
+got a bit overboard there okay but what
+we need to do because we&amp;#39;re going to be
+developing we want to install the sap
+CDs DK hasita welcome hasita one of the
+uh many lovely people who uh partook and
+was very vocal which is brilliant in the
+uh developer challenge API in fact one
+of the uh uh one of the superheroes
+there fantastic CDs W exactly maybe
+maybe we we need a command so that I
+don&amp;#39;t know the more A&amp;#39;s you have in
+watch you know the more things it looks
+at to check whether things have changed
+to restart I&amp;#39;m quite cool hey hello to
+you in
+bangalo once we&amp;#39;ve installed csdk that&amp;#39;s
+it okay so this sets up a container with
+everything you need with all this stuff
+in it okay and also the beautiful thing
+is you&amp;#39;ve also not only got the
+container definition but you&amp;#39;ve also got
+this sort of thing that tells vs code
+that how to use this container okay so
+Back to Basics sa cap Dev container it
+tells you where the the docker file is
+which is the file we&amp;#39;ve just looked at
+but it also oh got horrible spacing
+there sorry about that um it also tells
+vs code what extensions to install now
+if we go down here install Visual Studio
+code from code.com it will also tell you
+or recommend some extensions so one of
+the reasons for using vs
+code is because there&amp;#39;s a CDS language
+support
+extension that helps you at ton with
+devel in cap services and cap
+applications we&amp;#39;ll be using that and
+looking at that so it&amp;#39;ll gives you it&amp;#39;ll
+give you linting it&amp;#39;ll give you hints
+it&amp;#39;ll give you formatting color coding
+all that sort of stuff okay that&amp;#39;s
+that&amp;#39;s that okay so that&amp;#39;s why that&amp;#39;s um
+recommended es lint is a more General
+sort of you know linter that will lint
+JavaScript okay linting is basically you
+know Finding issues and saying oh by the
+way you should do this and don&amp;#39;t do that
+and that&amp;#39;s wrong and bad practice etc
+etc so ah yeah so Arif Arif is is he
+hammering these uh these in here hoping
+to get one of them that&amp;#39;s fantastic yes
+AR a CDS watch CDs deploy as well I
+think as arguably a development kit tool
+as well uh so yeah so exactly so CDs
+watch is what I was sort of aiming for
+or thinking about because it&amp;#39;s a
+developer it&amp;#39;s something you do as a
+developer you know I want to watch this
+thing I want you know and have the cap
+server restart
+automatically because I want to see my
+the the effect of my changes as I&amp;#39;m
+developing as fast as possible the
+documentation the Capa documentation
+talks a lot about this sort of tight
+development Loop cycle thing uh which is
+brilliant so it also installs uh it also
+recommends es lint uh so AB I think dock
+desktop is something new now as early it
+was not part of ah okay so let me be
+clear Docker and Docker desktop is not
+part of a cap project this is my
+recommendation my personal DJ
+recommendation for you if you want to
+play around with this you don&amp;#39;t have to
+use Docker you can install all the tools
+you can install all the tools as normal
+as in uh where&amp;#39;s where&amp;#39;s the list here
+node.js the npm package CD SDK you got
+you can install git you can install SQL
+lights and so on right and you may also
+want to install other tools that help
+you more generally with development like
+the watch command or I don&amp;#39;t know can&amp;#39;t
+think of anything off the top of my head
+you don&amp;#39;t need dock a desktop for cap at
+all it&amp;#39;s only if you want to tread as
+lightest possible on your own
+machine and also partake of this sort of
+shared experience where we&amp;#39;re all
+working in exactly the same environment
+okay that&amp;#39;s all you could you can you
+can develop a cap without Docker without
+containers at all okay just let me be
+let me be clear AET yeah do that does
+that make
+sense I&amp;#39;m
+just conveying this as the simplest way
+and the the the most light footed way of
+starting so in here we can say in this
+Dev container. Json I would like in my
+container that we connect to from vs
+code this this extension the Cs language
+support the eslint extension if you go
+for example to es lint here why what&amp;#39;s
+what the heck is this name here D Bo
+Boer vs code es lint that is
+because there we go there&amp;#39;s es lint if
+you have a look at the actual technical
+name
+that&amp;#39;s the name of the actual extension
+so if we go to hum rest
+client there if I put that there will
+this work probably will do let&amp;#39;s have a
+look Bang there there that is
+also rest L there that&amp;#39;s the rest client
+and so on and SQL like viewer okay fine
+uh there&amp;#39;s the SQL like viewer and also
+rainbow CSV to color code you know color
+different Columns of CSV when we&amp;#39;re
+looking at
+CSV pathy exactly so pathy ask a
+brilliant question is bass enough
+instead of all these tools uh bass is
+enough in that in fact yeah in that um
+the business application Studio Let&amp;#39;s do
+let&amp;#39;s go let&amp;#39;s go there let me go to my
+trial account uh the business
+application studio is available to all
+folks having a trial
+account okay ABG brilliant no problem at
+all this is exactly what I I love and I
+want you to do this all the time ABJ
+asks a brilliant question
+okay it wasn&amp;#39;t obvious to abjet or to
+maybe other folks as well so ask the
+question fantastic fantastic fantastic
+fantastic okay instances and
+subscriptions I can&amp;#39;t even say it um
+I&amp;#39;ve got a subscription to the business
+application studio in my trial account
+you can get trial account as well for
+free and um you you can get access to
+the business application
+studio so let me go in and answer that
+question from parthy because I think is
+really important so let me to create a
+new depth space so I can say uh cap B2B
+for example full stack Cloud application
+right in fact let me make a full screen
+you can see here that the full stack
+Cloud application Dev space gives us all
+these predefined tools and we can also
+choose some additional extensions if we
+were for example to want to develop uh a
+cap service with an sap hand cloud back
+end we might want to install some sap
+hand tools we won&amp;#39;t do that now we also
+have a code on that by the way we won&amp;#39;t
+do that now we&amp;#39;ll just create a step
+space in fact I should have pressed that
+button before talking anymore because it
+takes a few minutes to do that so why
+let&amp;#39;s remind me uh let me don&amp;#39;t need
+that let me delete that one anyway so
+Pary remind me in a couple of seconds to
+to come back
+here and uh see if the dev space is
+started but meanwhile we&amp;#39;ll go through
+so that finally can anybody tell me and
+again lots of people will know this
+answer but that&amp;#39;s the whole point right
+can anybody tell me what this is all
+about forward ports
+404 I&amp;#39;m going to wait for a second and
+tell me in the chat what that means by
+the way while I&amp;#39;m waiting I&amp;#39;ve got this
+box out one of the very early Amazing
+Friends of hands onb
+Dev excuse me Mr Ronnie
+sletter developed some amazing stickers
+so we have the original handson Hands-On
+ASB Dev stickers for your laptop so in
+fact
+um lots of folks uh have these and we&amp;#39;ve
+also got some new stickers relatively
+new stickers based upon can anybody tell
+me what that computer is based
+upon this amazing PC home computer
+whatever with hands on SB Dev and it
+says 10 learn 20 share 30 grow 40 go to
+10 there&amp;#39;s a history behind that why
+that says that so and also we also have
+lots of these developers developers.
+sep.com stickers so here&amp;#39;s here&amp;#39;s the
+thing oh I&amp;#39;ve also got some batches as
+well look at
+that slh hobble mode in AB up and uh
+what&amp;#39;s this one eat sleep
+code eat sleep code no repeat I don&amp;#39;t
+know why it&amp;#39;s no repeat anyway eat sleep
+code if anybody would like me to send
+them through the
+post some
+stickers we I used to say send me a
+direct message on Twitter I&amp;#39;m not on
+Twitter anymore so instead
+find me on LinkedIn and send me a direct
+message on LinkedIn and then we can chat
+and you can give me a a PO a postal
+address to send the things too I&amp;#39;ll send
+you a few stickers it might take a while
+for me to get to the post office because
+I&amp;#39;m obviously on a boat uh but I&amp;#39;ll send
+them okay doesn&amp;#39;t matter where you are
+in the world I&amp;#39;ll send them uh so let me
+know okay so you&amp;#39;ll find me on LinkedIn
+I&amp;#39;m sure uh so there we go Okay so we&amp;#39;ve
+got some answers here uh K Steeler says
+for the internal container port to the
+external service perfect that&amp;#39;s a
+beautiful
+succinct uh and perfect answer from a
+Docker container perspective so
+obviously when something is listening
+it&amp;#39;s bound to a socket and listening on
+that Port Port 404 in this case inside
+the container you can&amp;#39;t from your actual
+PC my Mac OS machine here for example I
+can&amp;#39;t connect to that socket I can&amp;#39;t go
+there so this is saying expose that Port
+404 to the host machine to my Mac OS
+machine so I can in my web browser
+Chrome go there okay and Arif says by
+affording Port 404 you can access the
+running application in your web browser
+exactly right uh helmet you can find me
+on Master on as well exactly send me a
+private message on masteron if you want
+as well in fact masteron there we go
+that&amp;#39;s that&amp;#39;s uh where&amp;#39;s me how do I go
+to my profile ah there we go there
+there&amp;#39;s my profile I&amp;#39;m Mastered on uh
+there so uh yeah I&amp;#39;ve um that&amp;#39;s DJ by
+the way me um I&amp;#39;ve moved away from
+Twitter and I&amp;#39;m now master I encourage
+you to join masteron and Helmont you can
+tell people more more about your amazing
+server on masteron if people want to
+don&amp;#39;t know where to join and
+everything so there we go uh we don&amp;#39;t
+need that we don&amp;#39;t need that but the key
+thing is the key thing is 404 is a very
+cap specific Port okay it you know it&amp;#39;s
+just a randomly selected Port by you
+know caps bdfl benevolent dictator for
+life it could be any you know any High
+numbered Port but Daniel Cho Daniel hell
+chose
+404 Maybe next week I&amp;#39;ll tell you why he
+chose 4,000 I think some people know I
+think I&amp;#39;ve said this before but it&amp;#39;s a
+very interesting non-technical reason
+why he chose Port 4,000 or4 so for
+example you
+know uh you might have a local web
+server listening up 8,000 doing things
+you know whatever you know that what&amp;#39;s
+the default Port of engin X I can&amp;#39;t
+remember I seem to remember that um Ruby
+on Rails I used to program with Ruby on
+Rails and that default Port was like in
+the three something series 3,000 anyway
+doesn&amp;#39;t really matter but 404 when you
+see 404 that&amp;#39;s sort of caps default
+local Port okay
+so let me get to the place where just
+register I will let you in yes but hel
+oh um I think did you try and put a URL
+in there um I&amp;#39;m not
+sure the UR didn&amp;#39;t didn&amp;#39;t appear so let
+me put the URL in is it uh sapad on.org
+there we go that&amp;#39;s sapad on.org I&amp;#39;ll put
+it in there Bang there um maybe it
+filtered out or something I don&amp;#39;t know
+um so there sat on you can create an
+account there so helmet is very kindly
+running out for us
+so this thing here if we now go here let
+me close that close that oh it&amp;#39;s running
+there we go so go back to pathy you
+didn&amp;#39;t remind me come on Pary pay
+attention just one more moment your
+velopment is starting to open about to
+open so what I can do what we can all do
+here let me just do that here as well
+what we can all do is go to cat B2B
+again try not to use G git because we
+don&amp;#39;t I don&amp;#39;t want to require to install
+git we can say download zip okay and you
+can download the zip file which should
+download these
+files download zip I&amp;#39;ve already
+downloaded it
+there and then I&amp;#39;ve also there it is
+there
+um Let me let me clean that out okay so
+now I can say unzip let&amp;#39;s have what&amp;#39;s in
+it first of all C you don&amp;#39;t need to use
+a command line tool to do this you can
+do it with a you know a normal you know
+gooey zip thing if you really want to
+but all it&amp;#39;s got is exactly the content
+of what&amp;#39;s in that git repo so I&amp;#39;m going
+to say unzip uh that and it&amp;#39;s going to
+unzip it into a directory called CAP btb
+dmain so if we have a look now CD cap
+btb D main what we&amp;#39;ve got in there is
+the read me but if we look at all of it
+in fact Let me show let me show you in a
+a normal thing because this is a Back to
+Basics there we go scratch cat B2B main
+we go in there and then I don&amp;#39;t know why
+I can&amp;#39;t set this as a setting can I set
+this as a setting um there we can show
+the hidden files the ones beginning with
+Dot and we&amp;#39;ve got those two files that
+we looked at there then once you&amp;#39;ve
+downloaded this ZIP file okay so you can
+go to um where is it again uh go to not
+there go to
+there which is Cap
+B2B uh where there cap B2B fatty hello
+to you in Istanbul hello hello hello go
+there and download it unpack it and
+then start up vs code so in fact I&amp;#39;m
+going to close vs code start up vs code
+okay now one of the things you will need
+in vs code
+is the dev containers
+extension let me um go there Dev
+containers
+there install the dev containers
+extension so
+that okay so that you have access
+to this thing down here right it goes
+like that if I click
+that we have all these different
+facilities to open remote resources but
+all I&amp;#39;m going to do for
+now is do the simplest thing that could
+possibly work let&amp;#39;s get rid of this
+extensions thing and say open folder
+okay I use the word directory all the
+time
+vs code uses folder I think a lot of sap
+literature uses folder as well as some
+maybe a I don&amp;#39;t know a more windows I
+thing I don&amp;#39;t know so directory folder
+same thing okay open folder now I&amp;#39;m
+going to
+open that folder okay that directory cap
+bb-
+main now what does it say it says here
+the folder can oh the folder contains a
+Dev container configuration file reopen
+folder to develop in a container
+reopening container okay so what&amp;#39;s
+happened is vs code has opened that
+directory it&amp;#39;s seen the readme file but
+it&amp;#39;s also seen this wellknown don&amp;#39;t need
+that one this
+well-known directory name called doev
+container okay it&amp;#39;s actually it&amp;#39;s
+actually now an open standard by the way
+Dev sorry
+containers containers dodev containers
+dodev amazing a there&amp;#39;s so much stuff to
+learn here um and what that&amp;#39;s done is
+it&amp;#39;s Rec recognized oh there&amp;#39;s AEV
+container directory here let me look in
+there and let me offer the user DJ the
+ability to restart or reopen that
+directory so that you&amp;#39;re working inside
+a container with that directory attached
+okay so now because in the container
+definition we look in Dev container
+here I&amp;#39;ve got it to install curl git and
+SQL light three let&amp;#39;s just try to
+see
+curl there it is
+get there it is SQL light three there it
+is so we&amp;#39;ve now got all the tools inside
+the container now I don&amp;#39;t know whether I
+I don&amp;#39;t know whether I&amp;#39;ve
+got uh curl I&amp;#39;ve got Cur I&amp;#39;ve got curl
+obviously I install curl everywhere git
+I&amp;#39;ve got git here as well but you might
+not have SQL light three I&amp;#39;ve got SQL
+light three there as well okay fine but
+that&amp;#39;s me you may not have any of those
+things on your actual local machine
+that&amp;#39;s the whole point of doing this in
+a container so you don&amp;#39;t need to install
+it on your local
+machine what else have we got though
+what else have we
+got the most exciting
+thing we&amp;#39;ve got the result of this thing
+here we&amp;#39;ve actually we&amp;#39;ve even got node
+let me go here right we&amp;#39;ve got node good
+morning Javier and welcome old friend
+from the live stream fantastic good
+morning good morning good morning so
+we&amp;#39;ve also got n node there we go we&amp;#39;ve
+got node 20 just as
+our definition our Docker file
+definition
+specified okay there&amp;#39;s that variant sort
+of you know
+substituted not only that mpm list
+Global so I&amp;#39;ve said show me the packages
+that are
+installed
+globally and look we&amp;#39;ve got CD SDK PN PM
+I have no idea what that is maybe it&amp;#39;s
+maybe it was installed because CD SDK
+needed them I don&amp;#39;t
+know but the key thing is we&amp;#39;ve got CDs
+DK installed so we&amp;#39;ve got everything we
+need now oh volume volume up please oh
+right okay volume up I&amp;#39;ll move this
+microphone here is anybody else maybe
+maybe try your volume uh bis M as well
+but people let me know if the volume is
+no good people let me know if the the
+the resolution is no good the old uh the
+old friends of the channel will know
+that I want you to tell me if anything
+wrong if I can do anything better so I&amp;#39;m
+going to move a bit closer to the
+microphone let me know if that&amp;#39;s better
+BM but also try and turn your volume up
+too uh and see if that
+helps oh my cof&amp;#39;s gone cold a drat
+anyway so we got everything
+now the moment of
+truth pnpm is a monor rep thing for npm
+thank you Nico see any Nico would know
+uh volume is good thanks AP volume is
+good loud and clear Daniel oh my
+goodness
+ah so no pressure
+but this this is always this always
+happens right so Daniel is one of the
+many superheroes in the cap team it&amp;#39;s
+like oh my God better not say anything
+wrong I don&amp;#39;t know what I&amp;#39;m do I don&amp;#39;t
+know what I&amp;#39;m doing but the thing that&amp;#39;s
+that&amp;#39;s better for us right if I don&amp;#39;t
+know what I&amp;#39;m doing we can find out
+together
+so the drum roll somebody give me a drum
+roll I&amp;#39;m not sure how you give me a drum
+roll in the chat but the drum
+roll thing is that in this
+container ah yeah let let me do this
+right here is my Mac OS machine right if
+I say CDs command not found CDs CDs is
+basically the command line tool that you
+will use for developing your cap service
+your cap app does everything it&amp;#39;s
+amazing right we&amp;#39;re going to be
+discovering all the things about cap
+through the magic of the CDs command
+line tool okay you&amp;#39;ll see it actually
+here uh there we no uh if we go back to
+um there go to get started we&amp;#39;re going
+to be hopefully before I stop ra when I
+stop rambling right we&amp;#39;re going to do
+CDs init Bookshop okay 10 minutes right
+got 10
+minutes I haven&amp;#39;t got CDs on my local
+Mac machine but I have got CDs yes da
+on in vs C because I&amp;#39;m inside my
+container oh thank you P padara padara
+sorry padara thank you padara excellent
+drum roll there so we now have the power
+of cap and our
+fingertips so we can now start also let
+me know in the chat if you&amp;#39;re if you
+already have done or you&amp;#39;re planning
+either now or between now and next
+Friday when we&amp;#39;re going to carry on with
+this this okay this is going to be a
+multi episode series and that&amp;#39;s why I&amp;#39;m
+deliberately allowing myself to sort of
+ramble a little bit and make sure we
+cover all the ground as we&amp;#39;re moving
+very
+slowly because you know we this is like
+almost not quite but an
+open-ended series of episodes okay this
+is for you and me to find out together
+all about the basics of cap right
+fantastic thank you AP as well
+so let&amp;#39;s go to here so if we go to
+capier again cap get started we don&amp;#39;t
+need to go through jump start
+development because that&amp;#39;s all about
+setting up the tools which you&amp;#39;ve done
+already and this also then also tells
+you about jump starting in fact let&amp;#39;s do
+this let&amp;#39;s do this because we want to
+explore this this documentation page CDs
+init
+Bookshop
+now let me make that one smaller maybe
+and let me move I know my head&amp;#39;s over
+there but that&amp;#39;s that&amp;#39;s proba fine isn&amp;#39;t
+it oh by the
+way ready I&amp;#39;m going to move my head to
+the bottom bottom
+top you oh by the way uh again everybody
+give Nico a round of applause in the
+chat for these
+awesome um scenes so I can for example
+you know go to secret I know I&amp;#39;m not
+going to type anything secret here I can
+go for a
+coffee I&amp;#39;m back I&amp;#39;m back amazing amazing
+so thank you Nico for all that it&amp;#39;s
+fantastic so CD c s init Bookshop but
+before we do that let&amp;#39;s say CDs init
+d-el okay help is your friend d-el and
+this gives
+us uh there we go let&amp;#39;s move that across
+here it&amp;#39;s a bit too small isn&amp;#39;t it let&amp;#39;s
+go back and make it a bit bigger and
+just scroll scroll up and
+down so what are we doing when with CDs
+in it okay because CDs the CDs command
+line tool does a lot of
+things it for example will do a onetime
+activity like initialize a project which
+we&amp;#39;re doing here but it will also when
+we give it the right command sub command
+let&amp;#39;s call it it will also start up and
+run an actual cap server okay I&amp;#39;m using
+the word server instead of service here
+oh I thought you giving yourself clap
+but that&amp;#39;s a thank you isn&amp;#39;t it yeah
+nice one Nico
+um so here what we&amp;#39;re saying is CDS init
+Bookshop initializes a new project in
+the folder project okay so it&amp;#39;ll take
+CDs in it Bookshop and it&amp;#39;ll create a
+new folder I&amp;#39;m going to use I don&amp;#39;t like
+using the word folder but I&amp;#39;ll use the
+word folder because you know get with
+the program DJ um in the in the folder
+called whatever you say with the current
+working directory as default if we don&amp;#39;t
+do anything else that&amp;#39;s what it&amp;#39;s going
+to do we&amp;#39;re going to play around with
+these add features in a minute okay but
+we can go from zero to superhero oh
+L thank you for asking that question so
+Lu is saying I&amp;#39;m a little bit confused
+sorry you are running vs code inside of
+dock desktop no what I&amp;#39;m doing but
+that&amp;#39;s a that&amp;#39;s that&amp;#39;s
+easily what something somebody might
+think I&amp;#39;m running vs code on my Mac
+machine if I scroll through the you know
+apps on my Mac OS I&amp;#39;m running VSS code
+I&amp;#39;m running a terminal I&amp;#39;m running
+Chrome I&amp;#39;m running stream lasts desktop
+for this live stream I&amp;#39;m running slack
+because of because slack um so I&amp;#39;m
+running running vs code natively on my
+Mac OS computer here there right but the
+vs code itself is connected to a
+container image okay if I go to here you
+can see there&amp;#39;s a container called keen
+banak and it&amp;#39;s got this vs vs code so
+it&amp;#39;s basically I&amp;#39;ll show you here it&amp;#39;s
+easier
+Docker uh container LS oops Docker
+container l s there so that&amp;#39;s this thing
+here by the way this sort of nice
+display of containers images volumes and
+networks and everything that is called
+lazy Docker so that is that that one let
+me make it smaller so we can get it on
+one line that&amp;#39;s lazy team lazy Docker
+the other container that&amp;#39;s running is
+the container that vs code started up
+when it
+saw the dodev container directory in the
+folder in the directory opened and what
+vs code did is create a new container
+that&amp;#39;s the container it
+created
+there based upon which image the image
+that was described in the dev container
+Jason so that&amp;#39;s the contain that this is
+the the docker file itself but the dev
+container Jason says create a container
+based on the information in that Docker
+file okay does that make sense
+perfect yeah I was I was I&amp;#39;ve got to say
+I was wondering about whether this would
+be a little bit of a bumpy start but
+once we once we started in containers
+then everything we can do we don&amp;#39;t you
+know we don&amp;#39;t have any vagaries or
+weirdness oh I can&amp;#39;t install this on my
+machine or oh this is not working I got
+the wrong version of node or whatever we
+all have the same version of node we all
+have the same version of mpm we all have
+the same version of cap blah blah blah
+blah all the same experience right and
+it&amp;#39;s exactly the same oh yes here we go
+uh where&amp;#39;s the where&amp;#39;s the um oh it&amp;#39;s
+here isn&amp;#39;t it um there get started so
+parthy was it pathy ask about this so
+I&amp;#39;ve got a Dev space if I open up a
+terminal um there we go user CDs there
+we go we&amp;#39;ve also got CDs that it&amp;#39;s Cap&amp;#39;s
+everywhere cap is everywhere so we&amp;#39;ve
+got CDs there as well so if you want you
+can do it in a Dev space on sap business
+application you we&amp;#39;ve also got you know
+because Dev because the dev spaces are
+pretty cool you&amp;#39;ve got git already
+you&amp;#39;ve got Cur so you&amp;#39;ve got also you
+got all the tools there as well have we
+got SQL light three yes you got SQL
+light three as well so you could you
+could do it like this instead in fact
+before we uh before we close off that
+idea if we go to here you could
+also in GitHub open up a code space in
+fact I just opened up a code space based
+upon this repo redesigned potato what a
+brilliant name so let&amp;#39;s just let that
+run as well so you could do it in a
+GitHub code space as well it&amp;#39;s all the
+same right it&amp;#39;s a container so that is
+no worries it got I&amp;#39;ll just close it
+that is a container
+where is it h this is a container look
+it&amp;#39;s a code space and it looks like it
+looks like a de space
+in business application you do because
+that&amp;#39;s exactly the same thing right it&amp;#39;s
+okay so there we go so this is in on
+GitHub so once we get terminal once it
+starts up opening remote and everything
+you know it&amp;#39;s all the same thing it&amp;#39;s
+all in a container right so uh there we
+go so we can do that so if we let&amp;#39;s do
+that right so let&amp;#39;s close open screen uh
+open close clear the screen so CDs init
+Bookshop let&amp;#39;s do that and see what
+happens right so one of the things I
+want to do is read through all of the uh
+log lines the output so we understand
+everything adding feature no J so if we
+CDs in it
+help there add one or more features
+while creating the project okay and by
+default it will create because you know
+because we&amp;#39;re sort of running in a no
+context I guess but anyway it will it
+will will
+create or add this feature no. JS okay
+so if you wanted to create a javab base
+project you&amp;#39;d say CDs in its um Bookshop
+do-- add Java okay and there&amp;#39;s all sorts
+of features here which we&amp;#39;ll look into
+over the course of the next few episodes
+it&amp;#39;s amazing it&amp;#39;s amazing right so so
+what&amp;#39;s that done okay it has
+created a directory called Bookshop in
+there it&amp;#39;s created the trium of
+directories app serve and DB I had a
+conversation with um I think it was
+Daniel actually it&amp;#39;s like it&amp;#39;s so
+unfortunate that the names of these mean
+that they&amp;#39;re not in the order my brain
+thinks of them thinks of them
+right
+so the final thing the final thing and
+we&amp;#39;ll look at these directories next
+week but if I say CDs watch which is a
+CDS DK subcommand okay what happens
+right CDs watch startup but there&amp;#39;s
+nothing there right there&amp;#39;s nothing for
+it to serve right no models found and
+we&amp;#39;ll look at the details of what this
+means and what we can do in fact let&amp;#39;s
+do one final thing split terminal let&amp;#39;s
+open up another terminal so we&amp;#39;re still
+watching here if we say CDs add
+d-el we can see that we can add things
+to our current project so if we say CDs
+ad uh sorry CDs add tiny sample this is
+all you need to have a a little bit of a
+taste
+Right add that oh sorry wait a minute
+Bookshop CD Bookshop get in the right
+directory DJ CDs add tiny
+sample
+uh what what what what what map DB data
+CDs model oh ah see I&amp;#39;m in the wrong
+direction here as well ah that was a bit
+of a annoying thing Bookshop there so
+let me in fact Let me let me let me say
+do this
+rmrf uh Las thing DB Star serve star
+right now we&amp;#39;ll start CDs
+watch we got no models and I&amp;#39;m in the
+right direction this time DJ idiot now I
+can say CDs add tiny sample check it out
+what happens here so let&amp;#39;s do that move
+that down
+there all this beauty all this Beauty
+look at that all of a sudden it finds
+stuff that the CDs at tiny sample has
+done it&amp;#39;s given us a little bit of a
+data model books it&amp;#39;s even give us some
+data my Bookshop books in Heights and
+Jane air it&amp;#39;s even given given us a
+service definition we&amp;#39;ll look into what
+this means and it also means that we can
+now go to Local Host 404 and we have
+without lifting a finger hardly a fully
+functioning V4 o data service there&amp;#39;s
+the metadata oh my goodness me so let&amp;#39;s
+stop
+here uh amazing amazing comment from K
+steer you can use a c tool to
+automatically add app rout oh my
+goodness me oh yes you can CDs add help
+there we we go check it all out look at
+all these things you can add here oh
+amazing amazing amazing so next week got
+to dig into what just happened okay so
+between now and then between now and
+then get yourself set up either in
+business application studio in a Dev
+space or clone this repo and set up a um
+where is it gone I don&amp;#39;t know ah set up
+a thing oh there we go so this is on
+GitHub look CDs bang done you can do it
+there as well or do it locally in vs
+code and uh desktop or podman desktop
+whatever see you next week same time
+same place Friday thanks for joining and
+see you
+soon

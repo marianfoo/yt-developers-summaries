@@ -1,0 +1,1353 @@
+e
+e
+[Music]
+[Applause]
+[Music]
+[Music]
+[Applause]
+[Music]
+n
+[Music]
+good morning good afternoon good evening
+welcome to handson SA P Dev with me DJ
+cacro welcome one and all greetings
+earthlings and all that so I can see
+already in the chat thank you for saying
+good morning and welcome and everything
+Antonio good morning to you and Javier
+good morning visas in Thailand good
+morning to you especially in Thailand
+and helmet good morning to you in BR
+Brunswick Germany Amar hello there
+welcome welcome all the board so um yeah
+I&amp;#39;ve got another hopefully interesting
+fun packed maybe maybe not as chaotic as
+last week although I quite enjoyed it I
+don&amp;#39;t know whether you enjoyed it last
+week the slight sort of
+um you know brain explosion brain
+explosing brain expanding brain
+exploding things that we learned when we
+dug into the wonderful world of cap so
+good morning to toan and B Bono to Kiara
+in BJ good morning to all good day to
+all good day to you as well sish and AJ
+good afternoon to you over in
+India I&amp;#39;ve already look I&amp;#39;ve already
+finished my coffee um anyway I&amp;#39;ll tell
+you about in a minute so Stefano Bono
+Matias good morning to to you in mesca
+in Germany Hugo uh gind to you um Hugo
+thank you for that I love all these
+different languages it&amp;#39;s fantastic Pia
+good morning to you in Munich Ashok good
+morning uh from uh to you in Belgium so
+welcome Yes actually it&amp;#39;s quite warm
+I&amp;#39;ve I&amp;#39;ll L the fire this morning I went
+out for a quick run this morning um but
+it&amp;#39;s got um and and it&amp;#39;s sort of that
+that time of the year now where it&amp;#39;s not
+quite on I&amp;#39;m on the narrow boo it&amp;#39;s not
+quite warm enough generally to not have
+any heating on so I lit the fire this
+morning when I got back from the run and
+I&amp;#39;ve now so but it&amp;#39;s quite warm so I
+might even have to open the duck hatch
+behind me to cool down to keep it cool
+anyway so good morning to you Tong in
+also in Munich and and Ahmed in uh
+turkey good morning fantastic fantastic
+so thank you all so much for joining so
+we&amp;#39;re going to continue where we left
+off last week and by the way next week I
+am in Germany in frankal I think that&amp;#39;s
+just slightly west of
+Frankfurt um and I&amp;#39;m there most of the
+week at a DS AG uh the Dodge parer uh
+SRP and vendor Cora uh doing two Cod
+jams so there&amp;#39;s going to be I&amp;#39;m going to
+be flying back then on Friday morning so
+no live stream next week I think we we
+resume then the week after next so just
+just let let you know so caraston good
+morning uh from to you in stutgart oh my
+goodness me those are um I don&amp;#39;t know
+whether you&amp;#39;ve typed those in sort of
+manually but I can see open curly
+brackets lowercase I close curly
+brackets at the start of that and then
+open curly brackets Escape YY 100p so
+maybe there&amp;#39;s a control codes that I
+might see if I flip to let me flip to um
+uh no they they still look like that in
+the chat as well so I have no idea
+what&amp;#39;s going on anyway welcome everybody
+let me flip to um the main scene just a
+reminder did I put this in the chat I
+can&amp;#39;t even remember you know it&amp;#39;s like
+two minutes ago code connect week uh no
+that&amp;#39;s right here we go so let me let me
+add that URL in the chat as well um so
+basically I&amp;#39;ve just pushed a couple of
+updates to bring this repo basically our
+working repo as we sort of explore
+basics of cap um so it&amp;#39;s up to date as
+of you know yesterday so at the end of
+episode 7 um I had some bits and pieces
+in there in services for example what
+was that end of episode seven what was
+the services difference um oh that&amp;#39;s
+right yeah we added that service banana
+because I think um somebody asked a
+great question right at the end and I
+was trying to explain about services and
+projections oh that&amp;#39;s right it was to do
+with views wasn&amp;#39;t it so anyway if you
+want the most upto-date version of what
+we all have here in my vs code it&amp;#39;s
+there in the um in the uh cap B2B uh
+repo which you can clonee now just a
+couple of things to point out I&amp;#39;ll put
+the links in the chat
+already and of course um the links will
+be in the show notes show notes that&amp;#39;s
+quite cool phras isn&amp;#39;t it show notes in
+the show notes um you know with the
+recording I&amp;#39;ll show you where those are
+actually if I forget to show you where
+those are somebody please on the chat
+remind me to show to point out where the
+show notes are AJ that&amp;#39;s your task AJ
+so um it&amp;#39;s March and we have a new
+developer challenge that is running at
+the moment uh it&amp;#39;s being run by our
+lovely lovely friend and colleague
+Antonio uh it&amp;#39;s Cloud events all about
+Cloud events and we&amp;#39;re already in week
+two so check out this I&amp;#39;ve put the link
+in the chat already so we&amp;#39;re in week two
+two of the what&amp;#39;s wrong with my teeth I
+can&amp;#39;t even speak maybe I&amp;#39;ve had to see
+so
+normally um I have a nice sort of
+relaxing coffee when I get I&amp;#39;m an early
+riser so I get up about 5: nice relaxing
+coffee first of all like a milk-based
+coffee uh and then I have uh I brew a an
+arrow press type coffee to have here but
+I&amp;#39;ve I&amp;#39;ve only had one but I feel as
+though I&amp;#39;ve had about 10 coffees I don&amp;#39;t
+know what what&amp;#39;s going on I don&amp;#39;t know
+so that&amp;#39;s why my words are coming out
+wrong so there&amp;#39;s the um developer
+challenge this week&amp;#39;s sap developer news
+there&amp;#39;s Shila fantastic hello Shila um
+so check out that the link is in the uh
+chat as well and maybe most Timely
+and there&amp;#39;s there&amp;#39;s an item on this in
+the news as well this week but code
+connect the the number one developer
+event this summer for sap developers
+code connect um it&amp;#39;s the first week in
+June but the most important part is that
+registration opens for these three
+consecutive one day conferences recap UI
+5on and abcon 202020 2024
+Europe registration for those three
+conferences opens next week March 21st
+is a Thursday Thursday next week at 4 pm
+C so check it out so there we go and
+that&amp;#39;s that
+now a bit of a da da moment we&amp;#39;re going
+to start off with because we had a
+discussion last week didn&amp;#39;t we on um
+reuse types common reuse types cap where
+are we uh no cap um cap docs uh let me
+just search in there um reuse
+types reuse type there we go reuse types
+so we looked at um type country okay
+reuse types and somebody very correctly
+said why don&amp;#39;t we have any data wouldn&amp;#39;t
+it be nice if we had some data and I had
+a complete brain fail one of many um
+where I I was say oh yeah maybe we could
+have a sort of CDs Plugin or some
+nonsense like that and blah blah blah
+blah blah there is
+already I realized I thought about it
+after the live stream it&amp;#39;s always the
+case after the live stream finishes you
+know your brain sort of calms down and
+then you think oh of course that&amp;#39;s the
+answer so to the question is there any
+possibility of having some data for
+these common reuse types common reuse
+types being country currency language
+and time
+zone the answer is yes and the answer
+lies in a package called oh there we go
+uh CDs common
+content amazing who knew well I
+certainly didn&amp;#39;t not on the old um
+what&amp;#39;s happened to that
+um why is the read me uh not working
+there should be more in that read me
+basically I don&amp;#39;t know what&amp;#39;s going on
+here let me refresh that oh there we go
+fine um brows a problem uh so there is
+common content gives you all the data
+for countries currencies language and
+time zones so what I did um as a as a as
+a punishment to myself and maybe a
+punishment to you because it to that be
+quite a Long blog post so
+sorry is I blogged about it um I blogged
+about I normally blog uh first of all on
+my own blog as in I publish a post on my
+own blog here ISO content for com and I
+prefer to read it here because I have
+better uh you know I can do better sort
+of um monospace formatting in the um in
+the paragraphs here um so there it is so
+there this this blog post takes you
+through and we&amp;#39;re going to go through it
+today as well takes you through how to
+get common reuse type data ISO data into
+your app okay into sorry into your
+service so check this out and if you&amp;#39;re
+over if I&amp;#39;ve also put the link to this
+one let me put the link there as well
+again um if you&amp;#39;re over on this one give
+it a Kudos give it a Kudos you know
+award points if helpful blah blah blah
+all that sort of stuff give it a quick
+Kudos anyway so I just noticed here
+something from Amar one question in cap
+binded exess UA service can we access
+all btp roles assigned are only specific
+to cap application created roles that&amp;#39;s
+a really good question I don&amp;#39;t know the
+answer to
+that let me find out unless anybody else
+on the chat knows the answer that&amp;#39;s a
+really good question so basically Amar
+is asking whether when we&amp;#39;ve
+got cap service bound to an instance of
+the exsu service can we access all the
+btp roles or only the ones specific to
+the cap application I think you should
+have access to all the rules um but
+I don&amp;#39;t know that&amp;#39;s a really good
+question Amar if nobody else can answer
+on the chat leave that with me and AJ
+and uh I don&amp;#39;t know who else from our
+team is on the uh on the chat right now
+on the live stream but me and AJ will
+have a talk about that next week or
+maybe the week after because I&amp;#39;m I&amp;#39;m not
+around next week great question Amma
+thank you for asking that and keep all
+the questions coming like I always say I
+might not be able to answer the
+questions straight away but there we go
+right so we&amp;#39;re going to look at the iso
+content but first of all as we&amp;#39;re going
+to look at the iso content later in this
+episode but first of all we don&amp;#39;t need
+that um we don&amp;#39;t need that we don&amp;#39;t need
+that first of all let me sort of wind
+back to where we left off last week and
+it was here so we&amp;#39;ve
+got a Services file so we&amp;#39;re still
+deliberately sort of doing the
+nonconventional
+thing and not
+using um not dividing our stuff into the
+DB
+serve and app but you know apps to do
+with front end to the between the DB and
+serve between the persistance layer
+directory DB and the service layer
+directory serve we&amp;#39;re not doing that
+right now but I want to talk about that
+a little bit later as well so at the
+moment we&amp;#39;ve got this content our entire
+service is defined including the
+entities that that service exposes in
+this one file okay we also have this
+banana
+service um which I used just as an
+illustration right at the end of last
+episode um to demonstrate what you know
+a second service looked like in terms of
+the metadata but also in terms of the
+view that would be generated right at
+the persistence L the
+ddl but then right at the end you know I
+started it up here we go let me just uh
+uh uh clear let me run CDs watch and
+what happened if you remember when I
+started it up got my water here that cop
+made me really
+thirsty I started it up and I said oh
+yeah there we go oh there&amp;#39;s the two
+Services we&amp;#39;ve got the Bookshop service
+and the banana service we can see here
+serving Bookshop serving banana over
+here over here books as normal yeah fine
+thank you very much authors as normal
+yeah fine thank you very much and we&amp;#39;ve
+got that country of birth unor code we
+look a little bit more as to um what
+that what that property is shortly and
+also there&amp;#39;s a reference to that and an
+explanation of that in that blog post
+I&amp;#39;ve just posted to you as
+well fine but
+then I clicked on this didn&amp;#39;t I I
+selected this and it said
+bang error 500 so basically a server
+side error not anything that I&amp;#39;ve done
+in the request but something that um
+you&amp;#39;re welcome Amma you&amp;#39;re welcome thank
+you keep these questions coming if I
+can&amp;#39;t answer them I&amp;#39;ll hopefully go and
+find out and get back to you um and also
+we can all answer them together if we
+can&amp;#39;t right on the chat so I&amp;#39;m trying to
+access right now the entity set that
+sort of corresponds with this entity
+definition something which is just a
+prediction on books right so can anybody
+tell
+me why that was the case I think I did
+mention it last week but why do you
+think this doesn&amp;#39;t work let&amp;#39;s just read
+the error message why you while I give
+you a chance to for this 20 second delay
+catch up in the chat type thing so you
+can put something in the chat but let&amp;#39;s
+just read the error message no such
+table there&amp;#39;s a bit of a clue right
+banana uncore something in and then
+select Jason insert blah blah blah blah
+right so it&amp;#39;s doing something this
+select Jason insert from blah blah blah
+blah blah from Select something. Title
+from banana do something banor something
+now we
+know or we can guess at least that
+banana uncore something clearly is
+related ated to the something here
+inside of banana and remember as well
+you know we have this sort of name space
+entity name sort
+of con conjoined sort of uh two two
+strings with an underscore or sometimes
+with a DOT for example in our data
+directory Bookshop authors Bookshop do
+books you can see the the dash or the
+dot it doesn&amp;#39;t really
+matter so we can see that it&amp;#39;s looking
+for an
+artifact in the persistency
+layer called banana something and if we
+were to um oh oh oh I can see I can see
+um some somebody&amp;#39;s put something I&amp;#39;ll
+look at what&amp;#39;s in the chat in a minute
+because I think that might be um an
+answer to my question so we can see if
+we say SQL
+light SQL light three and then look at
+the um Bookshop books there we can see
+tables right if we have a look at that
+we can see that that&amp;#39;s where this
+underscore is used to sort of
+join the the the context name the name
+space right and the entity name now for
+example why is this Bookshop uncore
+authors
+because the author&amp;#39;s entity that&amp;#39;s what
+that thing is there is inside of this
+sort of well it&amp;#39;s not a name space
+explicitly it&amp;#39;s not context explicitly
+but it&amp;#39;s still you know the service
+within which it is defined still sort of
+in this particular case acts as like a
+namespace or a context so we get
+Bookshop uncore authors there right so P
+bean bean hello and welcome says CDs
+persistence skip now that&amp;#39;s a great
+guess it&amp;#39;s not quite what I was looking
+for but it&amp;#39;s a great guess because we&amp;#39;ve
+seen this annotation Haven we in the
+previous episode CDs persistance Skip
+and we&amp;#39;re going to be looking at CDs
+persistance skip um later on
+let me know in the chat if you&amp;#39;ve read
+through or attended I can see Matias
+there you&amp;#39;ve attended this Matias uh the
+one of our code jams on service
+integration with cap and we look at CDs
+persistence when you
+import a definition of an API let&amp;#39;s say
+an S4 Hanah Cloud API like you know API
+business partner for example and you
+import that with CDs import it will it
+will build the season the sort of
+internal representation like a CDs of uh
+internal representation for the API so
+that you can start using and referring
+to elements in that you know artifacts
+in that uh imported API definition from
+the S4 Hana system in your CDs right but
+the the the things that you refer to
+that the imported entities are all
+defined in the season with CDs
+persistence skip because you in your
+service don&amp;#39;t want to be storing that
+data that data is somewhere else in S4
+Hana right so that&amp;#39;s that&amp;#39;s a common use
+of the CDs persistent skip annotation
+it&amp;#39;s it&amp;#39;s a good guess but it&amp;#39;s not
+quite the answer I was thinking of does
+anybody else know
+um also also also also we added this
+country of birth didn&amp;#39;t we and we also
+added these two stupid records for the
+country&amp;#39;s entity set right remember last
+week we said CDs add data and it
+generated for us these CSV files in DB
+data can we know why it&amp;#39;s DB
+data with the appropriate sort of header
+feel so we don&amp;#39;t have to work out what
+they are and then I typed in record this
+record and this record
+right but if we go back here when we
+look at
+countries oh I&amp;#39;m not running um there we
+go I&amp;#39;m not running CDs watch when we
+when I look try and look at
+countries when this starts up let me
+move that up a
+bit
+let&amp;#39;s just refresh that and countries
+it&amp;#39;s still empty where is it where&amp;#39;s
+that
+data hey Manu welcome and glad you have
+joined our session um it&amp;#39;s not just my
+session it&amp;#39;s our session right this this
+this hands- on Sab Dev back to basic
+series belongs to us and this is why the
+chat is so important this is why you&amp;#39;re
+so important right so Kiara says CDs
+deploy
+maybe very nicely put very subtly put as
+well I like I like the maybe yes and
+that&amp;#39;s exactly good morning Kevin Kevin
+in the house so kiar is spot on what we
+haven&amp;#39;t done is a CDS
+deploy now let&amp;#39;s have a look let me move
+that right up to top a minute to top um
+clear CDs
+deploy what is wrong my even my fingers
+are affected by the coffee CDs deoy
+d-el let&amp;#39;s just see what it says right
+de loys the given model to and I will
+also encourage you when you&amp;#39;re about to
+run a command or think you need to run a
+command just take a a couple of minutes
+to just do a dash dash help and have a
+look what that command is doing so you
+maybe better understand it maybe you
+understand it already but maybe you&amp;#39;ll
+spot something in the options that
+you&amp;#39;ve never seen before oh I remember
+that for the next time Kiara you yes I
+know I know you attended the codejam in
+Milan I think that was where I was
+wasn&amp;#39;t it
+yes so you&amp;#39;ll know CDs pist skip as well
+from that same code Jam excellent um
+uh yes so deploys the given model to
+database
+so let&amp;#39;s run see well
+actually before we run CDs
+deploy let&amp;#39;s go into um SQL light
+again and if we do a
+tables not tables sorry uh oh Dot
+tables we can see Bookshop authors books
+countries bookshops countries countries
+bookshops countries bookshops countries
+bookshops but we don&amp;#39;t see
+any thing relating
+to our banana service so we don&amp;#39;t see
+this banana uncore
+something that is in the error and
+that&amp;#39;s because as Kiara
+exactly what it impressia of course it
+was ah yes sorry yes it was in breia but
+I I had to fly to Milan and I stayed in
+a hotel in Milan that&amp;#39;s why I was
+thinking as I got a train from Milan to
+breia has anybody put in the chat if
+you&amp;#39;ve been to Milan and been to the the
+train station is the most magnificent
+building I&amp;#39;ve ever seen it&amp;#39;s it&amp;#39;s
+Monumental it&amp;#39;s absolutely amazing yes
+of course so I I stayed in in Milan and
+I got the train to press here in the
+morning and back again yes sorry sorry
+of course it was
+breia anyway so um we don&amp;#39;t see this
+banana uncore something and that&amp;#39;s
+because we haven&amp;#39;t done CDs deploy but
+why do we need CDs
+deploy we haven&amp;#39;t needed to do a CDS
+deploy over the past previous six or
+seven episodes have we when we&amp;#39;ve added
+things to our CDs or added some
+data why do we need to do a CDS deploy
+now have a think about that and tell me
+in the
+chat
+oh that&amp;#39;s good that water is good I
+don&amp;#39;t why am I so
+thirsty I don&amp;#39;t
+know I give you a clue let&amp;#39;s have a look
+in package
+Jason remember a couple of episodes ago
+we added explicitly in the package Json
+Jason some configuration for our
+persistence Slayer now
+remember by the way I can feel myself
+going down another
+digression you know we&amp;#39;ve been working
+towards doing the associating books and
+authors for so long now and I feel
+really bad that we&amp;#39; still not got there
+we&amp;#39;re almost there we can almost touch
+it we can almost smell that association
+between books and authors coming down
+the line put in the chat whether you
+you&amp;#39;re okay with
+us you know getting there eventually we
+might get there today we might get there
+today right we&amp;#39;ve already seen an
+association where do we see that
+Association we saw that Association in
+the sap CDs common didn&amp;#39;t we um if we
+have a look in here we saw when we look
+oh yeah here we go um if we look at the
+services look at what country is right
+we saw country was an association we saw
+we you know we&amp;#39;re going to be doing
+something similar to this between books
+and
+authors but please put in the CH just to
+make me feel less guilty maybe so it&amp;#39;s a
+selfish request
+tell me or if you want to go straight to
+Association books and authors now let&amp;#39;s
+do that now but let let me know CU I
+think this discussion uh this digression
+is is fascinating let&amp;#39;s just kill that
+right and let&amp;#39;s just really quickly
+create CDs in it um temp right let&amp;#39;s
+create a
+new throwaway project let&amp;#39;s go into Temp
+and now if you see cdsn
+uh
+requires do in fact first of all let&amp;#39;s
+open package.json right this is this is
+like a the open sorry um code
+package.json right this is the raw
+completely fresh nothing done to at all
+package Json in a brand new cap nodejs
+project right no configuration no
+explicit cap configuration in there but
+now if we say CDs n and have a look at
+the requires we&amp;#39;ve done this before do
+it again requires.
+DB the
+default implicit configuration is to use
+SQL light but an inmemory SQL light
+database ah yes so Carson Carson says uh
+you make it to a persistent database
+from an inmemory exactly Caston thank
+you that is precisely what we did and
+what I was hoping somebody would say so
+caraston thank you Gregorian hello hello
+to you in Armenia amazing
+I did I worked for a long time um at a
+pharmaceutical company in Manchester or
+South Manchester not really Manchester
+at all uh in all the edge mfield you
+know I&amp;#39;m sure you know who is anyway um
+they have some offices just near
+Manchester Airport uh near gatley and
+there was an Armenian uh Cafe that used
+to go to every day it was fantastic uh
+lots of Armenian food anyway random so
+Gregorian welcome welcome welcome
+welcome so we can see that the default
+is an in memory SQL Li so let&amp;#39;s go back
+out there and remove that before I
+confuse myself with
+it so now if we say the same thing but
+in this directory in our project
+directory cdsn requires DB what do we
+get we get something similar but not
+quite the same
+look a SQL like database but a
+persistent as Carson says a fire a
+persistent database in a
+file so that&amp;#39;s the difference and that&amp;#39;s
+why and that came that&amp;#39;s come from let&amp;#39;s
+get rid of that get rid of that get rid
+of that that&amp;#39;s come
+from here right we added that okay
+now if we were to change this back to in
+memory let&amp;#39;s do that
+now
+um uh memory like that let&amp;#39;s see what
+happens shall we let&amp;#39;s see what happens
+CDs CDs
+watch don&amp;#39;t know what&amp;#39;s going to happen
+let&amp;#39;s che&amp;#39;s let&amp;#39;s see
+great now look connect to DB SQL light
+memory why is that restarted don&amp;#39;t know
+connect DQ URL in memory memory right
+and suddenly we get this in it from we
+get more lines we get in it from the
+countries from countries from the books
+from the and in there as well look DB
+data sap com sap sap common
+countries okay so now I also the whole
+model has been deployed so there&amp;#39;s an
+implicit deployment to an inmemory SQL
+light database the default so if we run
+this now refresh not only do we not get
+an error anymore we also get data
+because this is just a projection right
+where is it um ah Services there this
+banana service with the something entity
+is basically a
+projection onto
+that one okay so we get the same data
+right books there we get the same data
+but we don&amp;#39;t get the ID this thing here
+it says just the title element not
+anything else okay if again DJ stop
+digressing but I&amp;#39;m going to do this
+right I&amp;#39;m going to do this I&amp;#39;m going to
+say books and then put a let&amp;#39;s get rid
+of it there right
+um like that now if I do that and take
+away the curly brackets title right if I
+go back here I go back to something we
+get the idea as well because we&amp;#39;re not
+sort of constraining the properties in
+our projection anyway that&amp;#39;s that&amp;#39;s for
+later on right so uh oh Gregorian you&amp;#39;re
+welcome you&amp;#39;re welcome you&amp;#39;re welcome so
+now also also also because we&amp;#39;re in
+memory and because the model has been
+built and deployed to the memory every
+time we restart everything we&amp;#39;ve also
+got the countries brexit land
+home of the
+idiots right so Etc right so but that&amp;#39;s
+a bit of a pain in the
+backside if we have to sort of keep
+remembering what we&amp;#39;ve got here and
+switching and modifying stuff here right
+so you know what I don&amp;#39;t think we&amp;#39;re
+even going to get to I don&amp;#39;t think we&amp;#39;re
+going to get to the uh building the
+association but we get to start building
+the association between books and
+authors let me change back to Bookshop
+SQL light and
+instead there&amp;#39;s another way there&amp;#39;s a
+better
+way this is a great
+opportunity for us to think about
+another amazing
+feature of the cap node.js runtime and
+that let me save that again so it&amp;#39;s
+going to
+restart okay and we&amp;#39;re back to square
+one as it were if I refresh that you
+don&amp;#39;t don&amp;#39;t need to refresh it
+same issue so going back to Kiara&amp;#39;s
+answer I&amp;#39;m going to do that CDs
+deploy so now we&amp;#39;ve deployed and of
+course by default it&amp;#39;s going to read the
+the N from here right so it&amp;#39;s deployed
+to the right place so now if we say uh
+SQL light Bookshop SQL light if we see
+tables we now also should there we go
+banana something select start from oops
+banana uncore
+something there it
+is
+right good morning nites and welcome
+welcome welcome welcome so let&amp;#39;s get out
+of that now the what I&amp;#39;m thinking of oh
+it&amp;#39;s there what I&amp;#39;m thinking
+of
+in cap
+is configuration profiles so put in the
+chat if you&amp;#39;ve
+used configuration profiles
+before
+right put in the chat if you are curious
+about them they&amp;#39;re super powerful and
+also super easy you might have used you
+might have
+seen an invocation of the cap server CDs
+serve D- production okay in fact let&amp;#39;s
+do that now doesn&amp;#39;t matter if uh it goes
+wrong because it it will go wrong I&amp;#39;ll
+tell you why in a minute CDs um watch or
+serve doesn&amp;#39;t really matter CU we do
+serve anyway D-
+production let me put that there because
+we&amp;#39;re going to see a lot of stuff right
+in fact let me just clear that first of
+all there
+bang why is it gone bang
+because the production mode as it were
+also means that the cap server will
+depend upon will
+require all sorts of production level
+services and configuration
+including some non mock Security Service
+mechanisms right excess security so
+while we can&amp;#39;t use-- production--
+production by the way CDs Pro uh CDs
+watch--
+production is just syntactic sugar
+shorthand syntactic sugar Shand for--
+profile production same thing right same
+thing bang okay
+however we can use the power of these
+profiles to Define look at that there
+we&amp;#39;re going to do exactly that sort of
+thing to
+Define in fact let&amp;#39;s let&amp;#39;s put
+that across here let&amp;#39;s open up a new tab
+so we can sort of see it with our own
+eyes and how we
+copy oh so Nesh says great question Nesh
+how can we use the Hannah database for
+local HTTP file testing now I&amp;#39;m not sure
+what you mean specifically with local
+HTTP file testing what I&amp;#39;m going to
+interpret that question as is how can we
+still run cap server locally and also
+make Local Host HTTP requests which I
+think you might be referring
+to but have the data in hand a file and
+this is hybrid mode and in fact hybrid
+mode I&amp;#39;ll tell you two things about
+hybrid mode you can look it up so the
+keyword is
+hybrid hybrid is basically a
+configuration a CDS EnV configuration
+set that combines running a cap server
+locally but binding that cap server with
+remote Services now if you have a look
+at in fact I&amp;#39;m going to ask a AJ or
+Kevin are you still there AJ or Kevin
+put in the chat for me the URL to
+our uh cap Hannah code Jam in fact I can
+find it here uh cap Hannah there we go
+it&amp;#39;s there right in this code Jam it&amp;#39;s
+an amazing code Jam where are we well
+there we go in there you will find an
+example of exactly what you want to do
+if I understand your question correctly
+okay so it&amp;#39;s hybrid mode and hybrid mode
+when you set this up with some
+cap um magic with the CDs
+command all of a sudden you have a piece
+of configuration that you refer to Via a
+special profile name called hybrid so
+we&amp;#39;re dealing with profiles there as
+well profile hybrid right thank you
+Kevin thank you Kevin sorry I was a bit
+too a bit too fast there I didn&amp;#39;t give
+you a chance there you go excellent Good
+Work Kevin um now so what we&amp;#39;ll do is
+let&amp;#39;s get rid of
+that and let&amp;#39;s go into service package
+and do exactly this so first of all what
+I&amp;#39;m going to do is I&amp;#39;m going to put
+everything on the same line
+here so we can repeat it so let&amp;#39;s say
+we&amp;#39;ve got a file based like this one
+here let&amp;#39;s just um let&amp;#39;s add that on a
+separate line uh there and then put
+every put that whole thing
+in uh like that if I say for example I
+don&amp;#39;t know let&amp;#39;s call this profile
+prepr in the old days of R three we used
+to call our sort of you know the systems
+after development and testing preprod in
+fact let&amp;#39;s call it testing testing right
+so now let me just format that as well
+because then it&amp;#39;s a bit nicer to see
+right in fact no let&amp;#39;s let&amp;#39;s have that
+there like that uh there okay uh uh
+there so
+now we&amp;#39;ve got
+our explicit configuration that says use
+equl light but use a file inside a
+profile called
+testing in fact let&amp;#39;s stop here let&amp;#39;s
+save
+that and ask ourselves what do you think
+is going to happen now put in the chat
+what you think is going to
+happen I think I think yeah I&amp;#39;m feeling
+okay nobody said DJ you idiot we want to
+do associations between books and
+authors right now so I&amp;#39;m going to carry
+on in this trajectory because it&amp;#39;s super
+super
+interesting to learn about the basics of
+the power of configuration profiles not
+only because you can use them yourself
+but when you come across them when I
+first started reading this sort of thing
+it just looks weird with a value of a of
+a property the key the key of a property
+in square brackets like what is all that
+about but it&amp;#39;s just text right and and
+cap node.js uses that to give us this
+amazing
+facility so I&amp;#39;m take a drink of water
+and somebody put in the chat what you
+think is going to happen are we going to
+have an
+inmemory or are we going to have a
+Bookshop sequel light or are we going to
+have an error what&amp;#39;s going to happen
+when I say CDs
+watch and while we&amp;#39;re waiting let&amp;#39;s just
+have a stare at this as well so we can
+see here we&amp;#39;ve got DB is now not just
+kqal like blah blah blah but it&amp;#39;s also
+it&amp;#39;s
+multiple multiple versions of the same
+configuration just divided up by what
+will become these configuration profiles
+well nobody&amp;#39;s put anything in the chat
+yet I don&amp;#39;t want to bore you to death so
+let&amp;#39;s just run it in fact let me just
+move that up a bit move that up a bit
+there move that up a bit there give
+people a chance to say something in the
+chat come on yes no come on I&amp;#39;m going
+say something in the chat please let me
+know what you think is going to
+happen I&amp;#39;ll give you I&amp;#39;ll give you a
+clue actually give you a
+clue oh in fact there&amp;#39;s the clue if the
+profile is not set to
+production the development profile is
+automatically
+enabled so there&amp;#39;s some defaulting of
+stuff going on there there&amp;#39;s a bit of a
+clue CDs watch let&amp;#39;s run
+it
+it completely
+ignores this configuration because this
+configuration belongs to and only to the
+now newly defined testing configuration
+profile Carson says in memory without--
+profile testing exactly so maybe sorry I
+apologize maybe the delay between me
+saying something and it coming out on
+the
+YouTubes uh is more than 20 seconds so I
+apologize caraston has it spot on in
+memory look in
+memory so let&amp;#39;s take caston&amp;#39;s suggestion
+and
+um uh let&amp;#39;s just do that yes sish
+without profile it runs in memory so
+let&amp;#39;s just do that there what&amp;#39;s going on
+uh what&amp;#39;s going on with my keyboard
+there we go CDs watch CDs watch-
+profile well in fact um let&amp;#39;s let&amp;#39;s put
+something rubbish let&amp;#39;s use a profile
+called rubbish that doesn&amp;#39;t exist I i&amp;#39;
+be curious to see what goes on here
+rubbish it doesn&amp;#39;t find that profile so
+it does the the default that it finds
+now if we say here
+testing it goes to the SQL light based
+configuration
+profile now let&amp;#39;s be more explicit then
+and say here
+um uh development cuz that&amp;#39;s the default
+okay the default is development and
+we&amp;#39;ll have here URL um
+memory caraston now an error without
+deployment um well that&amp;#39;s interesting
+yes I thought I&amp;#39;d have an error as well
+I&amp;#39;ll look I&amp;#39;ll ask oh I forgot the
+comment there I&amp;#39;ll ask I&amp;#39;m going to ask
+internally I&amp;#39;ve made a mental note to
+ask internally why when we did rubbish
+it said there&amp;#39;s no profile called
+rubbish there&amp;#39;s probably a good reason
+for it that my brain is too small to
+understand but there we go so now I&amp;#39;ve
+saved
+that we&amp;#39;re still running with profile
+testing so let me get rid of the profile
+again it&amp;#39;s still going to do the the inm
+the in memory one but that&amp;#39;s because
+it&amp;#39;s by default it&amp;#39;s either the implicit
+or the one that&amp;#39;s development so there
+we go so that there um let&amp;#39;s just do
+that and see dash dash profile
+development same thing or no data same
+thing okay so this is a really good way
+and we&amp;#39;ll keep this now this is a really
+good way of being able to switch between
+the uh the SQL light file and the SQL in
+memory okay does that make
+sense right I think we I think we might
+have chance to very briefly because I
+described it in the blog post to very
+briefly get the iso data and then right
+at the very end I think we&amp;#39;ll we&amp;#39;ll
+start to do an association how about
+that okay so if we have a look at uh ISO
+data for no qat let&amp;#39;s go to my block
+post there&amp;#39;s a link there ISO content
+for common
+types um here we go welcome to where is
+it where is it where is it here we go
+package CDs common content I don&amp;#39;t know
+why it doesn&amp;#39;t come up why is
+that why does not not come
+up what is wrong with the content there
+being served that happened a minute ago
+there should be text there okay anyway
+anyway all we need to do all we need to
+do
+is add that package right so let&amp;#39;s do
+that so let&amp;#39;s go to let&amp;#39;s walk Watch
+What Happens inside
+of packages. Json in fact shall we clean
+this up first shall we yes let&amp;#39;s clean
+this up first let&amp;#39;s clean it up so let&amp;#39;s
+get rid
+of the banana service and also get let&amp;#39;s
+get rid of this stuff as well the DB
+data right this this is the the the the
+two rubbish um records that I created
+before let&amp;#39;s get rid of the whole thing
+with nothing in authors nothing in books
+we got those two rubbish records there
+nothing in there so let&amp;#39;s get rid of
+that whole directory delete permanently
+bit of a clean up there so all we&amp;#39;ve now
+got is booksh of authors the two authors
+and the books okay and we&amp;#39;ve got in our
+services we&amp;#39;ve got the CID and Country
+there we go so let&amp;#39;s save that and CDs
+watch and run it with development right
+in development mode by sort of
+default okay now we can also now say npm
+ad and AD is just a synonym for install
+but add semantically for me sounds a bit
+better sap CDs
+content now if we have a look inside
+node modules it should end up inside of
+here right so let&amp;#39;s do
+that 21 package looking for funding I
+always confused added one package and
+I&amp;#39;m not sure that that updates correctly
+because if we look in node modules at
+sap we can now see CDs common content in
+fact um let&amp;#39;s just go here because I I
+like this much better if we go to cap
+B2B there we go and then have a look at
+that now inside of the node modules
+where is it there we&amp;#39;ve got sap CDs
+common content we&amp;#39;ve
+got some stuff and this look at all that
+all those CSV files look at all those
+CSV files okay so we got all those
+C now all we have to do
+now
+is add this using directive into our CDs
+into our model
+definition so let&amp;#39;s do that
+now uh let&amp;#39;s go to here and open paste
+close and let&amp;#39;s CDs watch okay check
+this out that&amp;#39;s what we&amp;#39;ve got so far
+Bookshop books and Bookshop authors
+let&amp;#39;s go to the Local Host there uh
+Local Host there
+404 nothing in oh oh yeah the three
+three items in books let me put my face
+at the bottom three items in books
+authors two authors country code let&amp;#39;s
+let&amp;#39;s leave that null for now um and
+nothing in countries right now let&amp;#39;s
+save this and let&amp;#39;s also see what
+happens when we save it and of course
+we&amp;#39;re running CS watch so we should
+restart let&amp;#39;s
+see bang amazing what is going on here
+look at that what we get some more stuff
+loaded so the model is now loaded not
+just from Services CDs and also of
+course sap CDs common which is from this
+thing here but also from node modules at
+sep CDs common context look there it
+is
+now books same authors same but now
+drumroll we&amp;#39;ve got ISO
+data now it&amp;#39;s as simple as that how does
+that work why does that that work that&amp;#39;s
+what the blog post explains and that&amp;#39;s
+why it I seem to have taken so long to
+explain it right it goes into
+excruciating detail as to what is going
+on okay and it&amp;#39;s all to do with this
+magically named index. CDs file
+in this package we&amp;#39;ve just
+imported okay so we go down the rabbit
+hole can everybody tell me what that
+that uh that curious un curious phrases
+a reference to what literary work anyway
+go down a rabbit
+hole brilliant we 8:46 we&amp;#39;ve got time I
+think we&amp;#39;ve got time to get to
+finally finally finally let&amp;#39;s actually
+let&amp;#39;s get rid of this now let&amp;#39;s just
+undo that um uh because let&amp;#39;s just you
+know we don&amp;#39;t really want that anymore
+and also npm one install scpcs common
+content okay now
+uh CDs
+watch we back to no data okay good now
+please paste the oh yes okay I will NES
+please paste the URL in the chat thank
+you for NES that is brilliant if I
+forget something any anytime please just
+let me know
+brilliant there we go so there&amp;#39;s the URL
+to the description of what CDs common
+content is how to use it which is really
+simple and how it works and why it works
+and why it does what it
+does and reading through that will
+also give you a bit of an insight into
+lots of different bits and pieces of the
+no. JS cap mechanism it&amp;#39;s wonderful as
+in the no JS cap mechanism not my blog
+postable cap is
+wonderful okay so that&amp;#39;s that that&amp;#39;s
+that
+right the last 10 minutes or
+so what we&amp;#39;ll do is we&amp;#39;ll clean up a
+little bit more actually we don&amp;#39;t want
+this country of birth anymore just keep
+it as simple as possible let&amp;#39;s get rid
+of that and that and save that so now
+all we have in our
+metadata is something super
+simple up there you can see we&amp;#39;ve got
+our entity container that contains just
+two entity sets books and authors and in
+fact we can also
+see that the books and authors entity
+sets are more or less the same they got
+an ID and a title on here&amp;#39;s an ID and a
+name but they&amp;#39;re basically a string
+right exactly that what we&amp;#39;ve got
+there so how do we go about put in the
+chat what we need to do to relate books
+to authors remember when we had just a
+minute ago we
+had where was it uh we had this extra
+field the value for which was null on
+each of the entities in the entity set
+when we had that countri in fact let me
+put that back in again there let&amp;#39;s just
+run that
+again the uh author&amp;#39;s entity definition
+how F country of birth and with type
+country and country that is defined as
+an association to sap common countries
+so when we have when we looked at this
+not that when we looked at
+this we had this magically generated for
+it&amp;#39;s because this definition
+here is expressed using the association
+directive or
+keyword I wonder what the word is
+keyword I think
+Association and this creates for us a
+so-called managed
+Association
+okay is Anybody Everybody familiar with
+manage associations manage
+associations managed here we go managed
+to one Association there we go let&amp;#39;s put
+that in the chat
+there
+now now now now get rid of that and get
+rid of that notice how this is
+constructed as well somebody put in the
+chat what this property name consists of
+what the what is the thing on the left
+of the underscore and what is the thing
+on the right of the underscore where
+does it come
+from while you&amp;#39;re thinking of that I&amp;#39;m
+actually going to get rid of
+it save that again so now all we have is
+the IDE and name that that that um
+country of birth underscore code is
+gone now let&amp;#39;s start to think about what
+we want to do we want to be able to go
+from a book to its author and for the
+sake of argument right now let&amp;#39;s just
+say each book only has one author so
+we&amp;#39;re talking specifically about a
+managed to one Association that&amp;#39;s what
+that that&amp;#39;s how to sort of think about
+that how to pronounce it a managed to
+one Association as as opposed to a too
+many right we&amp;#39;ll do a too many shortly
+maybe next time um so all we need to do
+is to think about saying Well
+author and remember this is an element
+in the book&amp;#39;s entity an element name
+should be lowercase
+and this is of course singular because
+it&amp;#39;s a 21 Association so you know not
+con not necessarily convention but it
+makes sense to call it lowercase
+singular author
+right you know some
+people I get into this now some people
+say
+to call them to author because they
+know that it&amp;#39;s going to be a navigation
+property in in the metadata but let&amp;#39;s
+not even go there right now author
+associate now this is where if you&amp;#39;re
+using vs code the amazing extension for
+cap no J development comes into play so
+we get this helper here tab Association
+to and then let&amp;#39;s start toing toping to
+let&amp;#39;s start typing authors there we go
+look at that authors tab
+semicolon okay not saved it yet somebody
+said Kevin said but what if a book has
+multiple
+authors I was hoping somebody would ask
+that then you
+need a too many too many a many to many
+Association now out of the box at the
+moment cap can do a 2 one Association
+and a 2 many but if you want a many to
+many as in a one to one and a one to
+many but if you want a many to
+many which is I suppose more realistic
+in the literary world you know a book
+might have two authors and an author
+might have written more than one
+book then you need a sort of a helper
+table which is not what we&amp;#39;re going to
+look at today because that&amp;#39;s too complex
+in fact there is somewhere somewhere
+somewhere
+somewhere we did already on the hands of
+SCP Dev show didn&amp;#39;t we a whole series on
+managed associations where I covered
+this many to many Association where is
+it can anybody see it manag associations
+there we go check it out so if you want
+to dig deeper right in this playlist
+here of four live
+streams we cover exactly the answer to
+Kevin&amp;#39;s question but it&amp;#39;s I would say
+it&amp;#39;s not appropriate for the Back to
+Basics because it&amp;#39;s not
+basic anyway let&amp;#39;s save
+that and now let&amp;#39;s
+refresh well all right let&amp;#39;s refresh the
+auth there should be no change correct
+there&amp;#39;s no change if we now refresh the
+books we now see we&amp;#39;ve got another
+property so we can see this pattern
+can&amp;#39;t we when we have an association
+when we have an element that is defined
+as an
+association like this a 21 Association
+managed
+Association we automatically get at the
+persistence layer and then that&amp;#39;s of
+course exposed as a property in the
+actual API in the in the
+service in in od data in this case we
+get this foreign key field thing
+here so now all we have to do is go to
+books in fact let&amp;#39;s go go to bring
+authors in there as well because we&amp;#39;ll
+need to refer to that won&amp;#39;t we right
+this authors thing here
+um let&amp;#39;s copy that let&amp;#39;s go up to here
+that&amp;#39;s Douglas
+Adams uh let&amp;#39;s paste that
+paste that and then let&amp;#39;s go down here
+again and let&amp;#39;s just say here uh I&amp;#39;ve
+got Vim mode on so I can where is it I I
+can do um copy to comma o not change the
+comma uh yank to comma and I can go up
+here and then paste that so now we&amp;#39;
+built this
+relationship oh here we go um nites says
+uh in your upcoming sessions can you
+show an example to consume an external
+service and merge it with a C Service
+data
+yes uh they might be in a while because
+that&amp;#39;s also something I want to build up
+to and you know you know me and
+digressions if you want to jump
+ahead we also have cap service integ
+service in what is wrong with my typing
+integration there we go we have another
+code Jam the content of which is also
+available uh online public openly
+because of course we are open in the
+develop Advocates team you can get all
+the information from there about ex
+doing exactly what you just asked for
+consuming external service and merging
+it with a cap service data so if you
+want to codam on that let us know uh
+Kevin can maybe uh send a link in the
+chat to Tom&amp;#39;s post about so you want to
+host a code Jam in our application no in
+our codejam group to find out how to
+request a codam anyway and also Stefano
+says where does that error during type
+generation come from that&amp;#39;s a good
+question this thing it come it&amp;#39;s down
+here sometimes isn&amp;#39;t it I don&amp;#39;t know I
+don&amp;#39;t really use vs code normally I only
+use vs code for the live stream um and I
+never see that normally so I think it&amp;#39;s
+to do with the uh the CDs extension for
+vs code but I&amp;#39;ve already got another
+thing I want to ask the folks about
+internally so I&amp;#39;ll also ask them about
+that okay so thank you for asking that
+Stan know good eagle eyes there so now
+we&amp;#39;ve got this new author uncore
+so I&amp;#39;ve added that there but of course I
+also need to add that as
+the CSV header
+field right if I said for if I made a
+mistake and got rid of it I save that
+what&amp;#39;s going to happen we&amp;#39;re going to
+get an error again because it&amp;#39;s it&amp;#39;s
+actually looking at the CSV header field
+and trying to insert this third value
+this third value according to the
+headers here third column into a
+property in at the ddl the pist layer
+called author unscribe doesn&amp;#39;t exist ID
+ID save that should restart redeploy
+we&amp;#39;re in memory we&amp;#39;re good how yes it
+how to host how to host codejam perfect
+thank you
+Kevin so now if I refresh that we get
+the author uncore ID but the most
+magical thing and we got two minutes
+left the most magical thing is that
+now because of did I not save that I
+didn&amp;#39;t even make any changes there let&amp;#39;s
+get rid of that let&amp;#39;s close that yes
+don&amp;#39;t
+save because I&amp;#39;ve defined this
+Association this Association
+Now sort of comes to the surface in the
+edmx in the metadata in the O dat
+service that we&amp;#39;re serving now as where
+is it where is it where is it a
+navigation
+property authors there look there
+there&amp;#39;s our entity type
+books there navigation property name
+equals author so now you all know you
+all know what I&amp;#39;m going to do now
+Bookshop
+look let&amp;#39;s look at the
+books expand equals author so finally
+with such a simple single expression a
+managed 21
+Association we can jump from books to
+their authors and of course everything
+else work if we could just say you know
+um filter what anyway I&amp;#39;m not going to
+get into that right
+now so there we go we finally started on
+our
+journey to relate books and all authors
+it&amp;#39;s still now I will say one
+thing to keep things simple and to sort
+of emphasize things we&amp;#39;re still Del
+we&amp;#39;ve still got everything defined our
+entities we we normally think about the
+persistence layer defined
+inside the service definition so it&amp;#39;s
+quite hard it&amp;#39;s possible but it&amp;#39;s quite
+hard to refer to those entities in other
+services especially if they&amp;#39;re in other
+files and you sort of it&amp;#39;s like it&amp;#39;s
+like tying your shoelaces wronger than
+tripping up
+right so next time as well we&amp;#39;ll start
+to clean this up and sort of separate
+out the persistence layer stuff the
+entities and the relationships from the
+service layer stuff and we&amp;#39;ll put them
+in the separate DB and serve directors
+and will&amp;#39;ll feel a lot better for that&amp;#39;s
+like having a having a shower or tying
+your shoelaces
+properly okay that&amp;#39;s the end of the
+episode I&amp;#39;ve finished actually on time
+um uh so uh thank you so much for
+joining and oh by the way I see ebong
+here this is not free code jams are free
+Cod jams are free to anyone to attend um
+there&amp;#39;s a there are um certain Cod jams
+that are run in the context of um
+organizations like asog so you have to
+be an asog member or dsag member for
+example but the co jams themselves are
+free always free thank you so much for
+joining I won&amp;#39;t see you next week but
+hopefully I&amp;#39;ll see you the week after uh
+let me know in the chat uh whether you
+enjoyed this and whe you thought was
+useful and I&amp;#39;ll see you next time bye
+for
+now

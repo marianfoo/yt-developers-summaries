@@ -1,0 +1,1427 @@
+e
+good morning good afternoon good evening
+welcome again to hands on sa Dev with me
+DJ Q macro welcome one and all um I can
+see al already we&amp;#39;ve got uh Dwight I&amp;#39;ve
+just realized uh Dwight you are ale ale
+star22 I I was thinking who is who is
+that Dwight person with a new hat logo
+there so um I just clicked on your
+channel I realize it&amp;#39;s um at Al star22
+which is awesome welcome and thank you
+don&amp;#39;t do Dwight says I&amp;#39;ll call you
+Dwight uh don&amp;#39;t do that to us where have
+you been well um in fact helmet gives a
+clue welcome helmet and good morning and
+good morning to Leo and good morning to
+AP in dorf Leo&amp;#39;s in Frankfurt and mine
+and and of course helmet is coming to us
+loud and clear from Bruns in Germany all
+in Germany so welcome everybody and uh
+yeah if you&amp;#39;re on the chat for the first
+time just say a quick hello tell us
+where you&amp;#39;re from and everything it&amp;#39;s
+all very friendly and welcoming here
+especially uh especially welcoming for
+beginners that&amp;#39;s what this series is all
+about so Niki good evening to you in
+Melbourne City of amazing coffee and
+some other amazing things of course as
+well but I always think of a coffee in
+I&amp;#39;ve never been to Melbourne but you
+know um Sasha veninger uh didn&amp;#39;t he used
+to live in Melbourne he&amp;#39;s now in
+Singapore he used to tell me about the
+amazing coffee anyway and oh hello Kiara
+bonjo Kiara and Al PES good morning to
+good evening to you in Sydney and VJ
+hello what hello to you in paloalto what
+the heck time is it over there tell us
+what time it is and alpes in Sydney Mark
+tman good morning M Mo to Mark in ke
+I&amp;#39;ll tell you about the why I&amp;#39;m looking
+over there in a minute um but zahed good
+morning to you in Sunny suly Hull I hope
+it&amp;#39;s sunny it&amp;#39;s freezing yeah that&amp;#39;s
+what I got my jumper on um so good
+morning to to you or good afternoon to
+you maybe already I don&amp;#39;t know Nesh in
+India uh Kiara says good morning all as
+well that&amp;#39;s right that&amp;#39;s we&amp;#39;re all we&amp;#39;re
+all friends here we&amp;#39;re all one family in
+the hands onb Dev uh show aren&amp;#39;t we
+Antonio good morning to you in Madrid so
+yes I&amp;#39;ve got um my I&amp;#39;ve lowered my
+screen my external screen it&amp;#39;s on a
+stand you know uh and I was just like oh
+yeah my neck was hurting so I&amp;#39;ve moved
+it down a bit I&amp;#39;m not sure that&amp;#39;s good
+ergonomically but any I moved it down a
+bit which means I can&amp;#39;t fit my
+Chromebook tablet mode under the monitor
+because that&amp;#39;s where I that&amp;#39;s where I
+sort of monitor the in fact I&amp;#39;ll show
+you there we go look there that&amp;#39;s my
+that&amp;#39;s how I see who is saying what and
+everything but now that it&amp;#39;s over there
+um I&amp;#39;ve sort of got to put it up plugy
+back in again uh that&amp;#39;s over there so
+it&amp;#39;s it&amp;#39;s a bit more difficult to see
+kaston Schlagel good morning to you in
+stutgart in Germany amazing so yeah it
+was so good uh so um Dwight the reason I
+was uh not here we didn&amp;#39;t do a stream
+last week was of course because as many
+folks know and as many folks were you
+know for example lots of people in the
+chat were also at this event last week
+code connect in h uh so for example uh
+mark and um Leo and uh who else have we
+got here helmet of course uh lots of
+people were at code connect which was an
+amazing event and what did what did you
+say um helmet uh the first time after a
+fantastic Cod connect week or as
+Mauricio laer from Australia uh said in
+his blog post it was great to meet Mario
+for the first time as well in his blog
+post the new sap Tech quote unquote so
+that was a lovely quote uh quite nice
+Marian Marian was also Marian was like
+Mar was was Mar Marian were you ever off
+the stage in cooc Connect uh Mari and
+did some amazing sessions as many people
+did as well of course Matias Matias was
+at code connect and also attended the um
+uh the cap uh Cod jam on the Monday as
+well welcome to you Matas and welcome to
+you visas in Bangkok Thailand amazing so
+actually talking of code
+connect uh for those of you who were at
+code connect of course it was um a recap
+on uh Tuesday and u5 cup on Wednesday
+and an abat conf on uh Thursday I had to
+travel on Thursday up to luse to do Coen
+there on Friday but I snaffled a load of
+um stickers from the tables so I&amp;#39;ve got
+some stickers uh for example I&amp;#39;ve got Al
+got some sap Community stickers from um
+s and Laura upstairs they were and I&amp;#39;ve
+got some uh recap 234 stickers and I&amp;#39;ve
+got some awesome silver shiny it&amp;#39;s like
+you know when you go magic the Gathering
+and you you buy sort of booster packs
+and you get like a shiny card it&amp;#39;s like
+a shiny uh Phoenix from ui5 and I&amp;#39;ve got
+ui5 con as well I&amp;#39;ve got an amazing cool
+a cap sticker uh cap logo a really cool
+ui5 logo and also hello from your
+motorbike I hope you&amp;#39;re not watching and
+riding at the same time Kaza hello and
+welcome Kaza on your motorbike I don&amp;#39;t
+even understand what that means but
+anyway welcome welcome everybody
+and these things here Dev toober Fest
+put in the chat if you know about Dev
+toober Fest if you&amp;#39;ve heard of Dev
+toober Fest if you&amp;#39;ve participated in
+previous Dev toober fests that&amp;#39;s nice
+cuz it&amp;#39;s not got a year on it and
+everything so it&amp;#39;s General Chala good
+morning to you as well and the really
+cool thing about these is they&amp;#39;re quite
+rare now because um uh our lovely
+marketing department is not as as as
+said we&amp;#39;re not allowed to use these
+stickers anymore because they&amp;#39;re not
+brand compliant so if you want one of
+these really cool like you know Black
+Market stickers because we&amp;#39;re not
+allowed to use them anymore send me as
+usual uh your postal address uh where I
+should send some stickers to and I&amp;#39;ll
+send you some stickers so there we go
+yeah these so
+by by Banning them the by being banned
+these are even more worth uh than they
+were before which is amazing so if you
+want some other stickers let me know uh
+send me uh on LinkedIn a direct message
+on LinkedIn whatever you call it or um
+on um masteron for example thank you to
+yakob flamman who is also there at COC
+connect he&amp;#39;s giving me uh some lovely
+Swiss chocolates so to have during my
+live stream so yakob thank you very much
+that&amp;#39;s a very kind of you so good
+morning to you in Brazil oh my goodness
+be so amazing we have a really good
+Global uh Global session today so let&amp;#39;s
+get going let&amp;#39;s get going um we got the
+May release of uh cap that&amp;#39;s just a Java
+release the actually the sap developer
+news was out yesterday so all these
+links are of course in the normal show
+notes show notes I I sound like a live
+streamer uh where do I put that um let
+me put that in the chat there whooo uh
+paste that in there so that&amp;#39;s all you
+need okay so that is this as as as many
+of you regulars know I always put a um
+an event page here in the community and
+then put one comment underneath it with
+all the links so we can all go to the
+links and I&amp;#39;ll add add to this if we
+have any more resources to share so we
+got the developer news we&amp;#39;ve got the um
+uh we&amp;#39;ve got the uh oh yeah let me tell
+you about that in a minute we got uh how
+to yeah Cap May 2024 release which is
+that one there get rid of that one now
+developer news get rid of that one now
+how many folks put in the chat how many
+uh do you have have seen our um YouTube
+shorts you should shorts for consumption
+on your phone um so check out they&amp;#39;re
+all about cap no JS at the moment we
+might do something else on different
+topic but let let us know if you&amp;#39;ve seen
+these shorts and let us know if you like
+them let us know if you don&amp;#39;t like them
+as well and if we can uh do anything
+different to make it better but the uh
+the cap nodejs YouTube shorts good to
+know um if you can think of also little
+topics that we could cover in an
+upcoming YouTube short on cap node.js
+let us know they&amp;#39;ve got to be really
+short because we&amp;#39;re only allowed to do
+60 you know 60 seconds is a sure that&amp;#39;s
+a maximum time bioo says any plan for
+cap developer dashboard available OJs
+well that&amp;#39;s what that is the question on
+our lips as well it was announced for
+those of you at COC connect great
+question uh for those of you COC connect
+it was demoed in a session uh for the
+first time it&amp;#39;s an alpha version and
+it&amp;#39;s only available for Java at the
+moment and in fact if you watch this
+week&amp;#39;s sap development news our
+illustrious and feess leader Tom Yung
+did a an item on uh the cap May release
+and also talked about that developer
+dashboard and so Tom also says I hope he
+hopes we hope it&amp;#39;s coming to noj as well
+so we don&amp;#39;t know uh we know as much as
+you
+bbo uh that&amp;#39;s top that&amp;#39;s top uh all of
+them very cool well yeah just um as you
+know send me a message somehow private
+you know don&amp;#39;t obviously share your
+postal address a you it could be a work
+postal doesn&amp;#39;t matter you know just send
+me a postal address and also when you
+send it make sure you put it on line by
+line because some some addresses I don&amp;#39;t
+understand how the addresses are
+formatted in those different countries
+how to write it on the envelope and
+everything here&amp;#39;s my in fact I&amp;#39;m looking
+over here because this is my now full
+again box of stickers that I can send
+you anyway shorts are thumbs up thank
+you helmet thank you for the thumbs up
+okay
+now um oh yes uh yeah okay that&amp;#39;ll do
+that&amp;#39;ll do
+um now where were we last week um and I
+think I put in the description of what
+we want to cover here today um I&amp;#39;m
+already I&amp;#39;m already talking like really
+fast because i&amp;#39; this this my second
+coffee
+uh two quite close together so tell me
+to slow down if I need to slow down so
+Visa says yes I really like the shorts
+on YouTube thank you Visa as well thank
+you for the confirmation like like I say
+I&amp;#39;m not you know I&amp;#39;m not um fishing for
+praise here for our shorts if there is
+something that um you think we could do
+better um good suggestions you know let
+us know let us know you know um there&amp;#39;s
+always room for improvement
+so last week last week we finished oh
+it&amp;#39;s even still running I&amp;#39;ve sort of got
+it back back into the state where we was
+were before right last
+week we looked a little bit at the after
+Handler and we also sort of in the
+middle of last week not last week last
+episode let me say it last episode
+because it was a week before last
+um and we started playing around with
+the after Handler and let&amp;#39;s sort of
+summarize we we realized we learned that
+unlike the on Handler um or the on event
+the handlers for the on event and
+handlers for the before Event Event the
+first first argument passed to the
+Handler is not the request it&amp;#39;s the data
+that has by this stage by the stage of
+the after event has already been uh
+retrieved right so we get we we want a
+data parameter first to receive the data
+that has been retrieved probably or
+likely by the standard out of the box uh
+implementation from cap um to retrieve
+that data and we get the data and we can
+enhance it modify it change It Whatever
+right and so what we did here uh is we
+sort of basically went through each of
+the books in the data right and um added
+an exclamation mark okay so in fact uh
+there it is there it we can see the
+player of games exclamation mark hitch
+is out of the Galaxy exclamation mark
+let&amp;#39;s just change that just to see uh
+let&amp;#39;s put a question mark instead right
+there there we go um what we also did
+loading oh yes that reminds me as well
+we want to do something else um what we
+also did uh was add this little
+listening thing there we go it waited
+for the server to start up to you know
+to to be fair to cap as well um I&amp;#39;m
+running on a fairly okay Mac but I&amp;#39;m
+running inside a Docker container so
+everything is connected together and you
+know it&amp;#39;s not the most efficient setup
+in terms of performance from running
+anything really but I like Docker
+containers so I run everything in a
+Docker container right so um this is why
+it&amp;#39;s quite nice to have this sort of
+triggered call being made only when we
+get only when the server restarts and
+gets to that point where it starts
+listening so good morning a bit late
+today it doesn&amp;#39;t matter welcome uh you
+know the fact that you&amp;#39;re here is
+wonderful thank you for thank you for
+joining Chala says I&amp;#39;m getting error
+while opening cat B2B folder in Dev
+container stating no file directory
+found oh I trade placing folder in
+different locations any suggestions um
+well I&amp;#39;m using it here so I&amp;#39;m not sure
+if you&amp;#39;re still getting an error cha
+thank you for thank you for trying this
+out by the way B2B there we go if you&amp;#39;re
+still getting an error go to the
+issues and and create a new issue and
+put as much detail in as you can it
+might be that I&amp;#39;ve messed something up
+but I&amp;#39;ve not don&amp;#39;t think I&amp;#39;ve pushed
+anything uh recently update oh update
+episode 12 hours ago okay I don&amp;#39;t think
+yeah it could be something I&amp;#39;ve just
+pushed recently could be could be my
+fault probably is my fault um but just
+put an issue create an issue Chella and
+put as much detail as you can uh and
+then after this stream I&amp;#39;ll go and check
+it out as well but thank you for thank
+you for asking thank you for asking
+right okay let&amp;#39;s get there
+um so uh we did that and what we also
+had had was our own logger so let&amp;#39;s just
+log that out as well and we
+saw and what we did do as well is we saw
+that um we get one log output record our
+cap B2B log so we got this little logger
+thing here right
+and it logs a single value and that
+value is an array right an array of
+objects okay which is sort of and then
+we also what we also did remember we we
+did that okay and we did each now um oh
+what&amp;#39;s happening there oh ah what what
+what what what what on type data map is
+not a function what L data each ah yes
+ah there we go so that&amp;#39;s proving the
+point right that&amp;#39;s proving the point we
+played around a little bit well maybe
+you&amp;#39;re digging this to this again I
+don&amp;#39;t know maybe it&amp;#39;s not that
+interesting
+but when we do each let&amp;#39;s get rid of
+that for example let&amp;#39;s save that and
+I&amp;#39;ll explain what that is in a minute
+right there we go so there it&amp;#39;s now
+working again when we specify instead of
+a normal sort of event like read or
+update or whatever we specify this magic
+each this
+Handler there
+is called once per object once per
+record and of course then the record
+that&amp;#39;s passed the data that&amp;#39;s passed is
+not anymore an array of objects it&amp;#39;s
+just a single object so we can&amp;#39;t map
+over a single object can you right okay
+and as you can see here as well um we
+get three log records as in this line
+six here logger logger of data is called
+three times 1 2 3 we still get the same
+end result and you know when we let go
+as it were this this Handler when the
+Handler lets go and the the dispatcher
+takes control again you know the the
+data is sort of uh put together again
+and you know sent to the requester I.E
+this uh this curl command here we&amp;#39;re
+doing that remember um let&amp;#39;s uh send
+send to the requester as an entity set
+right now I&amp;#39;m getting quite warm um so I
+take my Jumper in fact I&amp;#39;ve got this
+jumper and it&amp;#39;s got like a little logo
+on it&amp;#39;s very hard to but I thought just
+in case I&amp;#39;ll put a badge on to sort of
+mask it uh cuz you&amp;#39;re not allowed to
+have you
+know uh you know what they call
+Commercial loo you not to have logos on
+your on your stuff unless it&amp;#39;s sap so
+there we go sap
+so comp DJ is compliant this morning
+okay so um Nik says can we register
+handlers for standard framework events I
+other other than crud once can&amp;#39;t think
+of a reason out at the top of my head
+but just asking what do you that&amp;#39;s a
+good question I think what do you mean
+by standard framework events let me know
+uh nikel sorry I just realized you&amp;#39;re
+doing that with each oh I see each event
+yeah well it&amp;#39;s I wouldn&amp;#39;t say each is a
+standard framework event but I mean you
+know put in the chat what you what you
+mean a little bit more because my brain
+is a bit stupid what do you mean by
+standard framework events Lauren
+Laurence good morning a little bit late
+that&amp;#39;s okay you&amp;#39;re welcome and
+everything and John Murray good morning
+John Murray in the house uh n which is
+the better approach for performance
+using each in or after after or using M
+well I think performance- wise is is
+negligible I would say
+however I think I think the simple
+answer is using each means that the the
+Handler mechanism so there are there are
+multiple calls being made to the same
+call back to the same Handler function
+and if your Handler function has lots of
+setup in it you know we&amp;#39;ve only got we
+got no setup between lines five and line
+six here but you know if you&amp;#39;re doing
+the same thing over and over again then
+of course each is less performant uh but
+to be honest you know I&amp;#39;ve not really
+heard of the fact you know having this
+called one one time per record is you
+know is detri is you know significantly
+detrimental okay good question good
+question so basically any event the cap
+framework is emitting under the hood
+other than the CR ones well yes one of
+the things that we did oh yes that
+reminds me thank you n one of the things
+that we
+did was we added if you remember we
+added um a a package this this little uh
+cap listening plugin which I talked
+about uh yeah in the previous episode uh
+the cap listening plugin uh cap
+listening plug-in is a the simplest
+plugin that could possibly work so I did
+this sort of partly just to do a plugin
+partly to show people how easy is to
+write a plugin um and um you know but
+also mostly to scratch my own itch C
+let&amp;#39;s put that in there as well um cap
+listening plugin uh
+edit uh cap uh
+listening plugin
+there um to scratch my own because
+basically I wanted something that would
+wait for the server to restart and start
+listening before it made the next
+request so that&amp;#39;s what this does and the
+way that that works is that if we look
+in the node modules you&amp;#39;ll see uh cap
+listening plug-in all it is it it
+listens
+to this life cycle event okay the tell
+you what um the I got in there as well
+uh yeah there we go there&amp;#39;s a Blog in
+the GitHub repository there&amp;#39;s a blog
+post a link to a blog post which
+Explains It All and there are life cycle
+events um so this is this is uh in
+response really to you your question
+nikel um the cap server has a number of
+events that are missed at various points
+in its life cycles so have a look at
+that quite interesting bootstrap loaded
+connect serving served listening shut
+down blah blah blah all that stuff right
+so check it out hope that answers your
+question a little bit or gives you a
+little bit of food for thought okay so
+um one thing I did notice is that we
+install this listening plugin you know
+mpm ad cap listening plug-in but I still
+had it in its sort of raw form in Serv
+so I&amp;#39;m going to remove I didn&amp;#39;t want to
+remove it before we started today so I&amp;#39;m
+going to remove it delete permanently so
+we&amp;#39;re not sort of double double
+listening and double writing a file okay
+so delete there so let&amp;#39;s let we go run
+that fine bang okay so there we go we
+got removed that CDs plugin fine cool
+thank you Nik thank you Nik for
+confirming
+yes well I think it&amp;#39;s time for a little
+chocolate um okay no it&amp;#39;s not
+um what do I want to do what I want to
+do
+is dig a little bit deeper and I want
+all your comments all the time in the
+chat what you think dig a little deeper
+into what actually is going on here in
+terms of passing of data now we talked
+about this last week and some of you I
+know Kiara you mentioned something and
+somebody else mentioned something as
+well you were on you were on the case it
+was all
+about pass by value versus pass by
+reference and how but I think I think
+it&amp;#39;s important for us to just dig in a
+little little bit more to understand
+what&amp;#39;s going on and one of the things
+that I that I looked at with you last
+episode in the previous episode was this
+example okay so this and I&amp;#39;ve put this I
+put a link I&amp;#39;ve put a link to this
+processor
+service JS file in here as well
+processor service implementation so it&amp;#39;s
+there right so you can have look at this
+later as well um NES how the log is
+different from console.log ah we covered
+that in not the last episode but the
+episode before very briefly look const
+logger you can create your own loggers
+you can also have the default sort of um
+verbosity as well but we didn&amp;#39;t do that
+so that&amp;#39;s that&amp;#39;s that there so line two
+defines his logger with the cds. log and
+then we can use logger and we get this
+cap B2B whatever we put in there as the
+ID right that&amp;#39;s how that works n great
+questions brilliant questions keep them
+coming all the time all questions all
+the time now um we had a look at
+this and I think and because we were
+looking at examples of after
+will
+we and
+I I think this is an interesting one for
+many reasons and I think we should try
+and implement this lift this bit of code
+and put it into our own
+code we&amp;#39;ll have to change a few things
+to to sort of hammer it in but I think
+I&amp;#39;m hoping that the process of doing
+that will make us think about what&amp;#39;s
+going on because the really interesting
+thing here is that we have a really
+simple call back a really simple Handler
+here which actually just calls another
+function here changes so let&amp;#39;s see think
+about how that works because
+theoretically right theoretically
+remember we talked about last week last
+episode if in a fat Arrow function we
+don&amp;#39;t have a a brace enclosed um code
+block then whatever the thing here is
+evaluates to that&amp;#39;s the return value
+that&amp;#39;s what&amp;#39;s returned from that
+function call so in
+theory looking at that you think oh yeah
+okay this will return something because
+you know why would you do that
+otherwise but then when we dig into what
+this change urgency due to
+subject is doing and how it works we&amp;#39;ve
+got this incidence for each and we
+talked a little bit last episode about
+the fact that for each doesn&amp;#39;t return
+anything I notice is Daniel in the house
+cuz Daniel has updated this well 10
+months ago but our wonderful friend
+Daniel um is uh you know has had a hand
+in this which is really great um so we
+can learn a lot from this so let me know
+in the chat please put in the chat
+whether you um whether you what you
+think about this because we&amp;#39;ll we&amp;#39;ll
+just have a bit of a recap because one
+of the other things
+is I wanted to um
+just just play around with something
+we&amp;#39;ve got this this I&amp;#39;ve got this file
+here called um Cat book
+dojason okay we got we got two records
+and in fact can anybody tell me where
+these two records come from I&amp;#39;m I&amp;#39;m
+deliberately using these two records two
+books records withing Heights and Jane
+air by Emily Bronte I think both of them
+I can&amp;#39;t remember uh and um they have a
+stock uh property as
+well they well let me know let me know
+in the chat where you think this data
+comes from it&amp;#39;s one of the standard fast
+sets when you do a um no get off there
+uh when you do a CDs in it add
+something you get that data which facet
+is that let me know in the chat um so we
+got this data so what and I also what
+I&amp;#39;ve got here is a little helper that
+just requires that Json okay so now we
+can go into the node
+reppel okay and say load which is like a
+reppel command a bit like SQL light you
+know we&amp;#39;ve got SQL light here for
+example uh let&amp;#39;s go to the um uh let&amp;#39;s
+open up another thing basically and say
+SQL
+light SQL light three sorry SQL light
+three and we can have these dot commands
+do help right it&amp;#39;s almost like the one
+level up rather than write SQL we want
+to write the SQL like command type thing
+there so in the same sort of way we&amp;#39;ve
+got rather than write this is not
+JavaScript this is this is a node.js
+reppel command like dot so CDs oh so uh
+so John says it&amp;#39;s tiny sample Tiny
+Dancer El what&amp;#39;s the what&amp;#39;s the Elton
+John film the other night it&amp;#39;s quite
+good um quite good it&amp;#39;s brilliant uh
+it&amp;#39;s tiny sample sample boxshop I think
+I can&amp;#39;t remember which and nites comes
+in there with
+the you know working with John saying
+CDs in it add tiny sample exactly so if
+we do this here CDs in it add tiny
+sample X and CD there and tree we can
+see there we have inde DB cat DB data my
+Bookshop CSV there they are weing
+Heights and J air that&amp;#39;s that data and
+that&amp;#39;s why I&amp;#39;m using that data so it&amp;#39;s
+sort of familiar right so Load
+Books so we have in books that here one
+of the things that we talked about was
+if we have for example um uh primes
+equal um primes equals
+135
+7 that&amp;#39;ll do 1357 right so we can say
+primes do map um X or P it doesn&amp;#39;t
+really matter you let&amp;#39;s use x cuz X is
+like a nice thing that&amp;#39;s kind thing X X+
+one right so we&amp;#39;re just adding one to
+each of the primes okay so if we were to
+say for example primes uh map x x equals
+99 what we get out from the map is the
+result of that there right but what
+happens the primes it&amp;#39;s not modified
+it&amp;#39;s not
+mutated but if we were to say for
+example primes um equals
+uh p uh prime one I&amp;#39;m not prime
+three
+prime five I&amp;#39;ll do five for example
+right and if you did the same thing
+primes do Map X x99 we get 99 99 to 99
+of course we for each of the elements we
+you know we spit out uh the result of
+this what whatever this evaluates to and
+of course with an assignment it
+evaluates to not of course but it
+evaluates to the value of the what&amp;#39;s
+being assigned but
+primes we don&amp;#39;t modify the original
+right just like just like before
+however what we can do is say
+primes um
+map x. Prime
+equals
+77 let&amp;#39;s see what happens there we get
+77 77 77 but now primes we&amp;#39;ve
+modified the
+internal data inside each of the
+elements of the array now that still
+works if we do that let&amp;#39;s go out here do
+that again so we we can say um let&amp;#39;s do
+that here let&amp;#39;s clear screen let&amp;#39;s go to
+the start and say
+const so of you know make it a
+constant so then we say here Prime is
+fine then we say here primes do map now
+the question is yes exactly Dwight says
+complex objects are passed by reference
+so if we do a map
+now should this work this is a constant
+right we&amp;#39;ve now defined primes as a
+constant as in you know unchangeable
+immutable the value of primes is
+immutable however let&amp;#39;s do that just for
+the
+66 of course map spits something out map
+returns something and remember last week
+last time we said oh yeah map is
+chainable because then we can add a
+filter or reduce or
+whatever
+however it&amp;#39;s still changed because we
+haven&amp;#39;t changed
+the overall value of primes primes is
+still an array of objects we&amp;#39;ve changed
+the things inside the object so beware
+right even if it&amp;#39;s a constant you can
+still mutate the inner values of objects
+because as um Dwight says complex
+objects are passed by reference do we
+get that now and the again another
+difference if we say
+um in fact um one of one of yeah one of
+the things we could do for example to
+primes is say primes map 60 and then we
+can say you know um red we could add
+those things together right reduce a x
+uh hold on um a x A+ X start start zero
+there we go we&amp;#39;re going add add those
+numbers together right yeah that&amp;#39;s
+that&amp;#39;s why you would like to sort of
+have map as a as a spitting something El
+so you could change something now for
+each because that is what&amp;#39;s happening
+here that&amp;#39;s what&amp;#39;s going on here
+incidents for each and just again to say
+um primes primes we&amp;#39;ve got Prime 66 so
+we could say primes for
+each X or p p x let&amp;#39;s do a console do
+log okay um uh
+console.log uh of x.
+Prime see there we go like that
+however this is the output from
+console.log and then this is the output
+from the actual call to for each and we
+did this last time
+right so if we
+see if we see for example a map function
+no well let&amp;#39;s not even go there right so
+we know that now so now we understand
+what&amp;#39;s going on with this okay that was
+just a little bit of a
+refresher so now we we&amp;#39;ve really seen
+that if we pass something in and we
+we&amp;#39;ve for each over something or map
+over
+something we can depending on the
+circumstance of the shape of the data we
+can potentially modify the original
+mutate the original whether that&amp;#39;s map
+or whether that&amp;#39;s for each okay so John
+says bit of a tangent tangents are
+always good uh but I read an interesting
+article the other day by the person who
+introduced const into typescript and how
+he regrets it now and that it should be
+removed oo John if you get a chance what
+what was to summarize the reason why why
+they regret it
+um can&amp;#39;t say I&amp;#39;m a big fan of typescript
+um I like JavaScript as it is I like the
+um uh the flexibility and the wonderful
+nature of java JavaScript and the sort
+of multi Paradigm nature um
+oh I&amp;#39;m also not really a big fan of the
+classes concept that was introduced with
+the
+S6 super ugly in my personal opinion ah
+okay mey
+JavaScript yeah you can find the article
+I&amp;#39;m not sure you a to paste the URL
+maybe sort of Disguise the URL so
+YouTube doesn&amp;#39;t see it as a URL in the
+chat and doesn&amp;#39;t sort of suppress
+it so Visa says I think the console log
+command produces the output on the
+console only but the log implementation
+usually has the ability to manage many
+kinds of standard out for example WR log
+file yes exactly there are there are
+more facilities with the logger as well
+exactly thank you
+weas so why don&amp;#39;t
+we would it be a good idea yeah let&amp;#39;s
+let&amp;#39;s copy
+this okay let&amp;#39;s grab
+that and
+yeah let&amp;#39;s do that let&amp;#39;s make make this
+a little bit bigger
+there
+[Music]
+and let&amp;#39;s ah yeah here we go here we
+go let&amp;#39;s talk very briefly before we
+start let&amp;#39;s talk
+um
+uh ah okay Maran says disagree with you
+on that slightly disagreement is always
+disagreement is good because we learn
+from each other so says typescript does
+not make sense on every project I use
+typescript and classes on my spreadsheet
+importer and makes my life so much
+easier absolutely and I think also it&amp;#39;s
+it&amp;#39;s a little bit of
+a it&amp;#39;s a little bit it&amp;#39;s partly not
+personal preference it&amp;#39;s partly what one
+is used to I grew up
+on dynamically typed
+languages while I like hll for example
+you know I&amp;#39;m not a huge hll developer
+but I do like the beauty of hll Elm for
+example
+um I just don&amp;#39;t get on with typescript I
+don&amp;#39;t get on with the concept of
+typescript in that
+why why constrict and constrain an
+already beautiful
+language know I fighting talk I know
+saying JavaScript a beautiful language
+but I think it
+is um but then again you know uh you
+know I I like writing stuff in bash so
+that explains a lot doesn&amp;#39;t it um
+especially when and helmet says Mar and
+even if projects get bigger Marian I
+especially when they get bigger then you
+regret not using T yes although I have
+heard maybe these stories are apocryphal
+I not really true um but I have heard of
+some large projects moving away from
+types back to JavaScript for whatever
+reason I don&amp;#39;t know anyway um I think
+the typescript JavaScript thing the the
+debate is super interesting and super
+wonderful and we learn from debates like
+that um but the debate will always be
+there I think so um yeah no I completely
+uh honor honor that opinion and
+everything and the disc agreement is
+great it&amp;#39;s
+great anyway one thing that we do need
+to have a look
+at is what&amp;#39;s all this nonsense here
+what&amp;#39;s what&amp;#39;s all this class here
+extends you know it&amp;#39;s looking like Java
+it&amp;#39;s in my personal opinion it&amp;#39;s
+like um and we have the you know init
+functions and everything so why why
+anyway DJ calm down uh typescript
+definitely slows down development how
+however it is worth it in the long run
+in my
+opinion got some good typ script fans
+here in the uh in the chat it&amp;#39;s
+brilliant it&amp;#39;s brilliant um Dwight how
+is this concept that primes are pass by
+value whether other complex objects by
+ref is so connected with the cap
+handless should we check the data type
+before any I don&amp;#39;t think we need to
+check the data type I think we just need
+to
+be aware as a good question dght why are
+we looking at this why are we digging
+into this a because it&amp;#39;s interesting B
+because you know I&amp;#39;ve got the microphone
+um but C I think we just I think it&amp;#39;s
+always good to have cap do everything
+for us right because you know it&amp;#39;s a
+it&amp;#39;s a DM do I mean philosophy which is
+fantastic but I think we also need to
+understand what actually is going on
+that&amp;#39;s that&amp;#39;s my that&amp;#39;s my
+um they went back to jto ah interesting
+yes with the with the comment blocks um
+they need to understand uh I think I
+like to understand what&amp;#39;s going on okay
+actually talking of that talking of
+that let&amp;#39;s do a little bit this this
+this I knew this was going to be a
+random episode I hope you don&amp;#39;t mind um
+but to see what&amp;#39;s going
+on to see how simple in a
+way the Handler mechanisms
+are let&amp;#39;s go into here let&amp;#39;s just put a
+break
+point okay let&amp;#39;s do that shall we and
+we&amp;#39;ll stop this stop running here we&amp;#39;ll
+stop that get rid of that and then we&amp;#39;ll
+start debugging oh This brilliant chat
+brilliant chat uh Mark tman the sooner
+gen I will do coding I it can&amp;#39;t it can
+decide what to do what to use typescript
+or JavaScript now that reminds that sort
+of harks back in my small brain to what
+John
+says which was typescript definitely
+slows down development one of the things
+that I&amp;#39;m still not sure about with
+generative AI based coding is it
+generates code for
+you and you know you code you get
+through coding
+faster that&amp;#39;s not the only benefit of
+generative a based coding yes I
+know but is more code and and more code
+faster actually
+better question mark I don&amp;#39;t
+know um You&amp;#39; still got to understand I
+think you&amp;#39;ve still got to understand
+what has been generated is it correct is
+it appropriate it reminds me in a
+really perverse way I think I&amp;#39;ve
+mentioned this before to somebody of you
+know in the 1980s when you know with in
+the Steve uh Steve Balmer era of
+Microsoft developers developers
+developers where prod developer
+productivity was measured in lines of
+code or klocks thousands of lines of
+code okay that&amp;#39;s not an era I want to go
+back to okay anyway John Marie depends
+if you&amp;#39;re asking the product manager or
+the
+developer very good observation that
+John okay so just to understand what is
+going on here in terms of how this after
+Handler Data Logger is being called
+let&amp;#39;s let&amp;#39;s let&amp;#39;s debug it let&amp;#39;s go bang
+CDs serve put break point there okay so
+let let it start up bum bum bum and I&amp;#39;m
+in theous function as we can see the
+normal output listening okay let&amp;#39;s just
+go to the browser and put 40004 in hit
+enter there nothing oops nothing there
+yet because of course we haven&amp;#39;t read
+the books so let&amp;#39;s go and do a where is
+it uh let&amp;#39;s request the books there now
+there we go
+oh I&amp;#39;ve already got a break point there
+what was what&amp;#39;s going there there we go
+so we now have let me do that again let
+me do it again let me let me S of uh go
+through there there let&amp;#39;s do that again
+run
+404 what&amp;#39;s going
+on uh have I not run through there there
+we go right there we go there we go
+there we go run that one again and
+refresh 404
+where are we what&amp;#39;s going on are we here
+or oh yeah we&amp;#39;re here now we can
+see in the call stack we&amp;#39;re here right
+and here that&amp;#39;s where we want to be
+right so what&amp;#39;s
+happening it&amp;#39;s super simple
+uh typ Advantage object actually let&amp;#39;s
+let&amp;#39;s go back out out of here uh step
+over and
+step over there there there we go there
+we there it is there it
+is Rose for reach hand let Rose for
+reach where is it uh
+after after where is
+it phas after Handler read event read
+Handler is
+else
+okay okay okay
+okay where I want to find the thing that
+calls here uh after each logger data
+where are we here uh let&amp;#39;s go through
+here
+and there there log up what&amp;#39;s going on
+what&amp;#39;s going on can&amp;#39;t find
+it oh here we go as well um Maran says
+for you for your information the big
+open source project was called turbo
+thank you thank you Marian so Dwight
+says so that is why we are cloning repos
+and push them to beat that kpi yes
+exactly clone the repos and push yes yes
+more code more code more code um what is
+going on here let me um run that through
+to completion are we still are we
+running did we get the did we get the
+data books ah okay ah that&amp;#39;s why
+books there we go right
+now let&amp;#39;s step over that over that R for
+there we go Handler there oh of
+course I was playing about with this
+last week and this I thought I don&amp;#39;t
+recognize this line of code but this is
+the each look it even DJ read the
+goddamn code right it even tells us here
+so what&amp;#39;s happening here is we have a
+Handler okay but let&amp;#39;s tell you what
+then what we&amp;#39;ll do what we&amp;#39;ll do let&amp;#39;s
+just stop that stop that
+let&amp;#39;s change that back
+to read okay um there we go that&amp;#39;ll do
+t.m book whatever right let&amp;#39;s save that
+let&amp;#39;s save that and run it
+again have I I hope I&amp;#39;ve not lost you
+here um I think I&amp;#39;ve lost myself but
+anyway let&amp;#39;s go back here launch
+listening okay so let&amp;#39;s do that again
+R are we ready are we ready are we ready
+yes we&amp;#39;re ready go
+okay we&amp;#39;re now in our call back in a
+normal read
+right let&amp;#39;s step over this and out of
+the call back to the thing that called
+the call back out up to there there we
+go that I saw this I saw this line I
+thought this is a really interesting
+line where are we we are
+inside node modules at sap CDs lib serve
+serve
+dispatch.me or any sort of design time
+tools or development
+tools so this is the real thing and it&amp;#39;s
+in lib serve which you think okay well
+yeah this is the server stuff server
+implementations serve dispatch and you
+know when you dispatch you you sort of
+send out to the
+appropriate recipient the request for
+that recipient to um fulfill that
+request possibly or do something with
+that request okay that&amp;#39;s the whole point
+of the word dispatch here and look we
+see here um oh so John says on the
+constant thing I can&amp;#39;t find the article
+unfortunate but the main gist was that
+the con does not mean constant it means
+onetime assignment yes exactly that&amp;#39;s
+what we saw here wasn&amp;#39;t it when we were
+doing the primes it&amp;#39;s a one it&amp;#39;s a con
+so if I if I say uh We&amp;#39;ve managed to
+change primes here let&amp;#39;s do it again um
+primes map
+um primes do
+map if I change that to 50 44 for
+example primes is Now 44 however what we
+can&amp;#39;t do is say primes equals
+banana okay that&amp;#39;s what John I think
+you&amp;#39;re referring to right that&amp;#39;s what
+the the author is referring to it&amp;#39;s sort
+of misleading as in it&amp;#39;s not immutable
+generally it&amp;#39;s a one-time assignment is
+that is that what you&amp;#39;re saying John is
+that what you&amp;#39;re relaying what the
+author said and that makes a lot of
+sense um so
+now after handlers do after handlers
+running so the really interesting thing
+about cap node.js is that you can look
+at the source code and find out what&amp;#39;s
+going on now this is arguably not
+necessarily Back to Basics however what
+it does show you is that you know we&amp;#39;re
+not very far away it&amp;#39;s only on the other
+side of the fence
+from having a look if something you
+don&amp;#39;t understand something go and have a
+look what the context is of what your
+thing is doing or not doing and it might
+help so here we can
+see let&amp;#39;s go a go through all the
+handlers thisor handlers. after filter
+them all out and to make sure that that
+I mean I&amp;#39;m just reading from in an
+English perspective you know this is
+classic sort of cap noj flavor of
+JavaScript which is quite unique I would
+say um
+and to and obviously each Handler has a
+four okay which is a is some sort of
+property that will allow this filter to
+work to say is it for the current
+request okay because remember we&amp;#39; got
+handlers like this thing here but it
+might not be for that request that is
+for a read for books
+right if we&amp;#39;ve got any handlers as in
+you know if the length of this handles
+array is is um not zero there two in
+this case right then
+we just make sure that um if it&amp;#39;s readed
+if it&amp;#39;s not an array make it an array
+this is like a you know nested a nested
+turnery which is crazy crazy interesting
+crazy sort of you know whoa wow oh yeah
+brain uh and then it just goes whack and
+passes makes a call to each of the
+handlers look handlers. map for each of
+the handlers it makes a call so this is
+basically a dynamic call whatever the
+Handler
+is cuz of course the Handler is just a
+function and this is one of the one of
+the many beauties of JavaScript
+JavaScript has or and and offers the
+ability to uh use higher order functions
+and you can say do call so you call
+whatever that function is and this is
+anonymous this anonimous function here
+which is this that thing there that&amp;#39;s
+already highlighted in Gray
+right and first of all you have to pass
+whatever you want for this thing to be
+this is a JavaScript thing you know
+other languages as well and then you
+pass it the results okay and that&amp;#39;s it
+so there&amp;#39;s there&amp;#39;s no magic behind
+what&amp;#39;s calling this right anyway why am
+I why am I talking about this anyway I
+can&amp;#39;t remember
+um uh so John says exactly right it&amp;#39;s
+misleading as in most other languages
+constant actually means constant so it&amp;#39;s
+easy to assume that this applies to JS
+yes exactly I just found it John it was
+Ryan Florence and his talk let it be let
+it let me be let me be let me be oh let
+me be ah let const let Etc yes thank you
+very much John and Leo now um what were
+we doing what were we doing ah
+yes so I can&amp;#39;t remember why I was
+talking about that but what we want to
+do is grab this let&amp;#39;s grab this because
+I&amp;#39;ve only got 15 minutes left this is a
+bit of a random one I apologize um one
+thing that I um let&amp;#39;s put that in there
+right uh and we&amp;#39;ll have to sort of
+modify this a little bit because of the
+difference between what we&amp;#39;re using here
+cds. service.
+imple which is
+referred to in the capaya documentation
+as the old style the non-class style but
+if you have a look here I&amp;#39;ve got a link
+to how to provide custom server
+implementations um and the example the
+canonical example here is to use
+javascript&amp;#39;s es6 classes because
+basically what you&amp;#39;re doing is the cds.
+application service is a class that
+provides
+right all the default imp service
+provider implementation so you can you
+know you write your CDs and you don&amp;#39;t
+write any JavaScript at all and all of a
+sudden you&amp;#39;ve got a fully functioning
+crud plus q o data service how the heck
+does that work it works because of the
+CDs application service class that adds
+generic handlers as introduced in the
+cookbook guides right so what you&amp;#39;re
+doing
+here is you extend that you basically
+you know base on that
+and then you define what you want to do
+now you can say here alternatively use
+old style CDs service. imple functions
+okay so have a look at that have a read
+of that have a think about that and the
+reason I&amp;#39;ve been
+deliberately using CDs service. imple
+for our you know for our early Back to
+Basics episodes is because it&amp;#39;s simpler
+okay we I didn&amp;#39;t have
+to introduce the concept of classes
+which is in my opinion I might be wrong
+let me know in my opinion more complex
+than it needs to be just to start
+writing service
+implementations I&amp;#39;m just seeing I&amp;#39;m just
+see the word 6502 what um uh Frank toy
+welcome Frank I just finished my 6502
+machine language State machine regex
+Pac-Man engine I&amp;#39;m just here to relax
+excellent Frank welcome 65 so I had an
+acorn atom back in the 80 early 80s and
+it had this uh very strange dialect of
+basic called atom basic but also you
+know being a 6502 based 8 bit m micr
+processor home computer you could also
+embed bits of
+652 assembl which is awesome sta LDA oh
+yeah memories memories coming back well
+done Frank and welcome Vall is there any
+way we can find out what version of cap
+uses which version of Express npm
+package yes there is maybe we&amp;#39;ll look at
+that next time because I I want to I
+mean this is a great question Vel maybe
+somebody can answer it in the chat um
+but we&amp;#39;ll maybe look at that next time
+um what I want to do is just add this so
+I&amp;#39;ll just do this here and say we&amp;#39;ll
+const uh change urgency due to subject
+equals and then we&amp;#39;ll make that into an
+anonymous function there we go is that
+um is that is that syntactically correct
+I&amp;#39;ve done everything let&amp;#39;s do a format
+save yeah okay um change urgency ju okay
+declared but never you I like that Meme
+what&amp;#39;s it called
+um uh calm down I am going to use the
+varable that Meme or is it calm down I
+am going to use the variable me there we
+go how good is that me to my ID calm
+down and I&amp;#39;m going to use the variable
+brilliant um anyway so we&amp;#39;ve got
+this and now we&amp;#39;ve got this this change
+urgency what we want to do is where is
+it just call it like this yeah so
+because we&amp;#39;ll also see that we can sort
+of maybe make that a little bit neater
+let&amp;#39;s get rid of this logger thing as
+well and now we&amp;#39;ll say um data no wait a
+minute um change urgency due to subject
+data there we go let&amp;#39;s get rid of that
+we&amp;#39;re not using the um the request let&amp;#39;s
+get rid of that let&amp;#39;s get rid of that
+break point as well okay so um exactly
+zahed uh probably we can check that in
+package Jon yes using using mpm I&amp;#39;m sure
+we can work out something um
+brilliant obviously there&amp;#39;s no incidents
+here so let&amp;#39;s chain actually let&amp;#39;s
+change
+um
+incident to book Global there we go
+right oh books oh I messed up didn&amp;#39;t I
+books books books there okay so we&amp;#39;ve
+got data if there is any data con books
+equals ARR that&amp;#39;s that&amp;#39;s this thing here
+it&amp;#39;s a similar sort of check isn&amp;#39;t it
+belt and braces to this
+thing here isn&amp;#39;t it how is books an
+array if it is fine if it&amp;#39;s not make it
+an array then we can do a for each okay
+books for each books book um books book.
+title book. urgency so we don&amp;#39;t have an
+urgency book. title to lowcase urgent we
+haven&amp;#39;t got any books with a title
+what&amp;#39;s our what&amp;#39;s our books here books
+uh load
+books with oh no it&amp;#39;s not those books
+it&amp;#39;s these books isn&amp;#39;t it
+[Music]
+um uh node what&amp;#39;s our book data Data
+Book
+oh yeah of course so let&amp;#39;s have let&amp;#39;s
+use harmless uh title includes harmless
+then book. urgent we don&amp;#39;t have an
+urgency but why don&amp;#39;t we say book.
+urgency equals
+Hi and
+then uh let&amp;#39;s
+open serve let&amp;#39;s open our main CDs let&amp;#39;s
+put it over
+here and what do we say here
+extend um all . cacro do books
+with now here we go here we go here we
+go um so oh oh we so Vel says it&amp;#39;s
+direct dependency of the package okay so
+that&amp;#39;s a conversation about the express
+and cap I&amp;#39;ll I&amp;#39;ll sort of look at that
+but then try and get on with this here
+uh and over the other we okay so
+um there is such thing as we can do this
+uh this is this is in ref to what Dan
+Daniel said last time about yes while we
+have the
+canonical the canonical sort of example
+where you had a you know 11% discount
+exclamation mark onto the end of the
+existing string like we were doing
+before um why don&amp;#39;t we have another fi
+virtual let&amp;#39;s have a virtual field
+virtual
+urgency string there right let&amp;#39;s just
+get rid of that get rid of that go back
+to the terminal let&amp;#39;s do a CD s
+watch I put my face down there because
+we can see that so all I&amp;#39;m doing is
+adding let&amp;#39;s see what happens if we do
+that um we go to here and go
+404 uh look at the metadata we now have
+hopefully at property name
+urgency okay
+now um there&amp;#39;s no urgency this is not
+persisted in fact in fact we should
+see urgency there look
+annotations it gets automatically
+annotated with core computed true I.E
+this is a computed field not uh a field
+that should be persisted in the database
+layer which which is sort of you know
+not addressing but it&amp;#39;s sort of in the
+same mental space as what Daniel
+mentioned last time which was you know
+we shouldn&amp;#39;t really be changing well
+maybe you should maybe it&amp;#39;s maybe it&amp;#39;s
+not but anyway we&amp;#39;re now
+Computing on the fly a value for an
+element for a field that is virtual okay
+so it&amp;#39;s a little bit sort of quot and
+grot
+safer um so why don&amp;#39;t we do that so book
+urg is that does that will that work
+let&amp;#39;s see let&amp;#39;s
+see oh let&amp;#39;s let&amp;#39;s go here let&amp;#39;s go here
+and do it here because because we&amp;#39;re on
+the terminal uh there we go does that
+still
+work it worked look check it
+out we have here and because it&amp;#39;s a
+Virtual Field it doesn&amp;#39;t appear if
+there&amp;#39;s no I guess that&amp;#39;s interesting um
+that is very interesting so we don&amp;#39;t get
+virtual null or something virtual
+urgency string we&amp;#39;ve now done this
+now look what&amp;#39;s happening look What&amp;#39;s
+happen let&amp;#39;s move that over there look
+what is happening let&amp;#39;s put that down
+there may be one
+smaller we are
+now using the after event and we&amp;#39;ve
+registered this Handler here
+let&amp;#39;s do it on one line so we can sort
+of see it in one go there we go so we&amp;#39;ve
+got this Handler which starts here and
+goes all the way to
+here notice he even here okay I mean
+we&amp;#39;ve done this in a different way to
+here we&amp;#39;ve done this like where is
+it so let&amp;#39;s let&amp;#39;s remove our enclosing
+brace just like it says here just like
+it&amp;#39;s here
+there there okay save
+that still works
+okay so this
+theoretically is well sorry not this is
+calling this this uh function here is
+this function returning anything why do
+we do so uh why do we do this um const
+uh return Val equals
+that let&amp;#39;s do don&amp;#39;t need that
+anymore um and then
+console.log return
+Val
+return return Val right there we go
+there well what&amp;#39;s going on ah yeah we
+need obviously that don&amp;#39;t
+we what&amp;#39;s going on
+ah
+there undefined so we get return value
+there return value undefined so we&amp;#39;re
+not getting anything back from here but
+the point is because of the pass by
+reference because of this
+whole mutability actual mutability
+of theoretically only immutable
+values what&amp;#39;s happening inside of here
+inside this for which is is is looping
+over iterating over the values in books
+which is the data
+which is the data which is the data
+things will still happen the right thing
+will still happen but it&amp;#39;s happening
+because of lots of interesting reasons
+in fact while we&amp;#39;re
+here the final thing we could do
+actually what let&amp;#39;s get rid of that
+again like
+that can you noce this is a pattern I&amp;#39;ve
+just noticed
+that that&amp;#39;s fine and that&amp;#39;s what we&amp;#39;ve
+got here
+right this after read incidence data
+this changes BL calls that there right
+God it&amp;#39;s Ching it down but look at that
+we could simplify this couldn&amp;#39;t we let&amp;#39;s
+just let&amp;#39;s have a separate line so we
+can
+see it in parallel we could just do this
+um
+there is that not a lot more
+beautiful can you see what we&amp;#39;ve done
+there we&amp;#39;ve
+actually specified not an anonymous
+function as a callback now we were
+creating Anonymous fun that was like you
+know on thefly Anonymous function
+definition and then that is the function
+that is called as the call back for the
+after event for read of
+books but now here all we&amp;#39;re doing is
+we&amp;#39;re saying let&amp;#39;s this is the function
+this is the Callback function specify
+that so you don&amp;#39;t always have to Define
+your
+functions in line as anonymous functions
+and especially if you don&amp;#39;t need the
+request as the second
+parameter you can do that anyway um that
+was a bit random that episode I
+apologize but I think we&amp;#39;ve done enough
+now on the old
+um JavaScript and constants and maps for
+each pass by value pass by reference and
+everything um so I think I think we&amp;#39;re
+okay to move on let me know let me know
+in the chat before we finish now are we
+okay okay to move on and um there is an
+episode next week because I&amp;#39;m uh not
+away on Friday so yeah I shall see you
+next week so thank you so much for
+joining put in the chat whether this was
+okay and uh yeah I&amp;#39;ll see you next week
+bye for now

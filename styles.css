@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  aside {
+    width: 200px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-right: 1px solid #ccc;
+  }
+  
+  aside h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  aside ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  aside ul li {
+    margin-bottom: 0.5em;
+  }
+  
+  aside ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  main section {
+    margin-bottom: 2em;
+  }
+  
+  main section h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  

@@ -1,0 +1,1383 @@
+[Music]
+[Applause]
+[Music]
+[Music]
+[Applause]
+[Music]
+good morning good afternoon good evening
+welcome to hands on sap Dev with me DJ
+excuse me Q mro oh still got a cough and
+I&amp;#39;ve just
+realized I&amp;#39;m not taken my jump off yet
+um let me do that in a minute but
+basically welcome and thanks for joining
+good morning to Tom to fol Aloha to you
+uh FKA and to Nico I do like that music
+as well um this is if you&amp;#39;re if you&amp;#39;re
+not sure what we&amp;#39;re talking about music-
+wise Kara good morning to breia to you
+in breia excellent um yeah we&amp;#39;re talking
+about uh really nice um countdown little
+video um let us know what you think in
+the chat good morning morning to you
+akib uh good morning AP in dorf um yeah
+let us know what you think about this
+little bit of a
+countdown style thing uh lovingly and uh
+in in great detail put together by our
+one and only friend
+Nico uh so let us know what you think
+because I think it&amp;#39;s fair to say that
+you know it&amp;#39;s not that straightforward
+if we want to keep it up to date with
+you know a new featured piece of
+documentation the latest upcoming sap
+developer news and everything then of
+course you know we got to keep it up to
+date so let us know in the chat right
+now um what you think and whether we
+should continue with it because if you
+like it then we can and will continue
+with it if it&amp;#39;s you know not that
+interesting then you know we&amp;#39;ll knock it
+on the head because it&amp;#39;s quite a lot of
+work anyway good morning kic uh why was
+the npm package for cap named as sacds
+and sacs DK cic I love it straight in
+there with a question directly uh why
+was the mpm package named um for cap oh
+I see um for cap as in you know
+obviously you capitalizing cap because
+it&amp;#39;s an acronym but are you thinking it
+might be otherwise SCP cap that&amp;#39;s a
+really good question I mean I think the
+the heart of cap is CDS um and it&amp;#39;s
+really all about CDs and all Al you know
+what thinking about it it&amp;#39;s such a great
+question thank you for um you know
+saying it out loud what probably all of
+us were thinking internally without even
+realizing now sap is quite keen on using
+proper names for products and everything
+and I think it&amp;#39;s still fair to say that
+cap is still a little bit rebellious
+it&amp;#39;s still a bit little bit sort of
+illegal to say the word cap because
+officially you know we should say sap
+Cloud application programming model but
+of course that&amp;#39;s such a complete
+mouthful and impossible to say you know
+more than once without stumbling over
+your tongue that we all say cap but cap
+I think uh well not I think I know
+wasn&amp;#39;t and maybe still isn&amp;#39;t an official
+name from a branding perspective so
+maybe that&amp;#39;s why they chose CDs I don&amp;#39;t
+know I don&amp;#39;t know that that would be my
+guess but it&amp;#39;s a great question a great
+question to start off with um and would
+it have been oh oh uh oh yes so I just
+saw the second sentence that you said
+would it have been easier if they named
+it sa cap um it creates a lot of
+confusion for newes that&amp;#39;s interesting
+I&amp;#39;ll feed that back I don&amp;#39;t think
+they&amp;#39;ll they&amp;#39;ll change it now but um I
+you know I think I think um that&amp;#39;s
+that&amp;#39;s a that&amp;#39;s a great question chakia
+good morning uh the travel was okay well
+actually it was the whole code the whole
+codm experience I&amp;#39;ve just been U just
+back from Poland last night um had a
+brilliant experience with loads of
+fantastic people in roslof and in Warsaw
+my travel back last uh yesterday was a
+bit of a nightmare it took me 13 hours
+door too from leaving the hotel in
+Warsaw yesterday morning to getting back
+here home on the narrow booat 13 hours
+because British Airways was delayed one
+of my flights and then canceled another
+one of my flights I had to get the train
+from Heath Ro to London London to
+Manchester Manchester to Wigan Wigan
+to anyway there we go good morning
+everybody else as well Matias good
+morning how&amp;#39;s your laptop sticker game
+going uh rangar jri hello hello to you
+as well and um AP very nice sets the
+mood oh thank you for the feed so that&amp;#39;s
+the feedback very nice sets the good
+mood and informative too thank you for
+that feedback fulker um i r this is sapv
+after all we don&amp;#39;t do name as well FKA I
+couldn&amp;#39;t say it I couldn&amp;#39;t have said it
+better myself thank you very much asok
+good morning to you in Belgium and Nico
+I kind of agree but then the CDs
+language is so similar snath hello DJ
+and everybody else hello everybody hello
+everybody and Javier good morning and
+also to the rest of the early morning
+viewers exactly I hope you got your
+coffee oh I&amp;#39;ve got oh in
+fact I um I was so tired this morning
+from the travel I got the wrong mug so
+I&amp;#39;ve got my um if you can see this I
+have cap if you can read this I have
+capsized mug which was uh got for me by
+a love lovely set of people in near TR
+so thank you whim again jaier good
+morning and sides good morning and MTS
+good morning that&amp;#39;s fantastic so
+let&amp;#39;s get started let&amp;#39;s just get on with
+it um oh yes let me go to here uh in
+fact what up I was just while I was
+having my first coffee um I&amp;#39;m going to
+be leaving this Marina I&amp;#39;m in a Marina
+at the moment I stayed over in the
+marina over winter yeah I need coffee
+have I need coffee and I&amp;#39;m planning my
+next route and I thought I should just
+leave this up here I&amp;#39;m going to go to uh
+salt house dot in Liverpool just give a
+zoom out just to show you where I am and
+where this whole thing is as the UK and
+everything brexit land as it&amp;#39;s now
+called
+um and um I&amp;#39;m going to be traveling at
+the end of this month basically making
+my way over a couple of weeks to um to
+Liverpool docks beautiful uh amazing
+place I&amp;#39;m going to stay there for a bit
+and I I think it&amp;#39;s just it might be
+interesting for you to to see you know
+the way that I plan my route there&amp;#39;s
+Bridges here and I need to know where
+the swing bridges are so I have to open
+them with my key and stop the traffic
+and everything go through and then you
+go down here and then here&amp;#39;s a winding
+hole but basically if I need to turn
+around and go back the other way you you
+need to look for a winding hole cuz the
+canal is quite narrow and the canal the
+narrow boats are quite long and then
+down here got some locks there&amp;#39;s a lock
+now actually the the arrow as it were
+going that way means that that is going
+Upstream so you here I&amp;#39;m going to be
+descending going here going from east to
+west I&amp;#39;m going to be descending down a
+level in that lock there there&amp;#39;s
+princess dock princess dock lock down
+there so descending down down down into
+the sort of the Basin so anyway that&amp;#39;s
+going to be my journey and you can see
+the route here has got Bridges and
+aqueducts some winding holes and locks
+here and bridges more bridges and
+everything so that&amp;#39;s how I and also what
+I love is this stuff is still measured
+in fur Longs which is about roughly 200
+200
+M anyway that&amp;#39;s that did you know did
+you know that
+um uh the January release of cap cap
+stroke CDs just to uh to your point
+um is
+out and um we have CDs JS the no JS
+version is 7.6 in fact in this mornings
+I always think you know news is really
+sort of you know my brain till Friday
+morning this week&amp;#39;s episode of sap
+developer news uh there&amp;#39;s a section on
+uh the January release uh covers all
+sorts of things open to elory plugin and
+everything which we I just I thought
+we&amp;#39;ll have a little play with very
+briefly before we get started because
+it&amp;#39;s like so Bonkers easy to use these
+plugins right and oh that reminds me
+Nico can you share the URL to um uh
+Tom&amp;#39;s or the developer challenge this
+month which is all about CDs plugins and
+the this is an open this is a CDS plugin
+right um by the way uh the International
+Day of women and girls in science is
+this coming Sunday the 11th of
+February and uh to sort of Mark that
+occasion this week&amp;#39;s sap developer news
+uh is brought to you solely by the women
+the girls of the sap developer Advocates
+team so top kudos to them for doing the
+news and there&amp;#39;s also going to be I
+think um uh who talks about that uh
+somebody talks about that at the end
+anyway there&amp;#39;s going to be uh a special
+news episode um All About Women in Tech
+and specifically in the sap world as
+well so there we go ah there we go so
+okay so bra land jaier is smiling Phil
+hey hey Phil good after afternoon good
+evening uh Leo Leo van hangle in the
+house fantastic and
+borak good morning borak so uh the
+latest sap developer news let me just
+share that with you on the chat there
+let&amp;#39;s stick that in um okay good let&amp;#39;s
+get started now actually um if we have a
+look at this open tary plugin let me
+share that with in the chat with you as
+well um
+uh Nico if you&amp;#39;re still there can you
+share that in fact um I don&amp;#39;t know where
+there it
+is
+um February there we go look at that uh
+oh that&amp;#39;s the internal thing I don&amp;#39;t
+know what I don&amp;#39;t know what the um where
+is it in the sap Community can you go
+and uh have a look for me please Nico
+and uh post it as a link oh um ah yeah
+of course you can&amp;#39;t post links oh my
+goodness me um oh I know I know I know I
+know is it in here uh is it in the is it
+in the information I don&amp;#39;t know oh my
+goodness launch of new gu pre uh I don&amp;#39;t
+know I don&amp;#39;t know I don&amp;#39;t know what&amp;#39;s
+going on uh we&amp;#39;ll find it we&amp;#39;ll find it
+anyway let&amp;#39;s get going in fact let&amp;#39;s
+have a look at this genu release and
+just to show just before we get started
+just to show how Bonkers easy these
+plugins are um so uh oh yes sorry Nico
+uh you pasted the link and it doesn&amp;#39;t go
+through yes um in fact um where did Tom
+post it h application development it
+could be in there I have no idea um
+let&amp;#39;s have a look uh
+um I don&amp;#39;t know where anything is here
+oh there we go look at that there we go
+top Kudos post Kudo that&amp;#39;s not a word um
+there we go there it is there it
+is fantastic so let&amp;#39;s share that as well
+brilliant okay
+so open Telemetry plugin it doesn&amp;#39;t
+matter what Telemetry is it&amp;#39;s basically
+you know extra measurements you know it
+took this long to do this and it took
+this long to do this and it took this
+long to do this and everything and open
+Telemetry is a
+thing but the key thing I want to show
+just very briefly is how Bonkers easy it
+is to use CD some CDs plugins um you
+know you can just well let&amp;#39;s do it open
+to it provides observability features
+such as tracing and metrics okay so
+it&amp;#39;ll give you stuff like this you know
+these these milliseconds and blah blah
+blah and this is what happened and woo
+yes and it can send it to uh open
+Telemetry uh instrumentation sort of uh
+recipients and everything but just for
+now cap JS Telemetry uh is the package
+now if we say this is what where we left
+off last week uh we have our simple
+service and all it is is a service with
+a function defined we played played
+around with this and we um run it and
+then we go hello world that&amp;#39;s fine
+because we&amp;#39;ve got the implementation of
+the service in our banana. JS it&amp;#39;s not
+in service. JS so we deliberately want
+to explicitly say where the
+implementation is now if we just say NPS
+M add cap JS now um fulker can you
+describe maybe or anybody describe what
+this cap JS prefix is uh why it&amp;#39;s called
+CAP JS what it&amp;#39;s for and everything in
+fact in fact in this week&amp;#39;s developer
+news um Nora talks about best of cap JS
+uh the website and everything so uh have
+a look at that so uh it&amp;#39;s that&amp;#39;s related
+so Capt tell oh in fact there we go if I
+run that again if I run CDs watch um
+there we go let&amp;#39;s let&amp;#39;s start that up
+logged in with the wrong account excuse
+a Mah bit of French there on a Friday
+morning from Nico excellent uh so they
+go I&amp;#39;m running running running running
+running running running making these
+requests okay so we get the basic uh
+logging output if we add mpm add cap JS
+Telemetry let&amp;#39;s just add that see what
+see what&amp;#39;s going to happen uh so f is
+saying cap JS double equals nicely done
+there Falcon nicely done there is the
+JavaScript Edition
+of cap exactly and it&amp;#39;s a sort of the
+the community and sap sort of combined
+sort of space and name space for mpm
+packages so you know folks can
+contribute in fact while we&amp;#39;re waiting
+for this oh it&amp;#39;s installed um while
+we&amp;#39;re waiting for this to install it&amp;#39;s
+installed already best of cap
+JS best of cap JS look at that that&amp;#39;s in
+the news as well so I&amp;#39;ll just paste that
+anyway there we
+go uh there we go hot packages all these
+different packages cap and ui5 and we&amp;#39;ve
+ALS you&amp;#39;ll also have things from um caps
+uh so have a look at that as well it&amp;#39;s
+amazing caps notifications CDs plugin
+there&amp;#39;s another plugin so we&amp;#39;ve just
+installed this plugin now if I run CDs
+watch watch
+happens I&amp;#39;m just going to run that let
+that start
+up and then hit refresh here again and
+there we go we get to L look I mean
+could that be any easier anyway that&amp;#39;s
+that so let&amp;#39;s remove it again because we
+don&amp;#39;t want to confuse ourselves uh mpm
+remove uh fine that was just a little
+bit of a digression and it&amp;#39;s you know
+it&amp;#39;s already 8:15 DJ what are you
+doing okay
+now what I want to talk to you about
+today or talk with you because I want
+your opinion we have super fantastic
+people all in the chat here so let me
+know what you think let me know if I&amp;#39;m
+doing things wrong let me know if you
+want to have a play around with
+something slightly differently but
+generally the direction I want to take
+us in today
+is to start by building the
+simplest cap
+service not a service that is like a
+little hello world with a with a with a
+no data function
+input but a service with one or two
+entities okay we&amp;#39;re going to start
+defining as simple as possible okay
+remember in a previous episode we looked
+at the DB serve and apple I should I say
+all the way around the DB the serve and
+the Apple app uh
+directory uh where we have the DB
+directory for you know
+traditionally um the the entity
+definitions the definitions which are
+closest to the persistence layer so this
+is where you will Define our entities in
+the serve directory you might have CDs
+definitions to Define services and the
+app directory is where you put your
+front ends and stuff let leave that for
+now however you don&amp;#39;t have to do that
+and as we saw in fact we blasted away
+there are no app DB or serve directories
+here all we&amp;#39;ve got is this Services CDs
+which is this thing
+here and we&amp;#39;ve got our banana JS um
+implementation so actually let&amp;#39;s
+remove banana JS so we&amp;#39;ve only got
+services. CDs of course now when I when
+I run that nothing happens run that CDs
+watch when I run that uh we should have
+oh yeah okay we even get an error here
+look at that oops ports that didn&amp;#39;t that
+we even get error here amazing
+error on serice start fail loading
+service implementation from banana. JS
+that&amp;#39;s because we&amp;#39;ve still got that up
+here so let&amp;#39;s uh delete
+that save that and now it&amp;#39;s fine because
+basically we&amp;#39;re explicitly we were
+explicitly telling the cap server go and
+load this file because that&amp;#39;s where the
+implementation is okay so we went and
+tried to load the file and it couldn&amp;#39;t
+find the file so it gave us an error now
+we&amp;#39;re not EXP basically telling it where
+the implementation is so it will assume
+if it exists that the implementation for
+this this particular service so the
+service definition brackets s in this
+file is in a file called services. JS as
+we found out from last time
+right um and but so it doesn&amp;#39;t try to
+look you know if it because it&amp;#39;s
+implicit it&amp;#39;s not going to give us an
+error if services. JS doesn&amp;#39;t exist
+however it will give us an error if we
+try and run this now because it will say
+service say has no handle okay right
+okay so far so good so uh rashar says
+cap JS is starting point for
+CDs
+um I&amp;#39;m not sure what you mean there uh
+CJs basically that actual you know those
+six characters cap DJs is the names
+space prefix for npm packages for the
+node.js
+uh cap uh for all sorts of packages so
+don&amp;#39;t wor in the house well welcome to
+John I was chatting to John last night
+bar go great to see the latest update to
+Cap all is receiving from the community
+exactly so that&amp;#39;s that&amp;#39;s a really nice
+way of thinking about what cap J about
+as well which is allowing the community
+allowing you know it&amp;#39;s a facility for
+the community to contribute as well and
+stand shoulder-to-shoulder with you know
+every Everybody cap team so Javier says
+question are those cap jsnp modules
+following any security policy to make
+them available to use at Enterprise
+level uh if so where can we find the
+documentation of the security policies
+and or check that those mpm modules
+should pass
+um I don&amp;#39;t think there&amp;#39;s any
+explicit security policies what security
+policies were you thinking of in
+particular and how might that differ
+from anything else open source that you
+might use in the Enterprise let me
+know um so uh or are you talking about
+um what fuler is answering here uh it
+Maps authorization from the uh sort of
+external ID entra entra to the uh like
+as your active to the cap authorization
+artifacts are you are you talking more
+about how external security and role
+based authentication maps onto
+Enterprises or are you talking more
+generally about you know how secure are
+these modules to use in the Enterprise
+let us know great questions great
+questions okay so while we think about
+that let&amp;#39;s think about building
+ourselves of simple service okay and I
+think by stumbling through building a
+simple service hopefully we&amp;#39;ll we&amp;#39;ll
+learn things we&amp;#39;ll find out things
+ourselves so why don&amp;#39;t we why don&amp;#39;t we
+start
+out s by just
+defining okay defining the simplest
+service that could possibly work okay so
+why don&amp;#39;t we say service um Bookshop
+because you know
+Bookshop is this you know is is
+basically uh you know a really simple
+way you know we have bookshops and I&amp;#39;m
+not going to try and sort of excuse
+using Bookshop you know the the the the
+previous sort of default go-to was sight
+wasn&amp;#39;t it any anybody um anybody around
+here in terms of uh you know what it was
+such a long journey yesterday my and I
+can I can feel my brain not working
+properly or working even less properly
+than normal so I apologies I&amp;#39;m a bit
+tired actually from the journey ofday so
+jaier saying I mean checks for
+vulnerabilities auditing the code well
+it&amp;#39;s open
+so that&amp;#39;s exactly the same we&amp;#39;re in the
+same game we&amp;#39;re in the in the same
+ballpark as any open source module that
+you may want to
+use for example Express Express is an
+open source module you know that&amp;#39;s
+actually used part and parcel of cap and
+anyway yeah that&amp;#39;s that&amp;#39;s a great
+question I I&amp;#39;m not aware that there&amp;#39;s
+anything extra above and beyond what
+happens normally in open source and
+using open source in the Enterprise what
+happens there great question though
+anybody got any thoughts on that put it
+in the chat so we&amp;#39;ve got a service
+Bookshop and it&amp;#39;s running look loaded
+model from one file so if we go back
+here and press refresh we have the you
+know and we know what this is all about
+now we got OD V Bookshop we know why the
+OD V4 preix exists Bookshop is the name
+from there and then we can look at the
+metadata which is pretty pretty much
+empty okay this is an old latest
+service s flight Phil says SF flight
+reminds me of Ides International is it
+International International
+demonstration and education
+system yeah wow Happy Days Ides we used
+to you know it&amp;#39;s like getting an a CD
+with an idz install was like Goldust
+wasn&amp;#39;t it you know oh yeah got some got
+an sap system with some actual data in
+it amazing um it was called iders I
+think yes um so sight was basically a
+you know a set of tables about flights
+and Airlines and trips and whatever
+interestingly enough enough there is a
+um a modern day trip pin there we go o
+data service um curated by Oasis at
+services. oa.org there is a trip pin pin
+service OD data um where is it trip yeah
+we go sample o data service and that is
+also about um public transportation and
+flights and airport locations and
+everything which you know that&amp;#39;s quite
+interesting that it&amp;#39;s the same sort of
+thing again it&amp;#39;s easy for the brain to
+think about anyway let me just share
+that with you it&amp;#39;s quite good that&amp;#39;s
+this is actually quite a good and
+well-rounded sample OD data V4 um uh
+service let me share that in the chat as
+well shows your age fill yes well I mean
+you know you and me both mate you and me
+both all PES get rid of that as well
+there we go okay
+so now
+what is a service without entities so
+let&amp;#39;s start
+defining an entity simplest thing that
+could possibly work now I&amp;#39;m sure many of
+you have seen sample applications from
+cap where the entities is defined in
+separate files in separate directories
+like I&amp;#39;ve talked about with DB Ser an
+app
+but
+um oh here we go what&amp;#39;s this Stefan good
+morning Stan late comment not late
+comment comments comment whenever ever
+whatever late comment regarding the
+question why the runtime and design time
+Tools in cap as called CDs I think it&amp;#39;s
+to align itself with the abap CDs World
+expressing intent to be for the same
+purpose that&amp;#39;s a great comment it&amp;#39;s a
+great observation I&amp;#39;m sure that there&amp;#39;s
+some uh some logic and Truth in that as
+well Stan yeah I think that&amp;#39;s that&amp;#39;s
+good because CDs is the thing that binds
+it right CDs is a thing that binds this
+sort of you know in my T my words you
+know lowercase the golden path of
+development keeping the core clean and
+develop your own stuff if you got an
+abap hat on then it&amp;#39;s WAP and if you got
+a non-ab hat on then it&amp;#39;s cap but
+basically you&amp;#39;re writing the same
+philosophically you&amp;#39;re you&amp;#39;re thinking
+at the same level in declarative terms
+in entities and relationships and
+services and annotations and so on so DJ
+stop talking start doing now what we&amp;#39;re
+going to
+do is Define something so entity
+books okay okay let&amp;#39;s save that but we
+also get here an error saying mismatched
+expecting something you you need to give
+us something entity books there we go
+but we still need something as well we
+need to give us something mismatch
+expecting something like that so entity
+books there there look at that that is
+that the simplest thing that could
+possibly work well again the amazing
+thing is that there is there&amp;#39;s so much
+help for us in this tight design time
+cycle that look at these beautiful
+things now some people look at these and
+say oh my God it&amp;#39;s all disastrous and oh
+there&amp;#39;s so many errors in cap and
+everything no no no cap is helping us to
+do the right thing and telling us stuff
+look at that so what is it saying here
+right at the bottom error Services
+expecting entity to have at least one
+element which is neither virtual nor
+calculated I mean it&amp;#39;s saying for
+goodness sake just what&amp;#39;s the point of
+having an entity if it&amp;#39;s got no elements
+in it right which is fine so let&amp;#39;s let&amp;#39;s
+give it want so I&amp;#39;ll say here um let&amp;#39;s
+let&amp;#39;s give it a key you know all all
+good entities have keys and for those of
+you thinking what I&amp;#39;m thinking you&amp;#39;re
+thinking come we come back to that uh
+key ID um and make it an
+integer as you can see here what I&amp;#39;m
+using of course is vs code which is not
+my normal editor but you know there&amp;#39;s an
+awesome uh extension for vs code I&amp;#39;m
+sure you&amp;#39;re all aware but let&amp;#39;s have a
+look at it uh where is it
+um in the container it is let&amp;#39;s let&amp;#39;s
+get rid of the recommended we put that
+up there like that instead Dev container
+here we go here we go so inside the dev
+container I&amp;#39;ve got these things eslint
+rainbow CSV so we can highlight CSV the
+rest client okay fine um and sap CDs
+language
+support right and it&amp;#39;s the latest
+version supporting
+all this uh Intellis sense that&amp;#39;s the
+Microsoft term isn&amp;#39;t it all this command
+completion so there we go so let&amp;#39;s save
+that and now it&amp;#39;s sort of
+happy so we&amp;#39;ve got a single entity books
+and the naming convention the cap naming
+convention for entities is that it
+should be capitalized capital B plural
+now this is still a part of me that I
+know I know that there are reasons why
+why the convention is to have a for
+plural entities but there there&amp;#39;s still
+a small voice in my brain saying should
+be singular really it just makes more
+sense logically to me but I don&amp;#39;t you
+know what do I know I&amp;#39;ve got a small
+brain so you know so let&amp;#39;s take the cap
+conventions and use the plural okay uh
+good day jski yski sorry jski Yi good
+day uh let&amp;#39;s take the um the plural and
+let&amp;#39;s have a look over here let&amp;#39;s go
+over here and refresh it&amp;#39;s already
+refreshed look at the meage met data you
+know we all love metadata we love o data
+metadata XML you know it&amp;#39;s still
+horrible to look at but going you can
+read it you can stare at it it&amp;#39;s nicely
+formatted but there we&amp;#39;ve got we&amp;#39;ve got
+the entity type books we&amp;#39;ve got our
+property name id id it&amp;#39;s an INT 32
+integer integer it can&amp;#39;t be nullable
+because it&amp;#39;s a key and in fact there&amp;#39;s
+the there&amp;#39;s the um the XML uh element
+that is telling us that the key or Keys
+properties is this one here it&amp;#39;s a
+reference to that
+okay so far so good so why don&amp;#39;t we also
+have there&amp;#39;s no no point having a books
+entity without a
+title string okay now
+notice let&amp;#39;s refresh that there we go
+notice
+that we can all
+restart
+performing operations on this fully
+fledged odata service this already is a
+fully functioning odata service that
+will that will respond appropriately to
+create read update delete and query OD
+dat operations right now we&amp;#39;re of course
+performing a query operation let me just
+put that um full screen for a second a
+quer a query operation an O data query
+because we&amp;#39;re asking for an entity set
+on the books
+entity
+right now let&amp;#39;s stop there for a second
+and think well you know it&amp;#39;s not very
+exciting so let&amp;#39;s add some
+data the um convention that we I think
+talked about was that if we
+create a directory called I mean do this
+with the keyboard I&amp;#39;ve been trying to
+learn a bit a few more
+um a few more keyboard shortcuts in vs
+code I&amp;#39;m not a vs code user like I keep
+saying but it is pretty awesome and it
+has good support for for keyboard users
+for example I&amp;#39;ve learned the other day
+that can just you know open and close
+this sort of you know this this bit here
+that has the Explorer or the run and
+debug thing or the extensions I can open
+and close that with command B John oh
+John says plural versus singular debate
+aside I love that is it is an
+opinionated framework and removes a lot
+of the inconsistency we use to end up
+with uh caused by differing developer
+opinions John I couldn&amp;#39;t have said it
+better myself this is one of the many
+things I love about cap it&amp;#39;s an
+opinionated framework convention over
+configuration grow as you go all these
+different things come together to make
+developers life lives easier and yeah it
+it sort of removes the debate right this
+is the opinion this is what it should be
+it&amp;#39;s almost like you know a
+philosophical version of um prettier RC
+you know set of pretti RC rules isn&amp;#39;t it
+you know or like the gofm you know it
+will format your go there only one way
+to format go code for example so you
+know forget the argument about two
+spaces four spaces tabs whatever no just
+do it this way okay so that&amp;#39;s great I
+love
+it so let&amp;#39;s give it let&amp;#39;s give ourselves
+some data let&amp;#39;s go and create a new file
+um let&amp;#39;s save that file as data I think
+you can also create directories by sort
+of you know maybe maybe I don&amp;#39;t know
+let&amp;#39;s see uh books. CSV let&amp;#39;s see if
+that works oh there we go oh look the
+folder data does not exist would you
+like to create it yes please
+there we go now we&amp;#39;re in editing a CSV
+file notice that I&amp;#39;ve created it in a
+data directory okay so by
+convention the cap server will
+look for data to load in sort of design
+time mode into the entities to serve
+okay let&amp;#39;s think about the name of this
+file for shortly uh but if if we put the
+in the CSV we&amp;#39;ve got ID
+and uh what&amp;#39;s it called title so let&amp;#39;s
+have ID one the hit hiker guy to the
+Galaxy uh to mostly Harless yes and of
+course these are both Douglas Adams
+books not in any particular order of
+course and let&amp;#39;s have another book um I
+don&amp;#39;t know use of weapons there if
+anybody knows what that is
+uh let me know let me know what the who
+the author is and whether you&amp;#39;ve read it
+uh absolutely incredibly fantastic book
+um by a Scottish author there&amp;#39;s a
+clue so now what cap oh hello what cap
+will do what the cap server will do is
+it will look for appropriately
+named CSV files to load however if we
+refresh
+this there&amp;#39;s no data why is that can
+anybody who anybody who&amp;#39;s familiar with
+let&amp;#39;s put that over there anybody who&amp;#39;s
+familiar with the output here and this
+is why I I always stress on our Cap Code
+jams that to to know and to love and to
+see this as you know like know this like
+the back of your hand you&amp;#39;ll notice
+things that appear that are not normally
+there and you&amp;#39;ll notice things that
+don&amp;#39;t appear that are normally there so
+I&amp;#39;m noticing right now well let&amp;#39;s go
+through them loaded model from one file
+services. CDs great and we also know
+from the previous episodes
+why it&amp;#39;s um uh found and loaded
+automatically without us saying anything
+services. CDs because that&amp;#39;s one of the
+two hard-coded file names schema and
+services alongside the DB app and Sur
+directories blah blah blah blah blah
+successfully deployed to inmemory
+database but in between this log line
+here
+and this log line
+here quite often we
+see some log lines that talk about
+loading data from these CSV files but we
+haven&amp;#39;t got that here even though we&amp;#39;ve
+got a CSV file books. CSV in a data
+directory so we&amp;#39;re doing what we think
+is the right thing so why isn&amp;#39;t the data
+being
+loaded so Kiara says Douglas Adams heart
+yes Douglas Adams DNA his initials were
+DNA which is quite cool um yeah uh died
+all too soon at the age of 50 was he in
+a gym or something in Los Angeles um so
+yes Douglas Adams wrote uh many books
+including the hitch of the Galaxy and
+also mostly
+harmless but use of weapons does anybody
+know um does anybody know um uh who
+wrote use of weapons uh it&amp;#39;s an author
+that writes under two slightly different
+names fiction and science fiction use of
+weapons is science fiction um so oh um
+uh chakia is that how you pronounce yeah
+put yes or no uh or you know what
+something chakia am I pronouncing your
+name correctly because I know I
+pronounced it incorrectly previous
+episode I apologize um so it&amp;#39;s not in
+the DB folder which is the default
+directory
+now that&amp;#39;s interesting shall we put it
+in the DB folder and find out let&amp;#39;s
+let&amp;#39;s find out I&amp;#39;m not not going to
+dismiss that so if we say here uh make
+the DB and move uh data to
+DB so
+now wooo hold on tree um is it oh
+uh oh that&amp;#39;s not can we ignore ignore
+ignore ignore pattern tree ignore node
+modules there we go fine so now we&amp;#39;ve
+got the books
+CSV people who know me will know that
+sort of you know I&amp;#39;m being slightly
+obtuse and using tree when we&amp;#39;ve got a
+perfectly sort of acceptable you know
+tree display here but actually it sort
+of comp anyway DJ get on with the get on
+with the program we&amp;#39;ve now got the
+books. CSV in the data directory in a DB
+directory let&amp;#39;s let&amp;#39;s let&amp;#39;s see what
+happens
+now CDs
+watch still nothing still nothing so it
+was a great guess
+chakia but it&amp;#39;s not quite the reason why
+we&amp;#39;re not finding this stuff so let me
+move that back again move DB data to
+here rmd DB let&amp;#39;s get back to where we
+were tree there we go so all we&amp;#39;ve now
+got is a data directory with books. CSV
+so somnath says hi DJ hi somnath uh do
+you like to call out CDs ad data
+features oh that&amp;#39;s a yes and also John
+Murray says great Point excellent
+feature uh uh oh chakia thank you thank
+you for the confirmation um why not move
+it to test data okay we&amp;#39;ll try that in a
+minute fer so um what somnath is
+referring to CDs ad right so CDs ad is a
+facility which we did play around with
+very briefly in episode two CDs ad d-el
+let&amp;#39;s move this in fact let&amp;#39;s move this
+up there there we go help help help help
+help add CSV headers for modeled
+entities okay we&amp;#39;ll do that for the next
+entity okay in fact no let&amp;#39;s let&amp;#39;s let&amp;#39;s
+um what happened there um let&amp;#39;s do that
+now let&amp;#39;s see what happens um RM data
+books going type it in quickly again
+right CDs add
+data right there we go uh and I think
+this might help us with the answer to
+the
+question there we go there we go
+brilliant uh so oh sorry fuler and um
+yes so fuler is also saying and the
+thing I was trying to get to so Suna
+well done for suggesting something
+that&amp;#39;s beautifully subtly going to tell
+us the answer without telling us the
+answer showing us another example of the
+awesome CDs ad
+feature
+and again showing us the convention over
+configuration and the opinionated nature
+of cap what has it
+done let me let me remove the data
+directory now for a
+second what it&amp;#39;s done is create because
+because conventionally it likes having a
+DB
+directory conventionally as we&amp;#39;ve sort
+of talked about it knows to look for
+data in CSV files in a directory called
+data and it will look for and use CSV
+records for
+entities as long as or not as long as if
+it finds that data in files that are
+named a specific way why did what did I
+name the file I named the file books.
+CSV with a capital B and that&amp;#39;s sort of
+you know that makes sense because it&amp;#39;s
+the books entity
+however however however however things
+as we&amp;#39;ll see in the next episode next
+week start to get quite complex oh
+sorry ignore that
+rewind this is the simplest thing that
+could possibly work we&amp;#39;ve got this
+really you know super super super simple
+deliberately simple books entity but as
+soon as you start doing things that will
+be useful in the Enterprise you&amp;#39;re going
+have multiple entities you might have
+multiple teams building these entity
+definitions using Services pulling
+things in from Left Right and uh Center
+so you want to manage these definitions
+through name spaces through
+prefixes so what&amp;#39;s happened here is that
+it&amp;#39;s created the file but see what it&amp;#39;s
+called Bookshop do books.
+CSV okay where does this
+Bookshop prefix of file name come in
+from
+the service name so we&amp;#39;ve got an books
+entity in the Bookshop service so the
+file name should be for loading data
+into this entity Bookshop do books or
+Bookshop Das books. CSV oh my goodness
+so much chat fantastic uh fer says might
+not move it to test data well I think I
+think we&amp;#39;re okay for that now and
+include the fitting prefix that was the
+more the more uh important part um so we
+need a schema I ah so Johnny is saying
+we need a schema and name space although
+it&amp;#39;s probably showing my cat Ruster hey
+no capat rusters here allowed in fact
+take my jump off cuz it&amp;#39;s really warm
+now one
+second and while I take my jumper off
+I&amp;#39;m going to see if I can read I need my
+glasses to read that it&amp;#39;s a bit small
+there we go yes there we go um so Phil K
+oh Phil I&amp;#39;ve not even read your sentence
+yet but I love the I did not understand
+I did understand the reference to
+opinionated but I think this helps to
+explain it oh okay okay yes opinionated
+a framework that&amp;#39;s another example of an
+opinionated framework and I think I&amp;#39;ve
+used this example before is rails it has
+opinions um I think partly because it&amp;#39;s
+Creator David hin my Hansen has opinions
+which is
+great um and rather than I use this
+example yester yesterday day before
+yesterday in warsa in the code Jam
+someone was talking about opinions and
+stuff and and opinionated Frameworks and
+configuration and having to do either no
+configuration or loads of configuration
+before you even start I remember figh in
+with j2e and you had to configure the
+heck out of everything before you even
+got you know got off the start line okay
+so that was a very unopinionated
+framework but an opinionated framework
+it has opinions as to how you should do
+things that goes hand inand with
+therefore having conventions such that
+if you don&amp;#39;t say anything it&amp;#39;s going to
+do things in a certain way that&amp;#39;s what
+that
+means um uh is it is it opinion or put
+the fin here well actually um put the
+file here if you want to not have to
+lift a finger this is this is a really
+good discussion
+so an opinionated framework with
+conventions in this cap case means that
+if you follow caps opinions if you agree
+with them and follow those conventions
+that it&amp;#39;s expecting you to follow then
+things magic will happen without you
+doing
+anything for example remember last week
+and in fact
+here uh in the hello world remember the
+hello world you know it told us to
+create this world. CDs in the serve
+directory to define a service called say
+with a function in it and then it told
+us to create a file called world. JS
+also in the serve directory okay with
+the
+implementation of that service so that
+the function could be you know
+implemented
+in nowhere in here did we have to
+specify explicitly oh the implementation
+for this service is in this file it&amp;#39;s
+implicit because it&amp;#39;s after that
+convention the opinion is that if you
+put a file a JS file next to a CDS file
+of the same name in the same directory
+it&amp;#39;s going to use that as its
+implementation right does that make
+sense yes exactly if you abide by the
+opinions it is a massive helper okay
+John Murray says I&amp;#39;ve just realized
+where we&amp;#39;re matching fleeces John Murray
+excellent uh probably not allowed to
+name the um the store but uh uh you um I
+will go there again uh next time I go
+Outdoors uh so uh I think that&amp;#39;s we&amp;#39;re
+going to be talking about excellent so
+um uh so am I catching all this chat
+here um Stefano says how easy it is how
+easy is it to connect to other databases
+as apart from SQL light and Han cloud
+postgress my SQL pretty damn easy um so
+for example if we have a look at npm and
+uh cap uh
+postgress ql let&amp;#39;s have a look post post
+postgressql
+um post press ql where is
+it uh CDs post cql I can&amp;#39;t find it uh oh
+CDs CDs post cql
+H well let&amp;#39;s just go stra let&amp;#39;s just go
+straight to it
+um cap JS post
+ql where is it what&amp;#39;s going on what&amp;#39;s
+going on with my brain cap uh
+postgressql uh
+npm capture oh postest not postest ql dj
+brain
+okay so basically this is all you
+need to install the drivers for postest
+for example thank you Nico this 13-hour
+Journey yesterday has just completely
+addled my brain I apologize so we go let
+me just share that uh in there there we
+go fantastic okay cool by the way I&amp;#39;m
+monitoring the performance of the uh the
+the container the docker container
+called wonderful m
+uh that is the container in that we
+connect to vs code in fact we can see it
+there remote Explorer um there we go cap
+B2B main that&amp;#39;s this one here wonderful
+M there we go anyway so a random um get
+back to there so where were we Okay so
+we&amp;#39;ve now got a file called Bookshop
+books CSV CDs watch if we start up CDs
+watch now what we
+get is this record here that again
+if you Embrace and stare at and grow to
+love the output from the cap server
+you&amp;#39;ll have noticed that you know there
+was something missing and now it&amp;#39;s there
+in it from DB datab Bookshop do books
+CSV so now when we go across here and
+press refresh hopefully
+what what what what what what what what
+books what&amp;#39;s going on oh
+ah of course I&amp;#39;ve deleted the data idiot
+DJ
+so uh no let&amp;#39;s do that uh close that
+without saving don&amp;#39;t save so let&amp;#39;s go
+and put some data in there again DB data
+Bookshop book CSV ID title ID
+one the pitch I had it there I could
+have copy pasted it
+hikers to the Galaxy let&amp;#39;s just save
+that one there we go and um refresh
+there we go there it is okay let&amp;#39;s add
+another one um two who mostly harmless
+just to give you another clue as to who
+this other author might be let&amp;#39;s do
+another one of his books um uh the
+player of games anybody tell who that is
+come on the player of games
+now in it from DB data refresh there we
+go now haven&amp;#39;t even start look it&amp;#39;s 8:47
+already but this
+is brilliant conversation oh MTS hi MTS
+I might have missed this but wanted to
+know what does module exports actually
+do great question great question now
+we&amp;#39;ve got rid of the service
+implementation here but let&amp;#39;s go back to
+the documentation here you are referring
+to this right
+so module exports is a a
+nodejs package or module management
+mechanism so imagine you have you know
+regardless of language you know python
+Pearl Java script
+whatever and you have want to build a
+library a module a package that has a
+series of functions that you want to
+expose to the the users of that package
+you know you might have things uh that
+are internal to that package functions
+that are internal to that package and
+you might have functions that you want
+that that package to expose so when
+people import that package they can you
+know get a reference to the the function
+and start using it the functions or the
+entities that&amp;#39;s not dj don&amp;#39;t use the
+word entities the
+things in that package that you&amp;#39;re
+creating that you want to expose you
+want to make available to the consumers
+of your
+package you expose
+by making them available through this
+special property called
+exports module. exports Okay so that&amp;#39;s
+what it&amp;#39;s for it&amp;#39;s
+basically a way of making stuff in a
+module available to the consumers so
+sides says that in a much better way
+than I could in a one sentence way to
+expose the function to outside the JS
+file perfect okay now I hear you ask
+what happens if I&amp;#39;ve got more than one
+function because you know this is just
+exposing one thing is exposing a an an
+an anonymous
+function but what you you can also do is
+the value you can assign to the exports
+property can be an object okay so you
+have multiple things in that object
+obviously okay brilliant so where were
+we get rid of that get rid of that get
+rid of that and go back to
+here just to prove that it doesn&amp;#39;t need
+to be in the DB in the DB directory um
+make the data oh in fact um move DB data
+to here and rmd DB
+uh
+tree there we go so we&amp;#39;ve now moved it
+up one level okay so we got for the
+moment I want to sort of keep away from
+the DB ser and app directories and do
+the simplest thing that could possibly
+work okay uh so CDs
+watch and we&amp;#39;re still getting that thing
+loaded okay refresh there it is and in
+fact also move data thingy to data but
+what you all also see quite a lot is a
+dash there books.
+CSV DJ you idiot um more Hast less speed
+let&amp;#39;s just fix that how do you how do
+you rename it in vs code CSV not dsv
+CSV CDs
+watch there we go still works okay so
+ints you&amp;#39;re welcome um oh Sid I like
+that
+Sid now you know what I&amp;#39;m sort of well
+I&amp;#39;m going to apologize I had so many
+things planned for this so uh I wanted
+to cover um you know we still got eight
+nine minutes left but I wanted to cover
+you know a
+second a second uh entity and an
+association a managing Association and
+then moving the stuff to out to outside
+of the service definition itself but we
+can you know let me know please let me
+know in the chat type something in the
+chat right now to tell me whether you
+prefer this conversation
+style and we don&amp;#39;t get that far or
+whether you want to go faster when you
+can move not go faster but move forward
+and cover more ground in a quicker way
+let me know please let me know in the
+chat because you know I I never know
+whether this is just
+like obv too obvious but um you know or
+what so let me know so we&amp;#39;ve got that
+here we got that there so let&amp;#39;s go back
+to our services of
+CDs tell you what let&amp;#39;s define oh by the
+way yeah so um what that did by the way
+the CDs ad so we got completely
+distracted the CDs ad data that was a
+brilliant suggestion from somebody up
+there I can&amp;#39;t I can&amp;#39;t scroll up to find
+out uh what that did was create this
+file
+with the first record the head record so
+it worked out that you know ID and
+title so Stefan says conversation Style
+with behind the scenes inside are
+appreciated thank you Stefan and Matias
+conversation style is perfect oh great
+okay thank you thank you um so that&amp;#39;s
+good to
+know why don&amp;#39;t we which one should we do
+which one should we do in this time
+available okay let&amp;#39;s let&amp;#39;s create a
+second entity because you
+know uh yeah okay I know yeah we can use
+this to learn about aspects maybe we can
+cover aspects what do you reckon faler
+and Nico and everybody um oh what&amp;#39;s
+going on oh Google&amp;#39;s go away Google hom
+phone
+um uh stop what&amp;#39;s going on there uh
+entity authors key that&amp;#39;s an author has
+an ID as well key
+[Music]
+id id and that&amp;#39;s also let&amp;#39;s have an
+integer and an author&amp;#39;s got a name right
+that&amp;#39;ll do
+string I don&amp;#39;t think I&amp;#39;ve typed one word
+correctly here okay
+so now if we go back here
+refresh there&amp;#39;s no surprise there
+right&amp;#39;s my my head&amp;#39;s at the bottom cool
+there&amp;#39;s no surprise there so we have
+book books great and we have authors
+great and you know we&amp;#39;ve got no data
+there right um so why don&amp;#39;t we
+add C uh data
+Bookshop authors. CSV let&amp;#39;s add into
+their um ID and name and we&amp;#39;ll have now
+just bear with me just for the purposes
+of us having this super
+simple service super simple Service uh
+with you know simple entities and simple
+data let&amp;#39;s not do really complex IDs
+let&amp;#39;s just have things that sort of make
+sense so when we see like 101 we know
+it&amp;#39;s an author you know in the 100
+series when we see one two3 as a book
+you know it just helps my small brain so
+101
+Douglas Noel Adams there we go that&amp;#39;s
+what the n stands for and 102 nobody
+said any nobody&amp;#39;s guessed what uh who
+the author of uh player of games and use
+of weapons and and the the general
+culture series John Murray I thought you
+might know what that is seems the sort
+of book you you quite enjoy the series
+you quite enjoy uh so some the topic is
+back to basic slow and steady is what I
+think is needed Som great comment thank
+you yes concepts are important here not
+building a brilliant app I believe Som
+thank you yes aspect for the win yes uh
+AP says I would like to be a little
+faster okay so well you know
+just so Shas hello DJ hello Shas in
+India fantastic welcome so and the
+person is Ian M
+Banks he writes under the name Ian Banks
+when he writes fiction but when he
+writes science fiction he has the m in
+it there we go so now CDs
+watch look at that automatic we&amp;#39;ve put a
+CSV file with the quote unquote I hate
+people do that quote unquote right
+name Bookshop prefix authors. CSV in a
+directory that cap by convention because
+it&amp;#39;s opinionated will look for and pick
+up and it says in it from data Bookshop
+authors if we refresh this
+fine now in the last few minutes at
+least we didn&amp;#39;t cheat by Googling it
+exactly Phil
+exactly this sort of thing let&amp;#39;s say I
+mean it&amp;#39;s a really really super simple
+example but this sort of
+thing you know I&amp;#39;m already repeating
+myself right
+what&amp;#39;s what&amp;#39;s what does dry stand for
+there&amp;#39;s a there&amp;#39;s a there&amp;#39;s a
+programming uh not Paradigm there&amp;#39;s a
+programming approach you know a good
+practice dry can anybody tell me what
+dry stands for okay it&amp;#39;s an acronym
+audience only reads books on cap
+yes uh yes right um so let me know what
+dry stands for um and I&amp;#39;m going to try
+and be a little bit drier in our uh CDs
+definition by oops let&amp;#39;s just I&amp;#39;ll I&amp;#39;ll
+type it out first
+using
+from what the heck is that now I&amp;#39;m sure
+you&amp;#39;ve all let me save that for a minute
+you&amp;#39;ve all
+seen uh so so uh John Murray says
+exactly don&amp;#39;t repe don&amp;#39;t repeat yourself
+don&amp;#39;t repeat yourself um and uh somna
+says yes but author I wish DJ
+uh I&amp;#39;m not sure what you mean some
+enough let me let me know what you mean
+sorry my brain&amp;#39;s not working today so I
+don&amp;#39;t understand that what that means uh
+John muray although I prefer the wet
+principle Tom don&amp;#39;t repeat yourself
+exactly so where am I repeating myself
+look key I in fact vs could even you
+know underlines the fact look blue blue
+Highlight blue Highlight you got the
+same bloody thing there right
+so instead of having these sort of
+common
+properties instead we can get rid of
+that oops and get rid of that if I save
+that I&amp;#39;ll check it out okay i&amp;#39; I&amp;#39;ve sort
+of made a mess of this now by
+removing the ID property which means
+that in the automatic loading of
+data right in the automatic loading of
+data it&amp;#39;s trying to Lo load this value
+for example one into a into a column
+called ID right why why is it doing that
+by the way why is it doing that let&amp;#39;s in
+fact here&amp;#39;s a note to your future self
+DJ we&amp;#39;ll look at why it&amp;#39;s doing that in
+the next episode next week so D I always
+watch these back and make notes what to
+do what we did Etc uh so next week let&amp;#39;s
+look at why it did that let&amp;#39;s look in
+the compiled
+ddl
+right
+so instead let&amp;#39;s let&amp;#39;s just add this
+thing so let we can say service Bookshop
+entity
+books cuid let&amp;#39;s let&amp;#39;s do that as well
+oops uh uh there we go there we go
+now we&amp;#39;re back to normal things are
+working down
+there there&amp;#39;s the IDS look ID there
+there&amp;#39;s the IDS books IDs everything so
+everything&amp;#39;s back to normal but now what
+we have done is we have this is my term
+we have
+decorated both entities with an aspect
+okay we&amp;#39;ll look next week as to more
+precisely what an aspect is but imagine
+you&amp;#39;re building an application and your
+colleagues are building an application
+folks in sap building applications we
+all use very sim a small set of very
+similar things like countries currency
+codes um uh information about you know
+last created last changed who Chang this
+who changed all you know all the basic
+sort of common stuff so Cap supplies a
+library of common stuff including
+aspects and also types we&amp;#39;ll look at the
+difference between as effects and types
+next week
+hopefully and they&amp;#39;re all in this npm
+package right so inside there in fact if
+CU ID there it is look at that aspect CU
+ID so next week we&amp;#39;ll dig into what this
+means what we&amp;#39;ve done why that&amp;#39;s better
+we&amp;#39;re not repeating ourselves anymore
+and we&amp;#39;ll dig in more to as to how to
+decorate entity definitions and make
+things more concise less surface area
+for things to go wrong thanks for
+joining we&amp;#39;ll see you next week and uh
+until then
+bye

@@ -1,0 +1,1385 @@
+e
+[Music]
+[Applause]
+[Music]
+[Music]
+[Music]
+[Applause]
+[Music]
+n
+[Music]
+good morning good afternoon good evening
+welcome to handson Sab Dev again with me
+DJ Q mro welcome one and all I can see
+there&amp;#39;s lots of lovely uh chat so uh
+Lawrence good morning to you in amort
+nothing beats a good cup of coffee and
+DJ Adams in the background that&amp;#39;s where
+I belong uh during work fantastic and
+welcome to sunny today sunny says today
+sunny woke up and thought I&amp;#39;ve got to
+attend the live session to clear my
+doubts so good afternoon everyone from
+Mumbai India welcome to you in Mumbai
+India and Bon here to it&amp;#39;s from um I
+don&amp;#39;t know why I do it in a stupid
+accent I&amp;#39;m sorry
+B uh Kaza Kaza I&amp;#39;m just
+Caz Kaza Soros 64 AJ good afternoon it
+is very hot uh in summer here in
+Bangalore there in Bangalore well to
+just to balance it out uh AJ it&amp;#39;s
+horrible here I went for a little run
+this morning just before the setup of
+the live stream and I had sideways rain
+again strong Gusty winds it was just
+horrible filthy weather uh gav good
+morning to you in Puna puny and
+vises one of our one of our alltime
+regulars visas welcome to you in Bangkok
+Thailand and M to another regular helmet
+in Brunswick brag Germany um oh uh so
+Sun&amp;#39;s ask in there already with a
+question fantastic I&amp;#39;ll just say the
+Hello&amp;#39;s first remind me if I if I miss
+your question son remind me and put it
+in again in the chat because I might
+miss it uh adelene good morning to you
+in to L on France on France did we say
+yeah uh and Kiara bonjo to you and Ola
+good morning to you and pres Pia good
+morning to you in Munich and Ian s good
+morning from Sunny Guilford thanks
+thanks Ian for rubbing it in Sunny
+Guilford ah yes so yes um so Ian is a
+fellow Runner I mean you know I don&amp;#39;t
+compare myself to Ian because he&amp;#39;s about
+a million times better but you know
+we&amp;#39;re both on straa so it sort of counts
+for something right Henrik good morning
+back to Composites Brant wait to end the
+week I I agree Henrik I agree zahid good
+morning to you senzo good morning from
+eswatini where is ES
+I don&amp;#39;t know where is it Z tell us where
+you are where you know give us a
+slightly larger sort of geographical
+idea eswatini sounds an amazing Place
+Kasten Schlagel good morning and also
+thank you I&amp;#39;m going to give you a thank
+you special thank you in a minute um
+anyway uh I oh we on France uh there we
+go
+um uh um
+um my school boy friend she&amp;#39;s sort of
+coming out I won&amp;#39;t sayy school boy
+finish now as in you know what I learned
+at school uh and um nikil hello to you
+in Melbourne oh my goodness me I hope
+you got a glass of wine or something and
+Matias another regular welcome to you in
+meca and Valerio good morning from Rome
+bonjour no to you in Roma and Thomas
+Young hello from the parish coam hello
+Paris coam amazing zahed oh zahed you&amp;#39;re
+from Su Hull uh fantastic and senzo tell
+oh yeah sorry it was it was senzo that
+you said you were from astini where is
+Astin that is what we got to find out
+today amazing Raphael good morning to
+you in Poland oh my goodness me uh see
+I&amp;#39;ve already forgotten the question it
+was to do with cap high level question I
+can&amp;#39;t remember so please ask the
+question again because I&amp;#39;ve got this
+little screen and I&amp;#39;m scrolling up like
+crazy so let me actually switch to the
+main scene uh so we can get going Daniel
+schlat in the house Daniel I&amp;#39;ve got a
+little uh a little um reminder to tell
+people about the co- talk with you and
+then we can get going with the part two
+of compositions Antonio to to you in
+Madrid uh good morning to you in Madrid
+amazing amazing well thank you all for
+joining it&amp;#39;s amazing and hello Paris Co
+Jam I guess you&amp;#39;re going to get on with
+your is it rap and cap you&amp;#39;re doing
+today um have a great uh time with the
+two amazing Heroes of mine uh rich and
+Tom Niki I do have a glass of wine thank
+you oh awesome well done nikil 10 points
+100 points to you and woohoo Tom Young&amp;#39;s
+here too yes exactly so as you can see
+previous uh episode last week uh had
+some brilliant comments so thank you for
+all you&amp;#39;re always adding your comments
+and everything so Visa says I thought we
+were looking at the DJ
+Tes and um the preview as feature is
+amazing that&amp;#39;s what Daniel pointed out a
+few weeks ago but we should maybe do a
+little bit more of the CDs compile so
+visz remind me um there is a probably an
+opportunity today when we start to look
+or continue to look at compositions
+where we can do the CDs compile rather
+than use the preview feature just so we
+can sort of get that under our
+fingertips thank you for thank you for
+that comment that was a brilliant
+comment sashan good morning to you in
+aldorf uh are you in the Mother Ship or
+are you just generally in in the valdor
+uh town area um let us know oh oh sorry
+senzo says etini is just next to South
+Africa amazing I am so ignorant I
+apologize for not knowing where that was
+uh and good morning to Donny Darko
+Donnie with one n uh from South Germany
+amazing amazing amazing so many people
+ah it&amp;#39;s just wonderful to have you all
+thank you so uh Matias uh lovely lovely
+comment from Matias and uh oh yes so
+night fire 777 I&amp;#39;m not sure who that is
+in the chat maybe they&amp;#39;re here maybe
+they&amp;#39;re not I&amp;#39;ve
+actually I&amp;#39;ve I&amp;#39;m trying this sort of as
+I mentioned in my com my reply to
+NightFire I&amp;#39;ve gone for um what is it
+called solarized light I&amp;#39;m not really
+dark mode in anything other than
+terminal right just does my head in it&amp;#39;s
+like makes my eyes hurt so I&amp;#39;ve moved
+away from a a pure white sort of uh
+light background to a more solarized
+thing so let me know uh what sorry what
+was your name again let me know
+NightFire 777 if this is a little better
+and also I&amp;#39;ve changed the theme of
+chrome so you know all right it&amp;#39;s just
+it&amp;#39;s just the actual Chrome of chrome
+that&amp;#39;s that&amp;#39;s changed color but maybe
+that maybe that&amp;#39;ll help a little bit um
+and uh Tech wbat uh are you on the call
+on the on the call are you on the call
+Tech One buts yes I did actually push a
+change to the uh to the repo cap B2B uh
+where I added something to do with um
+the prompt um I put a wrote a blog post
+so I talk about the blog post in a
+minute and I added something here and it
+broke the bill so thank you tech wbat
+for pointing that out I fixed it now um
+as you can see here the history uh where
+is it um uh proper appending of and
+escaping of yeah there you go so that
+I&amp;#39;ve just changed that so it was in
+there and I&amp;#39;ve now put it in there and
+there&amp;#39;s a little bit of double escaping
+amazing so thank you Tech and also C
+thank you Kasten
+for opening my eyes to the fact that you
+can actually configure the Vim extension
+in vs code so amazing answer or amazing
+sort of uh help from there from caraston
+so thank you Kasten and thanam uh tham
+good morning to you goog morning goog
+morning I like it goog morning so
+brilliant so I&amp;#39;ve actually now got I
+think in here if I go up to here and um
+say for example let&amp;#39;s get rid of that
+oops space there and add another thing
+there uh now I can say uh space f and
+it&amp;#39;s format there we go get rid of that
+line it&amp;#39;s not going that so there we go
+um amazing so what time is it 808 I&amp;#39;ve
+got two 808 State who remembers 808
+State Ian in stubbings maybe 808 State
+classic from the is it from the 80s or
+the 90s brilliant they used to their
+their name was from from a Roland um was
+it a drum machine the 303 was the the uh
+303 TR 303 was the Baseline synthesizer
+and it was a drum machine was it the 808
+I can&amp;#39;t remember anyway 808 State uh DJ
+concentrate right so um there&amp;#39;s the
+comments and oh yes so AJ says uh as I&amp;#39;m
+putting links in to share with you I&amp;#39;m
+maintaining links here I always put them
+in the comments to the corresponding sap
+Community uh I remember A8 State yes
+brilliant uh to the
+community uh entry for this particular
+episode and the comments are all here
+and now if you can get you can get them
+straight away somebody please go and
+test so go to the description of the
+video you&amp;#39;re looking at right now the
+live stream and in the description there
+blah blah blah blah blah there&amp;#39;s a link
+this is the link stop playing this is
+the link
+[Music]
+to this thing here that I&amp;#39;m maintaining
+now so any any new URLs that I put in
+I&amp;#39;ll put in the comments here I can
+maintain the comments here etc etc and
+save them and then you&amp;#39;ve got okay so
+we&amp;#39; got this week&amp;#39;s Sab developer news I
+won&amp;#39;t need to go into that right now um
+and we got four code jams running today
+amazing so code jams there we go code
+Jam we got a code Jam I think that&amp;#39;s
+vital in Bucharest and we&amp;#39;ve got rich
+and uh Tom in France they&amp;#39;ve just said
+hello on the chat uh we&amp;#39;ve got um I
+think that&amp;#39;s Andre fiser uh doing an
+awesome job delivering abap Cloud code
+jams as well for us and we&amp;#39;ve also got
+Nico in ut in the Netherlands delivering
+a CO jamday four Co jams amazing amazing
+amazing amazing uh oh yes so and and and
+and we got a co- talk all about the cap
+plugging concept there&amp;#39;s Daniel Daniel
+stors in the house and uh there&amp;#39;s me oh
+what an idiot uh so we we talked about
+the cap plugging concept amazing so
+check out this 11 minute uh little video
+which is a podcast version as well
+really interesting about what the cap
+plug-in concept is and how it works and
+how awesome it is and everything so
+check that out uh one more thing maybe
+yeah what we&amp;#39;re going to be talking
+about today is let me share that in the
+chat as well it&amp;#39;s in the it&amp;#39;s in the
+it&amp;#39;s in the uh this thing here because
+you might want to refer to to this
+that&amp;#39;s that&amp;#39;s probably the most
+important URL of the day uh Lauren&amp;#39;s
+nice will participate in the code Jam
+this afternoon amazing uh that&amp;#39;s amazing
+so yeah say hi to Nico from o please
+right so that&amp;#39;s I think that&amp;#39;s pretty
+much it isn&amp;#39;t it in terms of
+announcements and everything so I&amp;#39;ll
+leave that uh I&amp;#39;ll leave the my
+maintenance I&amp;#39;m editing that comment
+right now so I can add links to there um
+what&amp;#39;s that I don&amp;#39;t need that anymore so
+let&amp;#39;s go let&amp;#39;s go so last week we ended
+on a Salam
+Mustafa Salam uh Salam
+um and welcome to you as well so uh we
+left last week on a like a oh my
+goodness what is that what is going on
+type thing when we were looking at
+something related to this composition
+targets are Auto exposed in service
+interfaces it was quite rushed at the
+end because I wanted to get it in just
+to put into brains so let&amp;#39;s have a look
+at what this is all about right so this
+is where we left off this is you know
+the co let me just um what did I do
+there uh let&amp;#39;s undo
+that what did I do I can&amp;#39;t remember what
+I changed any I&amp;#39;ll just undo it discard
+changes there we go fine
+so what we did was we had a look behind
+the curtain at what is generated from a
+core schema notation the sort of machine
+readable version of the CDs model we see
+in front of us in as in the combination
+of this CDs file which is where we got a
+service defined pulling in uh or making
+projections on the entities that are
+defined in our schema. CDs okay so this
+all comes together and we did we did as
+as Daniel pointed out before we did use
+the preview feature preview as yaml
+let&amp;#39;s get I don&amp;#39;t need that anymore uh
+and we saw that and what we did see as
+well is the fact that our Bookshop order
+items
+because we&amp;#39;re uh we&amp;#39;re projecting not
+projecting because the order items is
+the target of a
+composition right let&amp;#39;s just read the
+text again composition targets that&amp;#39;s
+keyword Target right
+here are Auto exposed we go Auto exposed
+so that&amp;#39;s why in the actual machine
+readable version of what we are defining
+in our sort of overall CDs model there
+we get this CDs Auto exposed true now in
+order to get this to to um go back to
+Visa I it Visa&amp;#39;s comment hello mass in
+to you in Sri Lanka and welcome welcome
+everybody amaz it&amp;#39;s just so amazing to
+see you all in the chat and I love the
+way that you say hello in the chat and
+tell me where you&amp;#39;re from and everything
+and what you&amp;#39;re doing got a glass of
+wine got a coffee whatever really cool
+so instead of doing this let&amp;#39;s let&amp;#39;s
+figure out or let&amp;#39;s just do it manually
+as well because we can right so in fact
+in fact in fact in fact yeah we&amp;#39;ll do it
+in here we&amp;#39;ll do it in here CDs
+compile uh d-el okay oh tell you what
+that&amp;#39;s quite flat there so what I&amp;#39;ll do
+is I&amp;#39;ll bring in that over there and
+there we go hands onb
+Dev let&amp;#39;s make that a bit smaller put my
+head at the bottom right so let&amp;#39;s go
+into cap
+B2B there so we can now say CDs comp
+pile d-el let&amp;#39;s have a look at the help
+first of
+all uh make that a bit bigger there for
+now and there we go I&amp;#39;m just trying to
+sort of get the right level of
+information there now CS compile
+compiles a specific models of CSN format
+and what we can see here is that we have
+t different Target formats okay so
+currently uh it will support Json and
+yaml versions of CSN season if you want
+to look at what it was going to look
+like from a no data perspective that&amp;#39;s
+what this um entity data model type
+thing is all about if you want to look
+at how it will sort of um appear at the
+persistance layer in terms of ddl data
+definition language you know different
+flavors for Hannah and for sort of other
+SQL uh flavors then that&amp;#39;s what that&amp;#39;s
+for etc etc
+etc so what we can do is we say CDs
+compile --2 yamel okay that&amp;#39;s that&amp;#39;s the
+what&amp;#39;s going on behind the scenes in
+this Auto preview in vs code and what do
+we want to compile well let&amp;#39;s just press
+enter right it&amp;#39;ll say You must specify
+model to compile so what do we want to
+compile we want to compile uh well we
+compile let&amp;#39;s compile just the schema DB
+schema. CDs right when we get um let&amp;#39;s
+just see if we can actually uh language
+yaml let&amp;#39;s use bat to maybe um what&amp;#39;s
+the word color highlight it yeah there
+we go uh also we want the plane we don&amp;#39;t
+want the line numbers or anything like
+that uh plane there we go fine so
+uh bat is basically um cat with wings in
+fact that&amp;#39;s exactly what it is bat cat
+with wings um B There we go a cat clone
+with wings cat is just you know
+concatenated everything so there we go
+oh let&amp;#39;s add that to the let&amp;#39;s add that
+to the thing there uh bat there perfect
+and I&amp;#39;ll save that in a minute okay so
+we can see here where is it we don&amp;#39;t
+have any CDs Auto exposed that we saw
+here why because we&amp;#39;re only at at the
+moment here compiling the schema. CDs
+just the entity definitions there&amp;#39;s
+nothing else in there it&amp;#39;s inside a
+namespace that&amp;#39;s where we got this org.
+Q macro prefix but that&amp;#39;s it so what
+happens if we compile main. CDs which
+sort of pulls in Imports using that that
+stuff and then um oh actually we should
+do hold on we should get a uh what&amp;#39;s
+going on here let say a orders orgue
+about order items um yeah because
+because we&amp;#39;re not at the stage where
+we&amp;#39;re exposing things so we&amp;#39;re going to
+be exposing things when we Define a
+service so if we now say here um serve
+main.
+CDs we get a little bit more look you
+can see let&amp;#39;s do that again sorry
+CDs
+uh what do I I don&amp;#39;t want a page let&amp;#39;s
+do that again there
+uh what&amp;#39;s going
+on what what let&amp;#39;s just get rid of
+that there we go okay we&amp;#39;ll look at it
+in non-color for now I don&amp;#39;t know what&amp;#39;s
+going on with the paging um but here we
+see the CDs Auto exposed right so that&amp;#39;s
+where this information comes from or
+rather that&amp;#39;s how you can generate and
+have a look at the yaml flavor of CSN or
+the uh Json flavor of CSN if I do that
+and do Json instead do um uh Jason um in
+fact that&amp;#39;s the default anyway right so
+if we say just CDs compile um
+get rid of that there and we just get
+the Json right there we go uh Antonio
+what app are you using for terminal I
+thought you used warp but it&amp;#39;s not no I
+don&amp;#39;t use warp I don&amp;#39;t really like warp
+it&amp;#39;s too too modern too complicated for
+me um and it means I have to take my
+hands off the keyboard and put them on
+the mouse uh more often than I want
+which is never um so now this is I&amp;#39;m
+using iter and I&amp;#39;m using t-o uh is my PD
+I&amp;#39;ll I&amp;#39;ll see if I can remember to put a
+link Link in the in the thing to do with
+my terminal setup but basically it&amp;#39;s
+just t-mo and you know that&amp;#39;s it and
+Bash there we go there&amp;#39;s t-mo you know I
+can do pains and everything y perfect so
+anyway so that is where we get let&amp;#39;s
+just do that to to yaml again and um
+let&amp;#39;s put it into a file actually let&amp;#39;s
+put in main. yaml uh vain. yaml there we
+go so we can see that there we go look
+there we go order items Auto
+exposed right 819 Auto exposed is true
+and that means basically let&amp;#39;s put that
+back there again that means basically
+that let&amp;#39;s put that there and put that
+in there um that we can say if we start
+up the server cap CDs watch we
+can
+404 observe two things okay come on
+there we go
+404 local those
+404
+B we observe we observe two things the
+first thing we observe is that order
+items is not there because we&amp;#39;ve also
+not exposed it there right so we don&amp;#39;t
+see it there either however just because
+we&amp;#39;ve not defined or exposed the order
+items entity in the service definition
+we still get
+it here in the metadata because in order
+to fulfill this composition
+relationship the the the the servic has
+got to know about it from a from an edmx
+perspective that&amp;#39;s so that&amp;#39;s why we can
+see the order items because it is a
+target
+of this navigation property okay so
+that&amp;#39;s part of what the auto expose is
+is doing and that also means that
+bookshops if we go to um Bookshop uh
+orders we can see the orders but it also
+means we can also follow that navigation
+property to go and ask for the items
+right so oh thank you Carson thank you
+foring item t-m I did used to use Kitty
+Kitt is pretty cool as well as a
+terminal uh emulator but you know items
+okay as well it&amp;#39;s
+fine uh so there we go but what we can&amp;#39;t
+do what what we can&amp;#39;t do and what the
+automatic Auto exposing of targets of
+compositions will give you is we can&amp;#39;t
+say order
+items and that&amp;#39;s where we ended up last
+week Bookshop order items is not
+explicitly exposed as part of the
+service so if we go back here let&amp;#39;s put
+that back there let&amp;#39;s go back up here
+and go to Sears there and say CDs Auto
+expose without the D because the auto
+exposed is this sort of implicit cap
+internal not internal but cap machine
+generated annotation right because Auto
+exposure of targets is a
+thing I can still say explicitly I want
+to auto to expose order items right if I
+save
+that everything will restart but now I
+can go across to here and if I press
+refresh I can now go directly to order
+items right not only that but also if I
+press refresh there we get a to order
+items in the service endpoint entity set
+list because we&amp;#39;ve sort of forced it to
+be exposed we&amp;#39;ve explicitly as a human
+say expose this right there we go
+so what can let actually let&amp;#39;s switch
+back here now let&amp;#39;s switch back uh to
+here no there there there let&amp;#39;s get rid
+of that again let&amp;#39;s save that and let&amp;#39;s
+restart again let&amp;#39;s go back there
+refresh let&amp;#39;s go back there and we&amp;#39;re
+back to where we were so we we we&amp;#39;re now
+just having the benefit the beauty of
+the automatic Auto Exposition Auto
+exposure of the composition Target
+Auto exposure is important because for
+compositions because we also want to be
+able to do deep inserts right so if
+you&amp;#39;re creating a document as Henrik and
+other people said last
+week the the the obvious use case for
+compositions is the classic document
+structure header and items header and
+positions
+right so why don&amp;#39;t we jump to this now
+deep
+insert and just do a simple deep insert
+we could dig into you know put some
+patches and everything so to do updates
+as well or upserts or whatever but let&amp;#39;s
+just do a simple thing for now oh so
+nikil says um and also but the person
+the lovely person who asked the question
+straight away in the greetings this
+morning ask it again it&amp;#39;s scrolled up in
+fact no I can I can scroll my finger
+it&amp;#39;s a touch screen isn&amp;#39;t it wait a
+minute um how unique is Cap compared to
+other Frameworks some of them I had
+listed below for example uniqu event
+Maes is decoupling um cap is unique in
+that it is probably the most ENT in my
+personal opinion the most Enterprise
+ready
+um deliberately and wonderfully agnostic
+framework in terms of persistence layers
+in terms of languages all right no JS
+and Java um uh that you could even you
+could ever ask for right uh and it it
+Embraces the idea of um declarative DM
+do I
+mean so I mean how what would you like
+to compare it with um you can&amp;#39;t really
+compare it with event mesh that&amp;#39;s not
+really a framework a programming
+framework so let me know um how else you
+might want to talk about that and think
+about that but also nikel says would
+that would this have the same effect if
+you remove The annotation from the model
+and added the order items entity in the
+service yes it would basically yes it
+would that&amp;#39;s a great that&amp;#39;s a great
+question so zah says if we have two
+Services based on our schema will CDs
+Auto expose exposing both Services yes
+because CDs the CDs Auto expose is on
+the on at the schema level let&amp;#39;s call it
+the persistence layer where we&amp;#39;ve
+defined our entities and the
+relationships between those entities
+okay so yes exactly if we had more time
+um we try those two things out n and Z
+ask brilliant questions but the I&amp;#39;m just
+going to give the answers rather than
+sort of demonstrate it you maybe you can
+play with it yourself because I want to
+get through and get to moving away from
+an explicit entity definition and using
+this composition of aspects to have a
+sort of an inline composition but before
+we do that let us let&amp;#39;s get rid of
+um let&amp;#39;s get rid of that for now yeah
+what we&amp;#39;ll do is we&amp;#39;ll do one of these
+we&amp;#39;ll try a deep insert what does a deep
+insert mean
+basically we want to be able to create a
+document we want to be be able to create
+an order so let&amp;#39;s bring that up and um
+let&amp;#39;s
+define oh by the way by the way by the
+way uh in our um little document here uh
+I&amp;#39;ve got I wrote about a well no not
+million I what two three or four blog
+posts uh very recently qac.org and in
+one all about cap and uh CDs and
+previewing uh stuff as well and SQL
+lighting Cloud Foundry non- production
+and everything and um what was the thing
+I&amp;#39;m talking about I completely lost my
+track now um ah what am I talking about
+I can&amp;#39;t remember I was oh uh I suddenly
+lost it I suddenly lost it anyway I
+can&amp;#39;t remember what DJ what&amp;#39;s going on
+anyway all right
+so so what we&amp;#39;ll do is we will create oh
+yes there we go we&amp;#39;ll create what&amp;#39;s it
+called using services and cap uh oh here
+we go there avoid design time cap server
+restarts when maintaining local data
+files there&amp;#39;s another one as well
+amazing I forgot about that one let&amp;#39;s
+put that in as well uh there um
+there there let&amp;#39;s just put that in there
+What&amp;#39;s the title of that avoid there I&amp;#39;m
+going to use this technique right now so
+oh God I hate that there we go
+right ah come on God this editor what is
+going
+on right that was painful there we go
+right so I don&amp;#39;t want the server to
+restart when I start maintaining data
+files so I&amp;#39;m going to put them in a
+directory called underscore out which is
+explicitly one of the things that is not
+looked at
+by the um where is it uh by the regex
+that the the the CDs watch uses to look
+out for files that are changed okay
+soore out um in terms of client
+perspective what is unique um that&amp;#39;s a
+that&amp;#39;s a really good question um what do
+you think I&amp;#39;m going to turn the question
+around what do you think is unique
+what are the features of cap um what
+features of cap can you not find
+anywhere else put in the chat what
+people think uh why do you why does
+everybody think cap is unique is it
+unique um I think that&amp;#39;s a great
+question um but yeah it&amp;#39;s maybe it&amp;#39;s a
+little bit too wide for me to be able to
+answer uh in the time available 827 here
+we go
+um right DJ focus focus focus so what we
+want to do is we want to create a
+structure a basic structure for a deep
+insert right remember that in our um in
+our data files we have orders we&amp;#39;ve got
+an ID and a comment and Order items
+where we got the parent ID position and
+quantity
+right now I want to be able to let&amp;#39;s say
+we want to create a new um a new order
+okay now remember that the uh the ID is
+defined by cuid aspect so therefore it&amp;#39;s
+a uu ID and therefore if we don&amp;#39;t Supply
+it one will be generated for us that&amp;#39;s
+great but we need to supply other things
+as well right so I&amp;#39;m going to maintain
+code um out data let&amp;#39;s call it order new
+order new order talking of Music New
+Order uh New Order let&amp;#39;s put in like
+that order. yaml now I don&amp;#39;t like
+writing Jason but so I&amp;#39;ll write yaml you
+see um and so let&amp;#39;s see if it&amp;#39;s a
+comment
+um New
+Order uh and then we&amp;#39;ve got items
+remember the structure here let me put
+that across here
+actually put that
+there put the schema there there&amp;#39;s the
+structure so
+items uh why don&amp;#39;t we
+say uh position one
+quantity
+10 uh is that right is that I I think
+that&amp;#39;s right let&amp;#39;s save that that&amp;#39;s
+formatted actually yes that&amp;#39;s okay uh so
+let&amp;#39;s repeat that uh there there let&amp;#39;s
+have four
+uh
+[Music]
+four
+40
+oops more haste less speed DJ more haste
+less speed 20 there we go now the reason
+I&amp;#39;ve done that because it&amp;#39;s so easy to
+create right it&amp;#39;s so easy to create
+structures in yaml you can type in yaml
+has its issues as well but as a as a as
+a human rable format I think it&amp;#39;s pretty
+cool and then we can actually go into um
+here and say um B bigger uh let&amp;#39;s let&amp;#39;s
+go into here and there&amp;#39;s there&amp;#39;s our new
+order and now we can say
+yq dot a little bit like you know the
+identity function in JQ
+out uh what is it called oh we&amp;#39;re in out
+already uh data no new order. yaml and
+we get Jason so let&amp;#39;s put that into new
+order. Json so much easier look I mean
+otherwise I&amp;#39;d have to sort of do all
+those punctuations and open curly
+brackets Clos curly brackets double
+quotes colons and everything so we&amp;#39;ve
+now got a structure and notice what I&amp;#39;m
+not
+supplying oh so nikel says Oh e Ian says
+New Order also same time as 808 yes I
+think you&amp;#39;re right ABS ex exactly and of
+course who knows the uh the band that
+new order was formed from amazing from m
+field uh not too far away from me um
+nikil says if we used our own aspect to
+idea not from sap CDs will it still be
+core computed wouldn&amp;#39;t we need that
+annotation if we Define our own oh
+that&amp;#39;s great what a great question so
+Niki is sort of sort of pointing out the
+fact that I&amp;#39;m using this aspect here
+remember just to sort of cut down on the
+amount of season that&amp;#39;s generated so we
+don&amp;#39;t have to look through a load of
+stuff I I stopped using the uh using
+cuid from sap CDs common and just
+defining it here in know lines three
+through five uh Nik is saying if we use
+our own aspects already which we&amp;#39;re
+doing here will it still be called
+computer yes because the fact that I&amp;#39;m
+using this type here uid right it&amp;#39;s the
+uid um type part of this that is related
+to the um uh Auto comput auto
+computation autogeneration of the ID if
+that&amp;#39;s J division exactly J division uh
+of the them so brilliant question n
+brilliant question so we we still get
+that because it&amp;#39;s we&amp;#39;re using U your uid
+so now now now now let&amp;#39;s start CDs
+watch okay and then let&amp;#39;s also open up
+another terminal here and what we&amp;#39;ll say
+is well first of all let&amp;#39;s have a look
+at the curl local uh
+Local Host
+404 uh OD data V4 book
+shop orders let&amp;#39;s just have look at the
+orders for now that&amp;#39;ll do uh let&amp;#39;s do to
+silent and let&amp;#39;s format it as well there
+we go okay so we got two orders we got
+first order and second order AC 58 uh AC
+5A and
+6091 so now what we&amp;#39;ll do is we&amp;#39;ll say
+um curl and then we&amp;#39;ll re use the dash
+dash data and point to a file out uh
+date no New Order . Json so we&amp;#39;ll send
+that the content of that file which
+looks like where is it where is it ah
+there new order do Json there it&amp;#39;ll send
+that we need to supply the header
+describing what the content type of the
+payload is which is application Json
+header this is normal stuff content type
+application
+Json right and where do we want to send
+it to URL we don&amp;#39;t need the D- URL but
+let&amp;#39;s let&amp;#39;s put it in anyway URL Local
+Host lolcat Local Host 404 OD dat V4
+book shop orders now no let&amp;#39;s see what
+happens um should we do a verose as well
+maybe to see even more what&amp;#39;s happening
+so what are we what are we about to do
+you&amp;#39;re welcome n that&amp;#39;s a great question
+all these questions are great so Sunny
+um put down what you think is unique
+about cap and then we can that that
+might help the discussion because I
+think it&amp;#39;s a really good
+question maybe and I&amp;#39;m going to ask
+Daniel Scher uh maybe we should have a
+sort of a a separate ad
+hoc uh live stream where we get some
+people who know a lot more about cap
+than I do as in somebody from the cap
+team to discuss these sorts of questions
+more sort of high level philosophical
+questions about cap do you think that
+would be a good idea let me know in the
+chat let us know in the
+chat uh that&amp;#39;s really cool so uh what
+we&amp;#39;re doing here is we&amp;#39;re going to send
+this entire where is it there this
+entire Json structure and notice as well
+I&amp;#39;ve not supplied going back to sort of
+Nel&amp;#39;s related related to Nel&amp;#39;s question
+I&amp;#39;ve not supplied the
+ID the key ID for the orders nor have I
+supplied the value for the parent right
+then the parent is
+this uh managed Association so for that
+there will be remember will be at the
+persistence layer a parent uncore ID
+field at the data definition level right
+to have this point back to the parent I
+belong to this parent right we&amp;#39;ve not
+put that in the where&amp;#39;s my head the
+bottom uh okay Matias says thank you
+very good idea very good thank you yeah
+I think philosophical discussion about
+cap uh I think that would be really cool
+okay Matias remind me next week if I&amp;#39;ve
+forgotten okay or or um
+anybody what we&amp;#39;re going to do we might
+even
+835 we might yeah okay let&amp;#39;s let&amp;#39;s car
+with this so items so I&amp;#39;ve not got any
+Keys whatsoever or any relationships
+we&amp;#39;ve got an implicit relationship
+though in the fact that these objects
+here are inside this array and the array
+is the value of this items which is is
+here which is the
+composition right this is the most
+beautiful thing so now let&amp;#39;s press enter
+I might have done something wrong but
+press enter and see what
+happens oh there we go oh my goodness oh
+my goodness look we didn&amp;#39;t get an error
+and we
+got in
+response um let&amp;#39;s just I wonder if we
+can copy that cat into response. Json
+and let&amp;#39;s paste that in and then we can
+do JQ response. Jon we can we can see
+what we got in response and what we get
+in response is basically the Json
+representation the default
+representation of the resource that
+we&amp;#39;ve just created with post right we
+didn&amp;#39;t get any errors so this is exactly
+what we have supplied here we&amp;#39;ve created
+a new entity in the entity set and look
+also what&amp;#39;s happened it&amp;#39;s generated
+going back to nik&amp;#39;s question well
+related to nik&amp;#39;s question it&amp;#39;s generated
+and a guid for us and there is also used
+in this parent there&amp;#39;s the parent unar
+it&amp;#39;s used the guid to to point the
+children back to its parent so there&amp;#39;s a
+deep insert right as it says here
+where deep insert update automatically
+filling in document
+structures Okay so we&amp;#39;ve got that and so
+in fact if we go now to um local post
+let put 404 might be easier um why does
+it always remember the Bookshop books
+but not me other things uh 404 go to
+orders uh oh what&amp;#39;s going
+on what what what what what what what
+what did we not orders New Order I&amp;#39;m not
+expecting New Order what have I done
+wrong there what have I done wrong get
+bookshops
+orders let&amp;#39;s just have a look here
+what is going
+on actually let&amp;#39;s have look at the what
+happened there two1
+created why didn&amp;#39;t we get
+the what&amp;#39;s going on am I missing
+something am I missing something let
+have a drink of water and think about
+this uh 4,4
+four that&amp;#39;s correct am I at the right
+um Bookshop
+orders second order first order did it
+oh it restart did it
+a of
+course who spotted what happened who
+spotted what happened and this is the
+exact this is the exact oh GL is this is
+the exact
+reason why I ended up writing this blog
+post post or writing a blog post about
+this thing right this avoid design time
+cap server restarts when maintaining
+local data Val what did I just do I
+created this response. Json and of
+course what does the cap server do when
+it&amp;#39;s in watch mode it&amp;#39;ll restart and why
+and what&amp;#39;s happening when it&amp;#39;s
+restarting it&amp;#39;s going to reload because
+we&amp;#39;re using by default the development
+profile um we&amp;#39;re using I&amp;#39;ve seen a I&amp;#39;ve
+seen um a comment from Sunny I&amp;#39;ll look
+I&amp;#39;ll read in a minute Sun
+um just put in the chat what you think
+just happened and I I&amp;#39;ll explain slowly
+right but look here when
+we created this response.
+Json it restarted look after the post
+which was the thing it restarted which
+of course means as well because we&amp;#39;re
+running where&amp;#39;s the where&amp;#39;s the um uh
+package.json remember the package.json
+our default mode for persistence is in
+memory so what happens when it restarts
+it is in ra Rafa said exactly it&amp;#39;s in
+local so it&amp;#39;s locally in memory only so
+when it restarts it just loads the
+orders from here and
+here and we&amp;#39;ve lost you know you know
+sort of you know we&amp;#39;ve lost the thing
+we&amp;#39;ve just added to the persistence
+there as in let&amp;#39;s call it the UNP
+persistence layer because it&amp;#39;s just SQL
+light in memory and of course when the
+server restarts it&amp;#39;s gone so let&amp;#39;s do
+that again but this
+time let&amp;#39;s not create this response.
+Json so there we go so let&amp;#39;s do that
+restart there we go so there&amp;#39;s the thing
+there so that is that super important
+right this is this is exactly why I&amp;#39;ve
+now cre I&amp;#39;m now creating files in
+underscore out because underscore out is
+one of the places that the restart
+mechanism doesn&amp;#39;t look for changes right
+does that make sense so there we go
+there&amp;#39;s the there&amp;#39;s the two things there
+now I&amp;#39;m going to go back up here and
+there we go let&amp;#39;s do that again
+this time let&amp;#39;s pipe it into JQ directly
+so we can sort of see a nice pretty
+output and now let&amp;#39;s go across and
+refresh there we go we get the New Order
+right we get the New Order memory not in
+SQL RAF exactly exactly
+Rafel th000 points of
+rafl does that make sense but also let&amp;#39;s
+have a look orders expand equals items
+there it is look uh New Order 1 10 20 30
+40
+so we with
+a a relationship between a header and an
+item idea expressed via a composition is
+just such a beautiful thing we can do
+deep inserts and updates as well right
+let&amp;#39;s oh let&amp;#39;s just do an update because
+why not right if we were to say uh viore
+no sorry Co oh there it is there let&amp;#39;s
+do that I&amp;#39;m just so used to working not
+in vs code if I were to say um let&amp;#39;s
+just add up here items let&amp;#39;s say we
+don&amp;#39;t want we actually we only want one
+item right let&amp;#39;s go for that one right
+let&amp;#39;s go for there there let&amp;#39;s have a th
+okay now let&amp;#39;s bring that up again the
+the the ID of our thing is there right
+so let&amp;#39;s we need that let&amp;#39;s bring that
+up uh there verose data we&amp;#39;re going to
+send this data in
+okay and we&amp;#39;re going to say uh header
+URL but we we also now need to specify
+CU we&amp;#39;re changing a specific entity so
+we need to Def describe that in the in
+the URL okay so we&amp;#39;re doing an OD data
+uh operation but
+instead we&amp;#39;ll say
+x
+patch let&amp;#39;s modify that let&amp;#39;s see what
+happens shall
+we 200
+okay ID comment items so now if we go
+back to here no there where is it there
+and press
+refresh we&amp;#39;ve patched that order by
+saying actually it&amp;#39;s just one item for
+example and you can imagine how you
+would need therefore to use patch for
+example and of course put is also in
+that same sort of area replacing the
+entire thing right in fact let&amp;#39;s use
+let&amp;#39;s use put let&amp;#39;s use put let&amp;#39;s see
+the difference between patch and put
+we didn&amp;#39;t I didn&amp;#39;t
+change
+um oh we did actually hold on a second
+let&amp;#39;s just say here yeah let&amp;#39;s let&amp;#39;s
+let&amp;#39;s follow this up 843 yeah um so Visa
+yeah W Visa says this default profile
+issu is very interesting and um uh nikil
+says if we were to expose uh the order
+items now and do a post against that
+entity will it error out or will still
+generate the parent it won&amp;#39;t generate
+the parent no if we do a post directly
+and use that goid in the order item
+record we I mean we could do it
+manually um so yeah we can still we can
+still do it manually but it&amp;#39;s not a good
+idea right it&amp;#39;s not a good idea so let
+me go back to Sunny&amp;#39;s it&amp;#39;s 8:44 already
+so we got only got 15 minutes so we
+might extend it to next week oh my but
+I&amp;#39;m hoping this is okay because we want
+to understand not only compositions from
+a a CDS perspective from a core data and
+services
+perspective we also want to understand
+it from a practical perspective how do
+we use it and what does that actually
+mean for us as consumers of the service
+that is defined using compos for example
+so with put post and patch for example
+so we&amp;#39;ve done a post to create something
+new in fact let&amp;#39;s let&amp;#39;s actually let&amp;#39;s
+restart here so we&amp;#39;re starting from
+scratch again with just those two orders
+right and by the way um so let me see
+what Sunny says in my opinion if a
+company uses sap for their Enterprise
+they have the option to use cap for
+building applications that provide IP
+features I maybe wrong as I did not have
+full hands on that&amp;#39;s exactly right no
+you&amp;#39;re exactly right Sunny um uh so if
+if a company uses sap for their
+Enterprise they have the option to use
+cap for building applications exactly
+they have two options well they have
+many options but they have two main
+options let&amp;#39;s use the word main they can
+use RP the restful application
+programming model um and that&amp;#39;s for if
+you want to use uh appap on the appap
+stack or if that&amp;#39;s not appropriate for
+whatever reason then the other other of
+the two main um recommended approaches
+Pathways Journeys is Cap the cloud
+application program which is what we&amp;#39;re
+talking about and of course then you
+have the possibility of doing that from
+a language perspective either with
+node.js JavaScript or with Java okay um
+of course you can still because btp the
+BT what&amp;#39;s it called the business
+technology platform has uh multiple
+environments for example Foundry and
+kubernetes in the form of tea rap
+kubernetes you can still do bring your
+own right you can still bring whatever
+language you want and run whatever you
+want okay but recommended and also you
+know supported and Enterprise ready cap
+and rrap you know what&amp;#39;s not to like and
+that&amp;#39;s why of course there&amp;#39;s a cap and
+rrap codejam going on in Paris France
+right now as opposed to Paris Texas supp
+um uh so douglas douglas welcome sa was
+Douglas longtime friend of the hands on
+Sab Dev show Welcome Back Douglas yes of
+course not wanted to post against a
+contained entity just yes
+nikel curiosity is the most important
+thing that we should all have in these
+sessions and generally right as
+developers that&amp;#39;s the best skill skill
+is it a skill that&amp;#39;s the best
+characteristic to keep strong in one&amp;#39;s
+self C curiosity right this is why we&amp;#39;re
+finding all these things out so let&amp;#39;s be
+curious and dig in a little bit more to
+the difference between shall we put it
+in the chat whether we shall uh the
+difference
+between from an HTTP verb perspective
+post put and Patch okay it&amp;#39;s slightly
+confusing that they all begin with P in
+my
+brain but post is where you want to
+create a new resource effectively
+semantically okay so post is used to
+convey the OD dat operation
+create okay uh Sunny you&amp;#39;re welcome
+you&amp;#39;re welcome Sunny um
+and that&amp;#39;s what we did before so now
+we&amp;#39;re back to the two basic orders that
+we&amp;#39;ve got in the CSV files second order
+and first order in fact going back to
+what uh what um uh no who said that
+um I can&amp;#39;t remember who said it sunny
+Rafael uh anyway oh yes it was wow this
+default profile issue is very
+interesting we wez us so yes we could
+switch to the profile that uses the SQL
+light
+database and in fact we will do when we
+start wanting to explore cascaded delete
+to sort of see with our own eyes
+actually whether the children order
+items are deleted when we
+delete uh when we delete an order right
+but we might I can&amp;#39;t believe we might
+have to go to a third episode to
+continue with compositions because it&amp;#39;s
+such an important thing but
+also DJ stop talking right so we&amp;#39;ve got
+here let me make it a bit smaller see
+the sort of structure the first order
+and the second order
+okay now let&amp;#39;s go back
+here and let&amp;#39;s run this again okay so
+let&amp;#39;s go back here and where is it uh
+theose there so we&amp;#39;re doing this so
+we&amp;#39;re going to start let&amp;#39;s put that
+there uh we don&amp;#39;t really need to see
+much of that do we so let&amp;#39;s do that like
+that so we&amp;#39;re going to start by using
+post which when we use D- data
+the H in curl the HTTP method that&amp;#39;s
+used by default is post but let&amp;#39;s let&amp;#39;s
+be explicit right um minus X actually
+what&amp;#39;s the um curl what&amp;#39;s the L hand
+version of uh man curl don&amp;#39;t think I&amp;#39;ve
+got man page of curl uh curl help
+uh let&amp;#39;s put have another thing here man
+Cur I&amp;#39;ve got man in here yes I have
+minus X request d d request okay there
+we go yes
+request uh there we go
+so because I quite
+like putting the long form in post right
+so what we&amp;#39;re doing here what are we
+doing we&amp;#39;re now going to send a post
+request which from an HTTP perspective
+that&amp;#39;s what the verb is right this in a
+OD data context translates into let&amp;#39;s
+make it even
+all on one line they&amp;#39;re all on one line
+there we go from OD data perspective a
+post request translates into a create
+operation we&amp;#39;re supplying data in this
+new order file here right there and
+let&amp;#39;s let&amp;#39;s just create an order with
+one item
+okay so Sunny says post create a new
+record patch update specific fields of
+record Put update override the record ex
+beautifully succinct let&amp;#39;s try and see
+if we can see that in action okay
+because I think it&amp;#39;s important to to not
+skip over that sort of thing this is
+Back to Basics after all right so G oh I
+just noticed gaming station I miss sap
+guy so do I in a way I&amp;#39;ll tell you what
+I miss R2 and the goei and R2 which of
+course there was no sap guy it was
+anyway so we&amp;#39;re sending the data in this
+file as the payload we&amp;#39;re sending a
+specific header in order to tell the cap
+server hey the the the the the
+representation of the payload resource
+is Jason and we&amp;#39;re sending it to Local
+44 o data over here V4 Bookshop orders
+okay let&amp;#39;s do that
+bang yeah oh as as we see here curl says
+unnecessary use of minus X or minus
+minus request post is already inferred
+from the fact we&amp;#39;re using Das Dash data
+okay but we want to be explicit for our
+own purposes so now we can go across to
+here and see hopefully there it is
+there&amp;#39;s our New
+Order now what we then did what we then
+did is we did a we did a patch didn&amp;#39;t we
+so why don&amp;#39;t we say here let&amp;#39;s get rid
+of the comments and let&amp;#39;s let&amp;#39;s say uh
+let&amp;#39;s add another see this is this is
+why I don&amp;#39;t like editing Jason let&amp;#39;s add
+another position position two with 2,000
+but we
+won&amp;#39;t but we won&amp;#39;t have this comment
+here we won&amp;#39;t include the comment
+property in the orders level right let&amp;#39;s
+just save
+that
+patch right but we don&amp;#39;t need oh yes we
+do we still need to patch we need to
+specify now because patch and put relate
+to a specific entity whereas post
+relates to an entity set your imagine
+posters you&amp;#39;re throwing something into a
+bucket that bucket is the entity set
+whereas patch and put you&amp;#39;re your want
+to Target a specific thing in that
+bucket right the bucket being the entity
+set right so where&amp;#39;s our new order there
+we go there&amp;#39;s 7b1 15 let&amp;#39;s copy that
+let&amp;#39;s bring it into there and let&amp;#39;s go
+to the end and say there right same
+thing let&amp;#39;s see what
+happens we get 200 okay okay and let
+refresh so we haven&amp;#39;t changed or lost
+this comment it&amp;#39;s not gone to null
+and now we&amp;#39;ve got the two items 1,000
+and item two
+2,000 what happens if we want to do a
+put a put okay let&amp;#39;s say we want to say
+I want to completely replace comment um
+Joy
+Division and let&amp;#39;s just let&amp;#39;s just have
+I don&amp;#39;t know just yeah let&amp;#39;s just
+position
+two one and one there so let&amp;#39;s do that
+okay so let&amp;#39;s
+now replace the whole
+thing
+request
+put for example here uh put there we go
+and we also get a 200 and we&amp;#39;ve now
+replaced that it&amp;#39;s still the same ID
+with all the new data that we want okay
+does that make sense does that make
+sense okay
+it&amp;#39;s
+854 maybe we can get
+in yeah maybe we can get in this thing
+here cascaded delete yes let&amp;#39;s do that
+in five minutes let&amp;#39;s do that in five
+minutes now going back
+to being able to prove to ourselves that
+we can let&amp;#39;s do it now first of all
+right let&amp;#39;s do it now let&amp;#39;s
+delete request delete let&amp;#39;s do aose we
+don&amp;#39;t need to send it ah sorry
+delete we don&amp;#39;t need to send any
+data um in or in in a in a we don&amp;#39;t need
+to send a payload for delete nor do we
+need to send a header describing what&amp;#39;s
+in the payload because there is no
+payload so that&amp;#39;s what we need now to
+delete right so what we what we&amp;#39;re going
+to try and find out is when we
+delete the
+order is that deletion Cascade Ed to the
+order items now logically you would
+expect them logically we would we would
+and sort of philosophically we would
+hope that&amp;#39;s what happens because it&amp;#39;s a
+contained in
+relationship
+okay uh so but before we do that before
+we do that let&amp;#39;s go across to here and
+run that um in profile what&amp;#39;s it called
+testing mode oh in fact first of all CDs
+deploy let&amp;#39;s deploy uh so do a deploy um
+profile testing in fact even before that
+look we got we got this Bookshop SQL I
+don&amp;#39;t know what stat it&amp;#39;s in so let&amp;#39;s
+remove the Bookshop SQL light and then
+also say CDs deploy CDs CDs
+deploy profile
+testing so that should create a Bookshop
+SQL light there it is and now if we say
+CDs watch profile testing it&amp;#39;ll start to
+use not in memory but it&amp;#39;ll start to use
+this Bookshop do SQL light so of course
+we&amp;#39;ve got to add that thing back again
+where is it post let&amp;#39;s add it in there
+and let&amp;#39;s go across to here refresh
+we&amp;#39;re back with a sec with the Joy
+Division right so we&amp;#39;re going to delete
+that now 2B a etc
+etc
+now uh request delete verbos yes let&amp;#39;s
+let&amp;#39;s have that um there there there
+there there there and then
+let&amp;#39;s see so we see what
+happens 204 no content 204 no that&amp;#39;s
+exactly what you want from a delete now
+let&amp;#39;s go back to three now of course
+we&amp;#39;re looking at the orders here and
+only expanding on the
+items so the whole order&amp;#39;s gone from the
+orders entity set and if we were to try
+and have a look at the order items
+because was it called order items
+because we haven&amp;#39;t explicitly done a CDS
+Auto expose we took that out again
+because we don&amp;#39;t we don&amp;#39;t really want it
+we shouldn&amp;#39;t really have it we can&amp;#39;t see
+but now what we can do of course is uh
+SQL light Bookshop do SQL
+light tables let&amp;#39;s have a look at the uh
+what&amp;#39;s in there so if we now have a look
+at select star from um org Q macro uh
+order items what are we expecting we&amp;#39;re
+only expecting to see go back here one
+two three order items rather than three
+plus however many were in that thing
+three plus I don&amp;#39;t know yeah
+those and there they are so they&amp;#39;ve been
+deleted remember the actual let&amp;#39;s get
+rid of that remember the actual guid of
+the um New Order that we created it was
+2ba A4 right 2ba A4 that&amp;#39;s not in there
+as a paent anything so we&amp;#39;ve got a
+cascaded
+delete I
+think I think that&amp;#39;s enough to
+cover we&amp;#39;ve covered Auto exposure we&amp;#39;ve
+covered cascaded delete we&amp;#39;ve covered
+deep insert and update I think we&amp;#39;re
+okay I think we&amp;#39;re okay suddenly it&amp;#39;s
+all coming
+together I&amp;#39;ve just noticed here oh my
+goodness me um questions questions
+questions last two so uh Sunny says I
+miss the waiting time that we Pro screen
+that took some time just talk the
+window okay I can&amp;#39;t remember that but
+anyway um zahed says is it possible to
+deploy or host cap o data service on a
+root server with postest what do you
+mean by a root server um zahed what type
+of licenses are required in such case
+where to Define information related to
+licenses oh my goodness me so cap at the
+moment is uh governed by the um sap
+developer
+license uh so go and check out the sap
+developer license um I think that
+originated for Hanner Express I&amp;#39;m not
+sure sure um but anyway it&amp;#39;s covered by
+the Sab developer license I&amp;#39;m not a
+lawyer and um licenses is not something
+that um I know much about or don&amp;#39;t want
+to know anything about I&amp;#39;m a developer
+not a lawyer uh but it is important to
+know what the license is and is SB
+developer license so
+um uh so Daniel thank you Daniel I think
+the cover page of capaya points out
+really well what C makes cap special
+jump start and grow as you go start
+simple and fast focus on domain yes
+exactly so let&amp;#39;s just remind ourselves
+capir
+capir there we go uh the homepage of
+capir there there this is what
+differentiates cap from any other
+framework in my personal opinion jump
+start grows you go intrinsic Cloud
+qualities Enterprise best practices and
+focus on domain cap is amazing right so
+um Daniel says an intrinsic oh yes okay
+so Daniel said just on the screen here
+nikel plus cap is open yet opinionated
+wait exactly nck you&amp;#39;ve got it it is
+open but and that&amp;#39;s what we want as
+developers we want an opinionated
+framework right conventional over
+configuration otherwise we&amp;#39;re just
+inventing stuff every time from scratch
+by ourselves individually we don&amp;#39;t want
+that so Visa says you want to update the
+quantity of a specific item can we do
+that with this inline aspect of
+Declaration yes we can yes we can and
+we&amp;#39;ll do inline thank you for the that
+the final link we&amp;#39;ll do inline
+Declarations of aspects just as the
+start of next week before we move on to
+the next topic which I can&amp;#39;t remember
+what it is anyway it&amp;#39;s 9:00 thanks so
+much for watching uh thanks for staying
+with me on this compositions Journey
+Adventure have a great rest of Friday
+have a great weekend and see you uh next
+week I think yes bye
