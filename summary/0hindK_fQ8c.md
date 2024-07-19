@@ -1,16 +1,20 @@
-# Summary of Live Coding Session with DJ Adams
+# Back to basics with SAP Cloud Application Programming Model (CAP) - part 18
 
-In this live coding session, DJ Adams dives deep into the SAP Cloud Application Programming Model (CAP), focusing on its features and practical applications while fostering interaction with his YouTube audience. Viewers can expect to learn about various SAP technologies and coding practices that enhance their development skills.
+Watch the full session here: [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c)
 
-- **Main Technical Topics Discussed:**
-  - Introduction to the new SAP developer challenge based on CAP
-  - How to create and test APIs, including both unbound and bound functions
-  - Deployment strategies for CAP applications, including local and cloud deployment
-  - Use of SQLite as a development dependency
-  - Interactivity through live chat, where viewers ask questions and share their thoughts
+In this session, DJ Adams conducts a live coding session focusing on the SAP Cloud Application Programming (CAP) model, where viewers can learn about its core components and functionalities. DJ interacts with the audience while providing insights into SAP-related developments.
 
-In the coding section, DJ explores the latest developer challenge that requires participants to create APIs, including implementing a simple "ping" service as an unbound function. He also addresses how to create bound functions, emphasizing the structure of entities and their parameters. For instance, he explains how to retrieve stock values for specific books using bound functions and proper API definitions.
+**Main Topics Covered:**
+- DJ's morning routine and the weather [0m48s](https://www.youtube.com/watch?v=0hindK_fQ8c&t=0m48s)
+- Overview of the SAP developer challenge [6m18s](https://www.youtube.com/watch?v=0hindK_fQ8c&t=6m18s)
+- Implementing functions in CAP, focusing on both bound and unbound functions [50m37s](https://www.youtube.com/watch?v=0hindK_fQ8c&t=50m37s)
+- Q&A session addressing viewers' queries about CAP and coding [17m2s](https://www.youtube.com/watch?v=0hindK_fQ8c&t=17m2s)
 
-On a personal note, DJ shares light-hearted moments about his daily life, including making coffee and enjoying pleasant weather, illustrating his relaxed approach to coding.
+## Content
+DJ dives into the technical aspects of the SAP CAP, specifically discussing the implementation of functions like *total stock* and *stock value*. He explains the concept of bound versus unbound functions, providing coding examples. He guides viewers through the creation of a ping service, elaborating on how to submit API endpoints for testing and the importance of handling responses correctly. DJ highlights best practices for coding in the CAP environment while keeping the audience engaged with live Q&A segments.
 
-The chat actively engages with viewers, who share excitement about the coding concepts, ask technical questions, and mention their plans to participate in the developer challenge, creating a vibrant community atmosphere around the session.
+## DJ's private life
+DJ shares glimpses of his personal life, expressing enjoyment in the sunny weather after a stretch of inclement conditions. He mentions his rooftop solar panels and shares personal anecdotes, creating a warm atmosphere that makes the coding session feel more relatable.
+
+## Chat
+The live chat is buzzing with interactions, as viewers share their experiences, ask technical questions, and comment on the developer challenge. DJ actively engages with the audience, encouraging feedback and stimulating discussions, which fosters a sense of community among participants.

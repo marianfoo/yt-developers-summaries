@@ -1,1378 +1,1378 @@
-e
-good morning good afternoon good evening
-welcome to hands on SB Dev with me DJ
-qro good morning
-everybody um yeah sorry sorry happier
-that was a little bit of a typo I was
-too excited I was thinking oh yeah I can
-I can uh practice my Catal I&amp;#39;ll tell you
-why in a minute so good morning to uh
-Lawrence uh in in a nice camping site
-thank you for joining on your holidays
-and good morning to you jaier in Sunny
-uh but fresh Barcelona City now it&amp;#39;s
-quite interesting actually because I was
-in Barcelona this
-weekend yeah we took our mother uh uh me
-and my sisters we went to Barcelona we
-went on Saturday flew back on on Monday
-so two just two nights there um and uh
-yeah in fact I&amp;#39;ve got a picture I I dug
-out the picture as soon as I remembered
-you were in Barcelona just now I uh I&amp;#39;ve
-got a picture of where we were um anyway
-so good morning to you in Madrid Antonio
-and good morning to you Ian s in Co and
-rainy uh H where is it down down south
-again somewhere I can&amp;#39;t remember oh my
-brain&amp;#39;s not working welcome welcome
-welcome it you know what it it on my run
-this morning I was thinking is the Sun
-going to burn this Cloud off uh but no I
-think the cloud is here to stay here up
-in the north good morning Rahul this is
-Rahul Jane from Mumbai India good
-morning to you Rahul in Mumbai and
-chanaka chanaka longtime friend of the
-series hello good morning to you welcome
-welcome welcome so um what have we got
-what have we got oh Caston Schlagel in
-stutgart Germany good morning another
-regular oh it&amp;#39;s nice to see you all I&amp;#39;ve
-got my cup of tea here um I had a coffee
-this morning after my run and i&amp;#39; I&amp;#39;ve
-been thinking there&amp;#39;s a couple of
-occasions recently where I&amp;#39;ve been doing
-the live stream with you and everything
-oh Guilford of course sorry sorry
-Gilford duh uh and my brain has been
-like I can feel my brain going faster
-and faster and faster as in not in a
-good way not in a good way in a bad way
-uh cuz I got tooo much coffee so I&amp;#39;ve
-got a coffee this morning after the run
-I&amp;#39;ve got a tea I know it&amp;#39;s got caffeine
-in as well but it&amp;#39;s not really coffee
-cafee I I have no idea anyway I&amp;#39;ve got a
-cup of tea AJ good afternoon to
-you and we also have the subscriber good
-morning uh this the subscriber says good
-morning from Belgium I am a freshly
-starting Junior sap consultant do you
-have any tips and tricks for setting up
-my development environment well watch
-this series uh it depends what you&amp;#39;re
-going to be doing of course um but if
-you are thinking of developing with cap
-then I would for for example suggest uh
-vs code and the uh CDs extension for V
-es code which we&amp;#39;re using here in fact
-bon no C kazis oh
-kazis I I remember you as well and here
-eager to capier excellent I love the pun
-I love the play on words and good
-morning to you mark in Sunny Keel
-welcome everybody now let me switch to
-smitch switch I can tell this stream is
-going to be a bit weird today I can&amp;#39;t
-even get my words out asok good morning
-to you in Belgium so yeah in fact let me
-just switch I&amp;#39;ve switch to the main
-scene um and this so Javier this is
-where I was uh this weekend just passed
-so in the is I I don&amp;#39;t know how you
-pronounce it is it a shler uh area in
-the example area um so we were just
-around the corner this is last time I
-was in Barcelona this conel conel dong
-uh Street wasn&amp;#39;t pedestrianized so maybe
-it&amp;#39;s been in the past few years but
-really nice it&amp;#39;s my favorite area in
-Barcelona really cool good morning Kiara
-bonjour no to you ah yes if you went G
-familiar and we were so close we did
-actually we didn&amp;#39;t go in but my mom
-wanted to see the church from you know
-from outside so we went there we went on
-the uh on the
-subway and everything so the subscriber
-I&amp;#39;m currently doing some POC using cap
-sai5 connecting all with some blockchain
-in between uh can&amp;#39;t give full details C
-NDA excellent cap and sap ui5 I can
-strongly recommend
-blockchain I don&amp;#39;t know what do I know
-about blockchain nothing anyway there is
-uh where I was on Sunday for example
-good morning John and welcome to you in
-the north east Phil looks really nice it
-does and Phil you look really nice too
-but yeah you know it was it was nice
-Terrible Weather actually on Monday in
-Barcelona but
-anyway so what we&amp;#39;re going to do oh yes
-before I forget let me put that in the
-chat because that&amp;#39;s the only thing you
-need um I&amp;#39;ve been adding stuff already
-so we got the developer news by the way
-yeah um so check out the developer news
-also if you haven&amp;#39;t seen it we&amp;#39;ve we&amp;#39;re
-trying a new for format for cap stuff as
-well so this thing here we did a short
-how does Auto filling of primary Keys
-work so um check it out let us know go
-and give it a thumbs up go and look at
-it later on and check it out and let us
-know in the comments either to this or
-in here whether you like this sort of
-you know uh what&amp;#39;s it mobile mobile
-friendly format 60 seconds you
-know it&amp;#39;s uh I&amp;#39;m feeling quite modern
-when I&amp;#39;m watching this so yeah let us
-know whether you like these sorts of
-things things and we can do some more so
-that&amp;#39;s that um also also also um we&amp;#39;ve
-got a co- talk with Ian talking to me uh
-about here about the Naro so if you want
-to find out a little bit more about the
-narrow booat and how it work not how it
-works but you know some details about it
-and how I set up my interwebs and
-everything then um then yeah this is the
-thing for you as well and get rid of
-that and one more thing before we start
-oh so Sonni welcome and welcome to you
-in uh Mumbai India and jaier says yes
-example nice and I like because they
-nice are I like it because they msde or
-is that they made I can&amp;#39;t maybe you&amp;#39;ve
-got some maybe you&amp;#39;re doing some typos
-cuz I did some typos I don&amp;#39;t know uh
-they made the entire Street walk exactly
-it was really nice really
-nice one thing I did in between the last
-episode and
-today uh is that I just added I noticed
-when I was walk I was sort of watched
-through the previous episode to remember
-what what we did and everything and I
-notic that uh and we&amp;#39;ll look at this
-shortly that we didn&amp;#39;t have in the order
-items any relationship to what we were
-ordering we had we had a position you
-know order item number one number two
-number three the quantity but no thing
-what what are we ordering so I just
-added that there okay so you can see
-that I&amp;#39;ve added another element being
-described as a 21 managed Association to
-books and then I of course then added
-into the uh order items CSV file uh some
-book ID uh uu IDs okay so now as it as
-we say here in the um let&amp;#39;s just do that
-first of all now when we are oh am I
-running it I&amp;#39;m I running I&amp;#39;m not running
-yet CDs watch start where we start how
-we mean to I can&amp;#39;t even think I can&amp;#39;t
-even talk let&amp;#39;s start as we mean to go
-on and run that and if I put that in
-there that&amp;#39;s what we had before however
-in fact Let me let me do that and bring
-that to number two there bring it across
-there however we can
-also with OD dat V4 this is how you do
-it we can actually
-Nest expand so we&amp;#39;re expanding the items
-navigation property and now we can say
-expand equals book okay expand equals
-book because we&amp;#39;ve got here where is it
-ah let&amp;#39;s do that let&amp;#39;s do that and um uh
-schema CDs
-we&amp;#39;ve now got this book okay so we can
-expand from the order items to book okay
-so we do that expand equals book and now
-we get the book that&amp;#39;s being ordered
-okay so that&amp;#39;s you know it&amp;#39;s a little
-bit of a more
-rounded sort of relationship between
-order and Order items and what we&amp;#39;re
-ordering and some data okay so that&amp;#39;s
-that so um uh subscriber says I wanted
-to thank you for the work you are doing
-on this channel it&amp;#39;s giving me lots of
-valuable information fantastic
-subscriber thank you and thank you for
-coming on and chat cting and everything
-and letting us know uh all people are
-welcome here especially beginners um so
-yeah fantastic so Phil says halfway
-through the Naro code talk was cool need
-to finished off you do Phil you
-do okay so what time is it 808 8 Ian 808
-I just looked at the time it says 808
-amazing this is this is i&amp;#39; have to
-listen to some 808 dat after this uh
-this live stream okay what we&amp;#39;re going
-to do today is finish off very brief ly
-um the the stuff that we were looking at
-with
-compositions uh okay and then we&amp;#39;re
-going to move on uh to adding custom
-logic so I&amp;#39;ve got a couple of links in
-here as well remember that this you know
-each time we do a live stream we&amp;#39;ll put
-an event in the sap community events
-area on the sap Community platform and
-then I always put a comment to it and
-add the links to the resources that we
-talk about in the particular episode
-okay is that sense and if we during the
-course of this episode if we um have oh
-yeah I need to add it to the um
-description of the YouTube video as well
-to get there as well uh so if we have it
-um if we have any more resources I&amp;#39;ll
-add them live while we do it okay hello
-yellok and welcome and good morning to
-you Matias in mesca in zand in Germany
-and Rahul sorry I&amp;#39;m asking this question
-what is the difference between
-Association and competition well I&amp;#39;ll
-give you uh two answers the first answer
-is that an
-association is a relationship between
-two entities that are sort of
-independent from one another but related
-in some sort of way for example books
-and authors okay if you delete a book
-the author is still existing and a
-composition is a contained in
-relationship where um the the thing
-that&amp;#39;s pointed to if you delete the the
-container the contained in things need
-to be deleted as well logically so think
-of a document in SA header and items the
-items are they contained
-in children parent child relationship
-the second answer is check out the
-previous two videos uh previous two
-episodes of this the replays and that
-will explain a little bit more as well
-but thank you for asking R thank you for
-being uh confident and brave enough to
-ask because no question is too simple to
-ask so thank you for asking that so
-Sunny says after attending a few live
-sessions of yours I have written this
-article um oh you&amp;#39;ve written an article
-but
-I think you&amp;#39;re not allowed to post URLs
-in the chat and YouTube I don&amp;#39;t know why
-so ah just maybe put a bit of put the
-put the URL in sort of English and maybe
-we can have a look or put it on you know
-put it on the community or on like
-LinkedIn or something or in the comments
-to this video put it in the comments to
-this video yes uh what is capm and
-collaboration between developers and
-business stakeholders fantastic well
-done Sunny well done Sunny subscriber
-says probably out of scope for this
-video but I&amp;#39;m working with data from S4
-public cloud in my cap to update back to
-S4 I need an e tag for this any way to
-model this easily that&amp;#39;s quite a
-detailed question um we might not be
-able to get around to answering that
-today um but stick it in the community
-or um or LinkedIn or maybe we&amp;#39;ll get to
-that another time e tags are very
-interesting uh and uh but that&amp;#39;s not
-really what we&amp;#39;re trying to cover in the
-Back to Basics at the moment uh DJ could
-you please pull your speaker circle to
-the bottom right corner of the screen I
-I certainly will thank you RJ there we
-go um so I hope that was okay so now
-uh if we go back here uh yeah sorry
-Sunny you can&amp;#39;t sh put it in the comment
-put it in the a comment to the video
-rather than in the chat itself okay put
-it in the
-comment uh in a comment create a comment
-so there we go okay perfect now the
-final thing that we want to look at here
-is here domain modeling composition of
-aspects and what that&amp;#39;s all about I
-think that&amp;#39;s there as well but do what
-that is all about we&amp;#39;ve been building a
-composition between
-um let me just move that down a bit
-between come on there we go uh between
-orders and Order items we&amp;#39;ve defined
-explicitly an order item entity okay
-which is fine and it&amp;#39;s nice and clean
-and everything but even
-cleaner might be especially if we don&amp;#39;t
-need this order items entity to exist
-actually as an entity
-we can also in fact Let me let me let me
-bring
-this
-over to there and put that in there so
-we can look at this we can we can
-compare the
-difference okay composition of aspects
-remember an aspect is basically just a
-collection of um a collection of
-elements yeah remember we we looked at
-the uh the and we used the Cyd aspect
-okay we use the cuid aspect and really
-the cuid aspect was just a named
-collection when I say collection
-basically in in braces in curly brackets
-of elements that&amp;#39;s that&amp;#39;s effectively
-all it is okay but it&amp;#39;s a really nice
-affordance that allows us to keep our
-code our CDs model declar definitions
-clean right and and uh dry okay
-here we&amp;#39;ve got an aspect but it&amp;#39;s like
-an this is this is probably not the
-right term but I&amp;#39;m going to suddenly use
-this term this is like an anonymous
-aspect oh ah there we go no it says says
-it here we we can use anonymous inline
-aspects that&amp;#39;s exactly what it is to
-rewrite the above which is what we&amp;#39;ve
-got here with less noise as follows can
-you see what we&amp;#39;re doing here so in fact
-let&amp;#39;s do this
-here and see what happens so what we
-what what we don&amp;#39;t need anymore is
-um the percent and then do that there
-what we don&amp;#39;t need is that so let&amp;#39;s get
-rid of that let&amp;#39;s just comment it out
-for now okay and then a composition of
-many in fact let&amp;#39;s just delete to the
-end uh let&amp;#39;s delete that delete
-that composition of
-many something
-okay and that something is what there&amp;#39;s
-form there is what we want to Define
-okay and that&amp;#39;s something really only
-need no notice here oh I thought coming
-that out we go notice here that we&amp;#39;ve
-got this
-parent that we have to maintain a
-declarative definition for because the
-order items is sort of independent
-really in terms of the CDs model and all
-the different building blocks of the
-model
-but when we&amp;#39;re using an anonymous inline
-aspect like this we don&amp;#39;t even
-need to maintain this parent definition
-so what all we need here is um let&amp;#39;s add
-uh key pause which is going to be an
-integer I&amp;#39;ll clean this up in a minute
-uh and then we&amp;#39;ll also have quantity
-which is going to be an integer as
-well oh come on
-DJ and also we&amp;#39;ll have a book uh which
-is Association to books just like we so
-basically I&amp;#39;m just um associ oh I can&amp;#39;t
-even spell
-Association two books Let&amp;#39;s format
-that so effective let&amp;#39;s save that as
-well so
-effectively this is the equivalent of
-having this and this without needing to
-have this Association to blah blah blah
-okay does that make sense oh and uh
-Marian Marian welcome what good morning
-everyone Sunshine finally can take part
-in the live stream Where do you
-recommend I start in the first live
-stream do I miss a story AR when I watch
-Random episodes you can watch Random
-episodes if you want Maran I will I will
-permit this I mean watch them all what I
-would recommend if anybody is coming to
-this series sort of in the
-middle what I would recommend you do is
-maybe watch some of them on 1.5 speed
-catch up fast because you can get
-through them and get get them into your
-brain like a bitford whoever who
-remembers Max room blipverts really fast
-adverts play really fast anyway because
-I&amp;#39;m new and you discuss relationships
-have onetoone relationships between
-discuss yet I tried that once and fail H
-well yes we have discussed onetoone
-relationships with the associations
-we&amp;#39;re doing compositions now previous
-two episodes previous two episodes Maran
-fantastic thank you for asking these
-questions
-brilliant so what has happened what has
-happened here if we
-now right have a look in fact why don&amp;#39;t
-we do this yeah why don&amp;#39;t we do this and
-say uh let&amp;#39;s bring that up here and CDs
-and this is a this was a comment that or
-was it visas that uh mentioned this on a
-comment of one of the videos we want to
-do some compile a bit more bit more
-compiling CDs
-compile uh
-serve okay let&amp;#39;s do that let&amp;#39;s see what
-happens oh oh we want we want it to uh
-yamel don&amp;#39;t because it&amp;#39;s a little bit
-easier to look at now look at this we
-have Bookshop orders item
-items remember um it&amp;#39;s Auto
-exposed and because it&amp;#39;s a projection
-and we have an up element here now not a
-an element called parent we have a
-parent called upcore and it says here
-behind the scenes this will add entity
-name orders do items which is what we&amp;#39;ve
-got here right orders do items it&amp;#39;s Auto
-exposed because it&amp;#39;s the target of a
-composition just like we saw last week
-Auto
-exposed right with a
-backlink Association just like just like
-this one in fact let&amp;#39;s bring that down a
-minute a bit there there we can see all
-we can see all one screen there we go
-perfect so this thing
-here is the equivalent of what we
-explicitly defined here key parent okay
-but in this case this thing was called
-parent and now it&amp;#39;s called you know the
-magic of cap that will generate things
-for you needs to decide on some name and
-let&amp;#39;s call it and they call it up
-underscore so effectively generating the
-same model as above up
-underscore okay now um ens and I also
-had to backtrack a few episodes and
-watch on 1.5 good work in okay so if we
-that that&amp;#39;s exactly the same now one
-thing let&amp;#39;s see CDs watch if we now go
-over here and try and do that
-again we&amp;#39;re not going to get any items
-why is that can anybody tell me why that
-is I think it should be fairly clear
-when we sort of stop and stare and think
-about it for a second we can give
-ourselves a clue CDs add data okay we&amp;#39;ve
-got here our um items in order items
-here but remember what it said here it
-will add an entity name orders do items
-and we saw that there didn&amp;#39;t we where is
-it there orders do items not order
-items so when we do a CDS ad
-data here watch what happens in this D B
-data directory we got authors books
-order items and orders see has our
-data we now get a new file orders do
-items okay that&amp;#39;s exactly the equivalent
-of what&amp;#39;s you know what&amp;#39;s in the model
-what&amp;#39;s in the generated model skipping
-authors skipping orders creating orders.
-items okay so if we now go in here um
-let&amp;#39;s copy that copy them into
-there and you can notice here look
-there&amp;#39;s the difference upcore and parent
-upcore uncore ID and parent uncore ID
-okay so there we go um parent ID so get
-rid of
-that that now should work so see it CDs
-watch if we go here
-now there we go so it works so that is
-effectively a a
-cleaner less noisy way of defining a
-contained in relationship when really
-the the things that are contained the
-items for
-example where where is it are sort of
-less important from a model explicit
-model definition perspective right okay
-hope I hope that&amp;#39;s okay I hope that&amp;#39;s
-okay so Mar says thank you we&amp;#39;ll try to
-catch up um brilliant okay Ian remembers
-Max Headroom uh weirdly was discussing
-the other day amazing amazing right so
-that&amp;#39;s it on compositions that&amp;#39;s all
-we&amp;#39;re going to do on compositions
-because now what we want to start
-looking at is custom logic now put in
-the chat what you think custom logic is
-all about what do you think I mean what
-do you think is in my small brain when I
-say the words custom logic okay because
-and while you know while you&amp;#39;re typing
-in the chat I will expand on that a
-little bit because basically all the
-stuff here that&amp;#39;s happening I mean look
-at that we&amp;#39;re doing um an entity Set uh
-request I.E an OD data uh query
-operation you know all that stuff let me
-just move that across here a minute you
-can see the full
-URL you know there&amp;#39;s there&amp;#39;s there&amp;#39;s an
-ENT entity Set uh you know that we&amp;#39;ve
-got from an O data query we can even do
-for example you know an OD
-data read operation there we go let&amp;#39;s
-read this one okay we can also use
-dollar expand equals um or items there
-like that okay and so on you know we can
-do that sort of
-thing and also last week we saw we did
-some cascading deletes we did some puts
-and patches IO Data update upsert uh
-Delete
-create and everything was handled for us
-right we didn&amp;#39;t have to write anything
-and that is what the in cap terminology
-is this sort of generic handling that&amp;#39;s
-provided for us okay that was one of the
-one of the many wonderful things about
-app is that we don&amp;#39;t have to think about
-the basics and even more than the basics
-so yell says what is the downside of
-using core computed in my custom
-calculations instead of customjs code um
-that&amp;#39;s a good question Jal it depends on
-what you&amp;#39;re doing I mean core comput so
-that partly could be a question between
-what is it what is the how how do you
-compare declarative with code customjs
-code needs maintenance customjs code is
-you know has moving parts and could go
-wrong where declarative code is less
-like this to go wrong you know I&amp;#39;m sort
-of crossing my fingers behind my back
-here because that&amp;#39;s not really you know
-a uh you know an objective statement but
-I think you you understand what I
-mean it also depends on how you want to
-organize your project and the people
-different people on it with the
-different skills and everything if you
-are sharing your model definitions with
-other non node.js Developers for example
-then they can see what&amp;#39;s going on but
-just by looking at the declarative CDs
-model with the annotations okay so that
-is a you know using annotations and and
-sort of elevating logic higher up up the
-stack as it were I think is generally a
-good thing okay so Custom Custom
-handlers yes custom handlers chakia says
-custom handlers hopefully answer that
-that answers a little bit your question
-yellock uh you know it&amp;#39;s it&amp;#39;s a good
-question and we&amp;#39;re going to maybe come
-on to uh core computed
-later on in the series I have no idea
-I&amp;#39;m just making this up as I go along
-but I think you know we will do some a
-little bit of custom JS code first so um
-rajat says using codespace we can we
-push the GitHub repository I tried but
-through an error of permission yes yes
-we can codespace is I mean when you use
-the word cod space that is a GitHub term
-so I&amp;#39;m assuming you&amp;#39;re using a codespace
-on a GitHub repo then yes uh you have
-access to through the the GitHub uh
-token uh in the code space that gives
-you access to the repo so yes that that
-should work so I will dig dig into the
-gith documentation to find out more rat
-good questions all questions welcome by
-the way all questions
-welcome so as chakia says custom
-handlers so custom means anything that
-we have to do as developers that is
-specific to The Domain problem at hand
-I.E something that is you know customer
-specific Project Specific something we
-have to do um that&amp;#39;s specific to what
-we&amp;#39;re building not generic okay so in
-fact um rajat&amp;#39;s question uh
-is G gives us an idea of um the sorts of
-things that we might want to add or
-might need to add in custom logic
-generating Computing fields on the fly
-to add to the to the entities that are
-emitted on OD queries for for example
-that can be then you know displayed in a
-fury UI or some other UI okay it might
-be validation okay it might be
-validation logic or it just might be
-logic that you need because you need to
-go and call an external service and then
-mune cut mune data together and whatever
-or or react to an event or ra emit an
-event and so on Plus in cap termines
-there&amp;#39;s a difference between sort of
-required services and provided services
-so we as a developer here are going to
-be providing we&amp;#39;re providing a service
-right now okay we&amp;#39;ve got the service
-defined in main. CDs and we providing
-his Bookshop service so let&amp;#39;s have a
-look before we continue let&amp;#39;s have a
-look at this adding custom logic so
-we&amp;#39;re here getting started get started
-in a nutshell adding service
-implementations and it says here while
-the generic generic providers serve most
-crud requests out of the box you can add
-custom code to to deal with the specific
-domain logic of your application and we
-will
-see that we add custom
-logic by first of all providing some
-custom logic in the form of JavaScript
-okay or typescript but we&amp;#39;re not going
-to go down that path in the form of
-node.js
-JavaScript so the question is and some
-of the answer is sort of staring Us in
-the face on the screen but put in the
-chat where you put your custom
-JavaScript for a service implementation
-keyword implementation by the way and
-how you link custom JavaScript logic to
-the service definition in CDs okay we&amp;#39;ll
-look at that first secondly and what
-we&amp;#39;re going to be looking out today and
-also next
-week is there are
-certain
-events in handling incoming requests to
-our service that we want to hook into to
-provide that logic okay so I&amp;#39;ll say that
-again we got to think first of all
-about if we want to provide custom logic
-where do we put it and how do we
-relate it to the
-service and secondly you know the next
-level
-down how do we write the custom logic
-and how do we make the specific bits of
-JavaScript that we
-write get five
-at the right time to do the right thing
-okay so put in the chat what you think
-about
-that so gellock is on there is on it we
-put it in serve service. JS so in fact
-that&amp;#39;s a great answer thank you jell
-that&amp;#39;s a great answer and it&amp;#39;s correct
-uh it&amp;#39;s one of many possibilities it&amp;#39;s
-probably the the possibility that most
-people know about because again
-convention over configuration one of the
-beautiful philosophical aspects of cap
-is that do something that cap expects
-you to do and cap will do the rest it&amp;#39;ll
-do all the heavy lifting it will do the
-right thing DM we talked about DM right
-do what I mean so the subscriber says
-I&amp;#39;m using the cust Logics to send back
-the data to S4 and the blockchain yes my
-custom logic lives in a file name the
-same as the service definition with JS
-instead of CDs perfect subscriber the
-subscriber and gellock excellent so and
-that&amp;#39;s what it&amp;#39;s saying oops that&amp;#39;s what
-it&amp;#39;s saying
-here okay in no JS the easiest way to
-provide implementations for services is
-through an equally named JS file placed
-next to a Services definition
-okay so let&amp;#39;s let&amp;#39;s just start with that
-and see what happens shall we you know
-let&amp;#39;s just kick the
-tires um now then now then now then now
-then we can uh let&amp;#39;s make that full
-screen let&amp;#39;s do that there okay let&amp;#39;s
-start that there
-okay let&amp;#39;s try oh and chakia says also
-equally named JS files are service files
-brilliant okay so let&amp;#39;s do that then
-let&amp;#39;s do that everybody seems to want to
-do that which is great which is correct
-so let&amp;#39;s do that let&amp;#39;s what we&amp;#39;ll do is
-we we&amp;#39;ll Carry On Running CDs
-watch now what we&amp;#39;ll do let&amp;#39;s open open
-up the terminal because I like terminals
-let&amp;#39;s
-um in fact let&amp;#39;s have a look
-tree uh serve okay in in the serve
-Direct right now oh go over here I&amp;#39;m
-still I&amp;#39;m so not used to in sub
-directory we&amp;#39;ve got our main CDs which
-is here so going a gillock and the
-subscriber and chakia
-says let&amp;#39;s create a
-file named the same as the CDs model
-file main. CDs but with a JS extension
-not a CDS
-extension okay so now
-things restart because of course we&amp;#39;ve
-created um a a file and of course we&amp;#39;re
-running CDs watch and it will auto
-restart when certain types of files get
-created or
-modified can anybody
-spot what we are suddenly now getting in
-the output log in the log from CDs
-watch what is
-different have a think I&amp;#39;m going to I&amp;#39;m
-going to relax and have a drink of water
-while you an somebody put in the chat
-what we suddenly
-see in the output log in this left hand
-terminal here that sort of is related to
-what we&amp;#39;ve just
-done also while we&amp;#39;re
-waiting let me bring that across to here
-let me add it
-there and let&amp;#39;s have for example
-console.log hello world that&amp;#39;ll do right
-so we can see sort of things but but
-before I save that and of course that
-will cause CDs watch to
-restart subscriber is on it Well Done
-subscriber and uh Ian yes it is serving
-the JS file serving Bookshop imple serve
-yes fantastic thank you everybody for
-taking part the chat is so important I
-love the chat thank you for chatting
-chatting
-chatting what we see all of us something
-that let me scroll up first previously
-it said this is before I added that file
-serving Bookshop curly braces path uh as
-in serving serving Bookshop at the path
-URL path oata sv4 Bookshop
-right
-now instead of just that one property in
-that sort of little object there we get
-two we get the path serving
-Bookshop odw Bookshop but we now get
-explicitly another property in this
-object saying and the implementation for
-this Bookshop is provided in serve MJS
-in this file
-here okay now that doesn&amp;#39;t mean to
-say that now we have to write everything
-okay unless we hook in and replace stuff
-and say no I want my stuff to run not
-your generic stuff cap
-server it will continue to do all the
-goodness give us all the goodness that
-it&amp;#39;s been giving us so far so I&amp;#39;m going
-to save this right console log hello
-world it&amp;#39;s restarted there we go there&amp;#39;s
-hello
-world jinda welcome and message
-retracted amazing right so we&amp;#39;ve now got
-a basic implementation file okay it&amp;#39;s
-not doing anything but we&amp;#39;ve we&amp;#39;ve
-hooked the file in now why has it found
-this file and used it for the
-implementation of the Bookshop service
-because of the name because of what
-we&amp;#39;ve been talking about hey Jinder and
-welcome welcome welcome welcome now same
-name main.js so it&amp;#39;s going to look for
-that and that&amp;#39;s exactly what it says
-here right the easiest way to provide
-implementations of services is through
-an equally named Jazz file placed next
-to a service
-definition okay you you can put them in
-different places as well right um learn
-more about providing service
-implementations in node.js there there&amp;#39;s
-all sorts of different things here way
-blah blah blah but what you can also do
-right it says here specified by at imple
-annotation or imple
-configuration let&amp;#39;s say for whatever
-reason we had a file let&amp;#39;s let&amp;#39;s
-actually remove that RM serve Main in
-fact no let&amp;#39;s move it let&amp;#39;s move it uh
-CD serve move move main.js to I don&amp;#39;t
-know banana.
-JS okay that disappears we&amp;#39;ve got
-banana. JS now uh here
-instead okay but
-notice that imple is gone again okay so
-it&amp;#39;s not found the relationship between
-banana JS and Main CDs however we can
-tell in yeah we can tell it by saying in
-the in the CDs model
-declaratively hey for this service the
-implementation is there okay so let&amp;#39;s do
-that at imple which is what this is
-talking about here the at imple
-annotation implementation annotation is
-in serve
-banana.
-JS right and when I save that what&amp;#39;s
-going to happen oh oh oh uh sir do you
-give classes about it daily It&amp;#39;s weekly
-we do it weekly chender uh so the hands
-onb Dev show is something the developer
-ad have been running for quite a few
-years now always always try to do it
-always on a Friday at the same time as
-in right now uh started half an hour ago
-uh for an hour so yeah check it out
-hands on sap Dev on the sap Developers
-YouTube channel which is where you are
-right now uh so Rahul says DJ one quick
-query how to add paging functionality in
-our services that&amp;#39;s not a quick query
-Rahul that&amp;#39;s not a quick query at all it
-might be quick to ask but it&amp;#39;s
-not it&amp;#39;s not not quick to answer um so
-I&amp;#39;m going to skip that for now if I may
-um and if we have a little bit more time
-next week we&amp;#39;ll talk about that a little
-bit more um but basically there are
-there are affordances in cap generally
-that allow you to add paging
-functionality in terms of uh oh I&amp;#39;m
-assuming you&amp;#39;re talking about OD data
-for example and of course if you look at
-o data why don&amp;#39;t you check out how OD
-dat paging works and that might give you
-a clue as to where to look in the cap
-documentation to find out how to bring
-that about okay hope that helps for now
-but that&amp;#39;s a little bit of a that is
-definitely not a quick query um but
-hopefully that&amp;#39;s a quick
-answer Jus okay New York City I am
-learning JavaScript we all are learning
-JavaScript amazing so now if I save this
-we&amp;#39;re going to save this now we&amp;#39;ve just
-added
-this and we&amp;#39;re back now to the serving
-Bookshop with an implementation but now
-it&amp;#39;s in banana. JS and that&amp;#39;s it&amp;#39;s found
-it and it&amp;#39;s brought it in hello world
-Fant fantastic okay there&amp;#39;s also if you
-look in the in the cap documentation you
-can also cap documentation you can also
-see
-that there&amp;#39;s also a sort of a secondary
-standard where you might want to put it
-into a directoral lib or handlers as
-well and that&amp;#39;s supported sort of you
-know nicely by cap to but at the end of
-the day you can always be explicit okay
-but what we&amp;#39;ll do um is we will sort of
-undo that and save that and run
-move uh banana to main.js again to make
-it obvious let&amp;#39;s do the most obvious
-thing okay so there&amp;#39;s main
-JS now now now
-now what can we do okay well if we have
-a look at the um where is it getting
-started getting started in a nutshell uh
-adding custom
-logic this and I think somebody pointed
-this out didn&amp;#39;t it yes um
-yellok pointed this out is it yellok or
-Jello tell me uh is it a hard J or a
-soft J let me know so what we need to do
-here effectively is Define a module so
-this is
-not entirely cap specific some of the
-mechanisms here that we see are basic
-JavaScript module mechanisms so when you
-sort of import stuff okay you can you
-know when you modularize your code in
-JavaScript
-you create separate files with logic in
-them with code with functions whatever
-and then the the the the functions and
-anything else you want to expose from
-that
-module you add to this module. exports
-property okay so that&amp;#39;s just standard
-JavaScript modular programming approach
-right so the subscrib says uh harj okay
-it&amp;#39;s a harj gellock thank you gellock
-thank you for telling me uh the
-subscriber says is so much magic in the
-CDs I love it at the same time it&amp;#39;s not
-magic and very logical I loved it even
-more you know the subscriber I couldn&amp;#39;t
-have said it better myself that is
-that&amp;#39;s a really nice way of putting it
-there&amp;#39;s a lot of magic and it&amp;#39;s good
-magic and it&amp;#39;s very logical and it&amp;#39;s
-beautiful yes I totally agree
-subscriber uh so jnda says where are you
-from are you talking to me I&amp;#39;m from
-Manchester originally uh yeah Manchester
-in the northwest of England in
-brexitland so let&amp;#39;s do this okay start
-adding this so const oh where uh there
-con con let&amp;#39;s go up to here let&amp;#39;s leave
-that one in let&amp;#39;s leave that one in for
-now and say const CDs equals and we&amp;#39;ll
-we&amp;#39;ll we&amp;#39;ll we&amp;#39;ll think about this what
-this means sap CDs right so what is that
-let&amp;#39;s save that and run it okay just
-we&amp;#39;ll save it each
-time what this is doing is bringing
-in effectively the the overall what the
-cap capira calls it facade it&amp;#39;s like the
-the handle of the suitcase that contains
-all the magic so from this Library here
-this module okay this is you know we&amp;#39;re
-talking about module. exports and
-everything so this is if we if we look
-in node modules uh sap CDs okay that is
-all that stuff in there okay CDs where
-it&amp;#39;s it&amp;#39;s all there it&amp;#39;s all there a
-whole package in this case right but
-anyway let&amp;#39;s not get into that too
-that&amp;#39;s too no jsy and JavaScript for
-what we need for
-now you&amp;#39;re from India fantastic welcome
-welcome to you in India Jinder so that&amp;#39;s
-that now why are we&amp;#39;re doing this is
-because we want to start using some CDs
-some cap server facilities but first of
-all
-module. exports
-equals function and this is this is
-basically this is basically basically
-basically the building blocks of how you
-define a
-module so let&amp;#39;s put
-console.log I am in the
-anonymous
-function
-okay so now we get let&amp;#39;s get rid of that
-thing there now we get hello world of
-course which is you know a completely
-independent
-line that gets executed as soon as main
-J is
-loaded but then
-also this IM in the anonymous function
-gets called here line five when the cap
-server brings in the implementation file
-okay and it loads the implementation
-file and it loads the module okay so
-it&amp;#39;s very subtle but there are two
-distinct um events that are happening
-here
-events is an overloaded term maybe I
-shouldn&amp;#39;t use the word events there are
-two distinct
-times that are being triggered here the
-first is when the file is loaded when
-main JS is found and it&amp;#39;s determined to
-be a Handler for the main CDs the
-services defined in main CDs it will
-load this file and as soon as it loads
-the file it&amp;#39;ll run that command and then
-it will run this one but this is like an
-anonymous function that is
-called when this is loaded by the the
-load in the cap server okay anyway maybe
-I&amp;#39;m over complicating things but what we
-want to do as
-well is use now this CDs
-constant to give us to to wrap this
-Anonymous function which will
-effectively be the wrapper around the
-things that we
-Define for our custom logic to wrap it
-with a service implementation that
-allows us to use intellisense in um vs
-code for example okay the subscriber
-says are there guidelines for using
-function as opposed to aror functions or
-does it just come down to develop
-reference that&amp;#39;s a great question that&amp;#39;s
-a great question
-now I think I
-think
-65% comes down to 70% comes down to
-developer
-preference but there are also as you may
-know as folks may know differences
-especially when it comes to the to the
-classic um variable this
-there are differences in how this works
-or is available depending on whether you
-use the more classic um function keyword
-based function definitions or fat Arrow
-based function definitions and in fact
-in the capaya cap documentation there
-are certain places where it will say we
-recommend you use the function keyword
-based function definitions because the
-this that you need inside there is
-different if you don&amp;#39;t okay that&amp;#39;s a
-very very
-detailed uh discussion that we might
-find ourselves going on but I don&amp;#39;t want
-to do that right now because we just
-want stay on the Back to
-Basics but yes there is hopefully but
-that that hopefully gives you a bit of
-an answer so I would say 70% developer
-preference there are some times where it
-is better to use the function keyword uh
-based function definitions for reasons
-relating to the to the this keyword word
-okay does that make
-sense so what we&amp;#39;re going to do here is
-say we&amp;#39;re going to wrap
-CDs let me just do that with a space or
-it does intell cds.
-service. imple and we&amp;#39;ll wrap that
-function inside of
-there not that like that like that okay
-nothing&amp;#39;s changed in terms of you know
-what happens you know hello world we see
-hello world and I am in the function and
-everything we can still see that the
-main JS is being used as the
-implementation for the Bookshop
-service by the way notice that this
-doesn&amp;#39;t seem strange to us because we&amp;#39;ve
-seen it subconsciously already in the
-output from the cap server look all
-strategy we&amp;#39;ve got some basic or and
-there&amp;#39;s a basic or implementation inside
-the the CDs package okay so the imple is
-sort of you know we&amp;#39;ve been using that
-without even knowing it this imple
-concept
-so subscriber says answers it perfectly
-for now I&amp;#39;ll think of you once I get to
-that page of documentation oh thank you
-very much indeed the subscriber perfect
-so this really hasn&amp;#39;t done anything in
-terms of
-logic however however however however it
-now does give
-us intellisense what does that mean well
-that we can we can start start to see
-what that means by starting to think
-about where can we find it think about
-oh here we go yeah to think about the
-different events that we can hook into
-to provide custom logic and this is a
-perfect uh spring uh spring spring Point
-sort of an anglz German word anyway um
-to to do that now we can sort of get an
-idea of the sorts of things he might
-want to do I me this is obviously a
-crazy simple but beautifully simple
-understandable example of what you might
-want to do in terms of logic okay if
-there&amp;#39;s lots of books in stock if lots
-of if if the stock for the given book
-that&amp;#39;s being requested is high you know
-more than 111 you&amp;#39;ll notice that in the
-cap documentation in the cap cap cap
-documentation ones are feature a lot so
-you&amp;#39;ll have strings of length 11 or 111
-or 1,11 it&amp;#39;s just beautiful there just
-so so many subtle little not Easter eggs
-but I don&amp;#39;t know what you&amp;#39;d call them
-but anyway yeah really nice then you get
-an 11% discount so you add it you&amp;#39;re
-basically modifying the value of that
-particular property the title property
-of the book entity or of the book object
-that&amp;#39;s passing through this event
-handler and then it&amp;#39;s anyway but not you
-know let&amp;#39;s let&amp;#39;s walk before we can
-run learn more about adding event
-handlers using what&amp;#39;s this what&amp;#39;s this
-construction here serve on well let&amp;#39;s
-click on it and have a look okay
-now put in the
-chat I I honestly want to know put in
-the chat whether
-this sort
-of way of describing things is a
-positive thing for you or does it scare
-you a little bit or what do you think
-when you see this put in the
-chat what you
-think for me this is a really nice and
-I&amp;#39;m not I&amp;#39;m not saying this to sort of
-influence what you&amp;#39;re going to put in
-the chat but I think it&amp;#39;s a really nice
-succinct way of telling you what&amp;#39;s
-possible and what um what is provided
-when you take or take advantage of or
-use these possibilities so think of
-serve as relating to the serve word
-here and the service okay so we have the
-service context
-and you have a DOT which sort of implies
-you&amp;#39;re going to be calling a function or
-a method let&amp;#39;s not even get into that
-debate right now we&amp;#39;ll leave that for
-another time on this service and you can
-see then there are basically three
-builtin event type functions or methods
-that you can use and write code for to
-provide your custom logic so okay so
-gelock says it scares me okay well we&amp;#39;ll
-we&amp;#39;ll spend a little bit of time either
-today or next week on a little bit more
-detail on what this means okay so the
-Subscribe says I like it it&amp;#39;s
-declarative whil it&amp;#39;s giving you all the
-options exactly yeah I mean but I can
-understand why it might look a little
-bit right but actually if you stare at
-it and staring at stuff like this is a
-really important practice that you you
-would it would be great for you to get
-into just stare at it and let your brain
-soak it in
-what this is telling us is that there
-are three different functions that you
-can call on before and after we&amp;#39;ll come
-on to the meanings of those in a
-minute and that here the
-brackets I mean basically this is like
-it&amp;#39;s a little bit like a you
-know like a a pseudo function definition
-and the little brackets say these are
-the things that are
-passed or made available in calls by the
-server infrastructure to your function
-that you define for on or for before or
-for after so what you
-get is an
-event parameter you may get an entity
-parameter that&amp;#39;s what the question mark
-is there this might or might not
-exist and you supply sorry not get when
-you&amp;#39;re defining your sorry when you&amp;#39;re
-defining your function you need to
-define the an event argument okay so
-what for what event or events you want
-to have your custom logic triggered for
-For What entity or entities you might
-want to have your custom logic triggered
-for and but you might not even have to
-Define that at all and then your custom
-logic in a Handler okay and you can see
-an example of this okay so for example
-here and ignore the class and extends
-and everything for now let&amp;#39;s just you
-know let&amp;#39;s just look at the things here
-so this do after
-after read is the
-event books is the entity and the
-Handler is this Anonymous fat Arrow
-function so without looking at too much
-documentation let&amp;#39;s go
-in 852 let&amp;#39;s go in and add
-something okay
-now actually before we do that let&amp;#39;s
-just think about what the on before and
-after might
-mean think about the context in which
-we&amp;#39;re looking at these different methods
-the context is a request comes
-in the request is being handled at the
-moment by the generic handlers the
-generic handlers if you&amp;#39;re interested in
-Reading More the generic handlers are
-all part
-of the application services in this
-class CDs application services so this
-is the the class
-effectively don&amp;#39;t ask me what I think
-about classes in JavaScript because you
-might not like what the answer but
-anyway this is the class that provides
-effectively all the services that we are
-benefiting from without lifting a finger
-all the generic Services okay and we can
-add to that with our on before and after
-so let&amp;#39;s go back again
-so a request comes in so the request
-might be you know an O data operation
-you
-know an entity set read or something or
-delete or whatever it might be from a
-from a rest from more generic restful
-protocol perspective it might just be a
-you know a put or a get or a delete or
-whatever okay so you have the
-event we&amp;#39;ll come on to messaging types
-of events Events maybe another time
-later in the future in this series but
-effectively one of the Beautiful Things
-is that this is the same thing in cap it
-treats them the same raising events
-handling events and also think about OD
-dat we&amp;#39;ve got the generic
-operations query create read update and
-delete okay but we also have especially
-let&amp;#39;s talk about OD V4 because that&amp;#39;s
-obviously you know the most modern
-version 10 years old already as
-well we also have actions and functions
-so we have to handle we certainly have
-to supply custom Logic for actions and
-functions because there&amp;#39;s no standard
-Logic for you know action or a function
-because by definition the actions and
-functions are custom anyway so Matia
-says and with on and before I can
-prevent the action yes you can exactly
-you can so the says before before it
-gets handled with generic on same time
-after ATL it fantastic so everybody read
-what the subscriber says there in the
-chat that&amp;#39;s exactly succinctly what I
-was trying to say but
-failing so let&amp;#39;s
-try adding something to the on function
-so let&amp;#39;s try adding something as an on
-Handler and see what happens so we can
-say this do on notice there so the fact
-that we get all these different correct
-possibilities after before create
-delete is because we we&amp;#39;ve wrapped our n
-function keyword based function
-definition in cds. service.in this.
-on and let&amp;#39;s have it on a read okay so
-let&amp;#39;s say this on read of the um let&amp;#39;s
-do it as simple as possible Right of the
-books entity and we&amp;#39;ll have a function
-let&amp;#39;s do it for now let&amp;#39;s do uh Let&amp;#39;s do
-let&amp;#39;s have an a fat Arrow function that
-takes no we&amp;#39;re expecting no
-arguments and let&amp;#39;s just say
-console.log um
-handling uh read of books there okay so
-that&amp;#39;s that&amp;#39;s simple right we don&amp;#39;t need
-that anymore let&amp;#39;s just add that there
-right handling read of
-Books Okay so we&amp;#39;ve got the hello world
-there hello world we&amp;#39;ve got the console
-log I&amp;#39;m in the anonymous function there
-but of course we haven&amp;#39;t got this yet so
-let&amp;#39;s try that in fact before we do that
-before we do that make sure everything
-works okay let&amp;#39;s
-out for a second and let&amp;#39;s say I&amp;#39;ll
-just&amp;#39;s do it here might as well let put
-my head at the top again let&amp;#39;s say um
-curl local uh my silent Local Host 404 o
-data V4
-Bookshop books let&amp;#39;s pass it into JQ
-because JQ right there we go so we get
-our books the three
-books now let&amp;#39;s try and Trigger this
-console log okay
-let&amp;#39;s save
-that first yeah okay so now let&amp;#39;s
-trigger
-it let&amp;#39;s run it
-again handling read of
-books fantastic
-although can you see what&amp;#39;s happened or
-what&amp;#39;s not
-happened what&amp;#39;s not happened
-here put in the chat I mean it&amp;#39;s pretty
-obvious right what&amp;#39;s not happened
-is that or what we&amp;#39;ve got is nothing we
-don&amp;#39;t have anything what what have we
-done we&amp;#39;ve broken
-something actually we haven&amp;#39;t broken
-it but because we&amp;#39;ve defined some custom
-logic already let&amp;#39;s let&amp;#39;s expand
-That Into You know a a block based
-approach let&amp;#39;s just um format that we
-could add more stuff here right more
-logic
-here come on do that uh more logic
-there but
-effectively what we&amp;#39;re doing now is
-we&amp;#39;re saying hey generic functions of
-cap server get out the way I want to
-do the handling of read requests for
-books
-so the subscriber has sort of given the
-game away a little bit but let&amp;#39;s do that
-okay let&amp;#39;s do that because this is a
-chat driven oh chat driven live stream
-exactly what I&amp;#39;ll
-do what I will do is I&amp;#39;ll let&amp;#39;s let&amp;#39;s do
-that for now underscore next now we
-we&amp;#39;ll
-explain what that is okay uh in the next
-episode because this is you know we need
-to do this as slow let me know if we&amp;#39;re
-going at the right speed let me going
-let me know right now in the chat if I&amp;#39;m
-going too fast let me know if I&amp;#39;m going
-too
-slow if we now
-say
-next okay referring to that let&amp;#39;s save
-that and let&amp;#39;s run that
-again oh next did I save that yes wait a
-minute next uh what&amp;#39;s going on here
-what&amp;#39;s going
-on what next this on read
-books uh wck
-next what&amp;#39;s going on I
-thought what have I done wrong here what
-have I done wrong what a cliff yes well
-it&amp;#39;s a cliffhanger in fact let&amp;#39;s a
-cliffhanger let&amp;#39;s sorry let&amp;#39;s leave on
-the Cliffhanger 859 oh I probably got a
-typ up somewhere let&amp;#39;s leave it at
-that next week let&amp;#39;s find out what I
-didn&amp;#39;t really want to do the next you
-see let&amp;#39;s find out
-what this
-means
-okay and how we can fix it right red
-cape oh what a canger let&amp;#39;s leave it at
-that uh and yeah thank you for watching
-return next um well sort of but no I
-don&amp;#39;t want to give the game I&amp;#39;m I&amp;#39;m
-trying to do it as minimal as possible
-because I don&amp;#39;t want to give the game
-away but come back next week and we&amp;#39;ll
-find out all right thanks for watching
-don&amp;#39;t forget to subscribe if you not
-subscribed and I&amp;#39;ll see you next next
-time bye for now
+0m0s: e
+0m54s: good morning good afternoon good evening
+0m56s: welcome to hands on SB Dev with me DJ
+0m58s: qro good morning
+1m1s: everybody um yeah sorry sorry happier
+1m4s: that was a little bit of a typo I was
+1m5s: too excited I was thinking oh yeah I can
+1m7s: I can uh practice my Catal I&amp;#39;ll tell you
+1m9s: why in a minute so good morning to uh
+1m12s: Lawrence uh in in a nice camping site
+1m17s: thank you for joining on your holidays
+1m19s: and good morning to you jaier in Sunny
+1m21s: uh but fresh Barcelona City now it&amp;#39;s
+1m24s: quite interesting actually because I was
+1m25s: in Barcelona this
+1m27s: weekend yeah we took our mother uh uh me
+1m30s: and my sisters we went to Barcelona we
+1m32s: went on Saturday flew back on on Monday
+1m34s: so two just two nights there um and uh
+1m38s: yeah in fact I&amp;#39;ve got a picture I I dug
+1m40s: out the picture as soon as I remembered
+1m41s: you were in Barcelona just now I uh I&amp;#39;ve
+1m44s: got a picture of where we were um anyway
+1m47s: so good morning to you in Madrid Antonio
+1m50s: and good morning to you Ian s in Co and
+1m54s: rainy uh H where is it down down south
+1m57s: again somewhere I can&amp;#39;t remember oh my
+1m58s: brain&amp;#39;s not working welcome welcome
+2m0s: welcome it you know what it it on my run
+2m3s: this morning I was thinking is the Sun
+2m5s: going to burn this Cloud off uh but no I
+2m8s: think the cloud is here to stay here up
+2m11s: in the north good morning Rahul this is
+2m14s: Rahul Jane from Mumbai India good
+2m15s: morning to you Rahul in Mumbai and
+2m18s: chanaka chanaka longtime friend of the
+2m21s: series hello good morning to you welcome
+2m24s: welcome welcome so um what have we got
+2m27s: what have we got oh Caston Schlagel in
+2m30s: stutgart Germany good morning another
+2m32s: regular oh it&amp;#39;s nice to see you all I&amp;#39;ve
+2m33s: got my cup of tea here um I had a coffee
+2m36s: this morning after my run and i&amp;#39; I&amp;#39;ve
+2m37s: been thinking there&amp;#39;s a couple of
+2m39s: occasions recently where I&amp;#39;ve been doing
+2m41s: the live stream with you and everything
+2m43s: oh Guilford of course sorry sorry
+2m45s: Gilford duh uh and my brain has been
+2m47s: like I can feel my brain going faster
+2m49s: and faster and faster as in not in a
+2m51s: good way not in a good way in a bad way
+2m54s: uh cuz I got tooo much coffee so I&amp;#39;ve
+2m56s: got a coffee this morning after the run
+2m57s: I&amp;#39;ve got a tea I know it&amp;#39;s got caffeine
+2m59s: in as well but it&amp;#39;s not really coffee
+3m0s: cafee I I have no idea anyway I&amp;#39;ve got a
+3m2s: cup of tea AJ good afternoon to
+3m6s: you and we also have the subscriber good
+3m10s: morning uh this the subscriber says good
+3m12s: morning from Belgium I am a freshly
+3m13s: starting Junior sap consultant do you
+3m15s: have any tips and tricks for setting up
+3m16s: my development environment well watch
+3m17s: this series uh it depends what you&amp;#39;re
+3m19s: going to be doing of course um but if
+3m22s: you are thinking of developing with cap
+3m24s: then I would for for example suggest uh
+3m27s: vs code and the uh CDs extension for V
+3m30s: es code which we&amp;#39;re using here in fact
+3m32s: bon no C kazis oh
+3m35s: kazis I I remember you as well and here
+3m39s: eager to capier excellent I love the pun
+3m42s: I love the play on words and good
+3m43s: morning to you mark in Sunny Keel
+3m46s: welcome everybody now let me switch to
+3m50s: smitch switch I can tell this stream is
+3m52s: going to be a bit weird today I can&amp;#39;t
+3m53s: even get my words out asok good morning
+3m56s: to you in Belgium so yeah in fact let me
+3m59s: just switch I&amp;#39;ve switch to the main
+4m0s: scene um and this so Javier this is
+4m3s: where I was uh this weekend just passed
+4m5s: so in the is I I don&amp;#39;t know how you
+4m7s: pronounce it is it a shler uh area in
+4m10s: the example area um so we were just
+4m13s: around the corner this is last time I
+4m15s: was in Barcelona this conel conel dong
+4m19s: uh Street wasn&amp;#39;t pedestrianized so maybe
+4m21s: it&amp;#39;s been in the past few years but
+4m23s: really nice it&amp;#39;s my favorite area in
+4m24s: Barcelona really cool good morning Kiara
+4m26s: bonjour no to you ah yes if you went G
+4m30s: familiar and we were so close we did
+4m31s: actually we didn&amp;#39;t go in but my mom
+4m33s: wanted to see the church from you know
+4m34s: from outside so we went there we went on
+4m36s: the uh on the
+4m38s: subway and everything so the subscriber
+4m40s: I&amp;#39;m currently doing some POC using cap
+4m42s: sai5 connecting all with some blockchain
+4m44s: in between uh can&amp;#39;t give full details C
+4m47s: NDA excellent cap and sap ui5 I can
+4m52s: strongly recommend
+4m53s: blockchain I don&amp;#39;t know what do I know
+4m55s: about blockchain nothing anyway there is
+4m58s: uh where I was on Sunday for example
+4m59s: good morning John and welcome to you in
+5m1s: the north east Phil looks really nice it
+5m4s: does and Phil you look really nice too
+5m6s: but yeah you know it was it was nice
+5m8s: Terrible Weather actually on Monday in
+5m9s: Barcelona but
+5m11s: anyway so what we&amp;#39;re going to do oh yes
+5m13s: before I forget let me put that in the
+5m15s: chat because that&amp;#39;s the only thing you
+5m16s: need um I&amp;#39;ve been adding stuff already
+5m19s: so we got the developer news by the way
+5m22s: yeah um so check out the developer news
+5m25s: also if you haven&amp;#39;t seen it we&amp;#39;ve we&amp;#39;re
+5m28s: trying a new for format for cap stuff as
+5m31s: well so this thing here we did a short
+5m35s: how does Auto filling of primary Keys
+5m37s: work so um check it out let us know go
+5m39s: and give it a thumbs up go and look at
+5m42s: it later on and check it out and let us
+5m43s: know in the comments either to this or
+5m45s: in here whether you like this sort of
+5m48s: you know uh what&amp;#39;s it mobile mobile
+5m51s: friendly format 60 seconds you
+5m54s: know it&amp;#39;s uh I&amp;#39;m feeling quite modern
+5m56s: when I&amp;#39;m watching this so yeah let us
+5m58s: know whether you like these sorts of
+5m59s: things things and we can do some more so
+6m1s: that&amp;#39;s that um also also also um we&amp;#39;ve
+6m6s: got a co- talk with Ian talking to me uh
+6m9s: about here about the Naro so if you want
+6m12s: to find out a little bit more about the
+6m13s: narrow booat and how it work not how it
+6m15s: works but you know some details about it
+6m16s: and how I set up my interwebs and
+6m18s: everything then um then yeah this is the
+6m20s: thing for you as well and get rid of
+6m22s: that and one more thing before we start
+6m25s: oh so Sonni welcome and welcome to you
+6m27s: in uh Mumbai India and jaier says yes
+6m29s: example nice and I like because they
+6m32s: nice are I like it because they msde or
+6m35s: is that they made I can&amp;#39;t maybe you&amp;#39;ve
+6m37s: got some maybe you&amp;#39;re doing some typos
+6m39s: cuz I did some typos I don&amp;#39;t know uh
+6m41s: they made the entire Street walk exactly
+6m43s: it was really nice really
+6m45s: nice one thing I did in between the last
+6m48s: episode and
+6m50s: today uh is that I just added I noticed
+6m53s: when I was walk I was sort of watched
+6m55s: through the previous episode to remember
+6m57s: what what we did and everything and I
+6m59s: notic that uh and we&amp;#39;ll look at this
+7m1s: shortly that we didn&amp;#39;t have in the order
+7m3s: items any relationship to what we were
+7m6s: ordering we had we had a position you
+7m8s: know order item number one number two
+7m11s: number three the quantity but no thing
+7m13s: what what are we ordering so I just
+7m14s: added that there okay so you can see
+7m16s: that I&amp;#39;ve added another element being
+7m19s: described as a 21 managed Association to
+7m22s: books and then I of course then added
+7m25s: into the uh order items CSV file uh some
+7m30s: book ID uh uu IDs okay so now as it as
+7m34s: we say here in the um let&amp;#39;s just do that
+7m37s: first of all now when we are oh am I
+7m40s: running it I&amp;#39;m I running I&amp;#39;m not running
+7m42s: yet CDs watch start where we start how
+7m45s: we mean to I can&amp;#39;t even think I can&amp;#39;t
+7m47s: even talk let&amp;#39;s start as we mean to go
+7m50s: on and run that and if I put that in
+7m54s: there that&amp;#39;s what we had before however
+7m57s: in fact Let me let me do that and bring
+7m59s: that to number two there bring it across
+8m1s: there however we can
+8m5s: also with OD dat V4 this is how you do
+8m8s: it we can actually
+8m9s: Nest expand so we&amp;#39;re expanding the items
+8m13s: navigation property and now we can say
+8m15s: expand equals book okay expand equals
+8m19s: book because we&amp;#39;ve got here where is it
+8m23s: ah let&amp;#39;s do that let&amp;#39;s do that and um uh
+8m27s: schema CDs
+8m30s: we&amp;#39;ve now got this book okay so we can
+8m32s: expand from the order items to book okay
+8m35s: so we do that expand equals book and now
+8m38s: we get the book that&amp;#39;s being ordered
+8m39s: okay so that&amp;#39;s you know it&amp;#39;s a little
+8m41s: bit of a more
+8m43s: rounded sort of relationship between
+8m46s: order and Order items and what we&amp;#39;re
+8m47s: ordering and some data okay so that&amp;#39;s
+8m50s: that so um uh subscriber says I wanted
+8m53s: to thank you for the work you are doing
+8m54s: on this channel it&amp;#39;s giving me lots of
+8m55s: valuable information fantastic
+8m57s: subscriber thank you and thank you for
+8m58s: coming on and chat cting and everything
+8m59s: and letting us know uh all people are
+9m2s: welcome here especially beginners um so
+9m5s: yeah fantastic so Phil says halfway
+9m7s: through the Naro code talk was cool need
+9m8s: to finished off you do Phil you
+9m12s: do okay so what time is it 808 8 Ian 808
+9m17s: I just looked at the time it says 808
+9m19s: amazing this is this is i&amp;#39; have to
+9m21s: listen to some 808 dat after this uh
+9m23s: this live stream okay what we&amp;#39;re going
+9m26s: to do today is finish off very brief ly
+9m30s: um the the stuff that we were looking at
+9m33s: with
+9m34s: compositions uh okay and then we&amp;#39;re
+9m35s: going to move on uh to adding custom
+9m38s: logic so I&amp;#39;ve got a couple of links in
+9m40s: here as well remember that this you know
+9m42s: each time we do a live stream we&amp;#39;ll put
+9m44s: an event in the sap community events
+9m48s: area on the sap Community platform and
+9m51s: then I always put a comment to it and
+9m53s: add the links to the resources that we
+9m55s: talk about in the particular episode
+9m58s: okay is that sense and if we during the
+10m1s: course of this episode if we um have oh
+10m4s: yeah I need to add it to the um
+10m5s: description of the YouTube video as well
+10m6s: to get there as well uh so if we have it
+10m10s: um if we have any more resources I&amp;#39;ll
+10m13s: add them live while we do it okay hello
+10m15s: yellok and welcome and good morning to
+10m17s: you Matias in mesca in zand in Germany
+10m21s: and Rahul sorry I&amp;#39;m asking this question
+10m22s: what is the difference between
+10m23s: Association and competition well I&amp;#39;ll
+10m26s: give you uh two answers the first answer
+10m28s: is that an
+10m30s: association is a relationship between
+10m33s: two entities that are sort of
+10m36s: independent from one another but related
+10m39s: in some sort of way for example books
+10m41s: and authors okay if you delete a book
+10m43s: the author is still existing and a
+10m46s: composition is a contained in
+10m48s: relationship where um the the thing
+10m50s: that&amp;#39;s pointed to if you delete the the
+10m54s: container the contained in things need
+10m56s: to be deleted as well logically so think
+10m58s: of a document in SA header and items the
+11m0s: items are they contained
+11m2s: in children parent child relationship
+11m5s: the second answer is check out the
+11m7s: previous two videos uh previous two
+11m9s: episodes of this the replays and that
+11m12s: will explain a little bit more as well
+11m14s: but thank you for asking R thank you for
+11m15s: being uh confident and brave enough to
+11m18s: ask because no question is too simple to
+11m21s: ask so thank you for asking that so
+11m23s: Sunny says after attending a few live
+11m24s: sessions of yours I have written this
+11m26s: article um oh you&amp;#39;ve written an article
+11m29s: but
+11m29s: I think you&amp;#39;re not allowed to post URLs
+11m31s: in the chat and YouTube I don&amp;#39;t know why
+11m33s: so ah just maybe put a bit of put the
+11m36s: put the URL in sort of English and maybe
+11m39s: we can have a look or put it on you know
+11m41s: put it on the community or on like
+11m42s: LinkedIn or something or in the comments
+11m44s: to this video put it in the comments to
+11m46s: this video yes uh what is capm and
+11m48s: collaboration between developers and
+11m49s: business stakeholders fantastic well
+11m51s: done Sunny well done Sunny subscriber
+11m53s: says probably out of scope for this
+11m54s: video but I&amp;#39;m working with data from S4
+11m56s: public cloud in my cap to update back to
+11m58s: S4 I need an e tag for this any way to
+11m59s: model this easily that&amp;#39;s quite a
+12m1s: detailed question um we might not be
+12m3s: able to get around to answering that
+12m5s: today um but stick it in the community
+12m8s: or um or LinkedIn or maybe we&amp;#39;ll get to
+12m11s: that another time e tags are very
+12m14s: interesting uh and uh but that&amp;#39;s not
+12m16s: really what we&amp;#39;re trying to cover in the
+12m17s: Back to Basics at the moment uh DJ could
+12m20s: you please pull your speaker circle to
+12m22s: the bottom right corner of the screen I
+12m23s: I certainly will thank you RJ there we
+12m25s: go um so I hope that was okay so now
+12m29s: uh if we go back here uh yeah sorry
+12m33s: Sunny you can&amp;#39;t sh put it in the comment
+12m35s: put it in the a comment to the video
+12m37s: rather than in the chat itself okay put
+12m39s: it in the
+12m40s: comment uh in a comment create a comment
+12m43s: so there we go okay perfect now the
+12m45s: final thing that we want to look at here
+12m48s: is here domain modeling composition of
+12m50s: aspects and what that&amp;#39;s all about I
+12m52s: think that&amp;#39;s there as well but do what
+12m54s: that is all about we&amp;#39;ve been building a
+12m57s: composition between
+13m0s: um let me just move that down a bit
+13m3s: between come on there we go uh between
+13m6s: orders and Order items we&amp;#39;ve defined
+13m10s: explicitly an order item entity okay
+13m13s: which is fine and it&amp;#39;s nice and clean
+13m15s: and everything but even
+13m19s: cleaner might be especially if we don&amp;#39;t
+13m23s: need this order items entity to exist
+13m27s: actually as an entity
+13m29s: we can also in fact Let me let me let me
+13m31s: bring
+13m33s: this
+13m35s: over to there and put that in there so
+13m39s: we can look at this we can we can
+13m40s: compare the
+13m42s: difference okay composition of aspects
+13m46s: remember an aspect is basically just a
+13m49s: collection of um a collection of
+13m52s: elements yeah remember we we looked at
+13m55s: the uh the and we used the Cyd aspect
+14m2s: okay we use the cuid aspect and really
+14m5s: the cuid aspect was just a named
+14m8s: collection when I say collection
+14m9s: basically in in braces in curly brackets
+14m12s: of elements that&amp;#39;s that&amp;#39;s effectively
+14m15s: all it is okay but it&amp;#39;s a really nice
+14m17s: affordance that allows us to keep our
+14m20s: code our CDs model declar definitions
+14m24s: clean right and and uh dry okay
+14m29s: here we&amp;#39;ve got an aspect but it&amp;#39;s like
+14m30s: an this is this is probably not the
+14m33s: right term but I&amp;#39;m going to suddenly use
+14m35s: this term this is like an anonymous
+14m36s: aspect oh ah there we go no it says says
+14m40s: it here we we can use anonymous inline
+14m44s: aspects that&amp;#39;s exactly what it is to
+14m46s: rewrite the above which is what we&amp;#39;ve
+14m48s: got here with less noise as follows can
+14m52s: you see what we&amp;#39;re doing here so in fact
+14m53s: let&amp;#39;s do this
+14m55s: here and see what happens so what we
+14m58s: what what we don&amp;#39;t need anymore is
+15m4s: um the percent and then do that there
+15m7s: what we don&amp;#39;t need is that so let&amp;#39;s get
+15m10s: rid of that let&amp;#39;s just comment it out
+15m11s: for now okay and then a composition of
+15m17s: many in fact let&amp;#39;s just delete to the
+15m19s: end uh let&amp;#39;s delete that delete
+15m23s: that composition of
+15m26s: many something
+15m29s: okay and that something is what there&amp;#39;s
+15m32s: form there is what we want to Define
+15m36s: okay and that&amp;#39;s something really only
+15m38s: need no notice here oh I thought coming
+15m42s: that out we go notice here that we&amp;#39;ve
+15m44s: got this
+15m45s: parent that we have to maintain a
+15m49s: declarative definition for because the
+15m52s: order items is sort of independent
+15m54s: really in terms of the CDs model and all
+15m56s: the different building blocks of the
+15m58s: model
+16m0s: but when we&amp;#39;re using an anonymous inline
+16m2s: aspect like this we don&amp;#39;t even
+16m5s: need to maintain this parent definition
+16m9s: so what all we need here is um let&amp;#39;s add
+16m13s: uh key pause which is going to be an
+16m15s: integer I&amp;#39;ll clean this up in a minute
+16m18s: uh and then we&amp;#39;ll also have quantity
+16m20s: which is going to be an integer as
+16m23s: well oh come on
+16m26s: DJ and also we&amp;#39;ll have a book uh which
+16m29s: is Association to books just like we so
+16m33s: basically I&amp;#39;m just um associ oh I can&amp;#39;t
+16m36s: even spell
+16m38s: Association two books Let&amp;#39;s format
+16m42s: that so effective let&amp;#39;s save that as
+16m44s: well so
+16m46s: effectively this is the equivalent of
+16m49s: having this and this without needing to
+16m52s: have this Association to blah blah blah
+16m54s: okay does that make sense oh and uh
+16m56s: Marian Marian welcome what good morning
+16m59s: everyone Sunshine finally can take part
+17m0s: in the live stream Where do you
+17m1s: recommend I start in the first live
+17m2s: stream do I miss a story AR when I watch
+17m5s: Random episodes you can watch Random
+17m7s: episodes if you want Maran I will I will
+17m9s: permit this I mean watch them all what I
+17m13s: would recommend if anybody is coming to
+17m16s: this series sort of in the
+17m17s: middle what I would recommend you do is
+17m20s: maybe watch some of them on 1.5 speed
+17m22s: catch up fast because you can get
+17m25s: through them and get get them into your
+17m26s: brain like a bitford whoever who
+17m28s: remembers Max room blipverts really fast
+17m30s: adverts play really fast anyway because
+17m32s: I&amp;#39;m new and you discuss relationships
+17m34s: have onetoone relationships between
+17m35s: discuss yet I tried that once and fail H
+17m37s: well yes we have discussed onetoone
+17m39s: relationships with the associations
+17m40s: we&amp;#39;re doing compositions now previous
+17m42s: two episodes previous two episodes Maran
+17m44s: fantastic thank you for asking these
+17m45s: questions
+17m46s: brilliant so what has happened what has
+17m50s: happened here if we
+17m53s: now right have a look in fact why don&amp;#39;t
+17m56s: we do this yeah why don&amp;#39;t we do this and
+17m59s: say uh let&amp;#39;s bring that up here and CDs
+18m2s: and this is a this was a comment that or
+18m4s: was it visas that uh mentioned this on a
+18m6s: comment of one of the videos we want to
+18m8s: do some compile a bit more bit more
+18m10s: compiling CDs
+18m12s: compile uh
+18m14s: serve okay let&amp;#39;s do that let&amp;#39;s see what
+18m17s: happens oh oh we want we want it to uh
+18m21s: yamel don&amp;#39;t because it&amp;#39;s a little bit
+18m22s: easier to look at now look at this we
+18m26s: have Bookshop orders item
+18m29s: items remember um it&amp;#39;s Auto
+18m33s: exposed and because it&amp;#39;s a projection
+18m36s: and we have an up element here now not a
+18m40s: an element called parent we have a
+18m42s: parent called upcore and it says here
+18m44s: behind the scenes this will add entity
+18m45s: name orders do items which is what we&amp;#39;ve
+18m48s: got here right orders do items it&amp;#39;s Auto
+18m51s: exposed because it&amp;#39;s the target of a
+18m54s: composition just like we saw last week
+18m55s: Auto
+18m56s: exposed right with a
+18m59s: backlink Association just like just like
+19m2s: this one in fact let&amp;#39;s bring that down a
+19m4s: minute a bit there there we can see all
+19m5s: we can see all one screen there we go
+19m7s: perfect so this thing
+19m10s: here is the equivalent of what we
+19m13s: explicitly defined here key parent okay
+19m16s: but in this case this thing was called
+19m18s: parent and now it&amp;#39;s called you know the
+19m21s: magic of cap that will generate things
+19m23s: for you needs to decide on some name and
+19m26s: let&amp;#39;s call it and they call it up
+19m27s: underscore so effectively generating the
+19m29s: same model as above up
+19m31s: underscore okay now um ens and I also
+19m36s: had to backtrack a few episodes and
+19m37s: watch on 1.5 good work in okay so if we
+19m41s: that that&amp;#39;s exactly the same now one
+19m43s: thing let&amp;#39;s see CDs watch if we now go
+19m46s: over here and try and do that
+19m50s: again we&amp;#39;re not going to get any items
+19m53s: why is that can anybody tell me why that
+19m56s: is I think it should be fairly clear
+19m59s: when we sort of stop and stare and think
+20m1s: about it for a second we can give
+20m3s: ourselves a clue CDs add data okay we&amp;#39;ve
+20m7s: got here our um items in order items
+20m11s: here but remember what it said here it
+20m13s: will add an entity name orders do items
+20m16s: and we saw that there didn&amp;#39;t we where is
+20m18s: it there orders do items not order
+20m22s: items so when we do a CDS ad
+20m25s: data here watch what happens in this D B
+20m29s: data directory we got authors books
+20m31s: order items and orders see has our
+20m35s: data we now get a new file orders do
+20m39s: items okay that&amp;#39;s exactly the equivalent
+20m42s: of what&amp;#39;s you know what&amp;#39;s in the model
+20m44s: what&amp;#39;s in the generated model skipping
+20m46s: authors skipping orders creating orders.
+20m50s: items okay so if we now go in here um
+20m54s: let&amp;#39;s copy that copy them into
+20m57s: there and you can notice here look
+20m59s: there&amp;#39;s the difference upcore and parent
+21m2s: upcore uncore ID and parent uncore ID
+21m6s: okay so there we go um parent ID so get
+21m9s: rid of
+21m10s: that that now should work so see it CDs
+21m15s: watch if we go here
+21m18s: now there we go so it works so that is
+21m22s: effectively a a
+21m24s: cleaner less noisy way of defining a
+21m27s: contained in relationship when really
+21m30s: the the things that are contained the
+21m32s: items for
+21m33s: example where where is it are sort of
+21m37s: less important from a model explicit
+21m39s: model definition perspective right okay
+21m42s: hope I hope that&amp;#39;s okay I hope that&amp;#39;s
+21m44s: okay so Mar says thank you we&amp;#39;ll try to
+21m45s: catch up um brilliant okay Ian remembers
+21m49s: Max Headroom uh weirdly was discussing
+21m51s: the other day amazing amazing right so
+21m54s: that&amp;#39;s it on compositions that&amp;#39;s all
+21m57s: we&amp;#39;re going to do on compositions
+21m58s: because now what we want to start
+22m0s: looking at is custom logic now put in
+22m3s: the chat what you think custom logic is
+22m6s: all about what do you think I mean what
+22m8s: do you think is in my small brain when I
+22m10s: say the words custom logic okay because
+22m13s: and while you know while you&amp;#39;re typing
+22m14s: in the chat I will expand on that a
+22m16s: little bit because basically all the
+22m20s: stuff here that&amp;#39;s happening I mean look
+22m21s: at that we&amp;#39;re doing um an entity Set uh
+22m26s: request I.E an OD data uh query
+22m28s: operation you know all that stuff let me
+22m30s: just move that across here a minute you
+22m32s: can see the full
+22m33s: URL you know there&amp;#39;s there&amp;#39;s there&amp;#39;s an
+22m36s: ENT entity Set uh you know that we&amp;#39;ve
+22m39s: got from an O data query we can even do
+22m42s: for example you know an OD
+22m44s: data read operation there we go let&amp;#39;s
+22m47s: read this one okay we can also use
+22m50s: dollar expand equals um or items there
+22m55s: like that okay and so on you know we can
+22m58s: do that sort of
+22m59s: thing and also last week we saw we did
+23m2s: some cascading deletes we did some puts
+23m5s: and patches IO Data update upsert uh
+23m9s: Delete
+23m11s: create and everything was handled for us
+23m15s: right we didn&amp;#39;t have to write anything
+23m17s: and that is what the in cap terminology
+23m20s: is this sort of generic handling that&amp;#39;s
+23m23s: provided for us okay that was one of the
+23m27s: one of the many wonderful things about
+23m28s: app is that we don&amp;#39;t have to think about
+23m32s: the basics and even more than the basics
+23m35s: so yell says what is the downside of
+23m36s: using core computed in my custom
+23m38s: calculations instead of customjs code um
+23m41s: that&amp;#39;s a good question Jal it depends on
+23m43s: what you&amp;#39;re doing I mean core comput so
+23m46s: that partly could be a question between
+23m47s: what is it what is the how how do you
+23m49s: compare declarative with code customjs
+23m53s: code needs maintenance customjs code is
+23m57s: you know has moving parts and could go
+23m59s: wrong where declarative code is less
+24m1s: like this to go wrong you know I&amp;#39;m sort
+24m2s: of crossing my fingers behind my back
+24m4s: here because that&amp;#39;s not really you know
+24m6s: a uh you know an objective statement but
+24m9s: I think you you understand what I
+24m11s: mean it also depends on how you want to
+24m14s: organize your project and the people
+24m16s: different people on it with the
+24m16s: different skills and everything if you
+24m18s: are sharing your model definitions with
+24m21s: other non node.js Developers for example
+24m25s: then they can see what&amp;#39;s going on but
+24m27s: just by looking at the declarative CDs
+24m30s: model with the annotations okay so that
+24m33s: is a you know using annotations and and
+24m35s: sort of elevating logic higher up up the
+24m40s: stack as it were I think is generally a
+24m43s: good thing okay so Custom Custom
+24m46s: handlers yes custom handlers chakia says
+24m48s: custom handlers hopefully answer that
+24m50s: that answers a little bit your question
+24m52s: yellock uh you know it&amp;#39;s it&amp;#39;s a good
+24m54s: question and we&amp;#39;re going to maybe come
+24m56s: on to uh core computed
+24m59s: later on in the series I have no idea
+25m1s: I&amp;#39;m just making this up as I go along
+25m2s: but I think you know we will do some a
+25m4s: little bit of custom JS code first so um
+25m6s: rajat says using codespace we can we
+25m8s: push the GitHub repository I tried but
+25m10s: through an error of permission yes yes
+25m11s: we can codespace is I mean when you use
+25m13s: the word cod space that is a GitHub term
+25m17s: so I&amp;#39;m assuming you&amp;#39;re using a codespace
+25m19s: on a GitHub repo then yes uh you have
+25m22s: access to through the the GitHub uh
+25m25s: token uh in the code space that gives
+25m27s: you access to the repo so yes that that
+25m29s: should work so I will dig dig into the
+25m32s: gith documentation to find out more rat
+25m34s: good questions all questions welcome by
+25m36s: the way all questions
+25m38s: welcome so as chakia says custom
+25m41s: handlers so custom means anything that
+25m44s: we have to do as developers that is
+25m48s: specific to The Domain problem at hand
+25m52s: I.E something that is you know customer
+25m54s: specific Project Specific something we
+25m56s: have to do um that&amp;#39;s specific to what
+26m0s: we&amp;#39;re building not generic okay so in
+26m4s: fact um rajat&amp;#39;s question uh
+26m8s: is G gives us an idea of um the sorts of
+26m13s: things that we might want to add or
+26m16s: might need to add in custom logic
+26m20s: generating Computing fields on the fly
+26m23s: to add to the to the entities that are
+26m26s: emitted on OD queries for for example
+26m29s: that can be then you know displayed in a
+26m31s: fury UI or some other UI okay it might
+26m34s: be validation okay it might be
+26m36s: validation logic or it just might be
+26m38s: logic that you need because you need to
+26m39s: go and call an external service and then
+26m41s: mune cut mune data together and whatever
+26m44s: or or react to an event or ra emit an
+26m48s: event and so on Plus in cap termines
+26m53s: there&amp;#39;s a difference between sort of
+26m55s: required services and provided services
+26m57s: so we as a developer here are going to
+27m0s: be providing we&amp;#39;re providing a service
+27m2s: right now okay we&amp;#39;ve got the service
+27m4s: defined in main. CDs and we providing
+27m6s: his Bookshop service so let&amp;#39;s have a
+27m10s: look before we continue let&amp;#39;s have a
+27m12s: look at this adding custom logic so
+27m15s: we&amp;#39;re here getting started get started
+27m18s: in a nutshell adding service
+27m20s: implementations and it says here while
+27m22s: the generic generic providers serve most
+27m24s: crud requests out of the box you can add
+27m27s: custom code to to deal with the specific
+27m29s: domain logic of your application and we
+27m31s: will
+27m34s: see that we add custom
+27m38s: logic by first of all providing some
+27m41s: custom logic in the form of JavaScript
+27m44s: okay or typescript but we&amp;#39;re not going
+27m45s: to go down that path in the form of
+27m47s: node.js
+27m49s: JavaScript so the question is and some
+27m52s: of the answer is sort of staring Us in
+27m53s: the face on the screen but put in the
+27m55s: chat where you put your custom
+27m58s: JavaScript for a service implementation
+28m1s: keyword implementation by the way and
+28m3s: how you link custom JavaScript logic to
+28m8s: the service definition in CDs okay we&amp;#39;ll
+28m11s: look at that first secondly and what
+28m13s: we&amp;#39;re going to be looking out today and
+28m15s: also next
+28m17s: week is there are
+28m21s: certain
+28m23s: events in handling incoming requests to
+28m27s: our service that we want to hook into to
+28m30s: provide that logic okay so I&amp;#39;ll say that
+28m34s: again we got to think first of all
+28m36s: about if we want to provide custom logic
+28m39s: where do we put it and how do we
+28m41s: relate it to the
+28m44s: service and secondly you know the next
+28m48s: level
+28m49s: down how do we write the custom logic
+28m52s: and how do we make the specific bits of
+28m54s: JavaScript that we
+28m56s: write get five
+28m59s: at the right time to do the right thing
+29m2s: okay so put in the chat what you think
+29m5s: about
+29m6s: that so gellock is on there is on it we
+29m11s: put it in serve service. JS so in fact
+29m15s: that&amp;#39;s a great answer thank you jell
+29m16s: that&amp;#39;s a great answer and it&amp;#39;s correct
+29m18s: uh it&amp;#39;s one of many possibilities it&amp;#39;s
+29m22s: probably the the possibility that most
+29m24s: people know about because again
+29m26s: convention over configuration one of the
+29m27s: beautiful philosophical aspects of cap
+29m29s: is that do something that cap expects
+29m33s: you to do and cap will do the rest it&amp;#39;ll
+29m35s: do all the heavy lifting it will do the
+29m37s: right thing DM we talked about DM right
+29m39s: do what I mean so the subscriber says
+29m41s: I&amp;#39;m using the cust Logics to send back
+29m43s: the data to S4 and the blockchain yes my
+29m45s: custom logic lives in a file name the
+29m46s: same as the service definition with JS
+29m48s: instead of CDs perfect subscriber the
+29m51s: subscriber and gellock excellent so and
+29m55s: that&amp;#39;s what it&amp;#39;s saying oops that&amp;#39;s what
+29m57s: it&amp;#39;s saying
+29m58s: here okay in no JS the easiest way to
+30m1s: provide implementations for services is
+30m2s: through an equally named JS file placed
+30m6s: next to a Services definition
+30m9s: okay so let&amp;#39;s let&amp;#39;s just start with that
+30m12s: and see what happens shall we you know
+30m14s: let&amp;#39;s just kick the
+30m16s: tires um now then now then now then now
+30m19s: then we can uh let&amp;#39;s make that full
+30m21s: screen let&amp;#39;s do that there okay let&amp;#39;s
+30m23s: start that there
+30m26s: okay let&amp;#39;s try oh and chakia says also
+30m29s: equally named JS files are service files
+30m31s: brilliant okay so let&amp;#39;s do that then
+30m32s: let&amp;#39;s do that everybody seems to want to
+30m35s: do that which is great which is correct
+30m37s: so let&amp;#39;s do that let&amp;#39;s what we&amp;#39;ll do is
+30m40s: we we&amp;#39;ll Carry On Running CDs
+30m44s: watch now what we&amp;#39;ll do let&amp;#39;s open open
+30m47s: up the terminal because I like terminals
+30m49s: let&amp;#39;s
+30m51s: um in fact let&amp;#39;s have a look
+30m54s: tree uh serve okay in in the serve
+30m57s: Direct right now oh go over here I&amp;#39;m
+30m59s: still I&amp;#39;m so not used to in sub
+31m1s: directory we&amp;#39;ve got our main CDs which
+31m3s: is here so going a gillock and the
+31m6s: subscriber and chakia
+31m9s: says let&amp;#39;s create a
+31m14s: file named the same as the CDs model
+31m17s: file main. CDs but with a JS extension
+31m21s: not a CDS
+31m24s: extension okay so now
+31m28s: things restart because of course we&amp;#39;ve
+31m30s: created um a a file and of course we&amp;#39;re
+31m34s: running CDs watch and it will auto
+31m36s: restart when certain types of files get
+31m38s: created or
+31m40s: modified can anybody
+31m43s: spot what we are suddenly now getting in
+31m46s: the output log in the log from CDs
+31m50s: watch what is
+31m53s: different have a think I&amp;#39;m going to I&amp;#39;m
+31m55s: going to relax and have a drink of water
+31m57s: while you an somebody put in the chat
+31m59s: what we suddenly
+32m2s: see in the output log in this left hand
+32m7s: terminal here that sort of is related to
+32m9s: what we&amp;#39;ve just
+32m17s: done also while we&amp;#39;re
+32m20s: waiting let me bring that across to here
+32m24s: let me add it
+32m25s: there and let&amp;#39;s have for example
+32m29s: console.log hello world that&amp;#39;ll do right
+32m34s: so we can see sort of things but but
+32m36s: before I save that and of course that
+32m37s: will cause CDs watch to
+32m40s: restart subscriber is on it Well Done
+32m43s: subscriber and uh Ian yes it is serving
+32m46s: the JS file serving Bookshop imple serve
+32m48s: yes fantastic thank you everybody for
+32m50s: taking part the chat is so important I
+32m52s: love the chat thank you for chatting
+32m54s: chatting
+32m55s: chatting what we see all of us something
+32m58s: that let me scroll up first previously
+33m0s: it said this is before I added that file
+33m4s: serving Bookshop curly braces path uh as
+33m9s: in serving serving Bookshop at the path
+33m12s: URL path oata sv4 Bookshop
+33m16s: right
+33m20s: now instead of just that one property in
+33m25s: that sort of little object there we get
+33m28s: two we get the path serving
+33m32s: Bookshop odw Bookshop but we now get
+33m37s: explicitly another property in this
+33m40s: object saying and the implementation for
+33m43s: this Bookshop is provided in serve MJS
+33m48s: in this file
+33m49s: here okay now that doesn&amp;#39;t mean to
+33m53s: say that now we have to write everything
+33m56s: okay unless we hook in and replace stuff
+34m0s: and say no I want my stuff to run not
+34m3s: your generic stuff cap
+34m6s: server it will continue to do all the
+34m8s: goodness give us all the goodness that
+34m10s: it&amp;#39;s been giving us so far so I&amp;#39;m going
+34m12s: to save this right console log hello
+34m15s: world it&amp;#39;s restarted there we go there&amp;#39;s
+34m17s: hello
+34m19s: world jinda welcome and message
+34m22s: retracted amazing right so we&amp;#39;ve now got
+34m26s: a basic implementation file okay it&amp;#39;s
+34m29s: not doing anything but we&amp;#39;ve we&amp;#39;ve
+34m31s: hooked the file in now why has it found
+34m34s: this file and used it for the
+34m36s: implementation of the Bookshop service
+34m39s: because of the name because of what
+34m41s: we&amp;#39;ve been talking about hey Jinder and
+34m43s: welcome welcome welcome welcome now same
+34m47s: name main.js so it&amp;#39;s going to look for
+34m48s: that and that&amp;#39;s exactly what it says
+34m49s: here right the easiest way to provide
+34m51s: implementations of services is through
+34m52s: an equally named Jazz file placed next
+34m54s: to a service
+34m55s: definition okay you you can put them in
+34m58s: different places as well right um learn
+35m0s: more about providing service
+35m1s: implementations in node.js there there&amp;#39;s
+35m3s: all sorts of different things here way
+35m5s: blah blah blah but what you can also do
+35m9s: right it says here specified by at imple
+35m11s: annotation or imple
+35m14s: configuration let&amp;#39;s say for whatever
+35m18s: reason we had a file let&amp;#39;s let&amp;#39;s
+35m20s: actually remove that RM serve Main in
+35m23s: fact no let&amp;#39;s move it let&amp;#39;s move it uh
+35m26s: CD serve move move main.js to I don&amp;#39;t
+35m30s: know banana.
+35m33s: JS okay that disappears we&amp;#39;ve got
+35m35s: banana. JS now uh here
+35m39s: instead okay but
+35m41s: notice that imple is gone again okay so
+35m45s: it&amp;#39;s not found the relationship between
+35m47s: banana JS and Main CDs however we can
+35m51s: tell in yeah we can tell it by saying in
+35m54s: the in the CDs model
+35m58s: declaratively hey for this service the
+36m0s: implementation is there okay so let&amp;#39;s do
+36m3s: that at imple which is what this is
+36m6s: talking about here the at imple
+36m8s: annotation implementation annotation is
+36m10s: in serve
+36m13s: banana.
+36m15s: JS right and when I save that what&amp;#39;s
+36m17s: going to happen oh oh oh uh sir do you
+36m20s: give classes about it daily It&amp;#39;s weekly
+36m22s: we do it weekly chender uh so the hands
+36m25s: onb Dev show is something the developer
+36m27s: ad have been running for quite a few
+36m28s: years now always always try to do it
+36m31s: always on a Friday at the same time as
+36m33s: in right now uh started half an hour ago
+36m37s: uh for an hour so yeah check it out
+36m39s: hands on sap Dev on the sap Developers
+36m41s: YouTube channel which is where you are
+36m42s: right now uh so Rahul says DJ one quick
+36m44s: query how to add paging functionality in
+36m46s: our services that&amp;#39;s not a quick query
+36m48s: Rahul that&amp;#39;s not a quick query at all it
+36m49s: might be quick to ask but it&amp;#39;s
+36m51s: not it&amp;#39;s not not quick to answer um so
+36m55s: I&amp;#39;m going to skip that for now if I may
+36m58s: um and if we have a little bit more time
+37m0s: next week we&amp;#39;ll talk about that a little
+37m1s: bit more um but basically there are
+37m5s: there are affordances in cap generally
+37m9s: that allow you to add paging
+37m10s: functionality in terms of uh oh I&amp;#39;m
+37m13s: assuming you&amp;#39;re talking about OD data
+37m15s: for example and of course if you look at
+37m16s: o data why don&amp;#39;t you check out how OD
+37m19s: dat paging works and that might give you
+37m21s: a clue as to where to look in the cap
+37m23s: documentation to find out how to bring
+37m26s: that about okay hope that helps for now
+37m28s: but that&amp;#39;s a little bit of a that is
+37m31s: definitely not a quick query um but
+37m33s: hopefully that&amp;#39;s a quick
+37m35s: answer Jus okay New York City I am
+37m38s: learning JavaScript we all are learning
+37m40s: JavaScript amazing so now if I save this
+37m43s: we&amp;#39;re going to save this now we&amp;#39;ve just
+37m44s: added
+37m46s: this and we&amp;#39;re back now to the serving
+37m51s: Bookshop with an implementation but now
+37m53s: it&amp;#39;s in banana. JS and that&amp;#39;s it&amp;#39;s found
+37m55s: it and it&amp;#39;s brought it in hello world
+37m57s: Fant fantastic okay there&amp;#39;s also if you
+38m0s: look in the in the cap documentation you
+38m2s: can also cap documentation you can also
+38m4s: see
+38m5s: that there&amp;#39;s also a sort of a secondary
+38m9s: standard where you might want to put it
+38m10s: into a directoral lib or handlers as
+38m13s: well and that&amp;#39;s supported sort of you
+38m14s: know nicely by cap to but at the end of
+38m18s: the day you can always be explicit okay
+38m21s: but what we&amp;#39;ll do um is we will sort of
+38m24s: undo that and save that and run
+38m28s: move uh banana to main.js again to make
+38m31s: it obvious let&amp;#39;s do the most obvious
+38m33s: thing okay so there&amp;#39;s main
+38m36s: JS now now now
+38m40s: now what can we do okay well if we have
+38m45s: a look at the um where is it getting
+38m48s: started getting started in a nutshell uh
+38m51s: adding custom
+38m53s: logic this and I think somebody pointed
+38m55s: this out didn&amp;#39;t it yes um
+38m58s: yellok pointed this out is it yellok or
+39m0s: Jello tell me uh is it a hard J or a
+39m2s: soft J let me know so what we need to do
+39m7s: here effectively is Define a module so
+39m11s: this is
+39m12s: not entirely cap specific some of the
+39m16s: mechanisms here that we see are basic
+39m20s: JavaScript module mechanisms so when you
+39m23s: sort of import stuff okay you can you
+39m25s: know when you modularize your code in
+39m26s: JavaScript
+39m28s: you create separate files with logic in
+39m30s: them with code with functions whatever
+39m33s: and then the the the the functions and
+39m36s: anything else you want to expose from
+39m38s: that
+39m40s: module you add to this module. exports
+39m45s: property okay so that&amp;#39;s just standard
+39m48s: JavaScript modular programming approach
+39m51s: right so the subscrib says uh harj okay
+39m53s: it&amp;#39;s a harj gellock thank you gellock
+39m55s: thank you for telling me uh the
+39m56s: subscriber says is so much magic in the
+39m58s: CDs I love it at the same time it&amp;#39;s not
+39m59s: magic and very logical I loved it even
+40m1s: more you know the subscriber I couldn&amp;#39;t
+40m4s: have said it better myself that is
+40m5s: that&amp;#39;s a really nice way of putting it
+40m7s: there&amp;#39;s a lot of magic and it&amp;#39;s good
+40m9s: magic and it&amp;#39;s very logical and it&amp;#39;s
+40m11s: beautiful yes I totally agree
+40m13s: subscriber uh so jnda says where are you
+40m16s: from are you talking to me I&amp;#39;m from
+40m17s: Manchester originally uh yeah Manchester
+40m19s: in the northwest of England in
+40m21s: brexitland so let&amp;#39;s do this okay start
+40m24s: adding this so const oh where uh there
+40m27s: con con let&amp;#39;s go up to here let&amp;#39;s leave
+40m29s: that one in let&amp;#39;s leave that one in for
+40m31s: now and say const CDs equals and we&amp;#39;ll
+40m35s: we&amp;#39;ll we&amp;#39;ll we&amp;#39;ll think about this what
+40m37s: this means sap CDs right so what is that
+40m42s: let&amp;#39;s save that and run it okay just
+40m45s: we&amp;#39;ll save it each
+40m47s: time what this is doing is bringing
+40m51s: in effectively the the overall what the
+40m55s: cap capira calls it facade it&amp;#39;s like the
+40m58s: the handle of the suitcase that contains
+41m1s: all the magic so from this Library here
+41m6s: this module okay this is you know we&amp;#39;re
+41m8s: talking about module. exports and
+41m10s: everything so this is if we if we look
+41m13s: in node modules uh sap CDs okay that is
+41m19s: all that stuff in there okay CDs where
+41m22s: it&amp;#39;s it&amp;#39;s all there it&amp;#39;s all there a
+41m24s: whole package in this case right but
+41m26s: anyway let&amp;#39;s not get into that too
+41m27s: that&amp;#39;s too no jsy and JavaScript for
+41m30s: what we need for
+41m31s: now you&amp;#39;re from India fantastic welcome
+41m34s: welcome to you in India Jinder so that&amp;#39;s
+41m37s: that now why are we&amp;#39;re doing this is
+41m40s: because we want to start using some CDs
+41m44s: some cap server facilities but first of
+41m46s: all
+41m47s: module. exports
+41m50s: equals function and this is this is
+41m55s: basically this is basically basically
+41m59s: basically the building blocks of how you
+42m2s: define a
+42m4s: module so let&amp;#39;s put
+42m8s: console.log I am in the
+42m13s: anonymous
+42m16s: function
+42m18s: okay so now we get let&amp;#39;s get rid of that
+42m20s: thing there now we get hello world of
+42m23s: course which is you know a completely
+42m25s: independent
+42m27s: line that gets executed as soon as main
+42m30s: J is
+42m32s: loaded but then
+42m35s: also this IM in the anonymous function
+42m38s: gets called here line five when the cap
+42m42s: server brings in the implementation file
+42m46s: okay and it loads the implementation
+42m48s: file and it loads the module okay so
+42m51s: it&amp;#39;s very subtle but there are two
+42m54s: distinct um events that are happening
+42m56s: here
+42m58s: events is an overloaded term maybe I
+42m59s: shouldn&amp;#39;t use the word events there are
+43m1s: two distinct
+43m3s: times that are being triggered here the
+43m6s: first is when the file is loaded when
+43m7s: main JS is found and it&amp;#39;s determined to
+43m11s: be a Handler for the main CDs the
+43m13s: services defined in main CDs it will
+43m16s: load this file and as soon as it loads
+43m17s: the file it&amp;#39;ll run that command and then
+43m19s: it will run this one but this is like an
+43m21s: anonymous function that is
+43m24s: called when this is loaded by the the
+43m27s: load in the cap server okay anyway maybe
+43m29s: I&amp;#39;m over complicating things but what we
+43m32s: want to do as
+43m34s: well is use now this CDs
+43m38s: constant to give us to to wrap this
+43m41s: Anonymous function which will
+43m42s: effectively be the wrapper around the
+43m44s: things that we
+43m46s: Define for our custom logic to wrap it
+43m49s: with a service implementation that
+43m52s: allows us to use intellisense in um vs
+43m56s: code for example okay the subscriber
+43m58s: says are there guidelines for using
+43m59s: function as opposed to aror functions or
+44m1s: does it just come down to develop
+44m2s: reference that&amp;#39;s a great question that&amp;#39;s
+44m5s: a great question
+44m7s: now I think I
+44m9s: think
+44m11s: 65% comes down to 70% comes down to
+44m14s: developer
+44m15s: preference but there are also as you may
+44m17s: know as folks may know differences
+44m21s: especially when it comes to the to the
+44m23s: classic um variable this
+44m27s: there are differences in how this works
+44m31s: or is available depending on whether you
+44m33s: use the more classic um function keyword
+44m37s: based function definitions or fat Arrow
+44m39s: based function definitions and in fact
+44m43s: in the capaya cap documentation there
+44m45s: are certain places where it will say we
+44m48s: recommend you use the function keyword
+44m52s: based function definitions because the
+44m54s: this that you need inside there is
+44m56s: different if you don&amp;#39;t okay that&amp;#39;s a
+44m58s: very very
+44m59s: detailed uh discussion that we might
+45m3s: find ourselves going on but I don&amp;#39;t want
+45m5s: to do that right now because we just
+45m6s: want stay on the Back to
+45m8s: Basics but yes there is hopefully but
+45m11s: that that hopefully gives you a bit of
+45m12s: an answer so I would say 70% developer
+45m14s: preference there are some times where it
+45m17s: is better to use the function keyword uh
+45m21s: based function definitions for reasons
+45m24s: relating to the to the this keyword word
+45m27s: okay does that make
+45m28s: sense so what we&amp;#39;re going to do here is
+45m31s: say we&amp;#39;re going to wrap
+45m34s: CDs let me just do that with a space or
+45m36s: it does intell cds.
+45m39s: service. imple and we&amp;#39;ll wrap that
+45m43s: function inside of
+45m46s: there not that like that like that okay
+45m51s: nothing&amp;#39;s changed in terms of you know
+45m53s: what happens you know hello world we see
+45m55s: hello world and I am in the function and
+45m57s: everything we can still see that the
+45m59s: main JS is being used as the
+46m1s: implementation for the Bookshop
+46m3s: service by the way notice that this
+46m6s: doesn&amp;#39;t seem strange to us because we&amp;#39;ve
+46m8s: seen it subconsciously already in the
+46m10s: output from the cap server look all
+46m12s: strategy we&amp;#39;ve got some basic or and
+46m15s: there&amp;#39;s a basic or implementation inside
+46m18s: the the CDs package okay so the imple is
+46m23s: sort of you know we&amp;#39;ve been using that
+46m25s: without even knowing it this imple
+46m26s: concept
+46m27s: so subscriber says answers it perfectly
+46m29s: for now I&amp;#39;ll think of you once I get to
+46m30s: that page of documentation oh thank you
+46m32s: very much indeed the subscriber perfect
+46m35s: so this really hasn&amp;#39;t done anything in
+46m37s: terms of
+46m38s: logic however however however however it
+46m42s: now does give
+46m44s: us intellisense what does that mean well
+46m48s: that we can we can start start to see
+46m51s: what that means by starting to think
+46m54s: about where can we find it think about
+46m58s: oh here we go yeah to think about the
+46m59s: different events that we can hook into
+47m2s: to provide custom logic and this is a
+47m5s: perfect uh spring uh spring spring Point
+47m9s: sort of an anglz German word anyway um
+47m13s: to to do that now we can sort of get an
+47m15s: idea of the sorts of things he might
+47m18s: want to do I me this is obviously a
+47m19s: crazy simple but beautifully simple
+47m23s: understandable example of what you might
+47m26s: want to do in terms of logic okay if
+47m28s: there&amp;#39;s lots of books in stock if lots
+47m30s: of if if the stock for the given book
+47m33s: that&amp;#39;s being requested is high you know
+47m35s: more than 111 you&amp;#39;ll notice that in the
+47m37s: cap documentation in the cap cap cap
+47m41s: documentation ones are feature a lot so
+47m44s: you&amp;#39;ll have strings of length 11 or 111
+47m46s: or 1,11 it&amp;#39;s just beautiful there just
+47m48s: so so many subtle little not Easter eggs
+47m52s: but I don&amp;#39;t know what you&amp;#39;d call them
+47m53s: but anyway yeah really nice then you get
+47m55s: an 11% discount so you add it you&amp;#39;re
+47m57s: basically modifying the value of that
+48m1s: particular property the title property
+48m3s: of the book entity or of the book object
+48m6s: that&amp;#39;s passing through this event
+48m9s: handler and then it&amp;#39;s anyway but not you
+48m11s: know let&amp;#39;s let&amp;#39;s walk before we can
+48m14s: run learn more about adding event
+48m17s: handlers using what&amp;#39;s this what&amp;#39;s this
+48m18s: construction here serve on well let&amp;#39;s
+48m21s: click on it and have a look okay
+48m25s: now put in the
+48m28s: chat I I honestly want to know put in
+48m31s: the chat whether
+48m34s: this sort
+48m37s: of way of describing things is a
+48m41s: positive thing for you or does it scare
+48m43s: you a little bit or what do you think
+48m45s: when you see this put in the
+48m47s: chat what you
+48m49s: think for me this is a really nice and
+48m53s: I&amp;#39;m not I&amp;#39;m not saying this to sort of
+48m55s: influence what you&amp;#39;re going to put in
+48m55s: the chat but I think it&amp;#39;s a really nice
+48m59s: succinct way of telling you what&amp;#39;s
+49m3s: possible and what um what is provided
+49m8s: when you take or take advantage of or
+49m11s: use these possibilities so think of
+49m14s: serve as relating to the serve word
+49m19s: here and the service okay so we have the
+49m24s: service context
+49m27s: and you have a DOT which sort of implies
+49m29s: you&amp;#39;re going to be calling a function or
+49m31s: a method let&amp;#39;s not even get into that
+49m33s: debate right now we&amp;#39;ll leave that for
+49m34s: another time on this service and you can
+49m37s: see then there are basically three
+49m42s: builtin event type functions or methods
+49m46s: that you can use and write code for to
+49m50s: provide your custom logic so okay so
+49m54s: gelock says it scares me okay well we&amp;#39;ll
+49m57s: we&amp;#39;ll spend a little bit of time either
+49m59s: today or next week on a little bit more
+50m2s: detail on what this means okay so the
+50m5s: Subscribe says I like it it&amp;#39;s
+50m6s: declarative whil it&amp;#39;s giving you all the
+50m7s: options exactly yeah I mean but I can
+50m10s: understand why it might look a little
+50m12s: bit right but actually if you stare at
+50m16s: it and staring at stuff like this is a
+50m18s: really important practice that you you
+50m21s: would it would be great for you to get
+50m23s: into just stare at it and let your brain
+50m25s: soak it in
+50m27s: what this is telling us is that there
+50m28s: are three different functions that you
+50m32s: can call on before and after we&amp;#39;ll come
+50m35s: on to the meanings of those in a
+50m38s: minute and that here the
+50m41s: brackets I mean basically this is like
+50m43s: it&amp;#39;s a little bit like a you
+50m45s: know like a a pseudo function definition
+50m48s: and the little brackets say these are
+50m50s: the things that are
+50m53s: passed or made available in calls by the
+50m57s: server infrastructure to your function
+51m1s: that you define for on or for before or
+51m4s: for after so what you
+51m6s: get is an
+51m9s: event parameter you may get an entity
+51m13s: parameter that&amp;#39;s what the question mark
+51m15s: is there this might or might not
+51m19s: exist and you supply sorry not get when
+51m25s: you&amp;#39;re defining your sorry when you&amp;#39;re
+51m27s: defining your function you need to
+51m32s: define the an event argument okay so
+51m36s: what for what event or events you want
+51m39s: to have your custom logic triggered for
+51m43s: For What entity or entities you might
+51m45s: want to have your custom logic triggered
+51m47s: for and but you might not even have to
+51m49s: Define that at all and then your custom
+51m52s: logic in a Handler okay and you can see
+51m54s: an example of this okay so for example
+51m57s: here and ignore the class and extends
+51m58s: and everything for now let&amp;#39;s just you
+51m59s: know let&amp;#39;s just look at the things here
+52m1s: so this do after
+52m5s: after read is the
+52m8s: event books is the entity and the
+52m12s: Handler is this Anonymous fat Arrow
+52m18s: function so without looking at too much
+52m21s: documentation let&amp;#39;s go
+52m23s: in 852 let&amp;#39;s go in and add
+52m27s: something okay
+52m30s: now actually before we do that let&amp;#39;s
+52m33s: just think about what the on before and
+52m35s: after might
+52m38s: mean think about the context in which
+52m41s: we&amp;#39;re looking at these different methods
+52m44s: the context is a request comes
+52m47s: in the request is being handled at the
+52m50s: moment by the generic handlers the
+52m53s: generic handlers if you&amp;#39;re interested in
+52m54s: Reading More the generic handlers are
+52m56s: all part
+52m57s: of the application services in this
+53m0s: class CDs application services so this
+53m3s: is the the class
+53m5s: effectively don&amp;#39;t ask me what I think
+53m7s: about classes in JavaScript because you
+53m8s: might not like what the answer but
+53m10s: anyway this is the class that provides
+53m14s: effectively all the services that we are
+53m16s: benefiting from without lifting a finger
+53m18s: all the generic Services okay and we can
+53m21s: add to that with our on before and after
+53m23s: so let&amp;#39;s go back again
+53m27s: so a request comes in so the request
+53m30s: might be you know an O data operation
+53m34s: you
+53m34s: know an entity set read or something or
+53m38s: delete or whatever it might be from a
+53m40s: from a rest from more generic restful
+53m43s: protocol perspective it might just be a
+53m45s: you know a put or a get or a delete or
+53m48s: whatever okay so you have the
+53m51s: event we&amp;#39;ll come on to messaging types
+53m56s: of events Events maybe another time
+53m58s: later in the future in this series but
+54m0s: effectively one of the Beautiful Things
+54m2s: is that this is the same thing in cap it
+54m5s: treats them the same raising events
+54m7s: handling events and also think about OD
+54m12s: dat we&amp;#39;ve got the generic
+54m14s: operations query create read update and
+54m18s: delete okay but we also have especially
+54m21s: let&amp;#39;s talk about OD V4 because that&amp;#39;s
+54m23s: obviously you know the most modern
+54m25s: version 10 years old already as
+54m28s: well we also have actions and functions
+54m32s: so we have to handle we certainly have
+54m34s: to supply custom Logic for actions and
+54m36s: functions because there&amp;#39;s no standard
+54m38s: Logic for you know action or a function
+54m40s: because by definition the actions and
+54m42s: functions are custom anyway so Matia
+54m45s: says and with on and before I can
+54m47s: prevent the action yes you can exactly
+54m49s: you can so the says before before it
+54m51s: gets handled with generic on same time
+54m53s: after ATL it fantastic so everybody read
+54m56s: what the subscriber says there in the
+54m57s: chat that&amp;#39;s exactly succinctly what I
+54m59s: was trying to say but
+55m1s: failing so let&amp;#39;s
+55m4s: try adding something to the on function
+55m8s: so let&amp;#39;s try adding something as an on
+55m11s: Handler and see what happens so we can
+55m13s: say this do on notice there so the fact
+55m17s: that we get all these different correct
+55m20s: possibilities after before create
+55m23s: delete is because we we&amp;#39;ve wrapped our n
+55m27s: function keyword based function
+55m29s: definition in cds. service.in this.
+55m33s: on and let&amp;#39;s have it on a read okay so
+55m36s: let&amp;#39;s say this on read of the um let&amp;#39;s
+55m39s: do it as simple as possible Right of the
+55m42s: books entity and we&amp;#39;ll have a function
+55m46s: let&amp;#39;s do it for now let&amp;#39;s do uh Let&amp;#39;s do
+55m50s: let&amp;#39;s have an a fat Arrow function that
+55m52s: takes no we&amp;#39;re expecting no
+55m55s: arguments and let&amp;#39;s just say
+55m58s: console.log um
+56m0s: handling uh read of books there okay so
+56m7s: that&amp;#39;s that&amp;#39;s simple right we don&amp;#39;t need
+56m8s: that anymore let&amp;#39;s just add that there
+56m10s: right handling read of
+56m11s: Books Okay so we&amp;#39;ve got the hello world
+56m14s: there hello world we&amp;#39;ve got the console
+56m16s: log I&amp;#39;m in the anonymous function there
+56m19s: but of course we haven&amp;#39;t got this yet so
+56m20s: let&amp;#39;s try that in fact before we do that
+56m23s: before we do that make sure everything
+56m24s: works okay let&amp;#39;s
+56m26s: out for a second and let&amp;#39;s say I&amp;#39;ll
+56m28s: just&amp;#39;s do it here might as well let put
+56m29s: my head at the top again let&amp;#39;s say um
+56m32s: curl local uh my silent Local Host 404 o
+56m38s: data V4
+56m40s: Bookshop books let&amp;#39;s pass it into JQ
+56m43s: because JQ right there we go so we get
+56m46s: our books the three
+56m49s: books now let&amp;#39;s try and Trigger this
+56m54s: console log okay
+56m57s: let&amp;#39;s save
+56m59s: that first yeah okay so now let&amp;#39;s
+57m2s: trigger
+57m3s: it let&amp;#39;s run it
+57m6s: again handling read of
+57m10s: books fantastic
+57m13s: although can you see what&amp;#39;s happened or
+57m16s: what&amp;#39;s not
+57m18s: happened what&amp;#39;s not happened
+57m22s: here put in the chat I mean it&amp;#39;s pretty
+57m24s: obvious right what&amp;#39;s not happened
+57m27s: is that or what we&amp;#39;ve got is nothing we
+57m32s: don&amp;#39;t have anything what what have we
+57m34s: done we&amp;#39;ve broken
+57m37s: something actually we haven&amp;#39;t broken
+57m41s: it but because we&amp;#39;ve defined some custom
+57m45s: logic already let&amp;#39;s let&amp;#39;s expand
+57m49s: That Into You know a a block based
+57m54s: approach let&amp;#39;s just um format that we
+57m58s: could add more stuff here right more
+58m0s: logic
+58m2s: here come on do that uh more logic
+58m9s: there but
+58m12s: effectively what we&amp;#39;re doing now is
+58m14s: we&amp;#39;re saying hey generic functions of
+58m17s: cap server get out the way I want to
+58m20s: do the handling of read requests for
+58m24s: books
+58m27s: so the subscriber has sort of given the
+58m29s: game away a little bit but let&amp;#39;s do that
+58m32s: okay let&amp;#39;s do that because this is a
+58m34s: chat driven oh chat driven live stream
+58m38s: exactly what I&amp;#39;ll
+58m40s: do what I will do is I&amp;#39;ll let&amp;#39;s let&amp;#39;s do
+58m45s: that for now underscore next now we
+58m48s: we&amp;#39;ll
+58m49s: explain what that is okay uh in the next
+58m52s: episode because this is you know we need
+58m55s: to do this as slow let me know if we&amp;#39;re
+58m56s: going at the right speed let me going
+58m58s: let me know right now in the chat if I&amp;#39;m
+59m0s: going too fast let me know if I&amp;#39;m going
+59m1s: too
+59m2s: slow if we now
+59m5s: say
+59m7s: next okay referring to that let&amp;#39;s save
+59m12s: that and let&amp;#39;s run that
+59m15s: again oh next did I save that yes wait a
+59m18s: minute next uh what&amp;#39;s going on here
+59m21s: what&amp;#39;s going
+59m23s: on what next this on read
+59m27s: books uh wck
+59m33s: next what&amp;#39;s going on I
+59m38s: thought what have I done wrong here what
+59m40s: have I done wrong what a cliff yes well
+59m41s: it&amp;#39;s a cliffhanger in fact let&amp;#39;s a
+59m43s: cliffhanger let&amp;#39;s sorry let&amp;#39;s leave on
+59m45s: the Cliffhanger 859 oh I probably got a
+59m47s: typ up somewhere let&amp;#39;s leave it at
+59m50s: that next week let&amp;#39;s find out what I
+59m53s: didn&amp;#39;t really want to do the next you
+59m54s: see let&amp;#39;s find out
+59m56s: what this
+59m58s: means
+60m0s: okay and how we can fix it right red
+60m4s: cape oh what a canger let&amp;#39;s leave it at
+60m5s: that uh and yeah thank you for watching
+60m8s: return next um well sort of but no I
+60m13s: don&amp;#39;t want to give the game I&amp;#39;m I&amp;#39;m
+60m14s: trying to do it as minimal as possible
+60m15s: because I don&amp;#39;t want to give the game
+60m16s: away but come back next week and we&amp;#39;ll
+60m20s: find out all right thanks for watching
+60m22s: don&amp;#39;t forget to subscribe if you not
+60m23s: subscribed and I&amp;#39;ll see you next next
+60m26s: time bye for now

@@ -1,17 +1,21 @@
-# Summary of Live Coding Session with DJ Adams
+# Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 15
 
-In this engaging session titled "Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 15," DJ Adams dives into various topics related to SAP CAP and coding practices. Viewers can learn about enhancements in the SAP ecosystem and get hands-on experience with coding.
+Watch the session here: [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s)
 
-## Key Technical Topics Discussed
-- Introduction and recap of SAP CAP's May 2024 release
-- Enhancements with after event handlers in CAP
-- Discussion of pass-by-value vs. pass-by-reference in JavaScript
-- Use of console & custom logging mechanisms
-- Handling multiple occurrences of CRUD operations with CAP
+In this session, DJ Adams engages with viewers on SAP Cloud Application Programming Model (CAP) and various coding topics. Participants can gain insights into using CAP effectively, particularly with event handlers, including handling CRUD (Create, Read, Update, Delete) operations in a Node.js environment.
 
-DJ elaborates on SAP CAP, focusing on manipulating data passed to event handlers. He highlights that the first argument in "after" handlers contains the data retrieved by previous operations, allowing modifications before final output. By using logging techniques, he demonstrates how to assess changes made to data and emphasizes that arrays and objects behave differently in terms of mutability. Techniques utilized include mapping and each functions to handle data variations efficiently.
+**Main Topics Covered:**
+- Understanding CAP event handlers, including [20m31s](https://www.youtube.com/watch?v=FxOQsg8yc2s&t=20m31s)
+- Using Docker for running CAP applications [12m23s](https://www.youtube.com/watch?v=FxOQsg8yc2s&t=12m23s)
+- Recent updates in SAP ecosystem, including the May 2024 cap release [7m6s](https://www.youtube.com/watch?v=FxOQsg8yc2s&t=7m6s)
+- Modifying data with after handlers [11m1s](https://www.youtube.com/watch?v=FxOQsg8yc2s&t=11m1s)
+- Concepts of pass by value vs. pass by reference [35m15s](https://www.youtube.com/watch?v=FxOQsg8yc2s&t=35m15s)
 
-Beyond coding, DJ shares insights into his personal life, including fond memories of past computer technology, which adds a personal touch to the session.
+## Content
+In this episode, DJ covers the intricacies of using CAP with a focus on after event handlers for modifying entities. These handlers serve as an opportunity for developers to manipulate responses before they are sent to clients. He explains how the data parameter in these handlers allows for the modification of retrieved data, ultimately enabling developers to customize their applications efficiently.
 
-## Viewer Interaction
-Viewers actively participated in the chat throughout the stream, providing feedback on topics ranging from sticker requests to sharing thoughts on TypeScript and JavaScript debates. Questions were raised about the functionality and features within SAP CAP, promoting a collaborative atmosphere where ideas and knowledge were exchanged.
+## DJ's Private Life
+DJ Adams shares snippets from his personal life, including his recent attendance at the Code Connect event, where he interacted with other SAP community members and collected stickers, highlighting the fun of community engagement.
+
+## Chat
+The viewers actively participate in the chat by asking questions regarding the CAP framework, sharing their experiences, and discussing topics like the use of TypeScript and JavaScript. DJ acknowledges viewer contributions, clarifies concepts, and engages in light-hearted banter, forming a community atmosphere that supports learning and sharing among attendees.

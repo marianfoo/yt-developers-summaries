@@ -1,14 +1,21 @@
-# Summary of DJ Adams' Live Coding Session on SAP CAP
+# Summary of DJ Adams' Live Coding Session
+Watch the full session here: [Back to basics with SAP Cloud Application Programming Model (CAP) - part 2](https://www.youtube.com/watch?v=8N2TxgZ9bjY)
 
-In this session of Live Coding with DJ Adams, the main focus is on the SAP Cloud Application Programming (CAP) Model, where viewers can learn fundamental concepts and engage in live interactions. Key technical discussions include:
-- Introduction to SAP CAP and OData
-- Explanation of containerized development environments
-- Use of tools like VS Code for CAP development
-- Insights on developing with Node.js versus Java in the SAP ecosystem
-- Best practices for version control using Git and project structure
+In this live coding session, DJ Adams engages with his audience while exploring the basics of the SAP Cloud Application Programming (CAP) model. Throughout the hour, viewers can learn various concepts related to CAP, including practical coding techniques and updates from the SAP ecosystem.
 
-DJ elaborated on the coding aspects of SAP CAP, emphasizing OData and containers. He demonstrated initializing a CAP project using the `cds init` command and discussed setting up development containers and various project configurations. The session included detailed explanations of project files such as `package.json`, `.eslintrc`, and `.gitignore`, and how these tools and files streamline the development process. DJ also highlighted the importance of linting tools and demonstrated how to add linting capabilities to the project using the `cds add` command.
+## Main Topic
+Participants gain insights into the SAP CAP framework, especially focusing on:
+- **OData and its integration features** [5m1s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=5m1s)
+- **Using CAP with Node.js and Docker** [8m3s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=8m3s)
+- **Setting up development containers** [9m46s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=9m46s)
+- **Best practices in JavaScript coding** [10m10s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=10m10s)
+- **Using ESLint for code quality** [27m31s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=27m31s)
 
-In his private life, DJ mentioned returning to running after recovering from an illness, expressing a sense of relief. 
+## Content
+The session elaborates on the SAP CAP framework, particularly its capabilities in developing applications using Node.js and Docker. DJ demonstrates how to configure a development environment using the CAP tools and showcases practical examples like initializing projects and managing dependencies with npm. He also dives into the usage of ESLint for enforcing code quality standards and discusses integrating features into existing CAP applications.
 
-Viewers in the chat actively interacted, asking questions about languages, commenting on JavaScript versus Java, and contributing insights about Git and CAP project management, creating a collaborative learning environment throughout the session.
+## DJ's Private Life
+DJ shares a personal update, emphasizing his progress in health and mentioning his routine of running as part of his wellness journey, which allows him to engage more energetically with his viewers [5m1s](https://www.youtube.com/watch?v=8N2TxgZ9bjY&t=5m1s).
+
+## Chat
+The chat is lively, with viewers asking questions and sharing their experiences with coding in CAP. DJ encourages participation and responds to various inquiries, enriching the interaction within the stream. He emphasizes the importance of community engagement, acknowledging insightful comments from viewers about Java vs. JavaScript and discussing preferred languages for development.

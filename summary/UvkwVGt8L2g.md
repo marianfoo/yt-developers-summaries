@@ -1,19 +1,19 @@
-# Summary of "Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 11"
+# Back to basics with SAP Cloud Application Programming Model (CAP) - part 11
 
-In this engaging session, DJ Adams covers the SAP Cloud Application Programming Model (CAP), exploring its functionalities and answering viewer questions. The streaming session focuses on technical aspects of SAP CAP, particularly targeting OData and composition within the framework.
+In this live coding session, DJ Adams focuses on the SAP Cloud Application Programming Model (CAP) and shares insights on various technical topics while engaging with viewers on YouTube. The session offers valuable learning opportunities related to application development in SAP.
 
-### Technical Discussions
-- Key topics addressed include:
-  - Composing entities and auto-exposing services
-  - Using CDs (Core Data Services) for schema definition
-  - Implementing deep inserts and updates within areas like order management
-  - The distinction among HTTP methods such as POST, PATCH, and PUT when managing resources 
-  - The importance of managing data in an environment conducive to effective server handling
+**Main Topics Covered:**
+- [2m0s](https://www.youtube.com/watch?v=UvkwVGt8L2g&t=2m0s): Introduction to CAP and its significance.
+- [5m3s](https://www.youtube.com/watch?v=UvkwVGt8L2g&t=5m3s): Overview of CD and its implementation.
+- [20m0s](https://www.youtube.com/watch?v=UvkwVGt8L2g&t=20m0s): Discussion on Auto exposure in CAP.
+- [24m0s](https://www.youtube.com/watch?v=UvkwVGt8L2g&t=24m0s): Demonstration of deep inserts and updates in CAP applications.
+- [49m0s](https://www.youtube.com/watch?v=UvkwVGt8L2g&t=49m0s): Cascaded delete functionality in CAP.
 
-The session dives into how compositions work within the SAP CAP framework. DJ highlights how entities, like orders and items, can be auto-exposed and manipulated through various OData operations. He also demonstrates a live coding exercise about generating YAML and JSON representations while explaining the underlying logic involved in deep inserts and data management within CAP.
+## Content
+The live coding session dives deep into the CAP framework, primarily discussing the use of Core Data Services (CDS) and how to effectively manage data exposure through service definitions. DJ provides a practical approach to deep inserts, showcasing how multiple related entities can be created with just one request. He also highlights the auto exposure feature that streamlines how entities are made available within services, along with the crucial cascade delete logic that efficiently manages relationships between entities.
 
-### Personal Insights
-DJ shares a bit about his personal life by mentioning his running and weather experiences, adding a relatable touch to the technical discourse.
+## DJ's private life
+In between technical discussions, DJ shares snippets of his personal life, mentioning his running activities and interactions with viewers from various locations around the globe, fostering a friendly and engaging community atmosphere.
 
-### Viewer Interactions
-Viewers engage actively in the chat, asking questions about the nuances of CAP and sharing their own experiences. DJ addresses some of these inquiries, fostering a vibrant discussion around the session's theme and enhancing the educational experience for participants.
+## Chat
+Viewers actively participate in the chat, providing questions and feedback. Some viewers express curiosity about the uniqueness of CAP compared to other frameworks, while others seek clarification on specific coding techniques within CAP, creating an interactive learning environment. They also share their excitement about coding styles, preferences, and personal insights about their development experiences.

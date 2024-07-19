@@ -1,15 +1,18 @@
-# Summary of "Back to basics with SAP Cloud Application Programming Model (CAP) - part 14"
+# Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 14
 
-In this session, DJ Adams focused on the SAP Cloud Application Programming Model (CAP), emphasizing coding practices and the latest updates within the SAP ecosystem. Viewers can gain insights into using CAP effectively and learn about the ongoing developments in SAP.
+In this live coding session, DJ Adams discusses the SAP Cloud Application Programming Model (CAP) while interacting with viewers on YouTube. You will learn about various CAP concepts and how they are applied, particularly in handling requests and responses through custom handler implementations.
 
-- Key technical topics discussed:
-  - Understanding after, before, and on handlers within CAP
-  - Using OData for data operations in CAP
-  - Integrating events and logging within CAP applications
-  - Best practices for writing reusable components
+**Main Topics Covered:**
+- Overview of SAP CAP and OData service integration [2m10s](https://www.youtube.com/watch?v=bkZ3YqEgRuM&t=2m10s).
+- The concept and implementation of **after** and **before** handlers [9m4s](https://www.youtube.com/watch?v=bkZ3YqEgRuM&t=9m4s).
+- Working with custom logging mechanisms [20m36s](https://www.youtube.com/watch?v=bkZ3YqEgRuM&t=20m36s).
+- Handling instances of the data that CAP processes [19m16s](https://www.youtube.com/watch?v=bkZ3YqEgRuM&t=19m16s).
 
-DJ delved into CAP's functionality, particularly how to implement different types of handlers. He explained the significance of after handlers that allow developers to manipulate the data returned from requests. The session highlighted how these handlers can enrich outbound data and demonstrated practical coding examples, including the use of console logging to track data transformations. There was a strong emphasis on understanding the differences between various JavaScript functions, such as map and forEach, and their implications for data mutation.
+## Content
+DJ elaborates on the use of **after handlers** and **before handlers** in CAP, which allow developers to inject custom logic before or after data operations. The session provides practical coding demonstrations, showcasing how to enrich outbound data and handle CRUD operations effectively. The viewers are encouraged to participate via chat, asking questions and sharing insights about their experiences with SAP CAP development.
 
-In terms of personal life, DJ shared insights about recent holiday plans and upcoming events in the SAP community, including conferences and code jams where he will participate.
+## DJ's Private Life
+During the stream, DJ shares a bit about his personal life, including his experience with allergies and pollen counts affecting him that day, prompting a light-hearted interaction with viewers.
 
-The chat was active with viewer interactions, where participants contributed queries and comments, helping to enhance the discussion and exchange of knowledge throughout the session.
+## Chat
+Viewer participation is lively, with many engaged in discussions about upcoming events like SAP's code connect week and sharing their own experiences. DJ responds to questions and comments, creating a collaborative environment where the audience feels included and encouraged to learn from each other.

@@ -1,19 +1,20 @@
-# Summary of DJ Adams' Live Coding Session on SAP CAP - Part 5
+# Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 5
 
-In this session, DJ Adams focuses on the SAP Cloud Application Programming Model (CAP) while engaging with viewers on YouTube. Viewers learn about key coding practices and developments related to SAP CAP, along with a few personal anecdotes from DJ.
+In this live coding session, DJ Adams provides an engaging overview of the SAP Cloud Application Programming Model (CAP). The session covers essential coding concepts and practical demonstrations, allowing viewers to enhance their understanding of CAP, including its integration with OData and the latest developments in the SAP ecosystem.
 
-### Key Technical Topics Discussed
-- Overview of the February developer challenge focused on CAP plugins
-- Exploring GraphQL plugins and their integration with CAP
-- Utilizing aspects in CAP, specifically CUID and managed aspects
-- Key concepts of OData, including query operations, entity sets, and HTTP methods 
-- Troubleshooting issues related to database schema setup and key definitions
+**Main Topics Covered:**
+- Introduction to CAP and its plugins [2m0s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=2m0s)
+- Working with business application studio [6m30s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=6m30s)
+- Explanation of Universal IDs (CUID) in data modeling [13m10s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=13m10s)
+- Leveraging managed aspects in entity definitions [19m55s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=19m55s)
+- How to handle and troubleshoot data loading errors [24m25s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=24m25s)
+- Creating, reading, and deleting entities in OData [55m35s](https://www.youtube.com/watch?v=fgqnptEgUW4&t=55m35s)
 
-### SAP CAP and Coding Insights
-DJ discusses the importance of aspects in CAP, enabling developers to streamline entity definitions with reusable, common patterns. Through practical demonstrations, he illustrates how removing explicit ID definitions can lead to automatic generation of keys, enhancing productivity. DJ also delves into OData services, showcasing how these easily facilitate CRUD operations (Create, Read, Update, Delete). The audience benefits from his debugging of errors and his explanation of how to configure applications in Business Application Studio, such as enabling commands traditionally used in VS Code.
+## Content
+DJ dives deep into SAP CAP, emphasizing the role of CUID in simplifying IDs in data modeling and how aspects can enhance entity definitions by automatically handling common attributes like creation and modification timestamps. He elaborates on using business application studio for model compilation and interacting with OData services, discussing compilation to SQL and EDMX formats while highlighting the flexibility of CAP in interfacing with databases.
 
-### Personal Life Insights
-DJ shares a moment from his morning, expressing light-hearted panic about his preparation for the live session, emphasizing the challenges of balancing work and personal life.
+## DJ's private life
+During the stream, DJ shares his personal anecdotes, including moments of panic before the live session and his casual interactions with viewers about his morning routine.
 
-### Viewer Interaction in the Chat
-The chat section reflects active viewer engagement, with questions and clarifications about coding practices, troubleshooting, and features of SAP tools. Viewers contribute insights based on their experiences, fostering a collaborative learning environment during the live stream.
+## Chat
+Throughout the live stream, DJ interacts with viewers in the chat, addressing their questions and comments. Viewers not only ask for clarifications on technical topics but also share their experiences and insights, contributing to a collaborative learning environment.

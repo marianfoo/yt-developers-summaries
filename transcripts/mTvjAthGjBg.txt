@@ -1,1397 +1,1397 @@
-[Music]
-[Applause]
-[Music]
-m
-[Music]
-[Applause]
-[Music]
-a
-[Music]
-good morning good afternoon good evening
-welcome to handson sap Dev with me this
-time
-DJ excuse me Q macro so good morning one
-and all welcome welcome welcome thank
-you so much for joining good morning to
-Louise already with the coffee good
-morning to you
-helmet oh excuse me oh my goodness me
-good morning to helmet in Brown in Bruns
-I I
-have excuse
-me I have um yeah I&amp;#39;ve beaten my cold
-it&amp;#39;s been a pretty bad virus and I&amp;#39;ve
-still got a bit of a cough and this is
-really the first time I&amp;#39;ve said any
-words this morning so it always sort of
-um conjures up a little bit of a cough
-in the morning so anyway anyway so uh
-yeah welcome one and all there been so
-much chat it&amp;#39;s already scroll up the
-screen so if I miss saying good morning
-to everybody I&amp;#39;ve got I&amp;#39;ve got it up
-here actually who who else is here uh
-good morning to helmet good morning
-Antonio and good morning Vitali although
-I shouldn&amp;#39;t be really saying good
-morning if you&amp;#39;re drinking that sort of
-coffee to answer your
-question I&amp;#39;m drinking uh some Miriam
-Perez natural um Antonio and I are real
-coffee Freaks and uh yeah so I&amp;#39;ve got my
-hands onb Dev mug a orth at 8 a.m. and
-I&amp;#39;m all ready to go good morning to Ian
-stubbings and Steen VD and Angelo
-welcome welcome welcome welcome Ian uh
-and so Ian this is also why I&amp;#39;ve not
-been really appearing on straa recently
-because I&amp;#39;ve been really laid Low by
-this um this
-lurgy uh nice animation so um we have
-our good friend niiko shantai uh our our
-friend and colleague in the develop
-Advocates team to thank for that as as
-also for these uh lovely backgrounds as
-well so amazing Kiara good morning and
-sakib good morning uh s paath good
-morning Jonathan kotz good morning Tom
-good morning Manu G and Rohan and AJ and
-Joseph and Stefano my goodness me mar
-Perez great coffee from Honduras yes it
-is indeed it is and good morning oh good
-morning Kristoff uh in
-beeld um I won&amp;#39;t make any jokes about uh
-you know the the fact that beel doesn&amp;#39;t
-exist or something I don&amp;#39;t quite get
-that thing but anyway anyway good
-morning uh
-so in fact Talk of the devil as they say
-Nico is in the house so yes everybody uh
-don&amp;#39;t know whether you saw that Nico but
-um people were praising uh how cool that
-sort of um
-countdown uh intro was yes so there we
-go so we&amp;#39;re back um we&amp;#39;re back with a
-vengeance and uh yeah we&amp;#39;re going to
-carry on from where we left off last
-week so just as a reminder if you&amp;#39;re if
-you&amp;#39;re joining us for the first time
-welcome um thank you You&amp;#39; you&amp;#39;ve heard
-it way too often already yes I guess you
-would have done I guess you would have
-done so um did you go to the code Jam uh
-no wait a minute uh the co Jam in beeld
-last week I was supposed to be there but
-I was Ill so I couldn&amp;#39;t travel but Nico
-uh held that that was awesome thank you
-uh Manu you&amp;#39;re excited to get started so
-am I and Jo is that how you pronounce it
-h ja I&amp;#39;m sorry tell me ah good morning
-inas good morning and welcome inas
-Alan so let&amp;#39;s get started let me switch
-to the main scene already um well in
-fact I&amp;#39;ve shared already I&amp;#39;ll share it
-again actually I&amp;#39;ve shared already the
-um sap developer news and uh so check
-that out later on um and um one thing I
-I did just before was sort of
-recreate uh the the container uh for our
-cap B2B uh code Jam sort of uh
-Shenanigans and I noticed actually I
-recreated the container and I um went in
-here and said CDs V CDs version and all
-of a sudden it&amp;#39;s like Christmas has come
-early all of a sudden we have a new
-version of the CDs DK
-7.6
-now Kristoff yes you were in gutter slow
-yes yes I I thought I recognize your
-name yes Vitality says that ji says
-while some coffee Enthusiast May PR blah
-blah blah blah blah is convenient a
-wiely consumer option for those looking
-for a quick and easy coffee
-solution I&amp;#39;m not even going to comment
-on that right T I&amp;#39;m not even going to
-come in Daniel schl in the house oh my
-goodness me we have some wonderful
-people everybody pet hello to you in
-Prague Antonio clearly AI doesn&amp;#39;t know
-anything about coffee I think that&amp;#39;s a
-good comment okay so um I yeah like I
-said I was noticed that we have uh CD
-SDK 7.6 suddenly and that&amp;#39;s because you
-know um I rebuilt the container and
-because cap B2 be B2B uh because I
-rebuilt a container um in the rebuilding
-sorry rebuilt the container image let&amp;#39;s
-get the terminology right uh the image
-definition in the docker file says go
-and install a little bit bigger go and
-install cdsd K so we install it fresh
-from npm and as you can see published
-two days ago bleeding edge we&amp;#39;re are now
-on 76.0 now normally only a few days
-later we get some awesome release notes
-relating to that so again this is this
-is sort of just making you aware of you
-know the the Cadence of cap releases and
-where to find information you know this
-is what I keep I keep my eye on this in
-terms of you know what&amp;#39;s the latest
-release
-7.6 I can check in the release notes now
-the release notes Here in in the capaya
-in a cap uh is not Vladimir Vlad and
-welcome to you uh you&amp;#39;re welcome thank
-you for the stickers vadir says you&amp;#39;re
-welcome you&amp;#39;re welcome you&amp;#39;re welcome
-I&amp;#39;m running out stickers so if anybody
-else wants any stickers send me a uh you
-know private message somehow on uh
-masteron or on LinkedIn with a postal
-address I can send some but I&amp;#39;m running
-out so you know if you want some get in
-there um so we can see the sort of the
-Cadence now very shortly we should see
-the release notes for January 2024 which
-basically sort of you know align to this
-new 7.6 release anyway we&amp;#39;re not going
-to look into all the new release
-features right now normally in sap
-developer news we talk about the new
-release so you know look out for that in
-the developer news if you want to so
-that&amp;#39;s that that&amp;#39;s that uh let&amp;#39;s get rid
-of that and leave that there for now so
-what I uh what I wanted to do was just
-to finish off where we left off last
-time because so many brilliant questions
-so ask questions all the time give me
-your opinions ask questions no question
-too basic too simple where we were last
-time we was we were we installed the
-lint Plugin or the the add-on let&amp;#39;s call
-it not plugin that&amp;#39;s an overloaded word
-in in cap terms but um but so what I&amp;#39;ll
-do is I&amp;#39;ll
-recreate uh and we&amp;#39;ll do it in volume
-one go right and then we&amp;#39;ll we&amp;#39;ll have a
-look quickly at the linting thing which
-we sort of you know got distracted and
-didn&amp;#39;t finish off at the end and then
-we&amp;#39;ll go into CDs watch if that&amp;#39;s all
-right so ask questions comment direct us
-just say whatever you want in the chat
-because that&amp;#39;s what what makes it even
-better so C CDs in it um and we also
-added the uh tiny sample from Elton John
-um but also We&amp;#39;ll add at the same time
-the lint mechanism which we know we
-added that separately last time book
-shop uh and then we&amp;#39;ll also go into that
-uh directory once everything&amp;#39;s done
-right um so as you can see here yes as
-you can see it&amp;#39;s adding feature no Jess
-we didn&amp;#39;t ask no but if you look in the
-source code remember uh last episode we
-did a bit of a search on the cdsd K the
-globally installed CDs development kit
-and we found where the Jane air basic
-data came from in a similar way you can
-find out why it will default to add uh
-the node.js feature okay you know just
-so it&amp;#39;s all you know the sources there
-for us to look at and understand it&amp;#39;s
-added the tiny sample which is basically
-you know a little a little book entity
-and a couple of records and then
-exposing that book entity through a
-service catalog service and we also
-added feature link which then asked us
-do we want to install for example um uh
-code package.json uh if we want to
-install um these two things es lint
-plugin the actual cap specific CDs
-plugin for ES lint and Es lint itself
-and then what we did was we had a quick
-look at one of the rules one of the
-linting rules that basically said you&amp;#39;re
-not allowed to have let&amp;#39;s open uh the uh
-data
-model uh oh not code uh there we go I
-quite like sort of saying open it with
-with text right is quite good um so what
-we did was we added a dollar prefix to
-you know a property name uh because that
-is not really something we should be
-doing and that&amp;#39;s what we want ly to be
-catching and so what I did then was let
-me go to there what we did then was let
-me put my face down the bottom maybe uh
-we a CDS lint and we said dot which is
-basically lint everything in you know in
-this in this location which is this dire
-we could actually leave that off it&amp;#39;s
-the same thing we did a debug but we
-won&amp;#39;t do the debug now and what we got
-uh were two error messages uh oh sorry
-two what CDs links oh what what what oh
-I&amp;#39;ve not saved it ah uh save uh there we
-go uh there we go that&amp;#39;s better that&amp;#39;s
-better better do it again DJ CDs lint
-I&amp;#39;ve actually set my I think vs code by
-default I don&amp;#39;t know let me know in the
-chat VSS code by default will auto save
-after a few seconds I don&amp;#39;t like that
-because I like to be in control of what
-happens when especially with CDs watch
-as we&amp;#39;ll see so this is saying ah yeah
-okay and these are cap specific lint
-rules that we&amp;#39;ve you know uh hit upon
-warning dollar title is prefixed with a
-dollar sign that is this the rule that
-we looked at last week and also of
-course because we&amp;#39;ve sort of you know
-changed the name of this property it&amp;#39;s
-also it can and will also lint other
-file types
-EG linting CDs files here data model CDs
-and it will also lint CSV files how
-amazing is that so in fact also we can
-you know we can sort of uh what&amp;#39;s it
-called command click on control click on
-there and it will take us directly to
-the offending part of that file
-similarly here click take us to the
-directly the offending part of that file
-and of course the reason why that is no
-good anymore is because there isn&amp;#39;t a
-title property right of course if we fix
-the the actual title property by
-removing that then of course we l it
-again it goes away okay so that is that
-so um Antonio M Antonio says I don&amp;#39;t
-have that setting on good no neither do
-I
-so what I want to do
-today um is sort of
-explore um running stuff okay what do I
-mean by running stuff so
-CDs um is an all round tool you know
-both for um runtime but we&amp;#39;re not really
-talking about runtime right now we&amp;#39;re
-talking about and I&amp;#39;m going to say
-design time I&amp;#39;ve said this before I&amp;#39;m
-going to say design design time thank
-you Antonio for sharing that disable
-autosave um I&amp;#39;ve got autosave
-disabled um it&amp;#39;s a design type tool as
-well it&amp;#39;s comes in the CDs DK and of
-course the design line time tool allows
-us to say CDs ad Etc right uh dot
-d-el but it&amp;#39;s also the server okay so
-it&amp;#39;s also basically the thing that that
-fires up uh Express fires up all the CDs
-all the C runtime libraries and starts
-serving the stuff that you&amp;#39;ve defined
-okay now you may or may not have seen
-different ways that uh
-tutorials blog posts whatever describe
-saying oh yeah write this CDs and blah
-blah blah and then run it
-with run it with the following command
-so CDs run is one of those commands Okay
-CDs run will do something now we&amp;#39;re
-going to we&amp;#39;re going to stare at these
-individual log lines and make sure we
-understand all of these things during
-the course of this uh particular episode
-so don&amp;#39;t worry about you know
-all of the different log lines here we
-got to make sure we sort of you know
-have stared at them and understand what
-each one is talking about now CDs run if
-we say CDs run--
-help basically it says CDs run and this
-you&amp;#39;ll find this a lot with um with cap
-uh cap you know uh convention over
-configuration grow as you go these
-two related bits of philosophy also
-extend
-into what came I I would I would argue
-came from the uh the Pearl Community uh
-DM do what I mean you know just just do
-what you you know what I want you to do
-just do it okay so if you say CDs run it
-actually is syntactic sugar a convenient
-shortcut it desugar into I was listening
-to this fantastic
-um uh podcast uh yesterday an interview
-with Simon pton Jones you know uh
-father of hll and verse and amazing
-functional programming brain anyway
-anyway uh he he said this word you know
-this this syntax D sugars because hll is
-quite a small language sort of at its
-core but it&amp;#39;s got lots of sort of uh
-syntactic sugar around it and you know
-when when it&amp;#39;s compiled uh you know the
-syntactical sugar is you know reduced
-down to is des sugared so I just love
-that word dgar so you can almost think
-of you know CDs run Des sugaring into
-CDs serve so we can actually say CDs
-serve and it does the same thing CDs
-serve like that okay and that&amp;#39;s going to
-just pick up all of the services it can
-find now as&amp;#39;s a keyword all of the
-services it can find where is it looking
-for these Services right anybody in the
-chat can suggest where they think it&amp;#39;s
-looking for these Services one of the
-clues is here loaded model from two
-files but we&amp;#39;re going to dig into that a
-little bit more okay so put in the chat
-what you think I say the chat there they
-got the chat up here and got the chat
-down there so I don&amp;#39;t know what to look
-at I don&amp;#39;t know what&amp;#39;s going on um so
-CDs serve now um if we look at CDs serve
-help o see we got all this stuff here
-what can we serve CDs serve who all this
-amazing stuff here CDs serve you can
-specify a service name to serve we can
-specify where we want you know from what
-models we want it to be served the
-default is asterisk all all these
-different things we we&amp;#39;re going to be
-looking at mocked we got to look at with
-mocks in memory all these different
-things over this this episode and maybe
-the next episode as well but you can see
-CDs serve CDs serve all CDs serve
-catalog service right now if we have a
-look here we&amp;#39;ve got in our and don&amp;#39;t
-worry about remembering these different
-directories for now we&amp;#39;ll come to that
-in a second but in in here we&amp;#39;ve got
-this file a CDS file called cat service
-right it doesn&amp;#39;t matter what it&amp;#39;s called
-actually because it&amp;#39;s in a certain
-directory but inside there we&amp;#39;ve got a
-service called catalog service so if we
-we can also say uh shall I tell you what
-let&amp;#39;s let&amp;#39;s um make that should I make
-one smaller there we go let me know
-Helmut you&amp;#39;re always good at tell me
-whether it&amp;#39;s uh big or small enough let
-me know if it&amp;#39;s um uh still large enough
-to
-see good day Phil you&amp;#39;re don&amp;#39;t worry
-about arriving late you&amp;#39;re arriving in
-style um you&amp;#39;ve missed uh not really
-that much we just finished off the
-linting from last time and now we&amp;#39;re
-starting to look at how to fire up a cap
-server okay uh we looked at CDs run
-which is basically syntactic sugar CDs
-serve CDs serve all now if we say CDs
-serve banana
-right okay so what it&amp;#39;s done is it&amp;#39;s
-said okay well I&amp;#39;m loading these these
-models from you know and when when we
-say model when it says model here it
-basically means you know set of
-definitions it doesn&amp;#39;t necessarily mean
-model as in the word model in data model
-it loads Services as well okay um and it
-loads them from it&amp;#39;s loaded from this
-file and this file again put in the chat
-why you think it&amp;#39;s found stuff in these
-files you know where does it where does
-it know to look and what is it looking
-for but we&amp;#39;re saying here CDs serve
-banana error no such service banana okay
-now if we were to add
-service banana let&amp;#39;s just put uh I don&amp;#39;t
-know entity
-F can we can we get a key ID integer
-that&amp;#39;ll do for now um service banana I&amp;#39;m
-not sure I need a semic CO on there
-let&amp;#39;s just try try that again CDs serve
-banana there we go okay now what have we
-done there we&amp;#39;ve basically added in just
-happen to be inside this cat service
-file it doesn&amp;#39;t matter it could be in a
-separate file we&amp;#39;ve added a service
-called banana so it&amp;#39;s now said oh yeah
-okay I&amp;#39;ve found you know I&amp;#39;m loar
-loading I&amp;#39;m still loading the
-definitions from everywhere that I can
-find but you want me to only serve the
-banana service by the way I don&amp;#39;t know
-whether Joe Blow Joe Blow I think would
-remember Joe is a good friend of the uh
-uh the hands on SCP Dev family uh and he
-will remember that uh in in my previous
-Consulting days uh my my test word is
-banana so Banana is just you know the
-random word like Foo um so serving
-banana now if we have a look at that let
-open that uh let me close that one there
-and then put that back uh here so we can
-see uh let&amp;#39;s put that there so it&amp;#39;s on
-the other side there we go ah okay let&amp;#39;s
-do that shall I put that down there
-actually uh how do we do that down there
-down there that&amp;#39;s it that&amp;#39;s better okay
-so we can sort of see everything now is
-my face still at the bottom yes it is at
-the bottom so you can see that the
-service end
-point list only has the banana service
-okay if we were to say for example um
-CDs serve and then just nothing else
-which is the same as CDs serve
-all then it&amp;#39;s going to load the same
-things and serve catalog service which
-is that one and also banana now if we
-refresh this thing here we should see
-the two service endpoints okay so you
-can have multiple Services being served
-by the same cap server you can have
-multiple Services defined wherever you
-want in separate files in in the same
-file in this
-case but nobody else has put yet um
-somebody have a guess as to where the
-cap server might decide to
-look as to where to load these models
-okay so let&amp;#39;s let&amp;#39;s have a look let&amp;#39;s
-start staring at these different log
-records okay so we have and also also
-you you may have noticed
-quite nicely I think now this is you
-know I&amp;#39;m going to make a generalized
-statement this is just DJ speaking here
-I mean you know I grew up in the
-Mainframe days I you know my
-first job after University
-was running sap R2 systems on IBM
-mainframes
-where it was just the most
-amazing environment in terms of the
-operating system and error messages and
-the way they were documented and every
-error message had an ID and severity and
-you could go and look it up in these
-huge manuals and everything it&amp;#39;s not the
-same now it&amp;#39;ll never be as good but one
-thing I do like about this is that we
-have these sort of little prefixes these
-little sort of contexts so you can see
-that actually there are different
-components to the cap server the thing
-that you start up with CDs run or CDs
-serve we haven&amp;#39;t done CDs watch yet
-we&amp;#39;ll do that in a minute um that uh
-then you can sort of you know increase
-or decrease increase the the verbosity
-of the logging so we could say for
-example um I think debug o bug equals
-CDs Now that uh CDs Ser that um
-uh Deb equals c um actually there&amp;#39;s a
-different way of there&amp;#39;s a different way
-of doing it um there we go there&amp;#39;s all
-sorts of De all yeah okay let&amp;#39;s let&amp;#39;s
-get into debugging later but you can
-sort of increase Theos of all these
-different things so there for examp
-example you can see uh there&amp;#39;s another
-sort of component in the server that&amp;#39;s
-now you know suddenly logging because
-we&amp;#39;ve turned debug on why is it so warm
-in here uh because we turned debug on um
-and there&amp;#39;s another component the trace
-component and what else have we got here
-anything else of Interest here CDs
-service Factory oh my goodness what is
-that um you know all these different
-things SQL component so you know we
-could do a whole episode on you know
-looking at how we can help ourselves to
-find out what what&amp;#39;s going on
-but for now let&amp;#39;s just run CDs serve
-like that so it&amp;#39;s loaded these models
-loaded definitions from two files serve
-cat service and DB data model now notice
-something that Antonio said models go
-under the DB folder right and services
-on serve folder any mock data under DB
-data perfect so Antony has a great
-start now convention over configuration
-but there is configuration that sort of
-determines what Antonio has just
-said so let me make this a little bit
-bigger in fact I think you can oh never
-mind I&amp;#39;ll just do it that okay um let me
-make that there now CDs EnV I think we
-touched on this last time didn&amp;#39;t we CDs
-EnV will give
-us
-the what&amp;#39;s the word I&amp;#39;m looking for the
-uh the calculated the the effective
-environment configuration there&amp;#39;s all
-sorts of
-settings that have default values
-Convention of configuration really
-important but also things that you can
-change so if we say CDs EnV it will give
-us a ton of information now we don&amp;#39;t
-want to look through all this different
-stuff here but what we can say for
-example is and this is this is I think
-yeah when we when we looked last time we
-looked at the value of this special sort
-of environment variable or the CDs
-environment CDs environment variable
-uncore homecore CDs DK which is the
-location of the actual CDs development
-kit that&amp;#39;s where we found to look for
-files when we were trying to figure out
-where Jane air came from right uh Lu
-good morning amazing live
-congratulations congratulations to
-everybody here for joining and being a
-part of the team
-so uh so we got cdsn now if we say
-cdsn
-get okay the cdsn get that&amp;#39;s just to
-help help you get help with everything
-okay you can do all sorts of different
-things here if we say cdsn get and I&amp;#39;m
-going to just do one folders
-right folders bear with me check it out
-check it out you can also say say
-cdsn list folders you get like different
-sort of properties format output okay so
-you know choose your poison I quite like
-cdsn get because actually when it knows
-it&amp;#39;s emiting to a terminal it&amp;#39;s going to
-sort of you know put in a a sort of a
-human readable style bit of Json it&amp;#39;s
-not really Jason but if you pipe it if
-it&amp;#39;s not in the context of a
-terminal it&amp;#39;s actually Jason which is
-really cool so let&amp;#39;s stare at that for a
-second cdsn get folders these are the
-default folders that the cap server will
-look
-in when it&amp;#39;s starting up it will look in
-these folders and it just so happens of
-course you know it makes sense to have
-the defaults to be the same name as the
-folder names you know the same name as
-the sort of semantic names here let&amp;#39;s
-call them DB Ser an app right remember
-as Antonio said as well DB is way you
-Define your data models as in your lower
-you know persistence layer stuff serve
-is where you define your services and
-app is where you can put you know sort
-of you know front end you know human
-facing you know HTML 5 things okay front
-ends however you don&amp;#39;t have to do it
-like that okay and one of the beauties
-of CDs the language and one of the
-beauties of cap is that you can mix and
-match and Define what where how whatever
-you want okay so we&amp;#39;re going to explore
-that a little bit now there&amp;#39;s also as
-well as these this
-folders um property you can also
-say Roots okay this is like a
-geta and this will combine the values of
-the
-folders with two sort of fixed hardcoded
-names for
-files okay so we could could say for
-example I be crazy to say but we could
-say we could say CDs config we could
-there&amp;#39;s all different ways
-of effect affecting this CDs effective
-environment the effective configuration
-so we could say CDs config uh equals
-let&amp;#39;s say
-um fold you have to specify obviously
-folders uh like that and then we could
-say here DB the DB folder um actually or
-the DB the semantic folder is in a
-folder called um Apple you know on the
-fruit banana thing Apple like that right
-let&amp;#39;s see what happens there when we do
-that uh let&amp;#39;s close that close that
-close that CDs and get
-folders so now we are setting on the fly
-through the setting of a value for this
-CDs config special environment variable
-we&amp;#39;re sort of overriding the default
-value for the DB semantic folder okay so
-now we could say C we see what happens I
-don&amp;#39;t know see what happens CDs run or
-serve
-serve it&amp;#39;s also ah okay it&amp;#39;s folders DB
-Apple but it&amp;#39;s also looking in DB
-because the effective configuration also
-includes DB
-now instead of putting things in these
-different um
-directories let&amp;#39;s let&amp;#39;s go back
-and start from scratch and have nothing
-okay so what we do is go into here let&amp;#39;s
-close everything close
-all and say remove uh
-all Bookshop
-right blast everything away so we got
-nothing at the moment apart from Dev
-container
-now why don&amp;#39;t we say
-CDs um in
-it uh simple okay we won&amp;#39;t add the tiny
-sample so we&amp;#39;ll say CDs in it
-simple now go into simple and what have
-we got in fact I&amp;#39;d like to you know
-tree there we go what we&amp;#39;ve got is the
-simplest thing that could possibly work
-is it no it&amp;#39;s not right we could
-actually remove remove rmd app BB and
-serf now all we&amp;#39;ve got is
-literally all right we got some helper
-files here in fact let tree just it
-minus a to see all of the yeah there we
-go that&amp;#39;s better I think this is much
-nicer display than that okay so anyway
-so what we&amp;#39;ve got is what we looked at
-on episode one CDs RC es lint RC get
-ignore we know what they are so we can
-sort of discount those read me a little
-bit of you know markdown documentation
-file fine vs. vs code that&amp;#39;s the sort of
-vs code specific helper files to you
-know do cool things with vs code and cap
-but apart from that we have nothing all
-we&amp;#39;ve the most important file what we
-got here
-is the package Json okay so what happens
-if we say CDs serve now oops
-CDs
-serve error couldn&amp;#39;t find a CDS model
-for
-asterisk in workspaces cap to be made
-simple
-now this is where in order to resolve
-this I would like with you to move on
-from CDs serve to CU I&amp;#39;m running CDs
-serve each time CDs run CDs serve all
-it&amp;#39;s going to make no difference because
-there&amp;#39;s nothing there we you know we
-didn&amp;#39;t have sign tiny sample we haven&amp;#39;t
-even got a DB folder an app folder a
-serve folder nothing but remember cdsn
-getet
-Roots we have the possibility of putting
-things in folders with these n or for
-example putting something in a file
-called schema. CDs or services. CDs okay
-so one of the really cool things about
-cap and CDs in general in the node.js
-environment in this particular case but
-also in a similar way in the Java
-environment is that the development
-cycle for others developers is so tight
-and designed to be as helpful as we oh
-you can hear the bird Shing excellent
-yes div to be as helpful to you as a
-developer in the design time figuring
-out things bashing your head against the
-wall what&amp;#39;s going on here let me try and
-change this etc etc as possible and for
-that we have CDs watch now if we say CDs
-watch help so we got we got CDs run go
-and run the stuff which is syntactic
-sugar for CDs serve go and serve the
-stuff and we&amp;#39;ve seen that CDs serve he&amp;#39;s
-going to say well there&amp;#39;s nothing to
-serve and then goes
-bang so think of CDs run or CDs serve
-more specifically I suppose as a as a as
-a more of a
-runtime
-invocation but we&amp;#39;re in design time
-we&amp;#39;re still developing right we haven&amp;#39;t
-developed anything yet and for design
-time we have another command in our CDs
-Arsenal called CDs
-watch and if we say CD watch help we got
-a ton of stuff but if we scroll
-up let&amp;#39;s just read this okay tell CDs to
-watch for Relevant things to come or
-change in the specified project okay by
-default it&amp;#39;s you know the direct true in
-or the current word
-directory compiles and reruns the server
-on every change
-detected Phil KY says maybe a future
-session DJ would be to cover Java cap I
-know it&amp;#39;s not used as much but some
-projects I&amp;#39;m working on have required
-knowledge of java cap so Phil I think
-um either the previous episode or the
-previous to that one um this also came
-up I&amp;#39;m not a Java person but I do know
-some awesome Java people in the cap team
-here at sap so what I&amp;#39;d said was once we
-sort of get through you know this Back
-to Basics with cap no. JS we&amp;#39;ll we&amp;#39;ll
-hopefully get some Java people on and
-we&amp;#39;ll do a bit of that How would how
-would that work um I hopefully that that
-be okay ah good morning cier good
-morning special
-than great welcome so time 8:33 so
-compiles and reruns a server on every
-change detected amazing so if anybody
-has used you know a live reload facility
-there&amp;#39;s one in nodejs that was created
-by Remy sharp I can&amp;#39;t remember what it&amp;#39;s
-called is it called live reload I can&amp;#39;t
-remember uh anyway it&amp;#39;s a similar sort
-of thing but better so actually CDs
-watch is just a convenient shortcut for
-CDs server all with Mock and in memory
-now we&amp;#39;re going to maybe look at with
-Mock and in memory later on when we
-start staring at all the different log
-output to understand what they
-do no worries Phil thank you for asking
-brilliant keep your questions coming any
-question any question I might not be
-able to answer it but there we go so
-what we&amp;#39;ll say is CDS
-watch and remember we&amp;#39;ve got in fact
-let&amp;#39;s have let&amp;#39;s have another terminal
-down
-here H there
-right remember that we&amp;#39;ve got basically
-no CDs definitions whatsoever we haven&amp;#39;t
-even got a DB server or app directories
-right so CDs watch let&amp;#39;s see what
-happens in fact let&amp;#39;s get don&amp;#39;t need
-that
-enter oh look at that
-now I love this because it&amp;#39;s sort of
-allows us to stop and stare and think
-about what the heck is going on so first
-of all it says this is actually what I&amp;#39;m
-doing for you CDs serve all with mock in
-memory question mark which is what the
-help told us it was doing and it&amp;#39;ll set
-up a live you know if we were in a
-certain um you know browser um URL here
-it would it would do that however
-nothing&amp;#39;s being served so this is going
-to sort of spin for a while so we stop
-that now okay thank you chika uh sorry
-uh chakia thank you chakia exactly it&amp;#39;s
-noemon well remembered good call there
-good call so um that&amp;#39;s the one that&amp;#39;s
-the uh the mechanism from Remy
-sharp I think originally the
-cap project was using
-nodemon um when they first came up with
-this brilliant idea of uh you know
-having this really tight development
-cycle anyway no models found in DB serve
-app schema or services so now we&amp;#39;ve
-looked at we&amp;#39;ll open another terminal
-see I&amp;#39;m I&amp;#39;m still not used to sort of
-using vs code it&amp;#39;s just like too
-complicated for me um if we say CD now
-we looked at cdsn let&amp;#39;s do LS for a
-change LS
-Roots right we Now understand what the
-heck that means right we know that it&amp;#39;s
-looking for things where is it looking
-for things it&amp;#39;s looking for things
-defined in this
-Roots um property and The Roots property
-as we know is made up of a hardcoded
-word schema and a hard-coded word
-Services which is then you know the
-final name services. CDs and schema. CDs
-plus the values for these folders which
-we can change but anyway let&amp;#39;s not go
-into that but we got rid of the folders
-and we don&amp;#39;t have anything so if we were
-to say touch which is basically in you
-know in any normal operating system
-will&amp;#39;ll create a file touch um banana.
-CDs okay now oh I&amp;#39;m in the wrong
-directory hold on uh remove banana. CDs
-go into simple there we go uh and let&amp;#39;s
-just show you that CDs and F the folders
-are the same you know it&amp;#39;s configuration
-in this directory in in our project
-directory it&amp;#39;s the same so if you say
-touch banana CDs oh by the way I&amp;#39;ve just
-noticed Luis says DJ just confirm you
-have removed the Bookshop project and
-started a new project under the name
-simple yes exactly thank you for
-pointing out l in fact i&amp;#39; forgot myself
-right so you know I need to move it oh
-tell you what
-rather than each Ah that&amp;#39;s a good point
-instead of doing that let&amp;#39;s go into
-here let&amp;#39;s let&amp;#39;s blast away that project
-as well and let&amp;#39;s create a cap project
-in this cap B2B main you know in the
-main directory so all we have to do is
-CDs in it and not give a project name so
-it won&amp;#39;t create a separate new directory
-CDs in it bang creating new cap project
-in current folder add adding feature no
-J we didn&amp;#39;t specify anything else to add
-with a D- add so all it&amp;#39;s done is done
-the default which if you don&amp;#39;t specify
-the runtime it&amp;#39;s going to pick no JS as
-default go and find that in the cdsd K
-source code it&amp;#39;s you know it&amp;#39;s quite
-easy to find so there we go okay so
-actually L
-um uh yes that was the case now I&amp;#39;ve
-removed the Bookshop and started a new
-project under the name simple now I&amp;#39;ve
-started a new project in this current
-directory instead keep to keep it simple
-so when I change and you know when I
-create a new um what&amp;#39;s it called a new
-new um terminal I&amp;#39;m I&amp;#39;m already in the
-right directory okay so let&amp;#39;s do CDs
-watch okay and if I say touch banana.
-CDs what&amp;#39;s going to happen what do you
-think is going to
-happen what
-happened CDs watch the part of CDs watch
-that watches
-for changes and additions to content in
-the project Direct in the current
-working
-directory
-noticed that&amp;#39;s not you say noticed that
-oh R RF app RM rmd let&amp;#39;s remove app DB
-and the reason I&amp;#39;m using rmd instead of
-RM minus RF is to sort of prove to you
-that there&amp;#39;s nothing in these
-directories right if you tried to do an
-rmd of a directory and it had stuff in
-it it would say uh but these directories
-are empty and we can prove that by
-saying remove them there we go tree
-there right so all we&amp;#39;ve got is package
-Jason read me and banana. CDs touch
-banana touch banana yes um so um we got
-nothing in banana cat banana uh cat
-banana. CDs nothing in there but it
-noticed that there&amp;#39;s a new file but this
-new file even though it&amp;#39;s a CDS file
-with a CDS extension is not in the
-either in the list of directories it&amp;#39;s
-looking at nor is it called schema . CDs
-or services.
-CDs so why don&amp;#39;t we say time perfect why
-don&amp;#39;t we say move banana. CDs to
-services. CDs what what you think is
-going to
-happen now let&amp;#39;s move this down a
-bit so we were
-there and then it said oh my goodness me
-I found something loaded model from one
-file so services. CDs remember before we
-you know we saw this loaded model from
-two files serve SL catalog service. CDs
-and dbd model CDs right that&amp;#39;s a result
-of it looking in the roots in DB serve
-app and looking for any files called
-schema. CDs and service. CDs there&amp;#39;s
-also a special file called index. CDs
-which we&amp;#39;ll talk about another time
-that&amp;#39;s almost like a bit of an
-index.html in the old Apache uh httpd
-days where if it finds an index index
-file it will sort of show that in fact
-there Al that that tradition is also
-extent here in cap because if it finds
-an index.html file in the app directory
-it will serve that instead of serving
-the default this in fact um
-yeah let&amp;#39;s should we do digress on that
-one if we now okay here we go yeah Local
-Host let&amp;#39;s open Local Host Here Local
-Host 404
-yeah this even this tells us something
-right even this tells us
-something these are the paths currently
-serve web locations nonone service
-endpoints nonone right and this is the
-default sort of you know helper helper
-HTML that you get however right if we
-were Daniel what touch banana if we were
-um to say uh touch index. HT oh sorry
-make
-the make DJ less more haste less speed
-make dear app and
-touchapp
-index.html now we&amp;#39;ve got of course it&amp;#39;s
-not going to it&amp;#39;s it&amp;#39;s not looking in
-the app folder here so let&amp;#39;s just do
-that and do that again CDs
-watch now look at that in fact cat into
-app
-index.html H1 banana
-H1 and then refresh that there we go
-there we go so
-basically you can control what comes out
-of the the default cap server by putting
-stuff in the app directory specifically
-index HTML and everything flows from
-there anyway that was a bit of a stupid
-digression um but that makes sense RM
-minus RF app so I do need to do RM minus
-RF because there&amp;#39;s something in app now
-get rid of that get rid of that press
-refresh and now we back to there but we
-still got nothing served right we still
-got nothing served we get a different
-message
-loaded model from on file services. CDs
-let&amp;#39;s open let&amp;#39;s open Services code
-services. CDs it&amp;#39;s there uh
-oh that&amp;#39;ll do actually yeah that&amp;#39;ll do
-um but it says no service definitions
-found in loaded
-models so it&amp;#39;s loaded some models from
-here but there are no service
-definitions found waiting for some to
-arrive so why don&amp;#39;t we give it one right
-now here&amp;#39;s a brilliant opportunity for
-us to sort of reconnect our brains with
-the um the cap documentation so let&amp;#39;s go
-there um Chrome new new Chrome put that
-there
-cap there now if we go to get
-started in episode one we went through
-all this stuff here did we no we went we
-went on the prel did we prelim there it
-is jump starter project yeah we&amp;#39;ve done
-that CDs watch um and we also did the
-where is
-it we did the jump start project jump
-start guide jump start yeah here we go
-we&amp;#39;ve done this we&amp;#39;ve done the setup
-okay so that&amp;#39;s where we are but what I
-want to show you is this hello
-world amazing right let&amp;#39;s create a
-simple hello world o data right going
-from Zero to Hero in about two seconds
-oh so Rohan hello R CDs run CDs serve
-CDs watch to be found in sap CDs I how
-would we know where to find Declaration
-of these commands functions in case some
-versions don&amp;#39;t have brilliant question
-Rohan thank you for asking that question
-that&amp;#39;s a really good
-question think of it in this way that
-CDs run is just syntactic isn&amp;#39;t so let&amp;#39;s
-ignore CDs run for now CDs serve
-basically starts the services starts
-serving all the CDs definitions you&amp;#39;ve
-got
-okay so that is valid for design time
-but it&amp;#39;s also valid for run
-time
-okay would you want for example um a
-linting tool in production would you
-want a tool that would do command
-completion for you in production would
-you want something that I can&amp;#39;t think of
-anything else but would you want
-something would you want some code that
-automatically look for changes to files
-and restarted the server would you want
-that in production no so we can sort of
-see the dividing line between the these
-three commands for example CDs run CDs
-serve and CDs watch CDs watch is not
-part of sap CDs it&amp;#39;s part of sap CDs DK
-it&amp;#39;s part of the development kit it&amp;#39;s
-not part of the runtime okay remember if
-we say here um where are we uh let&amp;#39;s
-open another one of these CDs V CDs
-version so CDs watch is part
-of this it&amp;#39;s not part of this
-okay so if you look in the actual node
-modules and all the files and everything
-you won&amp;#39;t find a CDS watch or you know
-it&amp;#39;s actually watch. JS and watched. JS
-because it&amp;#39;s split it out for various
-asynchronous
-reasons it&amp;#39;s not in there it&amp;#39;s in there
-does that makes sense Rohan it&amp;#39;s a great
-question and it&amp;#39;s also really important
-to help us understand the difference
-between design time and run time and the
-tools we need for design time and the
-tools we need for run time we got to
-think as well about you know running
-things in the cloud and you know having
-the minimum surface area of code for
-security reasons you know and so on and
-you know it&amp;#39;s always a little more
-Compact and you know quicker etc etc
-it&amp;#39;s all part of the same sort of story
-brilliant question now I&amp;#39;ve completely
-forgotten what I was about to do uh not
-your fault Rohan at all it&amp;#39;s just I&amp;#39;ve
-got a brain the size of a gfish uh
-waiting for model to oh services oh yes
-that&amp;#39;s right yes so um we were looking
-here going from Zero to Hero so let&amp;#39;s
-define a c service and let def find a
-function now this is I love and I do
-find this a little bit strange as like a
-hello world but is a brilliant hello
-world because not everything is sort of
-odata shaped in the sort of the the
-nonorthogonal odata style you know I
-always think of functions and and
-actions in odata you know those are two
-OD V4 things are sort of orthogonal to
-the purity of odata which is sort of
-restful these are this you know a
-function and an action even more so in
-my humble opinion are not restful
-they&amp;#39;re sort of orthogonal to the whole
-restful style of what odor is which is
-you know a small number of verb a small
-number of nouns sorry small number of
-verbs get put post delete or the O dat
-operations you know create read update
-delete and query and an infinite number
-of verbs I.E the URLs The Entity sets
-the entities whatever functions action
-are different however I think it&amp;#39;s still
-pretty cool to start with this because
-why not right and also we can have some
-fun with it so why don&amp;#39;t we say uh in
-here o hello 848 uh so we say um
-service um well let let&amp;#39;s do this so we
-can we so we can go back to this later
-service say what does it say here
-service
-say there let&amp;#39;s just save that first of
-all oh my goodness right we got nothing
-in the service
-say in fact we don&amp;#39;t even know you know
-we don&amp;#39;t even know uh don&amp;#39;t even need
-that&amp;#39;s crazy right service say do we
-need that we need that right because
-it&amp;#39;s it&amp;#39;s actually even telling us we
-need that it&amp;#39;s got a fantastic sort of a
-syntax thing my brain&amp;#39;s not working m
-end of file I&amp;#39;m expecting something else
-right so give me something else there we
-go there&amp;#39;s our sort of you know the body
-of our service definition let&amp;#39;s save
-that and we we now see that for example
-loading model from one file okay oh now
-now it&amp;#39;s worth doing something so we&amp;#39;re
-going to do some we&amp;#39;ll look into these
-next time
-uh I&amp;#39;m in Poland next week so maybe it
-be a week after but anyway next
-time but look at that serving say
-serving the service call say that it&amp;#39;s
-found in this default Services file if I
-were to again just to just rub this in
-to drive this home if I were to say move
-services to nothing. CDs right that&amp;#39;s
-going to restart and say no models found
-okay so let&amp;#39;s move it back again move
-nothing to
-services. CDs and it&amp;#39;s now restarted and
-we&amp;#39;re back again okay so now and look at
-that it&amp;#39;s refreshed reload you know
-amazing don&amp;#39;t leave finger developers
-cap loves developers cap loves
-developers right there we have our
-service endpoint odata V4 say why is
-what&amp;#39;s going on we haven&amp;#39;t said anything
-about OD data why does it say OD data V4
-say and why is there a Dollar metad data
-there right can somebody tell me time is
-8:49 perfect we got time fors to pause
-because I know there&amp;#39;s about 20 seconds
-delay why do we get this service
-endpoint that&amp;#39;s slod data/ B4 SL say
-let&amp;#39;s have a look at it okay look at
-that amazing uh an error occurred while
-serializing the service document cannot
-read properties of null one of the
-Fantastic things is that you can break
-nothing nothing can go wrong in a
-disastrous sense all these error
-messages tell us something and help us
-learn about cap and about CDs and about
-o data for that
-matter what this is saying is it&amp;#39;s
-trying to serve us go there look he&amp;#39;s
-trying to serve us a service
-document remember o data you know we&amp;#39;re
-still trying to answer the question in
-the chat please somebody why does it
-give us SL oata V4 as a prefix you know
-why is it OD
-data I mean you know it&amp;#39;s a simple
-answer but let&amp;#39;s just talk about it
-explicitly so because it&amp;#39;s trying to
-serve this as OD data this is our
-service document an O data service
-document basically as a list of entities
-but we we we&amp;#39;ve done the most
-ridiculously stupid thing here and
-Define nothing right we&amp;#39;ve defined
-nothing there&amp;#39;s no entities no
-nothing so it can&amp;#39;t give
-us you know a a representation of the
-entity because there aren&amp;#39;t any okay now
-if we were to go back and look at the
-metadata document there are two
-well-known documents in O data there the
-service document which is looked just
-looked at which which the cap server has
-sort of failed to be able to create for
-us because you know how can it and
-there&amp;#39;s a meadas document which is like
-you know the minimum thing ever right um
-so I can see somebody&amp;#39;s uh CH uh chica
-has put something I I won&amp;#39;t I won&amp;#39;t read
-that there I&amp;#39;ll look at in a second
-hopefully it&amp;#39;s the answer um so we can
-see here may that big
-bigger can see
-here that we get an OD data metadata
-document it&amp;#39;s a version OD dat V4 and we
-have basically a schema with a name
-space safe there&amp;#39;s no nothing in it
-right but it&amp;#39;s still valid metadata now
-if we oh so so chica says cap exposes
-protocol as default path exactly so just
-as for example um CDs in it will default
-to node.js because you know let&amp;#39;s have a
-default um
-also I think it&amp;#39;s fair to say that you
-know
-cap was designed
-primarily to be this amazing and it is
-uh way to create OD dat services like
-that it can also do other things you
-know um but by default it will serve o
-data and since uh CDs version
-7 right it will prefix the OD dat
-services with slod data V4 so you can
-have different style so for example here
-let&amp;#39;s do this oh oh yes that&amp;#39;s be big we
-could say at rest we could say let&amp;#39;s
-annotate this service with the rest at
-rest
-annotation and now what happens loaded
-model from file Services blah blah blah
-blah blah serving say path SLR SL say so
-all of a sudden we&amp;#39;re not serving a o
-data service anymore we&amp;#39;re serving like
-a you know a more generic
-restful API rest say what happens bang
-nothing no entities right right you know
-what else could it do right
-anyway I think one of the one of the
-takeaways and OD data is the default
-exactly exactly ch ch one of the one of
-the takeaways hopefully you&amp;#39;re taking
-away from this um ramble is that you
-should experiment because the cap server
-and this this environment is just
-begging for you to find out by trying
-learning by doing right anyway let&amp;#39;s
-let&amp;#39;s get rid of that um uh annotation
-let&amp;#39;s get back to the O data service and
-now let&amp;#39;s finally add this other bit
-here which is basically adding a
-function definition let just copy paste
-that bit quicker right let&amp;#39;s go here add
-that bang bang
-save so
-now we&amp;#39;ve got this function let&amp;#39;s have a
-look at the
-metadata entity container it&amp;#39;s got an
-entity container and it&amp;#39;s got a function
-import okay this is one of these new OD
-dat function Imports um can anybody tell
-me difference between a function and an
-action in O data okay I&amp;#39;ll give you a
-bit of a clue in fact this documentation
-is going to give us a bit of a
-clue I&amp;#39;ll just jump down to run it so
-we&amp;#39;re already running CDs watch and if
-we go to Local Host OD data V4 say hello
-to equals World which is basically
-invoking that function let&amp;#39;s just copy
-that link address let&amp;#39;s go back to this
-page here instead let&amp;#39;s open up a tab
-and do that what do you think is going
-to
-happen what do you think is going to to
-happen
-nice we got to here there was our
-get for the metadata and then this line
-here from the OD data component yeah
-there&amp;#39;s a log OD data loging right it
-says oh okay I&amp;#39;m about I&amp;#39;ve just been
-I&amp;#39;ve just received a request for this
-URL o V4 say hello 2 equals world
-now if anybody
-remembers oh Nico says actions modify
-data functions don&amp;#39;t what a beautifully
-succinct way of saying it and that&amp;#39;s
-exactly correct okay so actions may have
-side effects as in data gets modified on
-the server
-right functions may not have side
-effects and the implication of that in
-this restful context we&amp;#39;re going a bit
-off piece with o days now but anyway is
-that you shouldn&amp;#39;t be allowed you can&amp;#39;t
-and cap won&amp;#39;t allow you to make a call
-to an
-action with the htdp method get because
-get
-implies uh no side effects and
-idempotent idempotency okay um
-I&amp;#39;ll put some links in the description
-for this one um you know when I go
-through it and you know write it up and
-everything to those different things but
-basically you should be able to call a
-function with get you can&amp;#39;t call an
-action with get you have to use post
-because using the word the the the htb
-method post implies semantically that
-you are ready for expecting
-wanting you&amp;#39;re going into a contract
-with the server that may or may not
-bring about a side effect a change in
-data that&amp;#39;s that&amp;#39;s the semantics of
-post similar to put but you know let&amp;#39;s
-not go there so the fact that it&amp;#39;s
-trying to handle this
-request tells us that it&amp;#39;s a function
-okay tells us that there&amp;#39;s no side
-effects tells us that cap is doing the
-right thing because we&amp;#39;ve defined it as
-a function rather than an action if we
-want to Define an action
-there we do that and in fact I don&amp;#39;t
-think that was going to work yeah um
-hello to we need a bit more with the
-action but anyway let&amp;#39;s get rid of that
-there save that there we go fine done
-now the error that we
-get is service say has no Handler for
-hello now let&amp;#39;s add a Handler in fact
-the documentation says add a Handler
-there we goes do that now the
-documentation says here create a file
-called world. JS in the same directory
-as world. CDs again convention get can
-have a payload generally in od data I&amp;#39;m
-pretty sure that&amp;#39;s a great that&amp;#39;s a
-great question carer I&amp;#39;m pretty sure
-there are no circumstances that I&amp;#39;ve
-ever come across where you would make a
-get request as in you would make what
-does get translate into or what does
-what do OD dat oper what are the O data
-operations that translate into the HTTP
-method get they are um uh read and query
-there are no circumstances that I can
-think of at all in od data where a read
-or a query operation would require you
-to send any information in the body of
-the HTTP request so the answer basically
-is well technically it
-can but no it doesn&amp;#39;t Kristoff um I mean
-yeah so Kristoff is saying the same
-thing actually I did look into this once
-you can actually send a payload in get
-it&amp;#39;s you know it doesn&amp;#39;t make any sense
-but technically you can in an HP request
-but you wouldn&amp;#39;t want to and it doesn&amp;#39;t
-make any sense and you definitely don&amp;#39;t
-want to in no data so let&amp;#39;s let&amp;#39;s
-implement this let me go here now the
-other thing is why is it in the same
-let&amp;#39;s just add this
-here let&amp;#39;s add another thing let&amp;#39;s go
-down here h no let&amp;#39;s not do that let&amp;#39;s
-not do that let&amp;#39;s just do it here uh
-create a where is it Services yeah
-create a file new file service .js let&amp;#39;s
-bang that in there save
-that there we go refresh now the fact
-that we put it in a file with the same
-name as the um CDs file convention over
-configuration cap will do the right
-thing if we were for example to say move
-services.job banana. JS right and rerun
-that no Handler right because it&amp;#39;s
-saying well you know I don&amp;#39;t know where
-the Handler is but we can we can
-annotate this by to say imput we can you
-know convention over configuration but
-you can change anything and everything
-if you really want to imple banana. JS
-there we go is that how we do it I can&amp;#39;t
-remember oh sorry put in the wrong place
-service
-there uh at imple there save that now
-the implementation for this service is
-in a file called banana. JS let&amp;#39;s I
-don&amp;#39;t know rning there we go and
-there we go so we just basically
-experiment don&amp;#39;t be scared to make
-mistakes you can&amp;#39;t make mistakes we&amp;#39;re
-at the top of the hour so let&amp;#39;s continue
-this next uh episode um we got so much
-more to cover in the CDs watch we
-haven&amp;#39;t even begun to look at all the
-different log output records but let me
-know if this has been helpful let me
-know if this is like too rambly just
-just direct me um you know I don&amp;#39;t know
-what to say uh I just say whatever comes
-out my brain um but try it out go and
-play with it start feeling comfortable
-with it and it&amp;#39;s amazing see you next
-time bye for now thanks for
-joining
+0m40s: [Music]
+0m46s: [Applause]
+0m51s: [Music]
+1m28s: m
+1m32s: [Music]
+1m46s: [Applause]
+1m49s: [Music]
+1m58s: a
+2m0s: [Music]
+2m24s: good morning good afternoon good evening
+2m26s: welcome to handson sap Dev with me this
+2m29s: time
+2m31s: DJ excuse me Q macro so good morning one
+2m35s: and all welcome welcome welcome thank
+2m37s: you so much for joining good morning to
+2m40s: Louise already with the coffee good
+2m42s: morning to you
+2m45s: helmet oh excuse me oh my goodness me
+2m48s: good morning to helmet in Brown in Bruns
+2m51s: I I
+2m55s: have excuse
+2m57s: me I have um yeah I&amp;#39;ve beaten my cold
+3m1s: it&amp;#39;s been a pretty bad virus and I&amp;#39;ve
+3m2s: still got a bit of a cough and this is
+3m4s: really the first time I&amp;#39;ve said any
+3m6s: words this morning so it always sort of
+3m8s: um conjures up a little bit of a cough
+3m10s: in the morning so anyway anyway so uh
+3m13s: yeah welcome one and all there been so
+3m14s: much chat it&amp;#39;s already scroll up the
+3m16s: screen so if I miss saying good morning
+3m19s: to everybody I&amp;#39;ve got I&amp;#39;ve got it up
+3m20s: here actually who who else is here uh
+3m22s: good morning to helmet good morning
+3m25s: Antonio and good morning Vitali although
+3m28s: I shouldn&amp;#39;t be really saying good
+3m29s: morning if you&amp;#39;re drinking that sort of
+3m31s: coffee to answer your
+3m32s: question I&amp;#39;m drinking uh some Miriam
+3m36s: Perez natural um Antonio and I are real
+3m40s: coffee Freaks and uh yeah so I&amp;#39;ve got my
+3m43s: hands onb Dev mug a orth at 8 a.m. and
+3m46s: I&amp;#39;m all ready to go good morning to Ian
+3m49s: stubbings and Steen VD and Angelo
+3m53s: welcome welcome welcome welcome Ian uh
+3m56s: and so Ian this is also why I&amp;#39;ve not
+3m57s: been really appearing on straa recently
+3m59s: because I&amp;#39;ve been really laid Low by
+4m1s: this um this
+4m2s: lurgy uh nice animation so um we have
+4m8s: our good friend niiko shantai uh our our
+4m11s: friend and colleague in the develop
+4m13s: Advocates team to thank for that as as
+4m16s: also for these uh lovely backgrounds as
+4m18s: well so amazing Kiara good morning and
+4m22s: sakib good morning uh s paath good
+4m24s: morning Jonathan kotz good morning Tom
+4m27s: good morning Manu G and Rohan and AJ and
+4m30s: Joseph and Stefano my goodness me mar
+4m33s: Perez great coffee from Honduras yes it
+4m35s: is indeed it is and good morning oh good
+4m38s: morning Kristoff uh in
+4m40s: beeld um I won&amp;#39;t make any jokes about uh
+4m44s: you know the the fact that beel doesn&amp;#39;t
+4m46s: exist or something I don&amp;#39;t quite get
+4m47s: that thing but anyway anyway good
+4m49s: morning uh
+4m52s: so in fact Talk of the devil as they say
+4m55s: Nico is in the house so yes everybody uh
+4m59s: don&amp;#39;t know whether you saw that Nico but
+5m1s: um people were praising uh how cool that
+5m4s: sort of um
+5m5s: countdown uh intro was yes so there we
+5m8s: go so we&amp;#39;re back um we&amp;#39;re back with a
+5m11s: vengeance and uh yeah we&amp;#39;re going to
+5m13s: carry on from where we left off last
+5m16s: week so just as a reminder if you&amp;#39;re if
+5m19s: you&amp;#39;re joining us for the first time
+5m21s: welcome um thank you You&amp;#39; you&amp;#39;ve heard
+5m23s: it way too often already yes I guess you
+5m25s: would have done I guess you would have
+5m26s: done so um did you go to the code Jam uh
+5m31s: no wait a minute uh the co Jam in beeld
+5m34s: last week I was supposed to be there but
+5m36s: I was Ill so I couldn&amp;#39;t travel but Nico
+5m38s: uh held that that was awesome thank you
+5m41s: uh Manu you&amp;#39;re excited to get started so
+5m43s: am I and Jo is that how you pronounce it
+5m46s: h ja I&amp;#39;m sorry tell me ah good morning
+5m49s: inas good morning and welcome inas
+5m52s: Alan so let&amp;#39;s get started let me switch
+5m56s: to the main scene already um well in
+6m0s: fact I&amp;#39;ve shared already I&amp;#39;ll share it
+6m2s: again actually I&amp;#39;ve shared already the
+6m4s: um sap developer news and uh so check
+6m8s: that out later on um and um one thing I
+6m12s: I did just before was sort of
+6m15s: recreate uh the the container uh for our
+6m20s: cap B2B uh code Jam sort of uh
+6m22s: Shenanigans and I noticed actually I
+6m25s: recreated the container and I um went in
+6m28s: here and said CDs V CDs version and all
+6m31s: of a sudden it&amp;#39;s like Christmas has come
+6m33s: early all of a sudden we have a new
+6m35s: version of the CDs DK
+6m38s: 7.6
+6m41s: now Kristoff yes you were in gutter slow
+6m45s: yes yes I I thought I recognize your
+6m47s: name yes Vitality says that ji says
+6m50s: while some coffee Enthusiast May PR blah
+6m52s: blah blah blah blah is convenient a
+6m53s: wiely consumer option for those looking
+6m54s: for a quick and easy coffee
+6m57s: solution I&amp;#39;m not even going to comment
+6m59s: on that right T I&amp;#39;m not even going to
+7m0s: come in Daniel schl in the house oh my
+7m2s: goodness me we have some wonderful
+7m4s: people everybody pet hello to you in
+7m7s: Prague Antonio clearly AI doesn&amp;#39;t know
+7m9s: anything about coffee I think that&amp;#39;s a
+7m11s: good comment okay so um I yeah like I
+7m13s: said I was noticed that we have uh CD
+7m16s: SDK 7.6 suddenly and that&amp;#39;s because you
+7m20s: know um I rebuilt the container and
+7m22s: because cap B2 be B2B uh because I
+7m25s: rebuilt a container um in the rebuilding
+7m28s: sorry rebuilt the container image let&amp;#39;s
+7m30s: get the terminology right uh the image
+7m33s: definition in the docker file says go
+7m35s: and install a little bit bigger go and
+7m37s: install cdsd K so we install it fresh
+7m41s: from npm and as you can see published
+7m43s: two days ago bleeding edge we&amp;#39;re are now
+7m46s: on 76.0 now normally only a few days
+7m50s: later we get some awesome release notes
+7m52s: relating to that so again this is this
+7m54s: is sort of just making you aware of you
+7m57s: know the the Cadence of cap releases and
+8m1s: where to find information you know this
+8m2s: is what I keep I keep my eye on this in
+8m5s: terms of you know what&amp;#39;s the latest
+8m7s: release
+8m8s: 7.6 I can check in the release notes now
+8m11s: the release notes Here in in the capaya
+8m13s: in a cap uh is not Vladimir Vlad and
+8m16s: welcome to you uh you&amp;#39;re welcome thank
+8m19s: you for the stickers vadir says you&amp;#39;re
+8m20s: welcome you&amp;#39;re welcome you&amp;#39;re welcome
+8m21s: I&amp;#39;m running out stickers so if anybody
+8m22s: else wants any stickers send me a uh you
+8m25s: know private message somehow on uh
+8m27s: masteron or on LinkedIn with a postal
+8m29s: address I can send some but I&amp;#39;m running
+8m30s: out so you know if you want some get in
+8m33s: there um so we can see the sort of the
+8m35s: Cadence now very shortly we should see
+8m38s: the release notes for January 2024 which
+8m41s: basically sort of you know align to this
+8m43s: new 7.6 release anyway we&amp;#39;re not going
+8m45s: to look into all the new release
+8m46s: features right now normally in sap
+8m48s: developer news we talk about the new
+8m50s: release so you know look out for that in
+8m51s: the developer news if you want to so
+8m53s: that&amp;#39;s that that&amp;#39;s that uh let&amp;#39;s get rid
+8m55s: of that and leave that there for now so
+9m0s: what I uh what I wanted to do was just
+9m1s: to finish off where we left off last
+9m4s: time because so many brilliant questions
+9m6s: so ask questions all the time give me
+9m8s: your opinions ask questions no question
+9m10s: too basic too simple where we were last
+9m13s: time we was we were we installed the
+9m15s: lint Plugin or the the add-on let&amp;#39;s call
+9m19s: it not plugin that&amp;#39;s an overloaded word
+9m21s: in in cap terms but um but so what I&amp;#39;ll
+9m24s: do is I&amp;#39;ll
+9m25s: recreate uh and we&amp;#39;ll do it in volume
+9m27s: one go right and then we&amp;#39;ll we&amp;#39;ll have a
+9m29s: look quickly at the linting thing which
+9m30s: we sort of you know got distracted and
+9m32s: didn&amp;#39;t finish off at the end and then
+9m33s: we&amp;#39;ll go into CDs watch if that&amp;#39;s all
+9m35s: right so ask questions comment direct us
+9m39s: just say whatever you want in the chat
+9m40s: because that&amp;#39;s what what makes it even
+9m41s: better so C CDs in it um and we also
+9m45s: added the uh tiny sample from Elton John
+9m48s: um but also We&amp;#39;ll add at the same time
+9m51s: the lint mechanism which we know we
+9m53s: added that separately last time book
+9m56s: shop uh and then we&amp;#39;ll also go into that
+9m59s: uh directory once everything&amp;#39;s done
+10m1s: right um so as you can see here yes as
+10m4s: you can see it&amp;#39;s adding feature no Jess
+10m6s: we didn&amp;#39;t ask no but if you look in the
+10m8s: source code remember uh last episode we
+10m11s: did a bit of a search on the cdsd K the
+10m14s: globally installed CDs development kit
+10m16s: and we found where the Jane air basic
+10m19s: data came from in a similar way you can
+10m21s: find out why it will default to add uh
+10m25s: the node.js feature okay you know just
+10m27s: so it&amp;#39;s all you know the sources there
+10m29s: for us to look at and understand it&amp;#39;s
+10m31s: added the tiny sample which is basically
+10m33s: you know a little a little book entity
+10m35s: and a couple of records and then
+10m37s: exposing that book entity through a
+10m39s: service catalog service and we also
+10m42s: added feature link which then asked us
+10m43s: do we want to install for example um uh
+10m46s: code package.json uh if we want to
+10m49s: install um these two things es lint
+10m52s: plugin the actual cap specific CDs
+10m54s: plugin for ES lint and Es lint itself
+10m57s: and then what we did was we had a quick
+10m59s: look at one of the rules one of the
+11m0s: linting rules that basically said you&amp;#39;re
+11m3s: not allowed to have let&amp;#39;s open uh the uh
+11m7s: data
+11m8s: model uh oh not code uh there we go I
+11m12s: quite like sort of saying open it with
+11m14s: with text right is quite good um so what
+11m17s: we did was we added a dollar prefix to
+11m20s: you know a property name uh because that
+11m22s: is not really something we should be
+11m25s: doing and that&amp;#39;s what we want ly to be
+11m27s: catching and so what I did then was let
+11m29s: me go to there what we did then was let
+11m31s: me put my face down the bottom maybe uh
+11m34s: we a CDS lint and we said dot which is
+11m36s: basically lint everything in you know in
+11m38s: this in this location which is this dire
+11m40s: we could actually leave that off it&amp;#39;s
+11m42s: the same thing we did a debug but we
+11m43s: won&amp;#39;t do the debug now and what we got
+11m47s: uh were two error messages uh oh sorry
+11m49s: two what CDs links oh what what what oh
+11m53s: I&amp;#39;ve not saved it ah uh save uh there we
+11m56s: go uh there we go that&amp;#39;s better that&amp;#39;s
+11m58s: better better do it again DJ CDs lint
+12m2s: I&amp;#39;ve actually set my I think vs code by
+12m4s: default I don&amp;#39;t know let me know in the
+12m6s: chat VSS code by default will auto save
+12m8s: after a few seconds I don&amp;#39;t like that
+12m10s: because I like to be in control of what
+12m12s: happens when especially with CDs watch
+12m14s: as we&amp;#39;ll see so this is saying ah yeah
+12m18s: okay and these are cap specific lint
+12m21s: rules that we&amp;#39;ve you know uh hit upon
+12m25s: warning dollar title is prefixed with a
+12m26s: dollar sign that is this the rule that
+12m29s: we looked at last week and also of
+12m32s: course because we&amp;#39;ve sort of you know
+12m33s: changed the name of this property it&amp;#39;s
+12m36s: also it can and will also lint other
+12m39s: file types
+12m41s: EG linting CDs files here data model CDs
+12m44s: and it will also lint CSV files how
+12m47s: amazing is that so in fact also we can
+12m48s: you know we can sort of uh what&amp;#39;s it
+12m50s: called command click on control click on
+12m51s: there and it will take us directly to
+12m53s: the offending part of that file
+12m56s: similarly here click take us to the
+12m58s: directly the offending part of that file
+13m0s: and of course the reason why that is no
+13m2s: good anymore is because there isn&amp;#39;t a
+13m4s: title property right of course if we fix
+13m6s: the the actual title property by
+13m9s: removing that then of course we l it
+13m11s: again it goes away okay so that is that
+13m14s: so um Antonio M Antonio says I don&amp;#39;t
+13m16s: have that setting on good no neither do
+13m19s: I
+13m21s: so what I want to do
+13m23s: today um is sort of
+13m26s: explore um running stuff okay what do I
+13m30s: mean by running stuff so
+13m32s: CDs um is an all round tool you know
+13m36s: both for um runtime but we&amp;#39;re not really
+13m40s: talking about runtime right now we&amp;#39;re
+13m41s: talking about and I&amp;#39;m going to say
+13m43s: design time I&amp;#39;ve said this before I&amp;#39;m
+13m44s: going to say design design time thank
+13m45s: you Antonio for sharing that disable
+13m48s: autosave um I&amp;#39;ve got autosave
+13m51s: disabled um it&amp;#39;s a design type tool as
+13m54s: well it&amp;#39;s comes in the CDs DK and of
+13m58s: course the design line time tool allows
+13m59s: us to say CDs ad Etc right uh dot
+14m5s: d-el but it&amp;#39;s also the server okay so
+14m9s: it&amp;#39;s also basically the thing that that
+14m11s: fires up uh Express fires up all the CDs
+14m17s: all the C runtime libraries and starts
+14m19s: serving the stuff that you&amp;#39;ve defined
+14m22s: okay now you may or may not have seen
+14m26s: different ways that uh
+14m29s: tutorials blog posts whatever describe
+14m32s: saying oh yeah write this CDs and blah
+14m34s: blah blah and then run it
+14m37s: with run it with the following command
+14m40s: so CDs run is one of those commands Okay
+14m44s: CDs run will do something now we&amp;#39;re
+14m47s: going to we&amp;#39;re going to stare at these
+14m49s: individual log lines and make sure we
+14m52s: understand all of these things during
+14m53s: the course of this uh particular episode
+14m57s: so don&amp;#39;t worry about you know
+14m59s: all of the different log lines here we
+15m2s: got to make sure we sort of you know
+15m4s: have stared at them and understand what
+15m5s: each one is talking about now CDs run if
+15m8s: we say CDs run--
+15m11s: help basically it says CDs run and this
+15m14s: you&amp;#39;ll find this a lot with um with cap
+15m18s: uh cap you know uh convention over
+15m21s: configuration grow as you go these
+15m24s: two related bits of philosophy also
+15m27s: extend
+15m29s: into what came I I would I would argue
+15m32s: came from the uh the Pearl Community uh
+15m36s: DM do what I mean you know just just do
+15m38s: what you you know what I want you to do
+15m41s: just do it okay so if you say CDs run it
+15m45s: actually is syntactic sugar a convenient
+15m49s: shortcut it desugar into I was listening
+15m52s: to this fantastic
+15m54s: um uh podcast uh yesterday an interview
+15m57s: with Simon pton Jones you know uh
+15m59s: father of hll and verse and amazing
+16m4s: functional programming brain anyway
+16m6s: anyway uh he he said this word you know
+16m8s: this this syntax D sugars because hll is
+16m10s: quite a small language sort of at its
+16m12s: core but it&amp;#39;s got lots of sort of uh
+16m15s: syntactic sugar around it and you know
+16m17s: when when it&amp;#39;s compiled uh you know the
+16m20s: syntactical sugar is you know reduced
+16m22s: down to is des sugared so I just love
+16m24s: that word dgar so you can almost think
+16m26s: of you know CDs run Des sugaring into
+16m29s: CDs serve so we can actually say CDs
+16m33s: serve and it does the same thing CDs
+16m34s: serve like that okay and that&amp;#39;s going to
+16m37s: just pick up all of the services it can
+16m40s: find now as&amp;#39;s a keyword all of the
+16m42s: services it can find where is it looking
+16m44s: for these Services right anybody in the
+16m47s: chat can suggest where they think it&amp;#39;s
+16m50s: looking for these Services one of the
+16m52s: clues is here loaded model from two
+16m53s: files but we&amp;#39;re going to dig into that a
+16m55s: little bit more okay so put in the chat
+16m57s: what you think I say the chat there they
+16m58s: got the chat up here and got the chat
+17m0s: down there so I don&amp;#39;t know what to look
+17m1s: at I don&amp;#39;t know what&amp;#39;s going on um so
+17m5s: CDs serve now um if we look at CDs serve
+17m11s: help o see we got all this stuff here
+17m14s: what can we serve CDs serve who all this
+17m17s: amazing stuff here CDs serve you can
+17m19s: specify a service name to serve we can
+17m22s: specify where we want you know from what
+17m24s: models we want it to be served the
+17m25s: default is asterisk all all these
+17m28s: different things we we&amp;#39;re going to be
+17m29s: looking at mocked we got to look at with
+17m31s: mocks in memory all these different
+17m33s: things over this this episode and maybe
+17m36s: the next episode as well but you can see
+17m38s: CDs serve CDs serve all CDs serve
+17m40s: catalog service right now if we have a
+17m43s: look here we&amp;#39;ve got in our and don&amp;#39;t
+17m46s: worry about remembering these different
+17m48s: directories for now we&amp;#39;ll come to that
+17m50s: in a second but in in here we&amp;#39;ve got
+17m51s: this file a CDS file called cat service
+17m54s: right it doesn&amp;#39;t matter what it&amp;#39;s called
+17m56s: actually because it&amp;#39;s in a certain
+17m58s: directory but inside there we&amp;#39;ve got a
+18m1s: service called catalog service so if we
+18m3s: we can also say uh shall I tell you what
+18m6s: let&amp;#39;s let&amp;#39;s um make that should I make
+18m8s: one smaller there we go let me know
+18m10s: Helmut you&amp;#39;re always good at tell me
+18m12s: whether it&amp;#39;s uh big or small enough let
+18m13s: me know if it&amp;#39;s um uh still large enough
+18m17s: to
+18m18s: see good day Phil you&amp;#39;re don&amp;#39;t worry
+18m21s: about arriving late you&amp;#39;re arriving in
+18m23s: style um you&amp;#39;ve missed uh not really
+18m26s: that much we just finished off the
+18m27s: linting from last time and now we&amp;#39;re
+18m30s: starting to look at how to fire up a cap
+18m32s: server okay uh we looked at CDs run
+18m35s: which is basically syntactic sugar CDs
+18m37s: serve CDs serve all now if we say CDs
+18m39s: serve banana
+18m43s: right okay so what it&amp;#39;s done is it&amp;#39;s
+18m47s: said okay well I&amp;#39;m loading these these
+18m49s: models from you know and when when we
+18m51s: say model when it says model here it
+18m53s: basically means you know set of
+18m54s: definitions it doesn&amp;#39;t necessarily mean
+18m57s: model as in the word model in data model
+19m0s: it loads Services as well okay um and it
+19m3s: loads them from it&amp;#39;s loaded from this
+19m5s: file and this file again put in the chat
+19m7s: why you think it&amp;#39;s found stuff in these
+19m11s: files you know where does it where does
+19m14s: it know to look and what is it looking
+19m16s: for but we&amp;#39;re saying here CDs serve
+19m19s: banana error no such service banana okay
+19m23s: now if we were to add
+19m25s: service banana let&amp;#39;s just put uh I don&amp;#39;t
+19m29s: know entity
+19m31s: F can we can we get a key ID integer
+19m35s: that&amp;#39;ll do for now um service banana I&amp;#39;m
+19m39s: not sure I need a semic CO on there
+19m40s: let&amp;#39;s just try try that again CDs serve
+19m42s: banana there we go okay now what have we
+19m46s: done there we&amp;#39;ve basically added in just
+19m49s: happen to be inside this cat service
+19m50s: file it doesn&amp;#39;t matter it could be in a
+19m51s: separate file we&amp;#39;ve added a service
+19m53s: called banana so it&amp;#39;s now said oh yeah
+19m57s: okay I&amp;#39;ve found you know I&amp;#39;m loar
+19m58s: loading I&amp;#39;m still loading the
+19m59s: definitions from everywhere that I can
+20m3s: find but you want me to only serve the
+20m5s: banana service by the way I don&amp;#39;t know
+20m8s: whether Joe Blow Joe Blow I think would
+20m10s: remember Joe is a good friend of the uh
+20m13s: uh the hands on SCP Dev family uh and he
+20m15s: will remember that uh in in my previous
+20m17s: Consulting days uh my my test word is
+20m20s: banana so Banana is just you know the
+20m22s: random word like Foo um so serving
+20m26s: banana now if we have a look at that let
+20m28s: open that uh let me close that one there
+20m30s: and then put that back uh here so we can
+20m33s: see uh let&amp;#39;s put that there so it&amp;#39;s on
+20m36s: the other side there we go ah okay let&amp;#39;s
+20m38s: do that shall I put that down there
+20m42s: actually uh how do we do that down there
+20m46s: down there that&amp;#39;s it that&amp;#39;s better okay
+20m48s: so we can sort of see everything now is
+20m50s: my face still at the bottom yes it is at
+20m52s: the bottom so you can see that the
+20m55s: service end
+20m57s: point list only has the banana service
+21m1s: okay if we were to say for example um
+21m4s: CDs serve and then just nothing else
+21m7s: which is the same as CDs serve
+21m9s: all then it&amp;#39;s going to load the same
+21m12s: things and serve catalog service which
+21m15s: is that one and also banana now if we
+21m17s: refresh this thing here we should see
+21m18s: the two service endpoints okay so you
+21m21s: can have multiple Services being served
+21m24s: by the same cap server you can have
+21m26s: multiple Services defined wherever you
+21m29s: want in separate files in in the same
+21m31s: file in this
+21m33s: case but nobody else has put yet um
+21m37s: somebody have a guess as to where the
+21m40s: cap server might decide to
+21m44s: look as to where to load these models
+21m48s: okay so let&amp;#39;s let&amp;#39;s have a look let&amp;#39;s
+21m49s: start staring at these different log
+21m52s: records okay so we have and also also
+21m56s: you you may have noticed
+21m58s: quite nicely I think now this is you
+22m2s: know I&amp;#39;m going to make a generalized
+22m4s: statement this is just DJ speaking here
+22m6s: I mean you know I grew up in the
+22m7s: Mainframe days I you know my
+22m10s: first job after University
+22m13s: was running sap R2 systems on IBM
+22m17s: mainframes
+22m18s: where it was just the most
+22m20s: amazing environment in terms of the
+22m22s: operating system and error messages and
+22m24s: the way they were documented and every
+22m26s: error message had an ID and severity and
+22m28s: you could go and look it up in these
+22m29s: huge manuals and everything it&amp;#39;s not the
+22m31s: same now it&amp;#39;ll never be as good but one
+22m35s: thing I do like about this is that we
+22m38s: have these sort of little prefixes these
+22m40s: little sort of contexts so you can see
+22m43s: that actually there are different
+22m45s: components to the cap server the thing
+22m47s: that you start up with CDs run or CDs
+22m49s: serve we haven&amp;#39;t done CDs watch yet
+22m51s: we&amp;#39;ll do that in a minute um that uh
+22m54s: then you can sort of you know increase
+22m57s: or decrease increase the the verbosity
+22m59s: of the logging so we could say for
+23m1s: example um I think debug o bug equals
+23m5s: CDs Now that uh CDs Ser that um
+23m11s: uh Deb equals c um actually there&amp;#39;s a
+23m15s: different way of there&amp;#39;s a different way
+23m17s: of doing it um there we go there&amp;#39;s all
+23m20s: sorts of De all yeah okay let&amp;#39;s let&amp;#39;s
+23m23s: get into debugging later but you can
+23m25s: sort of increase Theos of all these
+23m26s: different things so there for examp
+23m27s: example you can see uh there&amp;#39;s another
+23m30s: sort of component in the server that&amp;#39;s
+23m32s: now you know suddenly logging because
+23m33s: we&amp;#39;ve turned debug on why is it so warm
+23m35s: in here uh because we turned debug on um
+23m39s: and there&amp;#39;s another component the trace
+23m41s: component and what else have we got here
+23m42s: anything else of Interest here CDs
+23m44s: service Factory oh my goodness what is
+23m46s: that um you know all these different
+23m48s: things SQL component so you know we
+23m51s: could do a whole episode on you know
+23m54s: looking at how we can help ourselves to
+23m57s: find out what what&amp;#39;s going on
+23m59s: but for now let&amp;#39;s just run CDs serve
+24m2s: like that so it&amp;#39;s loaded these models
+24m5s: loaded definitions from two files serve
+24m7s: cat service and DB data model now notice
+24m9s: something that Antonio said models go
+24m10s: under the DB folder right and services
+24m12s: on serve folder any mock data under DB
+24m14s: data perfect so Antony has a great
+24m17s: start now convention over configuration
+24m20s: but there is configuration that sort of
+24m23s: determines what Antonio has just
+24m26s: said so let me make this a little bit
+24m29s: bigger in fact I think you can oh never
+24m31s: mind I&amp;#39;ll just do it that okay um let me
+24m33s: make that there now CDs EnV I think we
+24m38s: touched on this last time didn&amp;#39;t we CDs
+24m40s: EnV will give
+24m42s: us
+24m44s: the what&amp;#39;s the word I&amp;#39;m looking for the
+24m47s: uh the calculated the the effective
+24m49s: environment configuration there&amp;#39;s all
+24m51s: sorts of
+24m52s: settings that have default values
+24m56s: Convention of configuration really
+24m58s: important but also things that you can
+25m1s: change so if we say CDs EnV it will give
+25m4s: us a ton of information now we don&amp;#39;t
+25m7s: want to look through all this different
+25m9s: stuff here but what we can say for
+25m11s: example is and this is this is I think
+25m13s: yeah when we when we looked last time we
+25m15s: looked at the value of this special sort
+25m17s: of environment variable or the CDs
+25m20s: environment CDs environment variable
+25m22s: uncore homecore CDs DK which is the
+25m24s: location of the actual CDs development
+25m26s: kit that&amp;#39;s where we found to look for
+25m29s: files when we were trying to figure out
+25m30s: where Jane air came from right uh Lu
+25m33s: good morning amazing live
+25m35s: congratulations congratulations to
+25m36s: everybody here for joining and being a
+25m38s: part of the team
+25m40s: so uh so we got cdsn now if we say
+25m44s: cdsn
+25m46s: get okay the cdsn get that&amp;#39;s just to
+25m49s: help help you get help with everything
+25m51s: okay you can do all sorts of different
+25m53s: things here if we say cdsn get and I&amp;#39;m
+25m56s: going to just do one folders
+25m58s: right folders bear with me check it out
+26m2s: check it out you can also say say
+26m4s: cdsn list folders you get like different
+26m6s: sort of properties format output okay so
+26m10s: you know choose your poison I quite like
+26m12s: cdsn get because actually when it knows
+26m15s: it&amp;#39;s emiting to a terminal it&amp;#39;s going to
+26m17s: sort of you know put in a a sort of a
+26m19s: human readable style bit of Json it&amp;#39;s
+26m22s: not really Jason but if you pipe it if
+26m24s: it&amp;#39;s not in the context of a
+26m25s: terminal it&amp;#39;s actually Jason which is
+26m28s: really cool so let&amp;#39;s stare at that for a
+26m30s: second cdsn get folders these are the
+26m34s: default folders that the cap server will
+26m38s: look
+26m39s: in when it&amp;#39;s starting up it will look in
+26m42s: these folders and it just so happens of
+26m45s: course you know it makes sense to have
+26m46s: the defaults to be the same name as the
+26m47s: folder names you know the same name as
+26m49s: the sort of semantic names here let&amp;#39;s
+26m51s: call them DB Ser an app right remember
+26m55s: as Antonio said as well DB is way you
+26m57s: Define your data models as in your lower
+26m59s: you know persistence layer stuff serve
+27m1s: is where you define your services and
+27m3s: app is where you can put you know sort
+27m5s: of you know front end you know human
+27m7s: facing you know HTML 5 things okay front
+27m13s: ends however you don&amp;#39;t have to do it
+27m15s: like that okay and one of the beauties
+27m16s: of CDs the language and one of the
+27m19s: beauties of cap is that you can mix and
+27m22s: match and Define what where how whatever
+27m27s: you want okay so we&amp;#39;re going to explore
+27m28s: that a little bit now there&amp;#39;s also as
+27m31s: well as these this
+27m34s: folders um property you can also
+27m38s: say Roots okay this is like a
+27m41s: geta and this will combine the values of
+27m46s: the
+27m47s: folders with two sort of fixed hardcoded
+27m53s: names for
+27m55s: files okay so we could could say for
+27m57s: example I be crazy to say but we could
+27m59s: say we could say CDs config we could
+28m1s: there&amp;#39;s all different ways
+28m3s: of effect affecting this CDs effective
+28m8s: environment the effective configuration
+28m10s: so we could say CDs config uh equals
+28m14s: let&amp;#39;s say
+28m15s: um fold you have to specify obviously
+28m19s: folders uh like that and then we could
+28m21s: say here DB the DB folder um actually or
+28m27s: the DB the semantic folder is in a
+28m29s: folder called um Apple you know on the
+28m33s: fruit banana thing Apple like that right
+28m36s: let&amp;#39;s see what happens there when we do
+28m37s: that uh let&amp;#39;s close that close that
+28m39s: close that CDs and get
+28m45s: folders so now we are setting on the fly
+28m48s: through the setting of a value for this
+28m51s: CDs config special environment variable
+28m53s: we&amp;#39;re sort of overriding the default
+28m56s: value for the DB semantic folder okay so
+29m1s: now we could say C we see what happens I
+29m4s: don&amp;#39;t know see what happens CDs run or
+29m6s: serve
+29m7s: serve it&amp;#39;s also ah okay it&amp;#39;s folders DB
+29m12s: Apple but it&amp;#39;s also looking in DB
+29m14s: because the effective configuration also
+29m16s: includes DB
+29m19s: now instead of putting things in these
+29m23s: different um
+29m25s: directories let&amp;#39;s let&amp;#39;s go back
+29m28s: and start from scratch and have nothing
+29m30s: okay so what we do is go into here let&amp;#39;s
+29m33s: close everything close
+29m36s: all and say remove uh
+29m40s: all Bookshop
+29m43s: right blast everything away so we got
+29m46s: nothing at the moment apart from Dev
+29m47s: container
+29m49s: now why don&amp;#39;t we say
+29m51s: CDs um in
+29m54s: it uh simple okay we won&amp;#39;t add the tiny
+29m59s: sample so we&amp;#39;ll say CDs in it
+30m2s: simple now go into simple and what have
+30m5s: we got in fact I&amp;#39;d like to you know
+30m8s: tree there we go what we&amp;#39;ve got is the
+30m11s: simplest thing that could possibly work
+30m13s: is it no it&amp;#39;s not right we could
+30m15s: actually remove remove rmd app BB and
+30m20s: serf now all we&amp;#39;ve got is
+30m23s: literally all right we got some helper
+30m25s: files here in fact let tree just it
+30m27s: minus a to see all of the yeah there we
+30m29s: go that&amp;#39;s better I think this is much
+30m30s: nicer display than that okay so anyway
+30m32s: so what we&amp;#39;ve got is what we looked at
+30m35s: on episode one CDs RC es lint RC get
+30m38s: ignore we know what they are so we can
+30m39s: sort of discount those read me a little
+30m41s: bit of you know markdown documentation
+30m43s: file fine vs. vs code that&amp;#39;s the sort of
+30m47s: vs code specific helper files to you
+30m49s: know do cool things with vs code and cap
+30m52s: but apart from that we have nothing all
+30m54s: we&amp;#39;ve the most important file what we
+30m56s: got here
+30m57s: is the package Json okay so what happens
+31m2s: if we say CDs serve now oops
+31m7s: CDs
+31m9s: serve error couldn&amp;#39;t find a CDS model
+31m12s: for
+31m15s: asterisk in workspaces cap to be made
+31m19s: simple
+31m21s: now this is where in order to resolve
+31m24s: this I would like with you to move on
+31m27s: from CDs serve to CU I&amp;#39;m running CDs
+31m30s: serve each time CDs run CDs serve all
+31m34s: it&amp;#39;s going to make no difference because
+31m36s: there&amp;#39;s nothing there we you know we
+31m38s: didn&amp;#39;t have sign tiny sample we haven&amp;#39;t
+31m40s: even got a DB folder an app folder a
+31m44s: serve folder nothing but remember cdsn
+31m49s: getet
+31m51s: Roots we have the possibility of putting
+31m55s: things in folders with these n or for
+31m58s: example putting something in a file
+32m1s: called schema. CDs or services. CDs okay
+32m7s: so one of the really cool things about
+32m11s: cap and CDs in general in the node.js
+32m15s: environment in this particular case but
+32m16s: also in a similar way in the Java
+32m18s: environment is that the development
+32m22s: cycle for others developers is so tight
+32m25s: and designed to be as helpful as we oh
+32m29s: you can hear the bird Shing excellent
+32m30s: yes div to be as helpful to you as a
+32m32s: developer in the design time figuring
+32m34s: out things bashing your head against the
+32m36s: wall what&amp;#39;s going on here let me try and
+32m37s: change this etc etc as possible and for
+32m42s: that we have CDs watch now if we say CDs
+32m47s: watch help so we got we got CDs run go
+32m51s: and run the stuff which is syntactic
+32m52s: sugar for CDs serve go and serve the
+32m54s: stuff and we&amp;#39;ve seen that CDs serve he&amp;#39;s
+32m57s: going to say well there&amp;#39;s nothing to
+32m58s: serve and then goes
+33m1s: bang so think of CDs run or CDs serve
+33m5s: more specifically I suppose as a as a as
+33m8s: a more of a
+33m9s: runtime
+33m11s: invocation but we&amp;#39;re in design time
+33m13s: we&amp;#39;re still developing right we haven&amp;#39;t
+33m14s: developed anything yet and for design
+33m18s: time we have another command in our CDs
+33m22s: Arsenal called CDs
+33m24s: watch and if we say CD watch help we got
+33m27s: a ton of stuff but if we scroll
+33m31s: up let&amp;#39;s just read this okay tell CDs to
+33m36s: watch for Relevant things to come or
+33m38s: change in the specified project okay by
+33m40s: default it&amp;#39;s you know the direct true in
+33m43s: or the current word
+33m44s: directory compiles and reruns the server
+33m48s: on every change
+33m51s: detected Phil KY says maybe a future
+33m54s: session DJ would be to cover Java cap I
+33m55s: know it&amp;#39;s not used as much but some
+33m57s: projects I&amp;#39;m working on have required
+33m58s: knowledge of java cap so Phil I think
+34m2s: um either the previous episode or the
+34m4s: previous to that one um this also came
+34m6s: up I&amp;#39;m not a Java person but I do know
+34m9s: some awesome Java people in the cap team
+34m11s: here at sap so what I&amp;#39;d said was once we
+34m13s: sort of get through you know this Back
+34m16s: to Basics with cap no. JS we&amp;#39;ll we&amp;#39;ll
+34m18s: hopefully get some Java people on and
+34m20s: we&amp;#39;ll do a bit of that How would how
+34m21s: would that work um I hopefully that that
+34m24s: be okay ah good morning cier good
+34m26s: morning special
+34m28s: than great welcome so time 8:33 so
+34m33s: compiles and reruns a server on every
+34m35s: change detected amazing so if anybody
+34m38s: has used you know a live reload facility
+34m41s: there&amp;#39;s one in nodejs that was created
+34m43s: by Remy sharp I can&amp;#39;t remember what it&amp;#39;s
+34m45s: called is it called live reload I can&amp;#39;t
+34m47s: remember uh anyway it&amp;#39;s a similar sort
+34m49s: of thing but better so actually CDs
+34m52s: watch is just a convenient shortcut for
+34m56s: CDs server all with Mock and in memory
+35m0s: now we&amp;#39;re going to maybe look at with
+35m1s: Mock and in memory later on when we
+35m4s: start staring at all the different log
+35m5s: output to understand what they
+35m7s: do no worries Phil thank you for asking
+35m10s: brilliant keep your questions coming any
+35m12s: question any question I might not be
+35m13s: able to answer it but there we go so
+35m16s: what we&amp;#39;ll say is CDS
+35m20s: watch and remember we&amp;#39;ve got in fact
+35m23s: let&amp;#39;s have let&amp;#39;s have another terminal
+35m27s: down
+35m29s: here H there
+35m32s: right remember that we&amp;#39;ve got basically
+35m36s: no CDs definitions whatsoever we haven&amp;#39;t
+35m38s: even got a DB server or app directories
+35m43s: right so CDs watch let&amp;#39;s see what
+35m45s: happens in fact let&amp;#39;s get don&amp;#39;t need
+35m46s: that
+35m49s: enter oh look at that
+35m52s: now I love this because it&amp;#39;s sort of
+35m56s: allows us to stop and stare and think
+35m59s: about what the heck is going on so first
+36m1s: of all it says this is actually what I&amp;#39;m
+36m3s: doing for you CDs serve all with mock in
+36m5s: memory question mark which is what the
+36m6s: help told us it was doing and it&amp;#39;ll set
+36m10s: up a live you know if we were in a
+36m12s: certain um you know browser um URL here
+36m16s: it would it would do that however
+36m18s: nothing&amp;#39;s being served so this is going
+36m19s: to sort of spin for a while so we stop
+36m21s: that now okay thank you chika uh sorry
+36m26s: uh chakia thank you chakia exactly it&amp;#39;s
+36m28s: noemon well remembered good call there
+36m31s: good call so um that&amp;#39;s the one that&amp;#39;s
+36m34s: the uh the mechanism from Remy
+36m38s: sharp I think originally the
+36m40s: cap project was using
+36m43s: nodemon um when they first came up with
+36m45s: this brilliant idea of uh you know
+36m47s: having this really tight development
+36m48s: cycle anyway no models found in DB serve
+36m53s: app schema or services so now we&amp;#39;ve
+36m55s: looked at we&amp;#39;ll open another terminal
+36m59s: see I&amp;#39;m I&amp;#39;m still not used to sort of
+37m0s: using vs code it&amp;#39;s just like too
+37m2s: complicated for me um if we say CD now
+37m4s: we looked at cdsn let&amp;#39;s do LS for a
+37m7s: change LS
+37m9s: Roots right we Now understand what the
+37m13s: heck that means right we know that it&amp;#39;s
+37m16s: looking for things where is it looking
+37m18s: for things it&amp;#39;s looking for things
+37m20s: defined in this
+37m22s: Roots um property and The Roots property
+37m25s: as we know is made up of a hardcoded
+37m29s: word schema and a hard-coded word
+37m31s: Services which is then you know the
+37m32s: final name services. CDs and schema. CDs
+37m36s: plus the values for these folders which
+37m39s: we can change but anyway let&amp;#39;s not go
+37m40s: into that but we got rid of the folders
+37m43s: and we don&amp;#39;t have anything so if we were
+37m44s: to say touch which is basically in you
+37m47s: know in any normal operating system
+37m49s: will&amp;#39;ll create a file touch um banana.
+37m53s: CDs okay now oh I&amp;#39;m in the wrong
+37m57s: directory hold on uh remove banana. CDs
+38m0s: go into simple there we go uh and let&amp;#39;s
+38m3s: just show you that CDs and F the folders
+38m5s: are the same you know it&amp;#39;s configuration
+38m7s: in this directory in in our project
+38m8s: directory it&amp;#39;s the same so if you say
+38m11s: touch banana CDs oh by the way I&amp;#39;ve just
+38m13s: noticed Luis says DJ just confirm you
+38m15s: have removed the Bookshop project and
+38m17s: started a new project under the name
+38m18s: simple yes exactly thank you for
+38m20s: pointing out l in fact i&amp;#39; forgot myself
+38m22s: right so you know I need to move it oh
+38m25s: tell you what
+38m28s: rather than each Ah that&amp;#39;s a good point
+38m30s: instead of doing that let&amp;#39;s go into
+38m35s: here let&amp;#39;s let&amp;#39;s blast away that project
+38m37s: as well and let&amp;#39;s create a cap project
+38m41s: in this cap B2B main you know in the
+38m43s: main directory so all we have to do is
+38m45s: CDs in it and not give a project name so
+38m49s: it won&amp;#39;t create a separate new directory
+38m51s: CDs in it bang creating new cap project
+38m54s: in current folder add adding feature no
+38m57s: J we didn&amp;#39;t specify anything else to add
+38m59s: with a D- add so all it&amp;#39;s done is done
+39m1s: the default which if you don&amp;#39;t specify
+39m3s: the runtime it&amp;#39;s going to pick no JS as
+39m5s: default go and find that in the cdsd K
+39m8s: source code it&amp;#39;s you know it&amp;#39;s quite
+39m10s: easy to find so there we go okay so
+39m12s: actually L
+39m14s: um uh yes that was the case now I&amp;#39;ve
+39m16s: removed the Bookshop and started a new
+39m17s: project under the name simple now I&amp;#39;ve
+39m19s: started a new project in this current
+39m21s: directory instead keep to keep it simple
+39m23s: so when I change and you know when I
+39m24s: create a new um what&amp;#39;s it called a new
+39m26s: new um terminal I&amp;#39;m I&amp;#39;m already in the
+39m29s: right directory okay so let&amp;#39;s do CDs
+39m32s: watch okay and if I say touch banana.
+39m35s: CDs what&amp;#39;s going to happen what do you
+39m37s: think is going to
+39m42s: happen what
+39m44s: happened CDs watch the part of CDs watch
+39m50s: that watches
+39m51s: for changes and additions to content in
+39m55s: the project Direct in the current
+39m57s: working
+39m58s: directory
+40m0s: noticed that&amp;#39;s not you say noticed that
+40m4s: oh R RF app RM rmd let&amp;#39;s remove app DB
+40m10s: and the reason I&amp;#39;m using rmd instead of
+40m12s: RM minus RF is to sort of prove to you
+40m14s: that there&amp;#39;s nothing in these
+40m16s: directories right if you tried to do an
+40m17s: rmd of a directory and it had stuff in
+40m20s: it it would say uh but these directories
+40m22s: are empty and we can prove that by
+40m23s: saying remove them there we go tree
+40m25s: there right so all we&amp;#39;ve got is package
+40m28s: Jason read me and banana. CDs touch
+40m31s: banana touch banana yes um so um we got
+40m36s: nothing in banana cat banana uh cat
+40m39s: banana. CDs nothing in there but it
+40m42s: noticed that there&amp;#39;s a new file but this
+40m45s: new file even though it&amp;#39;s a CDS file
+40m47s: with a CDS extension is not in the
+40m51s: either in the list of directories it&amp;#39;s
+40m53s: looking at nor is it called schema . CDs
+40m57s: or services.
+40m58s: CDs so why don&amp;#39;t we say time perfect why
+41m1s: don&amp;#39;t we say move banana. CDs to
+41m6s: services. CDs what what you think is
+41m8s: going to
+41m12s: happen now let&amp;#39;s move this down a
+41m16s: bit so we were
+41m19s: there and then it said oh my goodness me
+41m23s: I found something loaded model from one
+41m25s: file so services. CDs remember before we
+41m28s: you know we saw this loaded model from
+41m30s: two files serve SL catalog service. CDs
+41m34s: and dbd model CDs right that&amp;#39;s a result
+41m38s: of it looking in the roots in DB serve
+41m41s: app and looking for any files called
+41m42s: schema. CDs and service. CDs there&amp;#39;s
+41m44s: also a special file called index. CDs
+41m47s: which we&amp;#39;ll talk about another time
+41m49s: that&amp;#39;s almost like a bit of an
+41m50s: index.html in the old Apache uh httpd
+41m54s: days where if it finds an index index
+41m57s: file it will sort of show that in fact
+42m0s: there Al that that tradition is also
+42m3s: extent here in cap because if it finds
+42m6s: an index.html file in the app directory
+42m9s: it will serve that instead of serving
+42m12s: the default this in fact um
+42m16s: yeah let&amp;#39;s should we do digress on that
+42m20s: one if we now okay here we go yeah Local
+42m22s: Host let&amp;#39;s open Local Host Here Local
+42m25s: Host 404
+42m27s: yeah this even this tells us something
+42m29s: right even this tells us
+42m32s: something these are the paths currently
+42m34s: serve web locations nonone service
+42m35s: endpoints nonone right and this is the
+42m38s: default sort of you know helper helper
+42m41s: HTML that you get however right if we
+42m44s: were Daniel what touch banana if we were
+42m48s: um to say uh touch index. HT oh sorry
+42m52s: make
+42m53s: the make DJ less more haste less speed
+42m57s: make dear app and
+43m1s: touchapp
+43m6s: index.html now we&amp;#39;ve got of course it&amp;#39;s
+43m9s: not going to it&amp;#39;s it&amp;#39;s not looking in
+43m10s: the app folder here so let&amp;#39;s just do
+43m11s: that and do that again CDs
+43m14s: watch now look at that in fact cat into
+43m18s: app
+43m19s: index.html H1 banana
+43m24s: H1 and then refresh that there we go
+43m27s: there we go so
+43m28s: basically you can control what comes out
+43m31s: of the the default cap server by putting
+43m35s: stuff in the app directory specifically
+43m37s: index HTML and everything flows from
+43m38s: there anyway that was a bit of a stupid
+43m40s: digression um but that makes sense RM
+43m43s: minus RF app so I do need to do RM minus
+43m46s: RF because there&amp;#39;s something in app now
+43m47s: get rid of that get rid of that press
+43m50s: refresh and now we back to there but we
+43m52s: still got nothing served right we still
+43m54s: got nothing served we get a different
+43m55s: message
+43m56s: loaded model from on file services. CDs
+43m59s: let&amp;#39;s open let&amp;#39;s open Services code
+44m1s: services. CDs it&amp;#39;s there uh
+44m5s: oh that&amp;#39;ll do actually yeah that&amp;#39;ll do
+44m9s: um but it says no service definitions
+44m13s: found in loaded
+44m15s: models so it&amp;#39;s loaded some models from
+44m19s: here but there are no service
+44m21s: definitions found waiting for some to
+44m23s: arrive so why don&amp;#39;t we give it one right
+44m28s: now here&amp;#39;s a brilliant opportunity for
+44m31s: us to sort of reconnect our brains with
+44m34s: the um the cap documentation so let&amp;#39;s go
+44m38s: there um Chrome new new Chrome put that
+44m41s: there
+44m42s: cap there now if we go to get
+44m48s: started in episode one we went through
+44m52s: all this stuff here did we no we went we
+44m53s: went on the prel did we prelim there it
+44m56s: is jump starter project yeah we&amp;#39;ve done
+44m58s: that CDs watch um and we also did the
+45m1s: where is
+45m3s: it we did the jump start project jump
+45m7s: start guide jump start yeah here we go
+45m9s: we&amp;#39;ve done this we&amp;#39;ve done the setup
+45m10s: okay so that&amp;#39;s where we are but what I
+45m11s: want to show you is this hello
+45m14s: world amazing right let&amp;#39;s create a
+45m17s: simple hello world o data right going
+45m18s: from Zero to Hero in about two seconds
+45m21s: oh so Rohan hello R CDs run CDs serve
+45m24s: CDs watch to be found in sap CDs I how
+45m26s: would we know where to find Declaration
+45m27s: of these commands functions in case some
+45m29s: versions don&amp;#39;t have brilliant question
+45m31s: Rohan thank you for asking that question
+45m33s: that&amp;#39;s a really good
+45m34s: question think of it in this way that
+45m38s: CDs run is just syntactic isn&amp;#39;t so let&amp;#39;s
+45m41s: ignore CDs run for now CDs serve
+45m44s: basically starts the services starts
+45m46s: serving all the CDs definitions you&amp;#39;ve
+45m49s: got
+45m51s: okay so that is valid for design time
+45m55s: but it&amp;#39;s also valid for run
+45m57s: time
+45m59s: okay would you want for example um a
+46m3s: linting tool in production would you
+46m5s: want a tool that would do command
+46m8s: completion for you in production would
+46m10s: you want something that I can&amp;#39;t think of
+46m12s: anything else but would you want
+46m14s: something would you want some code that
+46m16s: automatically look for changes to files
+46m19s: and restarted the server would you want
+46m21s: that in production no so we can sort of
+46m23s: see the dividing line between the these
+46m26s: three commands for example CDs run CDs
+46m28s: serve and CDs watch CDs watch is not
+46m31s: part of sap CDs it&amp;#39;s part of sap CDs DK
+46m36s: it&amp;#39;s part of the development kit it&amp;#39;s
+46m38s: not part of the runtime okay remember if
+46m42s: we say here um where are we uh let&amp;#39;s
+46m45s: open another one of these CDs V CDs
+46m48s: version so CDs watch is part
+46m51s: of this it&amp;#39;s not part of this
+46m56s: okay so if you look in the actual node
+46m59s: modules and all the files and everything
+47m1s: you won&amp;#39;t find a CDS watch or you know
+47m3s: it&amp;#39;s actually watch. JS and watched. JS
+47m6s: because it&amp;#39;s split it out for various
+47m8s: asynchronous
+47m9s: reasons it&amp;#39;s not in there it&amp;#39;s in there
+47m11s: does that makes sense Rohan it&amp;#39;s a great
+47m13s: question and it&amp;#39;s also really important
+47m14s: to help us understand the difference
+47m16s: between design time and run time and the
+47m18s: tools we need for design time and the
+47m19s: tools we need for run time we got to
+47m20s: think as well about you know running
+47m23s: things in the cloud and you know having
+47m25s: the minimum surface area of code for
+47m28s: security reasons you know and so on and
+47m30s: you know it&amp;#39;s always a little more
+47m31s: Compact and you know quicker etc etc
+47m33s: it&amp;#39;s all part of the same sort of story
+47m35s: brilliant question now I&amp;#39;ve completely
+47m37s: forgotten what I was about to do uh not
+47m39s: your fault Rohan at all it&amp;#39;s just I&amp;#39;ve
+47m41s: got a brain the size of a gfish uh
+47m44s: waiting for model to oh services oh yes
+47m46s: that&amp;#39;s right yes so um we were looking
+47m50s: here going from Zero to Hero so let&amp;#39;s
+47m54s: define a c service and let def find a
+47m57s: function now this is I love and I do
+48m0s: find this a little bit strange as like a
+48m3s: hello world but is a brilliant hello
+48m4s: world because not everything is sort of
+48m6s: odata shaped in the sort of the the
+48m8s: nonorthogonal odata style you know I
+48m10s: always think of functions and and
+48m13s: actions in odata you know those are two
+48m14s: OD V4 things are sort of orthogonal to
+48m17s: the purity of odata which is sort of
+48m19s: restful these are this you know a
+48m21s: function and an action even more so in
+48m24s: my humble opinion are not restful
+48m27s: they&amp;#39;re sort of orthogonal to the whole
+48m29s: restful style of what odor is which is
+48m31s: you know a small number of verb a small
+48m33s: number of nouns sorry small number of
+48m34s: verbs get put post delete or the O dat
+48m36s: operations you know create read update
+48m38s: delete and query and an infinite number
+48m40s: of verbs I.E the URLs The Entity sets
+48m42s: the entities whatever functions action
+48m44s: are different however I think it&amp;#39;s still
+48m46s: pretty cool to start with this because
+48m49s: why not right and also we can have some
+48m51s: fun with it so why don&amp;#39;t we say uh in
+48m54s: here o hello 848 uh so we say um
+48m58s: service um well let let&amp;#39;s do this so we
+49m1s: can we so we can go back to this later
+49m3s: service say what does it say here
+49m4s: service
+49m5s: say there let&amp;#39;s just save that first of
+49m8s: all oh my goodness right we got nothing
+49m9s: in the service
+49m10s: say in fact we don&amp;#39;t even know you know
+49m12s: we don&amp;#39;t even know uh don&amp;#39;t even need
+49m15s: that&amp;#39;s crazy right service say do we
+49m17s: need that we need that right because
+49m18s: it&amp;#39;s it&amp;#39;s actually even telling us we
+49m20s: need that it&amp;#39;s got a fantastic sort of a
+49m22s: syntax thing my brain&amp;#39;s not working m
+49m25s: end of file I&amp;#39;m expecting something else
+49m28s: right so give me something else there we
+49m29s: go there&amp;#39;s our sort of you know the body
+49m31s: of our service definition let&amp;#39;s save
+49m33s: that and we we now see that for example
+49m37s: loading model from one file okay oh now
+49m39s: now it&amp;#39;s worth doing something so we&amp;#39;re
+49m41s: going to do some we&amp;#39;ll look into these
+49m43s: next time
+49m45s: uh I&amp;#39;m in Poland next week so maybe it
+49m48s: be a week after but anyway next
+49m50s: time but look at that serving say
+49m54s: serving the service call say that it&amp;#39;s
+49m56s: found in this default Services file if I
+49m59s: were to again just to just rub this in
+50m2s: to drive this home if I were to say move
+50m5s: services to nothing. CDs right that&amp;#39;s
+50m10s: going to restart and say no models found
+50m12s: okay so let&amp;#39;s move it back again move
+50m14s: nothing to
+50m15s: services. CDs and it&amp;#39;s now restarted and
+50m19s: we&amp;#39;re back again okay so now and look at
+50m21s: that it&amp;#39;s refreshed reload you know
+50m24s: amazing don&amp;#39;t leave finger developers
+50m27s: cap loves developers cap loves
+50m29s: developers right there we have our
+50m31s: service endpoint odata V4 say why is
+50m35s: what&amp;#39;s going on we haven&amp;#39;t said anything
+50m36s: about OD data why does it say OD data V4
+50m39s: say and why is there a Dollar metad data
+50m41s: there right can somebody tell me time is
+50m44s: 8:49 perfect we got time fors to pause
+50m47s: because I know there&amp;#39;s about 20 seconds
+50m48s: delay why do we get this service
+50m53s: endpoint that&amp;#39;s slod data/ B4 SL say
+50m57s: let&amp;#39;s have a look at it okay look at
+50m59s: that amazing uh an error occurred while
+51m1s: serializing the service document cannot
+51m3s: read properties of null one of the
+51m6s: Fantastic things is that you can break
+51m9s: nothing nothing can go wrong in a
+51m12s: disastrous sense all these error
+51m14s: messages tell us something and help us
+51m16s: learn about cap and about CDs and about
+51m19s: o data for that
+51m21s: matter what this is saying is it&amp;#39;s
+51m24s: trying to serve us go there look he&amp;#39;s
+51m26s: trying to serve us a service
+51m28s: document remember o data you know we&amp;#39;re
+51m31s: still trying to answer the question in
+51m33s: the chat please somebody why does it
+51m36s: give us SL oata V4 as a prefix you know
+51m38s: why is it OD
+51m40s: data I mean you know it&amp;#39;s a simple
+51m41s: answer but let&amp;#39;s just talk about it
+51m44s: explicitly so because it&amp;#39;s trying to
+51m47s: serve this as OD data this is our
+51m50s: service document an O data service
+51m51s: document basically as a list of entities
+51m54s: but we we we&amp;#39;ve done the most
+51m56s: ridiculously stupid thing here and
+51m58s: Define nothing right we&amp;#39;ve defined
+52m0s: nothing there&amp;#39;s no entities no
+52m3s: nothing so it can&amp;#39;t give
+52m6s: us you know a a representation of the
+52m9s: entity because there aren&amp;#39;t any okay now
+52m12s: if we were to go back and look at the
+52m15s: metadata document there are two
+52m16s: well-known documents in O data there the
+52m18s: service document which is looked just
+52m19s: looked at which which the cap server has
+52m21s: sort of failed to be able to create for
+52m23s: us because you know how can it and
+52m25s: there&amp;#39;s a meadas document which is like
+52m27s: you know the minimum thing ever right um
+52m31s: so I can see somebody&amp;#39;s uh CH uh chica
+52m34s: has put something I I won&amp;#39;t I won&amp;#39;t read
+52m35s: that there I&amp;#39;ll look at in a second
+52m38s: hopefully it&amp;#39;s the answer um so we can
+52m40s: see here may that big
+52m41s: bigger can see
+52m44s: here that we get an OD data metadata
+52m47s: document it&amp;#39;s a version OD dat V4 and we
+52m50s: have basically a schema with a name
+52m54s: space safe there&amp;#39;s no nothing in it
+52m56s: right but it&amp;#39;s still valid metadata now
+52m59s: if we oh so so chica says cap exposes
+53m2s: protocol as default path exactly so just
+53m7s: as for example um CDs in it will default
+53m12s: to node.js because you know let&amp;#39;s have a
+53m14s: default um
+53m17s: also I think it&amp;#39;s fair to say that you
+53m19s: know
+53m20s: cap was designed
+53m24s: primarily to be this amazing and it is
+53m28s: uh way to create OD dat services like
+53m32s: that it can also do other things you
+53m33s: know um but by default it will serve o
+53m36s: data and since uh CDs version
+53m41s: 7 right it will prefix the OD dat
+53m45s: services with slod data V4 so you can
+53m47s: have different style so for example here
+53m50s: let&amp;#39;s do this oh oh yes that&amp;#39;s be big we
+53m53s: could say at rest we could say let&amp;#39;s
+53m58s: annotate this service with the rest at
+54m2s: rest
+54m3s: annotation and now what happens loaded
+54m5s: model from file Services blah blah blah
+54m8s: blah blah serving say path SLR SL say so
+54m13s: all of a sudden we&amp;#39;re not serving a o
+54m15s: data service anymore we&amp;#39;re serving like
+54m16s: a you know a more generic
+54m20s: restful API rest say what happens bang
+54m24s: nothing no entities right right you know
+54m26s: what else could it do right
+54m29s: anyway I think one of the one of the
+54m31s: takeaways and OD data is the default
+54m33s: exactly exactly ch ch one of the one of
+54m35s: the takeaways hopefully you&amp;#39;re taking
+54m37s: away from this um ramble is that you
+54m41s: should experiment because the cap server
+54m44s: and this this environment is just
+54m46s: begging for you to find out by trying
+54m49s: learning by doing right anyway let&amp;#39;s
+54m51s: let&amp;#39;s get rid of that um uh annotation
+54m54s: let&amp;#39;s get back to the O data service and
+54m56s: now let&amp;#39;s finally add this other bit
+54m58s: here which is basically adding a
+55m0s: function definition let just copy paste
+55m2s: that bit quicker right let&amp;#39;s go here add
+55m5s: that bang bang
+55m8s: save so
+55m12s: now we&amp;#39;ve got this function let&amp;#39;s have a
+55m14s: look at the
+55m15s: metadata entity container it&amp;#39;s got an
+55m18s: entity container and it&amp;#39;s got a function
+55m20s: import okay this is one of these new OD
+55m21s: dat function Imports um can anybody tell
+55m24s: me difference between a function and an
+55m26s: action in O data okay I&amp;#39;ll give you a
+55m29s: bit of a clue in fact this documentation
+55m31s: is going to give us a bit of a
+55m34s: clue I&amp;#39;ll just jump down to run it so
+55m37s: we&amp;#39;re already running CDs watch and if
+55m39s: we go to Local Host OD data V4 say hello
+55m43s: to equals World which is basically
+55m44s: invoking that function let&amp;#39;s just copy
+55m46s: that link address let&amp;#39;s go back to this
+55m47s: page here instead let&amp;#39;s open up a tab
+55m50s: and do that what do you think is going
+55m52s: to
+55m52s: happen what do you think is going to to
+56m0s: happen
+56m2s: nice we got to here there was our
+56m8s: get for the metadata and then this line
+56m13s: here from the OD data component yeah
+56m16s: there&amp;#39;s a log OD data loging right it
+56m19s: says oh okay I&amp;#39;m about I&amp;#39;ve just been
+56m22s: I&amp;#39;ve just received a request for this
+56m24s: URL o V4 say hello 2 equals world
+56m28s: now if anybody
+56m31s: remembers oh Nico says actions modify
+56m34s: data functions don&amp;#39;t what a beautifully
+56m36s: succinct way of saying it and that&amp;#39;s
+56m39s: exactly correct okay so actions may have
+56m44s: side effects as in data gets modified on
+56m47s: the server
+56m48s: right functions may not have side
+56m52s: effects and the implication of that in
+56m56s: this restful context we&amp;#39;re going a bit
+56m58s: off piece with o days now but anyway is
+57m2s: that you shouldn&amp;#39;t be allowed you can&amp;#39;t
+57m6s: and cap won&amp;#39;t allow you to make a call
+57m10s: to an
+57m12s: action with the htdp method get because
+57m16s: get
+57m18s: implies uh no side effects and
+57m21s: idempotent idempotency okay um
+57m25s: I&amp;#39;ll put some links in the description
+57m27s: for this one um you know when I go
+57m30s: through it and you know write it up and
+57m31s: everything to those different things but
+57m33s: basically you should be able to call a
+57m36s: function with get you can&amp;#39;t call an
+57m39s: action with get you have to use post
+57m42s: because using the word the the the htb
+57m45s: method post implies semantically that
+57m49s: you are ready for expecting
+57m53s: wanting you&amp;#39;re going into a contract
+57m56s: with the server that may or may not
+57m59s: bring about a side effect a change in
+58m1s: data that&amp;#39;s that&amp;#39;s the semantics of
+58m5s: post similar to put but you know let&amp;#39;s
+58m8s: not go there so the fact that it&amp;#39;s
+58m10s: trying to handle this
+58m13s: request tells us that it&amp;#39;s a function
+58m16s: okay tells us that there&amp;#39;s no side
+58m17s: effects tells us that cap is doing the
+58m19s: right thing because we&amp;#39;ve defined it as
+58m21s: a function rather than an action if we
+58m23s: want to Define an action
+58m27s: there we do that and in fact I don&amp;#39;t
+58m29s: think that was going to work yeah um
+58m31s: hello to we need a bit more with the
+58m33s: action but anyway let&amp;#39;s get rid of that
+58m34s: there save that there we go fine done
+58m37s: now the error that we
+58m42s: get is service say has no Handler for
+58m48s: hello now let&amp;#39;s add a Handler in fact
+58m51s: the documentation says add a Handler
+58m54s: there we goes do that now the
+58m56s: documentation says here create a file
+58m58s: called world. JS in the same directory
+59m1s: as world. CDs again convention get can
+59m4s: have a payload generally in od data I&amp;#39;m
+59m9s: pretty sure that&amp;#39;s a great that&amp;#39;s a
+59m11s: great question carer I&amp;#39;m pretty sure
+59m13s: there are no circumstances that I&amp;#39;ve
+59m15s: ever come across where you would make a
+59m19s: get request as in you would make what
+59m22s: does get translate into or what does
+59m23s: what do OD dat oper what are the O data
+59m25s: operations that translate into the HTTP
+59m27s: method get they are um uh read and query
+59m32s: there are no circumstances that I can
+59m34s: think of at all in od data where a read
+59m36s: or a query operation would require you
+59m38s: to send any information in the body of
+59m41s: the HTTP request so the answer basically
+59m44s: is well technically it
+59m46s: can but no it doesn&amp;#39;t Kristoff um I mean
+59m52s: yeah so Kristoff is saying the same
+59m53s: thing actually I did look into this once
+59m55s: you can actually send a payload in get
+59m57s: it&amp;#39;s you know it doesn&amp;#39;t make any sense
+59m59s: but technically you can in an HP request
+60m1s: but you wouldn&amp;#39;t want to and it doesn&amp;#39;t
+60m3s: make any sense and you definitely don&amp;#39;t
+60m4s: want to in no data so let&amp;#39;s let&amp;#39;s
+60m7s: implement this let me go here now the
+60m9s: other thing is why is it in the same
+60m12s: let&amp;#39;s just add this
+60m13s: here let&amp;#39;s add another thing let&amp;#39;s go
+60m16s: down here h no let&amp;#39;s not do that let&amp;#39;s
+60m19s: not do that let&amp;#39;s just do it here uh
+60m20s: create a where is it Services yeah
+60m22s: create a file new file service .js let&amp;#39;s
+60m26s: bang that in there save
+60m28s: that there we go refresh now the fact
+60m33s: that we put it in a file with the same
+60m36s: name as the um CDs file convention over
+60m40s: configuration cap will do the right
+60m42s: thing if we were for example to say move
+60m45s: services.job banana. JS right and rerun
+60m50s: that no Handler right because it&amp;#39;s
+60m53s: saying well you know I don&amp;#39;t know where
+60m55s: the Handler is but we can we can
+60m57s: annotate this by to say imput we can you
+61m0s: know convention over configuration but
+61m1s: you can change anything and everything
+61m3s: if you really want to imple banana. JS
+61m6s: there we go is that how we do it I can&amp;#39;t
+61m7s: remember oh sorry put in the wrong place
+61m10s: service
+61m11s: there uh at imple there save that now
+61m16s: the implementation for this service is
+61m19s: in a file called banana. JS let&amp;#39;s I
+61m21s: don&amp;#39;t know rning there we go and
+61m25s: there we go so we just basically
+61m28s: experiment don&amp;#39;t be scared to make
+61m30s: mistakes you can&amp;#39;t make mistakes we&amp;#39;re
+61m32s: at the top of the hour so let&amp;#39;s continue
+61m34s: this next uh episode um we got so much
+61m37s: more to cover in the CDs watch we
+61m39s: haven&amp;#39;t even begun to look at all the
+61m40s: different log output records but let me
+61m42s: know if this has been helpful let me
+61m43s: know if this is like too rambly just
+61m46s: just direct me um you know I don&amp;#39;t know
+61m49s: what to say uh I just say whatever comes
+61m52s: out my brain um but try it out go and
+61m56s: play with it start feeling comfortable
+61m58s: with it and it&amp;#39;s amazing see you next
+62m0s: time bye for now thanks for
+62m23s: joining

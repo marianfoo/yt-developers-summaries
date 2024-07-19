@@ -1,16 +1,24 @@
-# Summary of Live Coding Session with DJ Adams: SAP Cloud Application Programming Model (CAP) - Part 7
+# Back to basics with SAP Cloud Application Programming Model (CAP) - part 7
 
-In this session, DJ Adams explores the SAP Cloud Application Programming (CAP) Model, focusing on creating associations between book and author entities while interacting with viewers. Participants can learn about the technical aspects of CAP, OData navigation properties, and association types.
+In this live coding session, DJ Adams delves into the SAP Cloud Application Programming (CAP) model, focusing on coding practices and the latest developments within the SAP ecosystem. The audience is encouraged to engage, ask questions, and share insights during the session.
 
-- **Key Technical Topics Discussed:**
-  - Introduction to SAP CAP and its framework.
-  - Use of OData for defining navigation properties.
-  - Creating consistent relationships between data entities.
-  - Definition and use of code lists and associations in the CDS (Core Data Services) model.
-  - Insights into the latest SAP developer news and challenges.
+**Main Topics Covered:**
+- [1m58s](https://www.youtube.com/watch?v=kgycosxv9aQ&t=1m58s): Overview of the session
+- [6m19s](https://www.youtube.com/watch?v=kgycosxv9aQ&t=6m19s): Latest SAP developer news
+- [8m21s](https://www.youtube.com/watch?v=kgycosxv9aQ&t=8m21s): OData and entity relationships
+- [29m4s](https://www.youtube.com/watch?v=kgycosxv9aQ&t=29m4s): Country of birth as an entity type
+- [49m7s](https://www.youtube.com/watch?v=kgycosxv9aQ&t=49m7s): Using associations for entity relationships
 
-Throughout the session, DJ delves deep into SAP CAP, demonstrating the creation of a `Country of Birth` association for the authors. He explains the need for such associations to promote data integrity, maintainability, and consistency. By utilizing existing common entities, he illustrates how to avoid inconsistencies during data entry. The discussion covers practical examples of implementing associations while using SQL databases, explaining how foreign keys work within this framework and how they become a benefit when modeled through CAP.
+## Content
 
-Beyond technical topics, DJ shares a brief personal anecdote about enjoying morning runs by the canal, which adds a personal touch to the coding session. 
+DJ demonstrates how to use the CAP model to create and manage entities, specifically exploring how to implement associations for entities such as authors and books. He explains the significance of the country element in establishing relations between data. The session covers practical coding examples, including how to define entity types and manage their properties, showcasing the use of SAP CDS (Core Data Services) for efficient data handling.
 
-Viewers actively engaged in the chat, asking questions about coding practices, sharing insights on the technical topics, and providing helpful feedback. The interactive environment fostered a collaborative learning experience, with the chat serving as a space for discussion and clarifications.
+## DJ's Private Life
+
+DJ takes a moment to share reflections from his personal life, discussing his running experiences and adventures during winter mornings. These snippets add a relatable touch to the session, reminding viewers of the blend between professional and personal pursuits.
+
+## Chat
+
+Throughout the live session, viewers actively participated in the chat by asking questions and commenting on various topics. DJ engaged with the audience by reading their messages and responding to inquiries, creating an interactive learning environment.
+
+For further details, you can watch the full session [here](https://www.youtube.com/watch?v=kgycosxv9aQ).

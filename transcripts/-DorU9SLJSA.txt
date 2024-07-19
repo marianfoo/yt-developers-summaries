@@ -1,1233 +1,1233 @@
-e
-good morning good afternoon good evening
-welcome to handson sap Dev with me DJ
-qro I think I say that I my sleep now
-I&amp;#39;ve said it how I don&amp;#39;t know how many
-times I&amp;#39;ve said it maybe uh approaching
-200 maybe I don&amp;#39;t know good morning
-everyone um I&amp;#39;m going to apologize in
-advance my hay fever has been pretty bad
-this week I&amp;#39;ve just this second taken a
-tablet um I I always I was thinking know
-should I take a tablet now cuz they make
-me drowsy so I don&amp;#39;t want to fall asleep
-in front of you uh that might be a
-little bit uh disastrous so I&amp;#39;m just
-taking the tablet now I&amp;#39;m not sure how
-long they take to kick in but I&amp;#39;ve got
-my tissues here I&amp;#39;ve got a box of
-tissues here I&amp;#39;ve got my coffee to
-breathe in the fumes of which is not
-very good English good morning everybody
-anyway so welcome with us in Bangkok
-Thailand and fantastic nice to see you
-here again and helmet good morning to
-you in Brunswick BR Tri in Germany and
-Andrew old friend of the channel Andrew
-Barnard in Mel in Melbourne yeah sorry
-in Melbourne Australia Kiara bonjourno
-to you inia and AP good morning to you
-in dorf Maria Marian in the house Marian
-T in the house good morning and good
-morning to Antonio in Madrid and sahed
-in I always say Sunny Solly Hull because
-I I quite like the alliteration
-and you know Sol Hull is obviously a lot
-further
-south uh from where I am but I still
-think of it as uh you know in this so I
-think of it is in the South uh and it&amp;#39;s
-there for sunny so I just say Sunny Sol
-Hill I hope you don&amp;#39;t mind z uh Kaza
-Bono here&amp;#39;s to cap exactly Mattias good
-morning see you in Dortmund and good
-morning Andre in fact Andre thank you
-for thank you for saying hello by the
-way and we had Andre and I had a little
-chat this morning
-on LinkedIn on the messaging thing uh
-private messages whatever they call them
-uh Sudan good morning to you in Valor
-and Mark tman
-F what&amp;#39;s happening there in ke this week
-uh tell us Mark uh but yes so Andre and
-I were having a little chat and he um uh
-said hi and also said basically can you
-send me some stickers please because I
-keep saying to everybody here if you
-want some stickers i&amp;#39;ve got a few
-stickers um I&amp;#39;ve got a box of stickers
-this is my
-little
-box of stickers I was running out and
-then um when I was at code connect uh
-hope nobody noticed maybe Marian noticed
-um I know Marian was there amas was
-there uh and Mark was there in fact
-maybe maybe you saw me I was just
-grabbing those stickers from the sticker
-table so I can give them out here so
-I&amp;#39;ve got for example some just like
-remind you got some awesome ui5 stickers
-i&amp;#39;ve got ui5 con stickers slightly
-smaller I&amp;#39;ve got some awesome recap
-stickers uh sort of you know um normal
-and then dark mode stickers dark mode
-version is that what you call them there
-and I&amp;#39;ve also got um a few very maybe
-one or two of these super shiny ui5
-stickers and some sap Community stickers
-and finally also some of those rare band
-Dev toberfest stickers oh yes so if you
-want any stickers I can send you a few
-um because I want to spread them out I
-only send you know like two three four
-five six whatever in a in an envelope
-to you uh but you know enough for your
-laptop to stick on your laptop then let
-me know send me a message on LinkedIn
-for example and then we can ex you can
-give me a postal address to send it to
-I&amp;#39;ve got some stamps here look I went to
-the post office got some stamps
-woooo um so yeah I&amp;#39;m ready to send some
-stickers uh so and welcome oh oh so it&amp;#39;s
-the largest sailing event in the world
-amazing being being in Keel I can
-understand why that&amp;#39;s a perfect place
-for it you can watch the races live
-using sap sailing Analytics fantastic
-good morning to you Rafael in
-Poland and olrick good morning ol rck
-brand in Frankfurt fantastic okay so
-I&amp;#39;ve got I&amp;#39;m looking at the chat here uh
-is there anything else I need to tell
-you before we start I think that&amp;#39;s it uh
-yeah
-uh yeah no I think that&amp;#39;s it it&amp;#39;s very
-windy here today um the boat was blowing
-around last night and under some trees
-as well which I a little bit worried
-about you know maybe over over worry
-about everything but anyway so let&amp;#39;s get
-going let&amp;#39;s go to the uh main scene uh
-in fact the main scene I was going to
-just started
-putting a bit of a bit of insight into
-the inner workings of a live stream the
-main scene uh I use um streamlabs
-desktop to to do my live stream it&amp;#39;s
-pretty pretty good piece of software go
-straight to Youtube anyway
-um and I&amp;#39;ve got the scene I&amp;#39;ll show you
-got scenes defined Thiago Thiago a
-welcome old friend Thiago so I&amp;#39;ve got
-the all the scenes defined here standby
-video pre-roll we need to update that um
-got the intro scene got the main scene
-video top right main scene video bottom
-right so I can press the buttons on my I
-don&amp;#39;t know you can see it or
-not anyway I&amp;#39;ve got a stream deck
-buttons so I press the buttons to go to
-different scenes anyway anyway anyway so
-just and with within each scene you have
-sources Logitech small that&amp;#39;s a camera
-here and then you got Circle border
-Circle woohoo um and the display my
-screen and the Yeti microphone which is
-just you can see it or not no you can&amp;#39;t
-see it there anyway um DJ digression
-already amazing ridiculous so uh we have
-um today the developer news I have been
-putting them as usual in the uh in a
-comment to the
-corresponding um entry in the sap
-community events however uh our sap
-Community platform is not very well at
-the moment I don&amp;#39;t know what&amp;#39;s going on
-um no idea uh but anyway it&amp;#39;s
-fascinating to uh see you know what&amp;#39;s
-going on and uh obviously Catalina bit
-of java there bit of java server servage
-there it&amp;#39;s quite interesting to find out
-from the error messages like oh my
-goodness me um anyway I&amp;#39;ve added them
-here uh so I&amp;#39;ve got the developer news
-link here uh so I&amp;#39;ll in fact Let me let
-me let me press the comment button to
-see if it&amp;#39;s worth adding more or will
-this save fail let see comment
-okay it works perfect I&amp;#39;ll just car add
-adding it then adding them there we go
-so
-edit okay perfect
-um so yes this week&amp;#39;s sa developing news
-in
-which uh we say happy birthday to AB GS
-that&amp;#39;s the first and foremost and most
-important thing happy birthday 10 years
-since uh last uh more or less you know I
-don&amp;#39;t know exactly what day it was it
-was a date earlier this week I think uh
-L put a really cool post on LinkedIn and
-it was 10 years ago that he made the
-first commits chakia good morning to you
-welcome so uh all in developer news and
-also um another item in the developer
-news is the uh newly published sap open
-source Manifesto which is quite cool uh
-so yeah very very proud of the oso team
-there they&amp;#39;re doing that uh keep pushing
-the boundaries there there&amp;#39;s gilm there
-putting some merging in there license
-change blah blah blah licenses yeah y
-whatever um Dwight good morning good
-morning Dwight okay so that&amp;#39;s that uh
-let&amp;#39;s jump straight
-to where we were uh does anybody
-remember what we were doing last week
-um uh yes so I mean obviously I do
-because in fact I&amp;#39;ve just watched last
-week&amp;#39;s video earlier this morning on two
-two times speed just like DJ what were
-we were doing last week what was it all
-about oh yes it is oh my goodness good
-morning to you uh I&amp;#39;m I&amp;#39;m going to I&amp;#39;m
-going to call you vas cuz I can&amp;#39;t even
-read that word cuz my ey my eyesight is
-not great so I&amp;#39;m going to call you Vaz
-good morning
-Vaz I hope you don&amp;#39;t mind calling you me
-calling you
-Vaz what we were doing as I know now
-from watching the replay back the is
-that is back torical watching the
-replay um is uh we were halfway through
-defining
-this total stock Unbound
-function okay and in the process of
-starting to think about that we
-also hey STS welcome wearing a a washing
-up Mar gold rubber glove there that&amp;#39;s
-fantastic yav hello good morning capy
-hey I like that I like that good morning
-capires Capers I like it yes we are
-capires at the moment cap
-C Pirates cap Pirates cap Pirates that&amp;#39;s
-what we should call
-ourselves amazing C
-Pirates fantastic thank you have us for
-that inspiration brilliant
-okay uh what yes oh yes so also we had a
-little bit of a look into uh what this
-this this sort of classic thing we see
-in lots of sort of uh implementation
-files uh
-grabbing an you know a
-reference mechanical object definition
-of an entity and we looked at how that
-worked we looked understood a little bit
-about um
-destructuring and one of the things I I
-I was thinking about this um when I was
-watching the video the replay thinking
-hm you know the cds. entities Bookshop
-that is the service name right hey pios
-good morning good morning morning and
-welcome to the cap Pirates team amazing
-uh
-and I was going to say I&amp;#39;ve also
-seen places where you just have CDs
-entities and just like
-that okay does anybody
-know uh C yes classic Andrew very idite
-observation there uh could be see
-grammatical erudition uh could be read
-as cap irates yes if it goes wrong we
-become cap irates but if it goes right
-we&amp;#39;re cap irat um this just completely
-random um so I got to be thinking um
-what is that all about what when do we
-use CDs entities without any sort of
-parameter passing any argument to the
-thing there and you know when do we use
-it like this uh when do we use it with
-the Bookshop
-and I thought we should could do an
-experiment first of
-all to understand
-what&amp;#39;s going on there a little bit more
-and then we&amp;#39;ll start digging into the
-total stock and start doing some um oh
-yeah that expands automatically start
-replacing this sort of simplest thing
-that could possibly work
-now let&amp;#39;s let&amp;#39;s open up um a repple
-again uh CDs reppel we did this yes last
-week so we don&amp;#39;t need to talk about this
-as how it works so await cds. test let&amp;#39;s
-just bring that in okay so now we&amp;#39;ve got
-a server running on
-41401 right uh I wonder actually wonder
-if it&amp;#39;s accessible it is yeah 41401
-there we go just a normal cap server
-cool don&amp;#39;t need that anymore either uh
-don&amp;#39;t need that either
-um
-so we did this right we did CDs
-entities and we said CDs
-entities books right that&amp;#39;s how we did
-it let&amp;#39;s do that there and we saw that
-what we got was
-this definition this sort of you know uh
-season the yaml representation of the
-Season definition for that book&amp;#39;s entity
-right
-fine and then also during yes last week
-we did a select did we
-select uh from books oh actually CDs
-entities
-entities
-um
-books like that right and then we saw
-okay yeah it&amp;#39;s asynchronous we got to
-run
-it uh so if we say here uh a
-weight uh see the the digression number
-one number two already one of the really
-cool things about um the shell a proper
-shell like bash uh is that you can have
-different sort of input mode readline
-modes and I&amp;#39;ve got it set up
-um bash RC uh so that uh the the mode
-the readline mode is VI mode so I can
-sort of bring something up uh there and
-then I can go back and forth with uh W
-and B and you know CW and blah you know
-I can use my
-Vim finger knowledge to modify um
-command lines however in for example the
-uh CDs reppler which I think is based on
-a node reppler right um You There isn&amp;#39;t
-support for these multiple readline
-modes and by default I think a lot of
-the things by default will therefore
-have this sort of you know what I think
-of as an emac mode where you can go
-between the start and the end of the
-line with control a and control e for
-example and I&amp;#39;m sure there are other
-things as well so you know contr a start
-of the line control e end of the line I
-think that is emx isn&amp;#39;t it uh
-anyway so if we go there and say await
-uh contrl L is clear screen obviously um
-let&amp;#39;s do that a little bit bigger um oh
-a wait what select unexpected character
-what uh what did I do there
-select
-from
-select
-select from CDs entities it&amp;#39;s probably I
-was messing about with the editor
-books uh oh
-wait yeah don&amp;#39;t know what was wrong with
-that probably some sort of control
-character I added by mistake okay so we
-got that okay we got that um and I
-thought okay well what is the
-difference between that let me do that
-again let me clear the screen and do
-that again what is difference between
-that
-and Bookshop which we did as well right
-we did um is it we did it did we do it
-there uh let&amp;#39;s undo that change there
-there that&amp;#39;s what we ended up with right
-there in fact put my head down the
-bottom uh that&amp;#39;s what we ended up with
-so why are we specifying this Bookshop
-string here as a parameter as an
-argument to the CDs entities now
-remember uh main CDs remember that this
-service is called Bookshop so it&amp;#39;s like
-a bit of a
-namespace so if we do
-this we get the same
-answer I.E um we get the three books in
-our
-CSV uh book you know book CSV
-hitchhikers mostly harmless and player
-games
-right now can we I was thinking can
-we determine where there is a difference
-I was just thinking this before and I
-thought yes let&amp;#39;s do this let have a bit
-of a a
-pre-digestion so we can understand a
-little bit about what is going on with
-the cious entities
-and where is it now let&amp;#39;s have a look um
-tell me if I tell me if I&amp;#39;m rambling too
-much and and and digressing too much but
-I think this is quite interesting I
-think this is potentially quite
-interesting just D get on with it cap
-let&amp;#39;s go into the cap
-higher
-uh service projection maybe service
-projection views and projections the as
-project oh as projection what I&amp;#39;m
-looking for well actually why don&amp;#39;t I
-look as
-projection um oh here we go as select so
-here we go right so we what we&amp;#39;ve got
-is entity books as projection on org
-docro books which is of course a
-reference to uh the org. macro namespace
-it was brought in from DB schema which
-is of course me put that across there so
-we can have that sort
-of in fact I&amp;#39;ll put that uh there in
-that&amp;#39;ll do actually yeah so it&amp;#39;s it&amp;#39;s a
-projection on this
-thing Bookshop now
-that&amp;#39;s just a a pass through projection
-all we&amp;#39;re doing is just like pointing in
-a way but you have the the possibility
-you have the possibility of doing a as
-select which is just up here right the
-as select from variant use it as select
-from because I&amp;#39;ve seen this I&amp;#39;ve not
-really used it myself but I&amp;#39;ve seen this
-I thought we could try this um to use
-all possible features an underlying
-relational database would support using
-any valid SQL cql
-query including all query
-Clauses
-so if we do hello ne ne nees nees nees
-hello nees and welcome so if we were to
-say
-here
-um tell you what let&amp;#39;s get out of the
-reppel first and CDs watch let&amp;#39;s start
-up the watch yes let&amp;#39;s have that always
-running CDs watch is the best thing ever
-um and
-uh list listening as usual in fact you
-know what we&amp;#39;re going what we&amp;#39;ll
-do uh c as in rerun this again clear
-screen run the bash command with the
-following thing curl uh silent local I
-did it again lolcat Local Host 404 OD
-data V4 Book
-Shop books JQ boing boing boing boing
-there in fact yes all right do that for
-now do that for now right now let&amp;#39;s do
-that and let&amp;#39;s say let&amp;#39;s have this let&amp;#39;s
-do this um as projection on no we don&amp;#39;t
-want as projection on we want as select
-from or. cacro books right let&amp;#39;s have a
-look entty something as select from
-something and then some sort of SQL
-cql we don&amp;#39;t want to do a left joint
-that&amp;#39;s too complicated why don&amp;#39;t we do
-this why don&amp;#39;t we try to say where
-stock we&amp;#39;ve got the stock stock 5 42 and
-100 where stock is greater than equal to
-greater than greater than
-10 greater than equal to 10 how about
-that so now oh STS is field restriction
-by rooll good use case to user select
-removing sensitive fields in
-possibly however I think thinking that&amp;#39;s
-a really good question again all the
-questions all tips all hints all every
-every thoughts you have in the chat
-please yes it&amp;#39;s amazing
-um yes although you Ser here&amp;#39;s a phrase
-here&amp;#39;s a phrase it&amp;#39;s not my phrase but
-it&amp;#39;s a really good phrase services are
-cheap so if you had a
-circumstance where um you had a certain
-role that you only wanted to give access
-to to certain bits of data Maybe certain
-elements or whatever then you could
-create a service that was that was then
-you know restricted to that
-role and then inside that service you
-would have that that R those role
-specific um restrictions would that make
-does that make sense but yes generally
-yeah I mean there&amp;#39;s there&amp;#39;s lots of ways
-of doing what I think you&amp;#39;re talking
-talking about here um I suppose my
-answer would be yes uh and think of it
-in terms of maybe defining a separate
-service but you could do it as well with
-with you know a lower granular level
-okay does that does that make sense Subs
-does that make sense um so now what
-we&amp;#39;re doing here is we&amp;#39;re saying well
-only show the books where we got at
-least 10 in stock so hopefully we won&amp;#39;t
-see the player of games anymore we&amp;#39;ll
-see we&amp;#39;ll see hitchhikers 42 and we&amp;#39;ll
-see mostly harmless 100 let&amp;#39;s save
-that there we go now we have now
-modified the service and change the
-book&amp;#39;s projection to a
-select with a bit of SQL to restrict
-that right
-now now we have
-that let&amp;#39;s go into the CDs
-repple
-um being laer wait CDs test
-right and
-now what we did before was select from
-CDs entities without the brackets and
-the N the Bookshop name
-space
-right we get
-three records I.E this as select from
-isn&amp;#39;t coming into
-play because what we&amp;#39;re effectively
-doing
-is looking at our CDs model at the
-schema level okay I suppose this is the
-equivalent of I don&amp;#39;t know or. Q macro
-right as in where is it there org. cacro
-do
-books we get three
-however if we
-specify Bookshop
-what do you think&amp;#39;s going to happen what
-do you think is going to happen put in
-the chat what you think are we going to
-get
-two or are we going to get three
-meanwhile while you put in the chat what
-you think&amp;#39;s going to happen uh Dwight
-hello Dwight says I admire the fact that
-cap gives you many options where to
-apply your business logic however this
-might turn to a maintenance nightmare EG
-select statements in CDs or in Services
-uh in functions sorry that&amp;#39;s okay
-um enough rope to hang oneself thing um
-one of the one of the Beauties like you
-say one of the beauties of cap is that
-the flexibility is almost
-endless so it&amp;#39;s important to understand
-where and how to apply your business
-logic to apply your definitions to apply
-the declarative parts to your your
-services to do the the sort of the the
-the procedural or the functional or the
-basically the
-codee yeah you have to know what you&amp;#39;re
-doing there&amp;#39;s no two ways about
-it that
-said I think it&amp;#39;s also very easy for us
-to forget how
-absolutely um El I almost said a rude
-word an elbow achingly difficult it was
-before cap to create o data services so
-not only did you have the entire
-mountain of infrastructure to do
-yourself to stand up an O dat service
-and then start thinking about business
-logic now we&amp;#39;re left with the with cap
-cap does everything for us apart from
-obviously the business logic so at least
-the the surface area of space the
-surface area of space the service area
-where we need to concentrate and do the
-right thing is is vastly reduced yeah
-does that make sense uh so yeah I mean
-uh with with great power comes great
-responsibility I suppose that&amp;#39;s that&amp;#39;s
-the thing there yes
-and I it&amp;#39;s a really good point about um
-you know business logic and declarative
-uh mixed up with SQL however you could
-see SQL as a declarative language as
-well right you know arguably SQL is
-declarative um and therefore it&amp;#39;s just
-an extension to what we think of as CDs
-being or C CDL being declarative anyway
-great great Point Dwight great Point um
-uh Subs message retracted chakia to
-Dwight thank you DJ okay you&amp;#39;re welcome
-you&amp;#39;re welcome fantastic great comments
-great observations so uh oh I see chakia
-too even forgot question yes exactly
-let&amp;#39;s try that check it out so now we
-with this CDs entities Bookshop
-we&amp;#39;re going through the service to look
-at that data and in fact if
-we if we have a look at
-this um if we get rid of
-that yeah there we go look check it out
-we not only get what kind it is and what
-elements it&amp;#39;s got but we saw last week
-but also look at that we get the
-query we get the query in can anybody
-tell me
-what what language what mini language
-what mini CDs DSL to B specific language
-this is expressed
-in I think it&amp;#39;s query notation isn&amp;#39;t it
-there we go
-cqn I think that&amp;#39;s what it is cqn anyway
-anyway I thought ah cqn chinaka
-fantastic chaka chaka is on it it&amp;#39;s on
-it like a carbonet amazing um so there
-we go so that&amp;#39;s I thought that was quite
-interesting
-um so now let&amp;#39;s
-let&amp;#39;s be comfortable in the knowledge
-that we know what is going on
-with main JS with this
-right uh and should we should we keep
-that or should we get rid of it let&amp;#39;s
-keep that for
-now you know let&amp;#39;s see what see what how
-it trips us up um and now start thinking
-about uh main J oh let&amp;#39;s get rid of that
-there uh there there we go yes keep
-that main CDs we&amp;#39;ll get rid of that as
-well yeah
-there okay yeah we&amp;#39;ll get rid of it
-after all okay
-fine I don&amp;#39;t like the way it expands
-there
-um do get rid of that there okay fine so
-now we want to start thinking about how
-to answer this so let&amp;#39;s go back
-into um the reppel CDs
-reppel I want you to do a white CDs test
-automatically when I go in the reppel I
-wonder if we can do
-that and start thinking about our
-query and ALS query notation what we
-want to write in the CDs reppel and be
-able to transfer that into our
-main.js
-is query is a but it&amp;#39;s not query
-notation it&amp;#39;s the query language right
-the CDs query language is based on
-standard SQL which enhances by all these
-amazing things right so and this is
-something I thought it would be worth oh
-yeah let&amp;#39;s put this let&amp;#39;s put this in
-here uh
-cql we always put C in Brackets when
-it&amp;#39;s if it&amp;#39;s a c thing don&amp;#39;t we Capa
-cql is there now what
-I originally got
-slightly confused
-about because my brain&amp;#39;s very small I
-have no idea what I&amp;#39;m doing was this
-documentation about cql in
-general but what we then
-need in order to do things like the wait
-select from books oh did I did I let me
-let me bring in the books there um there
-that&amp;#39;ll do there
-books
-books
-equals
-that uh oh not book sorry where is
-it oh d don&amp;#39;t don&amp;#39;t be lazy just do this
-books equals CDs
-entities
-Bookshop
-books
-there
-what book what is going on
-Bookshop
-Books Okay books
-equals let&amp;#39;s have const there as well
-const
-books
-anyway so now we got that okay now we&amp;#39;ve
-got
-that um
-oh Bookshop
-books where is the
-um where&amp;#39;s the query gone anyway let&amp;#39;s
-let&amp;#39;s not go there for now okay so now
-we can say await
-select from
-books right we got
-three why did
-what that oh of course of course of
-course we&amp;#39;ve got I did get my brain is
-like memory of a goldfish we got rid of
-the as select from didn&amp;#39;t we so we get
-the three now okay fine hello Aron and
-good morning to you good morning to you
-Sor maybe I need some more coffee or
-something I don&amp;#39;t know what&amp;#39;s going on
-with my my brain today um so uh yeah
-okay so we get
-that so now let&amp;#39;s start to think about
-how we
-can
-use Query language like this
-like
-that to get to the total stock can
-anybody suggest what we might do and
-while you type in what we might do and
-what we might add and use from a query
-language perspective let&amp;#39;s think about
-what the answer might be based upon go
-over here and we have the query language
-here however because and this is where I
-got a little confused at the start
-because we are doing this in the context
-of node nodejs you know this is a nodejs
-reppel basically um 1 plus two three
-yeah it&amp;#39;s node hi AB hi um what we want
-to look at is not
-only the more
-General uh information about cql but
-more
-specifically how to query in JavaScript
-of course there is also probably not
-looked Java Services event handlers got
-to be querying somewhere in there right
-working with oh working with C csql
-build build cql statements okay so it&amp;#39;s
-all about ending up
-with some
-SQL I like what they did there SQL SQL
-same thing ending up with some
-cql but ending up with it by using the
-facilities in either node or Java to get
-there so that&amp;#39;s you know this is a bit
-of a more of a clue Bill cql statements
-right there an API to fluently build cql
-statements in Java but we&amp;#39;re not using
-Java we&amp;#39;re using node we look at this
-and it you know it&amp;#39;s the same sort of
-thing constructing queries module csql
-provides a SQL like fluent API to
-construct queries this is what we&amp;#39;re
-going on about here um abishek hi which
-programming language are used generally
-or here what we&amp;#39;re using uh node.js for
-the um programmatic implementation of
-services and we&amp;#39;re using CDs to Define
-our model our schemer and services and
-everything and we&amp;#39;re using
-cql as
-our uh query language so we can see here
-we we recognize this look select from
-books where so let&amp;#39;s let&amp;#39;s just try that
-and just start to sort of flex our
-fingers select from books where that&amp;#39;ll
-do uh ID in
-fact let&amp;#39;s see what happens there uh
-select oh await select books where ID
-well it&amp;#39;s not going to work is it but
-there we go okay but we we can see that
-now what what even is that what even is
-is that from a new Js JavaScript
-perspective do anybody is anybody else
-apart from me wondered why does that
-even work what is
-that what is that why is it
-working put in the chat what you think
-but the answer is where how can we find
-this select select let&amp;#39;s go to
-select flu here we go here we go here we
-go fluent API to construct cqn select
-query objects in a ql SQL light style in
-contrast to um chakia object it&amp;#39;s an
-object exactly chakia CH is on it select
-itself is a function acting as a
-shortcut to select.
-columns there by resembling SQL
-syntax
-now I did see somewhere I was looking at
-this the other
-day object
-H I saw it somewhere but we can we can
-find out ourselves can&amp;#39;t we we can say
-here
-um
-select oh actually we saw it there look
-select in the nodejs reppel it sort
-of shows us what that thing that we&amp;#39;ve
-just typed in evaluates too and look it
-starts with black blly me says GEOS
-welcome GEOS blly me what are you
-surprised about in a good way I&amp;#39;m sure
-right um I&amp;#39;m constantly surprised about
-everything um look we can see an object
-here because it starts with an open
-curly so in fact why don&amp;#39;t we try this
-object.
-Keys
-select check it
-out so that&amp;#39;s why we can type in into a
-nodejs reppel or in our JavaScript here
-select dot one wonder if we can do this
-object. Keys select dot
-one so it&amp;#39;s all you can imagine it&amp;#39;s
-like Dot
-from look at that look at that so this
-is like this well what do they call it a
-fluent API right a fluent API everything
-is chakia brilliant everything is an
-object in JavaScript exactly
-but but don&amp;#39;t you think this is
-beautiful select one dot
-from okay
-so in my head I&amp;#39;m now seeing select is
-the root node of this tree made up of
-nested
-objects and the and the and the the leaf
-nodes of those objects are actually
-functions okay so that&amp;#39;s why we can say
-select
-do
-from
-from
-books or we could of course you know
-anyway yeah select that from books and
-that trans ah yeah and now we get now we
-are understanding what we&amp;#39;re looking at
-here we did this with the out thewait
-but checking out
-this
-is cqn query notation
-it&amp;#39;s a builder pattern yes exactly it&amp;#39;s
-a builder pattern or sometimes some
-people call a fluent a fluent API
-exactly um so and I think what stubs is
-maybe referring to is where you&amp;#39;ll see I
-think it&amp;#39;s quite common in in Java in
-Java land where you&amp;#39;ll have like a call
-to a function then you know quite often
-nicely on the next line dot something
-next line dot something next line dot
-something you&amp;#39;re building something up
-over multiple chained C
-to something I think that&amp;#39;s also
-how or it&amp;#39;s a style that the Sab Cloud
-SDK uses or encourages you to use when
-you want to build queries that you
-you&amp;#39;re going to construct and send to a
-remote system right pretty sure that&amp;#39;s
-the case Vaz says sorry to interrupt
-that&amp;#39;s all right I&amp;#39;m currently working
-based on ab app programming what are the
-possible ways and references to scale up
-to wrap or cap or Advanced Technologies
-in sap as a
-developer The Perennial question
-basically v um join things like this you
-you&amp;#39;re already you&amp;#39;re already winning
-you&amp;#39;re joining live streams you you
-watch the the previous live streams
-here um so yeah check out we have
-tutorials on the uh tutorial na
-developers. sep.com uh tutorial
-Navigator there&amp;#39;s a put in there put in
-the thing there uh tutorial Navigator if
-you haven&amp;#39;t seen that so far check out
-the tutorials lots of tutorials on cap
-for example and also wrap um but yeah
-this is for for for cap I would suggest
-you look at the cap ey documentation but
-also watch the um watch the the series
-that we&amp;#39;ve doing so far so Yos says link
-listing
-C uh not quite the same that&amp;#39;s what in
-my brain I know I know why you&amp;#39;re
-suggesting that as a link you know this
-fluent API is a bit like a link list I
-don&amp;#39;t see it so much as a link list but
-I can see that the one the next points
-to the next one to the points to the
-next one points to the next one so yeah
-I get it I get it okay so I hope that
-helps F I mean I&amp;#39;ve not really answered
-that too much but check out all the uh
-stuff we have on the sap Developers
-zdevs YouTube
-channel there we go I&amp;#39;ll put these in uh
-sap
-developers uh
-YouTube channel we got lots of
-information there for
-you okay fine so get rid of that uh sap
-tutorials there we go don&amp;#39;t need that
-quer notation leak this is not function
-just data structure I think exactly yes
-just data
-structure so where were we where were we
-um select from books so that means we
-can also say do
-columns let&amp;#39;s see well I don&amp;#39;t know
-let&amp;#39;s see what happens press
-enter ah okay now why do we get that I
-mean I think I think it&amp;#39;s important to
-be
-comfortable with weird
-output as you can see here
-what we have asked for in this prompt
-let me put my head back up there again
-in this
-prompt
-is the value of the
-columns property in the object which is
-the select do from object going back to
-what um shakia was saying everything is
-an object and
-I I think I&amp;#39;m writing say maybe I&amp;#39;m
-wrong but that to me looks like one of
-those es6
-getter IE as in as in Getters and
-Setters IE it&amp;#39;s a function is is and
-let&amp;#39;s have a look
-mdn uh
-getter
-get get latest get latest I think think
-it is
-get get syntax binds an object property
-to a function that would be called when
-that property is looked up get latest I
-think it is I think it is if we do that
-hey let&amp;#39;s do it let&amp;#39;s do it object get
-object
-latest uh let&amp;#39;s do that let&amp;#39;s do that
-put that in
-there and then say OB
-dot
-latest see you I don&amp;#39;t know see means oh
-ah okay object object there we go latest
-getter maybe it&amp;#39;s not a getter anyway
-doesn&amp;#39;t really matter what it is um it&amp;#39;s
-a Java programming Lang how to work for
-this it&amp;#39;s a Java programming Java or no.
-JS I Che Java or NOS check out the cap
-documentation which is here cap. cloud.
-saap let&amp;#39;s put the main cap thing in
-inser as well uh capire main uh page
-there
-so check that out abishek I&amp;#39;ll save that
-now actually while I think on
-post come on come on come on is it
-working is it going to work yes there we
-go so let&amp;#39;s go back into edit
-mode there right
-so
-anyway that could be a get it I don&amp;#39;t
-know uh but it doesn&amp;#39;t really matter so
-select from colum select book from
-columns where are
-we columns oh how about
-title so if we now await
-that check it out okay now interestingly
-enough interestingly
-enough I was wondering
-why if we run that it it does something
-and in fact I did see
-it uh here
-select here we go yes
-select is a function acting as a
-shortcut but
-also there we go there we go then no
-where is it where is it where is it uh
-constructing
-queries using fting domains no here we
-go here we go here we
-go queries are executed by passing them
-to a Services serve. run
-method right alternatively you can just
-await this is what we&amp;#39;re doing you can
-just await a constructed query which by
-default passes the query to cds. bb. run
-so what&amp;#39;s happening when we do
-this is theoretically cds. B db.
-runquery Because don&amp;#39;t forget this thing
-here without the without the awaits
-let&amp;#39;s get that rid of it again that&amp;#39;s a
-query it even says query there right
-so if we say cds. db. Ron that&amp;#39;s a
-function select do from books
-columns
-title it&amp;#39;s a promise okay so that&amp;#39;s why
-we still have to await it so it&amp;#39;s not
-the await that&amp;#39;s doing the magic it&amp;#39;s
-the actual magic the general cap magic
-um and it&amp;#39;s all magic is amazing um that
-if you send uh if you if you write
-select it will basically as it says
-here pass the query to cds. db.
-run so we can do this right
-await same thing so that&amp;#39;s what&amp;#39;s
-happening right am I let me let me know
-is this helpful I I&amp;#39;m hoping it&amp;#39;s
-helpful because for me and I&amp;#39;m just like
-I&amp;#39;m just one of you doing this and
-becoming more and more comfortable in
-the reppel or in the
-code helps
-you progress because it can be a little
-bit overwhelming all the different
-possibilities the fluent API and the
-different ways to construct queries so
-being able to feel comfortable playing
-around and experimenting I think
-is um
-good
-um right okay so let&amp;#39;s um oh hey think
-what oh going go there anyway right
-there
-now uh if we then do this select from
-books column
-title um
-where um actually no we don&amp;#39;t want to do
-where do we what we want to do is
-Select what do we want to do total stock
-total stock
-select um columns let&amp;#39;s do it this way
-columns stock
-from I&amp;#39;m doing it this way deliberately
-with the spaces because it&amp;#39;s just so
-crazy
-wait right see what we&amp;#39;re doing there
-that make it a bit bigger don&amp;#39;t need
-that either
-oops
-be CU that is it is enl thank you thank
-you yes I agree it is just playing
-around with the reppel it is super
-enlightening to figure out what is going
-on so we&amp;#39;re getting closer
-no cigar yet to being able to return the
-correct value in this Unbound function
-response so we sum the stock Andrew
-thank you Andrew for saying DJ get on
-with
-it what we can do
-here notice that we get of course an
-array of three objects each with that so
-we can say some check it out we this is
-this is this is all possible
-sum of
-stock why is that possible we got an
-example here
-some there for example in our select we
-can just put any sort of SQL and I&amp;#39;m
-deliberately saying it out loud without
-spelling it out because it be cql or SQL
-in there right we can look there b as C
-so we could even do it maybe do an as
-right let&amp;#39;s try that Su stock as the
-total
-the
-total look how easy it is look how easy
-it
-is one more thing when we did this
-before select dot uh no object. keys
-select check out this select
-one select one just like in SE in SQL
-select one or limit one Whatever right
-so we why we add this
-select
-one do column
-so now my stream
-laabs uh
-says uh um end end
-stream which
-suggests uh it&amp;#39;s back I did see it say
-disconnected
-retrying you&amp;#39;re back okay brilliant okay
-fantastic no idea well as you know it&amp;#39;s
-the first it&amp;#39;s the first outage we&amp;#39;ve
-had in living memory back I&amp;#39;m back okay
-I can&amp;#39;t remember what I was saying last
-time but um there we go so select book
-from books columns. one. columns stock
-as total oh one what colum
-reading ah okay so there we go so
-object object. keys
-select Dot from we can only have
-localized so we can have to say
-select do
-one from books there we go fine so let&amp;#39;s
-put that in there now come on DJ stop
-messing
-around and just add that now of course
-what we&amp;#39;re going to get of course is
-back again thank you very much liking a
-TR yes it&amp;#39;s like I&amp;#39;m going through a
-state through a tunnel there we go on
-the canal or whatever a weight
-expressions are only allowed within
-async functions and right so we need to
-make sure that this function is defined
-as
-asynchronous okay are we ready are we
-ready that&amp;#39;s restarting
-there let&amp;#39;s go to um Local Host 404 here
-don&amp;#39;t want that there in fact let&amp;#39;s
-let&amp;#39;s do it uh in the terminal of course
-uh so let&amp;#39;s go out of here and
-listening there we go that&amp;#39;ll do uh
-books ah we don&amp;#39;t want books do we we
-want um book shop total
-stock oh
-uh skate brackets that&amp;#39;s not even go
-there today um
-list let&amp;#39;s just do this curl minus s
-Local Host 404 OD data V4
-Bookshop total
-stock let&amp;#39;s put that in
-um single
-quotes are we
-ready we&amp;#39;re ready spelling spelling
-chakia spelling
-DJ um that&amp;#39;s cool we could do better
-because look we&amp;#39;ve got total stock the
-value of total stock actually is an
-object isn&amp;#39;t remember um it was open
-curly brackets total stock colon or
-total whatever 147 so actually we can go
-up here and say um uh let&amp;#39;s
-uh uh what do we want um in fact let&amp;#39;s
-do it let&amp;#39;s do it in a neater way let&amp;#39;s
-have it in a block here um which will
-mean we&amp;#39;ll need to return something
-right return something uh let&amp;#39;s say here
-const results equals and then we&amp;#39;ll say
-return result do total right because
-we&amp;#39;re asking for total there total see
-what happens
-there oh uh there there there there
-and what what
-ah DJ you fool
-there it&amp;#39;s getting so excited 854 right
-okay that&amp;#39;s why I&amp;#39;m get so excited there
-and there we go 147 value 147
-sashan says I for sure need to rewatch
-this episode a couple of times this cql
-thing is cool sashan I think that is the
-quote of the day quote of the morning it
-is cql is really cool but it&amp;#39;s also very
-flexible and to my small brain you have
-to think about it a lot just
-to become closer to it okay so that&amp;#39;s
-why I decided it was probably worthwhile
-me super super super digressing today
-and having a little play around in the
-repple just so we can feel more
-comfortable with it I hope that was okay
-so
-now we understand what the heck is going
-on with this weird syntax that doesn&amp;#39;t
-look like SQL and it does well it looks
-like SQL and it looks like JavaScript
-but it looks like SQL only a bit and it
-looks like JavaScript only a
-bit but actually now we understand what
-it is how it works why it works and we
-can appreciate it more and feel more
-confident hopefully in modifying this
-stuff right now it&amp;#39;s
-855 I was going to then suggest we do
-one
-more function but this time we&amp;#39;ll do a a
-bound function let&amp;#39;s actually let&amp;#39;s
-define it now uh let&amp;#39;s bring in uh main
-CDs right and we&amp;#39;ll Define a bound
-function so we&amp;#39;ve done the total
-stock which is an Unbound
-function so now if we go down here and
-say right let&amp;#39;s let&amp;#39;s have a
-function this is something I was well
-actually I&amp;#39;m thinking about this not for
-this area here but I&amp;#39;m doing the
-developer challenge next month in July
-and I was thinking well I don&amp;#39;t want to
-give any the game away right yet right
-now
-but one of the things is I want people
-to work out how to
-do uh something like you know stock Val
-stock value stock value so I thought we
-could apply stock value here let imagine
-we have CSV imagine we have um price on
-the thing as well right so let&amp;#39;s add
-here price 10 price 20 price 30 right so
-we got price in there obvious that&amp;#39;s
-going to break because we haven&amp;#39;t got
-the thing defined in there so let&amp;#39;s add
-in the um schema
-oops um price there we go
-price now now now
-now uh get rid of
-that so now we&amp;#39;ve
-got um
-listening no
-[Music]
-uh uh
-books JQ there like that so we got price
-now so what we want is a bound function
-that will give us the stock value of a
-given book so the player of games what
-is the stock value it&amp;#39;s basically is
-five is how many is there in stock times
-the price so 53 well 150 right so how do
-you
-define in the last minute Andrew thanks
-you oh thank you for joining Andrew it&amp;#39;s
-lovely tea time now uh how do you define
-a bound function let&amp;#39;s just type it out
-and let&amp;#39;s think about it next time
-actions you have this actions
-clause function stock
-value returns
-integer oh uh where is it
-ah uh what am I doing wrong here act oh
-actions sorry there actions
-there so now we have not only an Unbound
-function def defined but a bound
-function and look how it&amp;#39;s bound through
-this act through this little block here
-on the books it&amp;#39;s bound to the books
-entity okay um Dwight said Dwight says
-how many more sessions before the summer
-break this is the best series ever thank
-you Dwight um that&amp;#39;s a good point
-actually I&amp;#39;m going away in August so
-we&amp;#39;ll try and do some uh next month in
-July so maybe maybe four more and then
-we&amp;#39;ll have it take a break uh so yeah
-that&amp;#39;s it so let&amp;#39;s leave it there we&amp;#39;ve
-defined this function in fact let&amp;#39;s go
-to the H let&amp;#39;s go to the website and go
-website metadata um stock value there we
-go look function name is bound true
-parameter name in Bookshop books okay
-look at that that&amp;#39;s implicit parameter
-so next time going be next week we&amp;#39;ll
-work out how to define the
-implementation for this stock value
-knowing what we know about SQL and SQL
-and all these sorts of things but we&amp;#39;ll
-need to know one more thing how to get
-the value of the books key that&amp;#39;s passed
-automatically when you call the bound
-function right see you next week and
-have a great Friday have a great weekend
-uh sorry for all the digressions but
-there we go it&amp;#39;s all fun bye for now
+0m0s: e
+0m38s: good morning good afternoon good evening
+0m40s: welcome to handson sap Dev with me DJ
+0m43s: qro I think I say that I my sleep now
+0m46s: I&amp;#39;ve said it how I don&amp;#39;t know how many
+0m47s: times I&amp;#39;ve said it maybe uh approaching
+0m49s: 200 maybe I don&amp;#39;t know good morning
+0m53s: everyone um I&amp;#39;m going to apologize in
+0m55s: advance my hay fever has been pretty bad
+0m58s: this week I&amp;#39;ve just this second taken a
+1m0s: tablet um I I always I was thinking know
+1m3s: should I take a tablet now cuz they make
+1m4s: me drowsy so I don&amp;#39;t want to fall asleep
+1m6s: in front of you uh that might be a
+1m8s: little bit uh disastrous so I&amp;#39;m just
+1m11s: taking the tablet now I&amp;#39;m not sure how
+1m12s: long they take to kick in but I&amp;#39;ve got
+1m14s: my tissues here I&amp;#39;ve got a box of
+1m16s: tissues here I&amp;#39;ve got my coffee to
+1m19s: breathe in the fumes of which is not
+1m21s: very good English good morning everybody
+1m23s: anyway so welcome with us in Bangkok
+1m26s: Thailand and fantastic nice to see you
+1m28s: here again and helmet good morning to
+1m30s: you in Brunswick BR Tri in Germany and
+1m32s: Andrew old friend of the channel Andrew
+1m34s: Barnard in Mel in Melbourne yeah sorry
+1m38s: in Melbourne Australia Kiara bonjourno
+1m41s: to you inia and AP good morning to you
+1m44s: in dorf Maria Marian in the house Marian
+1m48s: T in the house good morning and good
+1m49s: morning to Antonio in Madrid and sahed
+1m53s: in I always say Sunny Solly Hull because
+1m55s: I I quite like the alliteration
+1m58s: and you know Sol Hull is obviously a lot
+2m1s: further
+2m2s: south uh from where I am but I still
+2m5s: think of it as uh you know in this so I
+2m8s: think of it is in the South uh and it&amp;#39;s
+2m11s: there for sunny so I just say Sunny Sol
+2m13s: Hill I hope you don&amp;#39;t mind z uh Kaza
+2m15s: Bono here&amp;#39;s to cap exactly Mattias good
+2m18s: morning see you in Dortmund and good
+2m20s: morning Andre in fact Andre thank you
+2m23s: for thank you for saying hello by the
+2m24s: way and we had Andre and I had a little
+2m26s: chat this morning
+2m30s: on LinkedIn on the messaging thing uh
+2m34s: private messages whatever they call them
+2m36s: uh Sudan good morning to you in Valor
+2m38s: and Mark tman
+2m41s: F what&amp;#39;s happening there in ke this week
+2m44s: uh tell us Mark uh but yes so Andre and
+2m47s: I were having a little chat and he um uh
+2m51s: said hi and also said basically can you
+2m53s: send me some stickers please because I
+2m54s: keep saying to everybody here if you
+2m56s: want some stickers i&amp;#39;ve got a few
+2m57s: stickers um I&amp;#39;ve got a box of stickers
+3m0s: this is my
+3m2s: little
+3m3s: box of stickers I was running out and
+3m6s: then um when I was at code connect uh
+3m9s: hope nobody noticed maybe Marian noticed
+3m11s: um I know Marian was there amas was
+3m13s: there uh and Mark was there in fact
+3m15s: maybe maybe you saw me I was just
+3m17s: grabbing those stickers from the sticker
+3m18s: table so I can give them out here so
+3m20s: I&amp;#39;ve got for example some just like
+3m23s: remind you got some awesome ui5 stickers
+3m25s: i&amp;#39;ve got ui5 con stickers slightly
+3m27s: smaller I&amp;#39;ve got some awesome recap
+3m29s: stickers uh sort of you know um normal
+3m32s: and then dark mode stickers dark mode
+3m34s: version is that what you call them there
+3m36s: and I&amp;#39;ve also got um a few very maybe
+3m39s: one or two of these super shiny ui5
+3m41s: stickers and some sap Community stickers
+3m44s: and finally also some of those rare band
+3m47s: Dev toberfest stickers oh yes so if you
+3m51s: want any stickers I can send you a few
+3m54s: um because I want to spread them out I
+3m55s: only send you know like two three four
+3m58s: five six whatever in a in an envelope
+4m0s: to you uh but you know enough for your
+4m2s: laptop to stick on your laptop then let
+4m4s: me know send me a message on LinkedIn
+4m5s: for example and then we can ex you can
+4m7s: give me a postal address to send it to
+4m9s: I&amp;#39;ve got some stamps here look I went to
+4m11s: the post office got some stamps
+4m14s: woooo um so yeah I&amp;#39;m ready to send some
+4m16s: stickers uh so and welcome oh oh so it&amp;#39;s
+4m19s: the largest sailing event in the world
+4m22s: amazing being being in Keel I can
+4m25s: understand why that&amp;#39;s a perfect place
+4m26s: for it you can watch the races live
+4m28s: using sap sailing Analytics fantastic
+4m30s: good morning to you Rafael in
+4m34s: Poland and olrick good morning ol rck
+4m37s: brand in Frankfurt fantastic okay so
+4m40s: I&amp;#39;ve got I&amp;#39;m looking at the chat here uh
+4m42s: is there anything else I need to tell
+4m43s: you before we start I think that&amp;#39;s it uh
+4m47s: yeah
+4m48s: uh yeah no I think that&amp;#39;s it it&amp;#39;s very
+4m51s: windy here today um the boat was blowing
+4m54s: around last night and under some trees
+4m56s: as well which I a little bit worried
+4m57s: about you know maybe over over worry
+5m0s: about everything but anyway so let&amp;#39;s get
+5m2s: going let&amp;#39;s go to the uh main scene uh
+5m4s: in fact the main scene I was going to
+5m7s: just started
+5m9s: putting a bit of a bit of insight into
+5m11s: the inner workings of a live stream the
+5m13s: main scene uh I use um streamlabs
+5m17s: desktop to to do my live stream it&amp;#39;s
+5m20s: pretty pretty good piece of software go
+5m22s: straight to Youtube anyway
+5m24s: um and I&amp;#39;ve got the scene I&amp;#39;ll show you
+5m26s: got scenes defined Thiago Thiago a
+5m29s: welcome old friend Thiago so I&amp;#39;ve got
+5m32s: the all the scenes defined here standby
+5m34s: video pre-roll we need to update that um
+5m37s: got the intro scene got the main scene
+5m39s: video top right main scene video bottom
+5m41s: right so I can press the buttons on my I
+5m44s: don&amp;#39;t know you can see it or
+5m46s: not anyway I&amp;#39;ve got a stream deck
+5m48s: buttons so I press the buttons to go to
+5m50s: different scenes anyway anyway anyway so
+5m53s: just and with within each scene you have
+5m55s: sources Logitech small that&amp;#39;s a camera
+5m57s: here and then you got Circle border
+5m59s: Circle woohoo um and the display my
+6m1s: screen and the Yeti microphone which is
+6m4s: just you can see it or not no you can&amp;#39;t
+6m6s: see it there anyway um DJ digression
+6m10s: already amazing ridiculous so uh we have
+6m14s: um today the developer news I have been
+6m16s: putting them as usual in the uh in a
+6m19s: comment to the
+6m21s: corresponding um entry in the sap
+6m24s: community events however uh our sap
+6m27s: Community platform is not very well at
+6m28s: the moment I don&amp;#39;t know what&amp;#39;s going on
+6m31s: um no idea uh but anyway it&amp;#39;s
+6m34s: fascinating to uh see you know what&amp;#39;s
+6m36s: going on and uh obviously Catalina bit
+6m39s: of java there bit of java server servage
+6m42s: there it&amp;#39;s quite interesting to find out
+6m44s: from the error messages like oh my
+6m45s: goodness me um anyway I&amp;#39;ve added them
+6m47s: here uh so I&amp;#39;ve got the developer news
+6m49s: link here uh so I&amp;#39;ll in fact Let me let
+6m52s: me let me press the comment button to
+6m54s: see if it&amp;#39;s worth adding more or will
+6m56s: this save fail let see comment
+7m1s: okay it works perfect I&amp;#39;ll just car add
+7m3s: adding it then adding them there we go
+7m5s: so
+7m7s: edit okay perfect
+7m10s: um so yes this week&amp;#39;s sa developing news
+7m13s: in
+7m14s: which uh we say happy birthday to AB GS
+7m17s: that&amp;#39;s the first and foremost and most
+7m18s: important thing happy birthday 10 years
+7m20s: since uh last uh more or less you know I
+7m23s: don&amp;#39;t know exactly what day it was it
+7m24s: was a date earlier this week I think uh
+7m26s: L put a really cool post on LinkedIn and
+7m29s: it was 10 years ago that he made the
+7m31s: first commits chakia good morning to you
+7m34s: welcome so uh all in developer news and
+7m37s: also um another item in the developer
+7m39s: news is the uh newly published sap open
+7m43s: source Manifesto which is quite cool uh
+7m46s: so yeah very very proud of the oso team
+7m49s: there they&amp;#39;re doing that uh keep pushing
+7m51s: the boundaries there there&amp;#39;s gilm there
+7m54s: putting some merging in there license
+7m55s: change blah blah blah licenses yeah y
+7m58s: whatever um Dwight good morning good
+8m0s: morning Dwight okay so that&amp;#39;s that uh
+8m4s: let&amp;#39;s jump straight
+8m6s: to where we were uh does anybody
+8m9s: remember what we were doing last week
+8m15s: um uh yes so I mean obviously I do
+8m18s: because in fact I&amp;#39;ve just watched last
+8m20s: week&amp;#39;s video earlier this morning on two
+8m23s: two times speed just like DJ what were
+8m25s: we were doing last week what was it all
+8m27s: about oh yes it is oh my goodness good
+8m29s: morning to you uh I&amp;#39;m I&amp;#39;m going to I&amp;#39;m
+8m33s: going to call you vas cuz I can&amp;#39;t even
+8m36s: read that word cuz my ey my eyesight is
+8m38s: not great so I&amp;#39;m going to call you Vaz
+8m39s: good morning
+8m40s: Vaz I hope you don&amp;#39;t mind calling you me
+8m43s: calling you
+8m44s: Vaz what we were doing as I know now
+8m47s: from watching the replay back the is
+8m50s: that is back torical watching the
+8m53s: replay um is uh we were halfway through
+8m58s: defining
+8m59s: this total stock Unbound
+9m3s: function okay and in the process of
+9m8s: starting to think about that we
+9m11s: also hey STS welcome wearing a a washing
+9m15s: up Mar gold rubber glove there that&amp;#39;s
+9m17s: fantastic yav hello good morning capy
+9m21s: hey I like that I like that good morning
+9m24s: capires Capers I like it yes we are
+9m27s: capires at the moment cap
+9m30s: C Pirates cap Pirates cap Pirates that&amp;#39;s
+9m34s: what we should call
+9m36s: ourselves amazing C
+9m39s: Pirates fantastic thank you have us for
+9m42s: that inspiration brilliant
+9m44s: okay uh what yes oh yes so also we had a
+9m48s: little bit of a look into uh what this
+9m53s: this this sort of classic thing we see
+9m55s: in lots of sort of uh implementation
+9m58s: files uh
+10m0s: grabbing an you know a
+10m2s: reference mechanical object definition
+10m6s: of an entity and we looked at how that
+10m9s: worked we looked understood a little bit
+10m11s: about um
+10m13s: destructuring and one of the things I I
+10m15s: I was thinking about this um when I was
+10m18s: watching the video the replay thinking
+10m21s: hm you know the cds. entities Bookshop
+10m24s: that is the service name right hey pios
+10m28s: good morning good morning morning and
+10m29s: welcome to the cap Pirates team amazing
+10m33s: uh
+10m35s: and I was going to say I&amp;#39;ve also
+10m39s: seen places where you just have CDs
+10m43s: entities and just like
+10m45s: that okay does anybody
+10m48s: know uh C yes classic Andrew very idite
+10m54s: observation there uh could be see
+10m56s: grammatical erudition uh could be read
+10m58s: as cap irates yes if it goes wrong we
+11m1s: become cap irates but if it goes right
+11m3s: we&amp;#39;re cap irat um this just completely
+11m7s: random um so I got to be thinking um
+11m11s: what is that all about what when do we
+11m13s: use CDs entities without any sort of
+11m16s: parameter passing any argument to the
+11m18s: thing there and you know when do we use
+11m19s: it like this uh when do we use it with
+11m21s: the Bookshop
+11m23s: and I thought we should could do an
+11m25s: experiment first of
+11m26s: all to understand
+11m30s: what&amp;#39;s going on there a little bit more
+11m32s: and then we&amp;#39;ll start digging into the
+11m33s: total stock and start doing some um oh
+11m36s: yeah that expands automatically start
+11m37s: replacing this sort of simplest thing
+11m39s: that could possibly work
+11m41s: now let&amp;#39;s let&amp;#39;s open up um a repple
+11m45s: again uh CDs reppel we did this yes last
+11m47s: week so we don&amp;#39;t need to talk about this
+11m48s: as how it works so await cds. test let&amp;#39;s
+11m52s: just bring that in okay so now we&amp;#39;ve got
+11m55s: a server running on
+11m57s: 41401 right uh I wonder actually wonder
+12m0s: if it&amp;#39;s accessible it is yeah 41401
+12m4s: there we go just a normal cap server
+12m6s: cool don&amp;#39;t need that anymore either uh
+12m9s: don&amp;#39;t need that either
+12m11s: um
+12m13s: so we did this right we did CDs
+12m16s: entities and we said CDs
+12m20s: entities books right that&amp;#39;s how we did
+12m22s: it let&amp;#39;s do that there and we saw that
+12m26s: what we got was
+12m29s: this definition this sort of you know uh
+12m32s: season the yaml representation of the
+12m34s: Season definition for that book&amp;#39;s entity
+12m37s: right
+12m39s: fine and then also during yes last week
+12m43s: we did a select did we
+12m45s: select uh from books oh actually CDs
+12m50s: entities
+12m51s: entities
+12m54s: um
+12m56s: books like that right and then we saw
+12m59s: okay yeah it&amp;#39;s asynchronous we got to
+13m1s: run
+13m2s: it uh so if we say here uh a
+13m6s: weight uh see the the digression number
+13m10s: one number two already one of the really
+13m12s: cool things about um the shell a proper
+13m16s: shell like bash uh is that you can have
+13m18s: different sort of input mode readline
+13m20s: modes and I&amp;#39;ve got it set up
+13m23s: um bash RC uh so that uh the the mode
+13m28s: the readline mode is VI mode so I can
+13m31s: sort of bring something up uh there and
+13m34s: then I can go back and forth with uh W
+13m36s: and B and you know CW and blah you know
+13m40s: I can use my
+13m41s: Vim finger knowledge to modify um
+13m45s: command lines however in for example the
+13m50s: uh CDs reppler which I think is based on
+13m51s: a node reppler right um You There isn&amp;#39;t
+13m54s: support for these multiple readline
+13m56s: modes and by default I think a lot of
+13m58s: the things by default will therefore
+14m0s: have this sort of you know what I think
+14m1s: of as an emac mode where you can go
+14m4s: between the start and the end of the
+14m5s: line with control a and control e for
+14m7s: example and I&amp;#39;m sure there are other
+14m8s: things as well so you know contr a start
+14m11s: of the line control e end of the line I
+14m13s: think that is emx isn&amp;#39;t it uh
+14m16s: anyway so if we go there and say await
+14m19s: uh contrl L is clear screen obviously um
+14m21s: let&amp;#39;s do that a little bit bigger um oh
+14m25s: a wait what select unexpected character
+14m28s: what uh what did I do there
+14m31s: select
+14m32s: from
+14m35s: select
+14m37s: select from CDs entities it&amp;#39;s probably I
+14m42s: was messing about with the editor
+14m45s: books uh oh
+14m49s: wait yeah don&amp;#39;t know what was wrong with
+14m51s: that probably some sort of control
+14m52s: character I added by mistake okay so we
+14m54s: got that okay we got that um and I
+14m59s: thought okay well what is the
+15m1s: difference between that let me do that
+15m4s: again let me clear the screen and do
+15m6s: that again what is difference between
+15m7s: that
+15m9s: and Bookshop which we did as well right
+15m13s: we did um is it we did it did we do it
+15m14s: there uh let&amp;#39;s undo that change there
+15m17s: there that&amp;#39;s what we ended up with right
+15m19s: there in fact put my head down the
+15m21s: bottom uh that&amp;#39;s what we ended up with
+15m23s: so why are we specifying this Bookshop
+15m27s: string here as a parameter as an
+15m30s: argument to the CDs entities now
+15m34s: remember uh main CDs remember that this
+15m39s: service is called Bookshop so it&amp;#39;s like
+15m41s: a bit of a
+15m42s: namespace so if we do
+15m47s: this we get the same
+15m50s: answer I.E um we get the three books in
+15m56s: our
+15m57s: CSV uh book you know book CSV
+15m59s: hitchhikers mostly harmless and player
+16m1s: games
+16m3s: right now can we I was thinking can
+16m8s: we determine where there is a difference
+16m11s: I was just thinking this before and I
+16m13s: thought yes let&amp;#39;s do this let have a bit
+16m15s: of a a
+16m16s: pre-digestion so we can understand a
+16m18s: little bit about what is going on with
+16m20s: the cious entities
+16m22s: and where is it now let&amp;#39;s have a look um
+16m25s: tell me if I tell me if I&amp;#39;m rambling too
+16m27s: much and and and digressing too much but
+16m29s: I think this is quite interesting I
+16m30s: think this is potentially quite
+16m31s: interesting just D get on with it cap
+16m34s: let&amp;#39;s go into the cap
+16m37s: higher
+16m42s: uh service projection maybe service
+16m46s: projection views and projections the as
+16m48s: project oh as projection what I&amp;#39;m
+16m50s: looking for well actually why don&amp;#39;t I
+16m52s: look as
+16m53s: projection um oh here we go as select so
+16m57s: here we go right so we what we&amp;#39;ve got
+17m0s: is entity books as projection on org
+17m4s: docro books which is of course a
+17m6s: reference to uh the org. macro namespace
+17m9s: it was brought in from DB schema which
+17m12s: is of course me put that across there so
+17m14s: we can have that sort
+17m16s: of in fact I&amp;#39;ll put that uh there in
+17m22s: that&amp;#39;ll do actually yeah so it&amp;#39;s it&amp;#39;s a
+17m23s: projection on this
+17m26s: thing Bookshop now
+17m29s: that&amp;#39;s just a a pass through projection
+17m31s: all we&amp;#39;re doing is just like pointing in
+17m34s: a way but you have the the possibility
+17m38s: you have the possibility of doing a as
+17m42s: select which is just up here right the
+17m44s: as select from variant use it as select
+17m47s: from because I&amp;#39;ve seen this I&amp;#39;ve not
+17m49s: really used it myself but I&amp;#39;ve seen this
+17m50s: I thought we could try this um to use
+17m53s: all possible features an underlying
+17m55s: relational database would support using
+17m56s: any valid SQL cql
+17m59s: query including all query
+18m2s: Clauses
+18m4s: so if we do hello ne ne nees nees nees
+18m9s: hello nees and welcome so if we were to
+18m13s: say
+18m14s: here
+18m17s: um tell you what let&amp;#39;s get out of the
+18m19s: reppel first and CDs watch let&amp;#39;s start
+18m23s: up the watch yes let&amp;#39;s have that always
+18m25s: running CDs watch is the best thing ever
+18m28s: um and
+18m30s: uh list listening as usual in fact you
+18m33s: know what we&amp;#39;re going what we&amp;#39;ll
+18m36s: do uh c as in rerun this again clear
+18m40s: screen run the bash command with the
+18m42s: following thing curl uh silent local I
+18m46s: did it again lolcat Local Host 404 OD
+18m50s: data V4 Book
+18m54s: Shop books JQ boing boing boing boing
+18m59s: there in fact yes all right do that for
+19m2s: now do that for now right now let&amp;#39;s do
+19m7s: that and let&amp;#39;s say let&amp;#39;s have this let&amp;#39;s
+19m10s: do this um as projection on no we don&amp;#39;t
+19m13s: want as projection on we want as select
+19m16s: from or. cacro books right let&amp;#39;s have a
+19m21s: look entty something as select from
+19m25s: something and then some sort of SQL
+19m29s: cql we don&amp;#39;t want to do a left joint
+19m31s: that&amp;#39;s too complicated why don&amp;#39;t we do
+19m33s: this why don&amp;#39;t we try to say where
+19m37s: stock we&amp;#39;ve got the stock stock 5 42 and
+19m40s: 100 where stock is greater than equal to
+19m44s: greater than greater than
+19m47s: 10 greater than equal to 10 how about
+19m51s: that so now oh STS is field restriction
+19m55s: by rooll good use case to user select
+19m57s: removing sensitive fields in
+20m0s: possibly however I think thinking that&amp;#39;s
+20m2s: a really good question again all the
+20m4s: questions all tips all hints all every
+20m6s: every thoughts you have in the chat
+20m7s: please yes it&amp;#39;s amazing
+20m10s: um yes although you Ser here&amp;#39;s a phrase
+20m15s: here&amp;#39;s a phrase it&amp;#39;s not my phrase but
+20m17s: it&amp;#39;s a really good phrase services are
+20m21s: cheap so if you had a
+20m24s: circumstance where um you had a certain
+20m31s: role that you only wanted to give access
+20m34s: to to certain bits of data Maybe certain
+20m38s: elements or whatever then you could
+20m40s: create a service that was that was then
+20m42s: you know restricted to that
+20m44s: role and then inside that service you
+20m47s: would have that that R those role
+20m49s: specific um restrictions would that make
+20m52s: does that make sense but yes generally
+20m54s: yeah I mean there&amp;#39;s there&amp;#39;s lots of ways
+20m57s: of doing what I think you&amp;#39;re talking
+20m58s: talking about here um I suppose my
+21m1s: answer would be yes uh and think of it
+21m4s: in terms of maybe defining a separate
+21m6s: service but you could do it as well with
+21m8s: with you know a lower granular level
+21m11s: okay does that does that make sense Subs
+21m12s: does that make sense um so now what
+21m17s: we&amp;#39;re doing here is we&amp;#39;re saying well
+21m18s: only show the books where we got at
+21m22s: least 10 in stock so hopefully we won&amp;#39;t
+21m24s: see the player of games anymore we&amp;#39;ll
+21m26s: see we&amp;#39;ll see hitchhikers 42 and we&amp;#39;ll
+21m28s: see mostly harmless 100 let&amp;#39;s save
+21m32s: that there we go now we have now
+21m36s: modified the service and change the
+21m40s: book&amp;#39;s projection to a
+21m42s: select with a bit of SQL to restrict
+21m45s: that right
+21m47s: now now we have
+21m49s: that let&amp;#39;s go into the CDs
+21m52s: repple
+21m55s: um being laer wait CDs test
+21m59s: right and
+22m1s: now what we did before was select from
+22m6s: CDs entities without the brackets and
+22m9s: the N the Bookshop name
+22m13s: space
+22m16s: right we get
+22m18s: three records I.E this as select from
+22m23s: isn&amp;#39;t coming into
+22m25s: play because what we&amp;#39;re effectively
+22m28s: doing
+22m31s: is looking at our CDs model at the
+22m36s: schema level okay I suppose this is the
+22m39s: equivalent of I don&amp;#39;t know or. Q macro
+22m43s: right as in where is it there org. cacro
+22m48s: do
+22m49s: books we get three
+22m52s: however if we
+22m56s: specify Bookshop
+22m59s: what do you think&amp;#39;s going to happen what
+23m1s: do you think is going to happen put in
+23m2s: the chat what you think are we going to
+23m3s: get
+23m4s: two or are we going to get three
+23m8s: meanwhile while you put in the chat what
+23m9s: you think&amp;#39;s going to happen uh Dwight
+23m11s: hello Dwight says I admire the fact that
+23m14s: cap gives you many options where to
+23m15s: apply your business logic however this
+23m17s: might turn to a maintenance nightmare EG
+23m18s: select statements in CDs or in Services
+23m21s: uh in functions sorry that&amp;#39;s okay
+23m25s: um enough rope to hang oneself thing um
+23m30s: one of the one of the Beauties like you
+23m33s: say one of the beauties of cap is that
+23m35s: the flexibility is almost
+23m38s: endless so it&amp;#39;s important to understand
+23m43s: where and how to apply your business
+23m48s: logic to apply your definitions to apply
+23m50s: the declarative parts to your your
+23m53s: services to do the the sort of the the
+23m56s: the procedural or the functional or the
+23m59s: basically the
+24m0s: codee yeah you have to know what you&amp;#39;re
+24m4s: doing there&amp;#39;s no two ways about
+24m7s: it that
+24m9s: said I think it&amp;#39;s also very easy for us
+24m13s: to forget how
+24m17s: absolutely um El I almost said a rude
+24m19s: word an elbow achingly difficult it was
+24m24s: before cap to create o data services so
+24m27s: not only did you have the entire
+24m30s: mountain of infrastructure to do
+24m33s: yourself to stand up an O dat service
+24m36s: and then start thinking about business
+24m38s: logic now we&amp;#39;re left with the with cap
+24m42s: cap does everything for us apart from
+24m45s: obviously the business logic so at least
+24m47s: the the surface area of space the
+24m51s: surface area of space the service area
+24m53s: where we need to concentrate and do the
+24m56s: right thing is is vastly reduced yeah
+25m1s: does that make sense uh so yeah I mean
+25m3s: uh with with great power comes great
+25m6s: responsibility I suppose that&amp;#39;s that&amp;#39;s
+25m8s: the thing there yes
+25m10s: and I it&amp;#39;s a really good point about um
+25m13s: you know business logic and declarative
+25m16s: uh mixed up with SQL however you could
+25m18s: see SQL as a declarative language as
+25m21s: well right you know arguably SQL is
+25m24s: declarative um and therefore it&amp;#39;s just
+25m27s: an extension to what we think of as CDs
+25m31s: being or C CDL being declarative anyway
+25m35s: great great Point Dwight great Point um
+25m39s: uh Subs message retracted chakia to
+25m41s: Dwight thank you DJ okay you&amp;#39;re welcome
+25m43s: you&amp;#39;re welcome fantastic great comments
+25m45s: great observations so uh oh I see chakia
+25m48s: too even forgot question yes exactly
+25m51s: let&amp;#39;s try that check it out so now we
+25m55s: with this CDs entities Bookshop
+25m59s: we&amp;#39;re going through the service to look
+26m2s: at that data and in fact if
+26m5s: we if we have a look at
+26m8s: this um if we get rid of
+26m16s: that yeah there we go look check it out
+26m19s: we not only get what kind it is and what
+26m21s: elements it&amp;#39;s got but we saw last week
+26m23s: but also look at that we get the
+26m27s: query we get the query in can anybody
+26m30s: tell me
+26m32s: what what language what mini language
+26m35s: what mini CDs DSL to B specific language
+26m38s: this is expressed
+26m43s: in I think it&amp;#39;s query notation isn&amp;#39;t it
+26m46s: there we go
+26m48s: cqn I think that&amp;#39;s what it is cqn anyway
+26m53s: anyway I thought ah cqn chinaka
+26m55s: fantastic chaka chaka is on it it&amp;#39;s on
+26m57s: it like a carbonet amazing um so there
+27m1s: we go so that&amp;#39;s I thought that was quite
+27m3s: interesting
+27m5s: um so now let&amp;#39;s
+27m9s: let&amp;#39;s be comfortable in the knowledge
+27m12s: that we know what is going on
+27m16s: with main JS with this
+27m19s: right uh and should we should we keep
+27m22s: that or should we get rid of it let&amp;#39;s
+27m23s: keep that for
+27m24s: now you know let&amp;#39;s see what see what how
+27m27s: it trips us up um and now start thinking
+27m33s: about uh main J oh let&amp;#39;s get rid of that
+27m37s: there uh there there we go yes keep
+27m41s: that main CDs we&amp;#39;ll get rid of that as
+27m44s: well yeah
+27m46s: there okay yeah we&amp;#39;ll get rid of it
+27m48s: after all okay
+27m52s: fine I don&amp;#39;t like the way it expands
+27m54s: there
+27m56s: um do get rid of that there okay fine so
+28m1s: now we want to start thinking about how
+28m5s: to answer this so let&amp;#39;s go back
+28m9s: into um the reppel CDs
+28m15s: reppel I want you to do a white CDs test
+28m18s: automatically when I go in the reppel I
+28m19s: wonder if we can do
+28m22s: that and start thinking about our
+28m25s: query and ALS query notation what we
+28m29s: want to write in the CDs reppel and be
+28m33s: able to transfer that into our
+28m35s: main.js
+28m39s: is query is a but it&amp;#39;s not query
+28m43s: notation it&amp;#39;s the query language right
+28m46s: the CDs query language is based on
+28m48s: standard SQL which enhances by all these
+28m51s: amazing things right so and this is
+28m53s: something I thought it would be worth oh
+28m55s: yeah let&amp;#39;s put this let&amp;#39;s put this in
+28m57s: here uh
+28m59s: cql we always put C in Brackets when
+29m2s: it&amp;#39;s if it&amp;#39;s a c thing don&amp;#39;t we Capa
+29m4s: cql is there now what
+29m10s: I originally got
+29m13s: slightly confused
+29m16s: about because my brain&amp;#39;s very small I
+29m19s: have no idea what I&amp;#39;m doing was this
+29m22s: documentation about cql in
+29m26s: general but what we then
+29m30s: need in order to do things like the wait
+29m35s: select from books oh did I did I let me
+29m39s: let me bring in the books there um there
+29m42s: that&amp;#39;ll do there
+29m44s: books
+29m45s: books
+29m48s: equals
+29m50s: that uh oh not book sorry where is
+29m56s: it oh d don&amp;#39;t don&amp;#39;t be lazy just do this
+29m59s: books equals CDs
+30m2s: entities
+30m6s: Bookshop
+30m8s: books
+30m12s: there
+30m16s: what book what is going on
+30m22s: Bookshop
+30m25s: Books Okay books
+30m28s: equals let&amp;#39;s have const there as well
+30m30s: const
+30m34s: books
+30m35s: anyway so now we got that okay now we&amp;#39;ve
+30m38s: got
+30m40s: that um
+30m43s: oh Bookshop
+30m46s: books where is the
+30m50s: um where&amp;#39;s the query gone anyway let&amp;#39;s
+30m54s: let&amp;#39;s not go there for now okay so now
+30m56s: we can say await
+30m58s: select from
+31m1s: books right we got
+31m5s: three why did
+31m9s: what that oh of course of course of
+31m12s: course we&amp;#39;ve got I did get my brain is
+31m15s: like memory of a goldfish we got rid of
+31m18s: the as select from didn&amp;#39;t we so we get
+31m20s: the three now okay fine hello Aron and
+31m22s: good morning to you good morning to you
+31m25s: Sor maybe I need some more coffee or
+31m27s: something I don&amp;#39;t know what&amp;#39;s going on
+31m27s: with my my brain today um so uh yeah
+31m32s: okay so we get
+31m33s: that so now let&amp;#39;s start to think about
+31m36s: how we
+31m38s: can
+31m40s: use Query language like this
+31m46s: like
+31m47s: that to get to the total stock can
+31m51s: anybody suggest what we might do and
+31m53s: while you type in what we might do and
+31m57s: what we might add and use from a query
+32m0s: language perspective let&amp;#39;s think about
+32m2s: what the answer might be based upon go
+32m5s: over here and we have the query language
+32m7s: here however because and this is where I
+32m9s: got a little confused at the start
+32m13s: because we are doing this in the context
+32m16s: of node nodejs you know this is a nodejs
+32m19s: reppel basically um 1 plus two three
+32m23s: yeah it&amp;#39;s node hi AB hi um what we want
+32m28s: to look at is not
+32m31s: only the more
+32m34s: General uh information about cql but
+32m38s: more
+32m40s: specifically how to query in JavaScript
+32m44s: of course there is also probably not
+32m46s: looked Java Services event handlers got
+32m49s: to be querying somewhere in there right
+32m51s: working with oh working with C csql
+32m53s: build build cql statements okay so it&amp;#39;s
+32m55s: all about ending up
+33m1s: with some
+33m3s: SQL I like what they did there SQL SQL
+33m6s: same thing ending up with some
+33m9s: cql but ending up with it by using the
+33m13s: facilities in either node or Java to get
+33m16s: there so that&amp;#39;s you know this is a bit
+33m18s: of a more of a clue Bill cql statements
+33m20s: right there an API to fluently build cql
+33m24s: statements in Java but we&amp;#39;re not using
+33m26s: Java we&amp;#39;re using node we look at this
+33m28s: and it you know it&amp;#39;s the same sort of
+33m29s: thing constructing queries module csql
+33m32s: provides a SQL like fluent API to
+33m34s: construct queries this is what we&amp;#39;re
+33m36s: going on about here um abishek hi which
+33m39s: programming language are used generally
+33m41s: or here what we&amp;#39;re using uh node.js for
+33m44s: the um programmatic implementation of
+33m47s: services and we&amp;#39;re using CDs to Define
+33m49s: our model our schemer and services and
+33m52s: everything and we&amp;#39;re using
+33m53s: cql as
+33m55s: our uh query language so we can see here
+33m59s: we we recognize this look select from
+34m0s: books where so let&amp;#39;s let&amp;#39;s just try that
+34m2s: and just start to sort of flex our
+34m4s: fingers select from books where that&amp;#39;ll
+34m6s: do uh ID in
+34m9s: fact let&amp;#39;s see what happens there uh
+34m13s: select oh await select books where ID
+34m19s: well it&amp;#39;s not going to work is it but
+34m20s: there we go okay but we we can see that
+34m23s: now what what even is that what even is
+34m27s: is that from a new Js JavaScript
+34m30s: perspective do anybody is anybody else
+34m32s: apart from me wondered why does that
+34m35s: even work what is
+34m37s: that what is that why is it
+34m41s: working put in the chat what you think
+34m43s: but the answer is where how can we find
+34m48s: this select select let&amp;#39;s go to
+34m51s: select flu here we go here we go here we
+34m54s: go fluent API to construct cqn select
+34m56s: query objects in a ql SQL light style in
+34m59s: contrast to um chakia object it&amp;#39;s an
+35m4s: object exactly chakia CH is on it select
+35m7s: itself is a function acting as a
+35m9s: shortcut to select.
+35m12s: columns there by resembling SQL
+35m17s: syntax
+35m20s: now I did see somewhere I was looking at
+35m23s: this the other
+35m26s: day object
+35m33s: H I saw it somewhere but we can we can
+35m35s: find out ourselves can&amp;#39;t we we can say
+35m37s: here
+35m39s: um
+35m42s: select oh actually we saw it there look
+35m45s: select in the nodejs reppel it sort
+35m49s: of shows us what that thing that we&amp;#39;ve
+35m53s: just typed in evaluates too and look it
+35m56s: starts with black blly me says GEOS
+35m58s: welcome GEOS blly me what are you
+36m0s: surprised about in a good way I&amp;#39;m sure
+36m3s: right um I&amp;#39;m constantly surprised about
+36m4s: everything um look we can see an object
+36m7s: here because it starts with an open
+36m9s: curly so in fact why don&amp;#39;t we try this
+36m12s: object.
+36m14s: Keys
+36m16s: select check it
+36m20s: out so that&amp;#39;s why we can type in into a
+36m25s: nodejs reppel or in our JavaScript here
+36m28s: select dot one wonder if we can do this
+36m32s: object. Keys select dot
+36m37s: one so it&amp;#39;s all you can imagine it&amp;#39;s
+36m39s: like Dot
+36m43s: from look at that look at that so this
+36m46s: is like this well what do they call it a
+36m48s: fluent API right a fluent API everything
+36m52s: is chakia brilliant everything is an
+36m55s: object in JavaScript exactly
+36m58s: but but don&amp;#39;t you think this is
+37m1s: beautiful select one dot
+37m6s: from okay
+37m8s: so in my head I&amp;#39;m now seeing select is
+37m12s: the root node of this tree made up of
+37m16s: nested
+37m17s: objects and the and the and the the leaf
+37m20s: nodes of those objects are actually
+37m24s: functions okay so that&amp;#39;s why we can say
+37m27s: select
+37m28s: do
+37m29s: from
+37m32s: from
+37m36s: books or we could of course you know
+37m38s: anyway yeah select that from books and
+37m40s: that trans ah yeah and now we get now we
+37m42s: are understanding what we&amp;#39;re looking at
+37m45s: here we did this with the out thewait
+37m47s: but checking out
+37m50s: this
+37m54s: is cqn query notation
+37m58s: it&amp;#39;s a builder pattern yes exactly it&amp;#39;s
+38m0s: a builder pattern or sometimes some
+38m2s: people call a fluent a fluent API
+38m4s: exactly um so and I think what stubs is
+38m8s: maybe referring to is where you&amp;#39;ll see I
+38m10s: think it&amp;#39;s quite common in in Java in
+38m12s: Java land where you&amp;#39;ll have like a call
+38m15s: to a function then you know quite often
+38m18s: nicely on the next line dot something
+38m21s: next line dot something next line dot
+38m23s: something you&amp;#39;re building something up
+38m25s: over multiple chained C
+38m28s: to something I think that&amp;#39;s also
+38m30s: how or it&amp;#39;s a style that the Sab Cloud
+38m35s: SDK uses or encourages you to use when
+38m39s: you want to build queries that you
+38m41s: you&amp;#39;re going to construct and send to a
+38m43s: remote system right pretty sure that&amp;#39;s
+38m46s: the case Vaz says sorry to interrupt
+38m47s: that&amp;#39;s all right I&amp;#39;m currently working
+38m49s: based on ab app programming what are the
+38m51s: possible ways and references to scale up
+38m52s: to wrap or cap or Advanced Technologies
+38m54s: in sap as a
+38m55s: developer The Perennial question
+38m58s: basically v um join things like this you
+39m2s: you&amp;#39;re already you&amp;#39;re already winning
+39m3s: you&amp;#39;re joining live streams you you
+39m5s: watch the the previous live streams
+39m8s: here um so yeah check out we have
+39m12s: tutorials on the uh tutorial na
+39m14s: developers. sep.com uh tutorial
+39m17s: Navigator there&amp;#39;s a put in there put in
+39m20s: the thing there uh tutorial Navigator if
+39m24s: you haven&amp;#39;t seen that so far check out
+39m26s: the tutorials lots of tutorials on cap
+39m27s: for example and also wrap um but yeah
+39m31s: this is for for for cap I would suggest
+39m33s: you look at the cap ey documentation but
+39m35s: also watch the um watch the the series
+39m39s: that we&amp;#39;ve doing so far so Yos says link
+39m41s: listing
+39m43s: C uh not quite the same that&amp;#39;s what in
+39m47s: my brain I know I know why you&amp;#39;re
+39m49s: suggesting that as a link you know this
+39m51s: fluent API is a bit like a link list I
+39m53s: don&amp;#39;t see it so much as a link list but
+39m56s: I can see that the one the next points
+39m57s: to the next one to the points to the
+39m58s: next one points to the next one so yeah
+40m0s: I get it I get it okay so I hope that
+40m2s: helps F I mean I&amp;#39;ve not really answered
+40m4s: that too much but check out all the uh
+40m6s: stuff we have on the sap Developers
+40m8s: zdevs YouTube
+40m9s: channel there we go I&amp;#39;ll put these in uh
+40m14s: sap
+40m16s: developers uh
+40m18s: YouTube channel we got lots of
+40m21s: information there for
+40m23s: you okay fine so get rid of that uh sap
+40m27s: tutorials there we go don&amp;#39;t need that
+40m28s: quer notation leak this is not function
+40m30s: just data structure I think exactly yes
+40m32s: just data
+40m33s: structure so where were we where were we
+40m35s: um select from books so that means we
+40m38s: can also say do
+40m41s: columns let&amp;#39;s see well I don&amp;#39;t know
+40m42s: let&amp;#39;s see what happens press
+40m44s: enter ah okay now why do we get that I
+40m48s: mean I think I think it&amp;#39;s important to
+40m50s: be
+40m51s: comfortable with weird
+40m54s: output as you can see here
+41m0s: what we have asked for in this prompt
+41m3s: let me put my head back up there again
+41m5s: in this
+41m7s: prompt
+41m8s: is the value of the
+41m13s: columns property in the object which is
+41m19s: the select do from object going back to
+41m23s: what um shakia was saying everything is
+41m24s: an object and
+41m30s: I I think I&amp;#39;m writing say maybe I&amp;#39;m
+41m32s: wrong but that to me looks like one of
+41m36s: those es6
+41m37s: getter IE as in as in Getters and
+41m40s: Setters IE it&amp;#39;s a function is is and
+41m44s: let&amp;#39;s have a look
+41m46s: mdn uh
+41m48s: getter
+41m53s: get get latest get latest I think think
+41m57s: it is
+42m1s: get get syntax binds an object property
+42m3s: to a function that would be called when
+42m4s: that property is looked up get latest I
+42m7s: think it is I think it is if we do that
+42m10s: hey let&amp;#39;s do it let&amp;#39;s do it object get
+42m13s: object
+42m15s: latest uh let&amp;#39;s do that let&amp;#39;s do that
+42m18s: put that in
+42m19s: there and then say OB
+42m22s: dot
+42m25s: latest see you I don&amp;#39;t know see means oh
+42m28s: ah okay object object there we go latest
+42m31s: getter maybe it&amp;#39;s not a getter anyway
+42m34s: doesn&amp;#39;t really matter what it is um it&amp;#39;s
+42m36s: a Java programming Lang how to work for
+42m39s: this it&amp;#39;s a Java programming Java or no.
+42m42s: JS I Che Java or NOS check out the cap
+42m45s: documentation which is here cap. cloud.
+42m49s: saap let&amp;#39;s put the main cap thing in
+42m51s: inser as well uh capire main uh page
+42m56s: there
+42m57s: so check that out abishek I&amp;#39;ll save that
+43m0s: now actually while I think on
+43m2s: post come on come on come on is it
+43m5s: working is it going to work yes there we
+43m7s: go so let&amp;#39;s go back into edit
+43m9s: mode there right
+43m13s: so
+43m15s: anyway that could be a get it I don&amp;#39;t
+43m17s: know uh but it doesn&amp;#39;t really matter so
+43m18s: select from colum select book from
+43m23s: columns where are
+43m25s: we columns oh how about
+43m29s: title so if we now await
+43m33s: that check it out okay now interestingly
+43m37s: enough interestingly
+43m39s: enough I was wondering
+43m43s: why if we run that it it does something
+43m46s: and in fact I did see
+43m50s: it uh here
+43m53s: select here we go yes
+43m57s: select is a function acting as a
+43m59s: shortcut but
+44m1s: also there we go there we go then no
+44m4s: where is it where is it where is it uh
+44m5s: constructing
+44m7s: queries using fting domains no here we
+44m12s: go here we go here we
+44m14s: go queries are executed by passing them
+44m17s: to a Services serve. run
+44m21s: method right alternatively you can just
+44m25s: await this is what we&amp;#39;re doing you can
+44m27s: just await a constructed query which by
+44m30s: default passes the query to cds. bb. run
+44m34s: so what&amp;#39;s happening when we do
+44m39s: this is theoretically cds. B db.
+44m45s: runquery Because don&amp;#39;t forget this thing
+44m50s: here without the without the awaits
+44m52s: let&amp;#39;s get that rid of it again that&amp;#39;s a
+44m54s: query it even says query there right
+44m57s: so if we say cds. db. Ron that&amp;#39;s a
+45m3s: function select do from books
+45m8s: columns
+45m12s: title it&amp;#39;s a promise okay so that&amp;#39;s why
+45m14s: we still have to await it so it&amp;#39;s not
+45m16s: the await that&amp;#39;s doing the magic it&amp;#39;s
+45m18s: the actual magic the general cap magic
+45m23s: um and it&amp;#39;s all magic is amazing um that
+45m26s: if you send uh if you if you write
+45m32s: select it will basically as it says
+45m36s: here pass the query to cds. db.
+45m41s: run so we can do this right
+45m44s: await same thing so that&amp;#39;s what&amp;#39;s
+45m47s: happening right am I let me let me know
+45m50s: is this helpful I I&amp;#39;m hoping it&amp;#39;s
+45m52s: helpful because for me and I&amp;#39;m just like
+45m55s: I&amp;#39;m just one of you doing this and
+45m57s: becoming more and more comfortable in
+46m0s: the reppel or in the
+46m2s: code helps
+46m4s: you progress because it can be a little
+46m8s: bit overwhelming all the different
+46m10s: possibilities the fluent API and the
+46m12s: different ways to construct queries so
+46m14s: being able to feel comfortable playing
+46m16s: around and experimenting I think
+46m19s: is um
+46m21s: good
+46m23s: um right okay so let&amp;#39;s um oh hey think
+46m27s: what oh going go there anyway right
+46m29s: there
+46m31s: now uh if we then do this select from
+46m34s: books column
+46m36s: title um
+46m39s: where um actually no we don&amp;#39;t want to do
+46m42s: where do we what we want to do is
+46m46s: Select what do we want to do total stock
+46m48s: total stock
+46m51s: select um columns let&amp;#39;s do it this way
+46m54s: columns stock
+46m57s: from I&amp;#39;m doing it this way deliberately
+46m59s: with the spaces because it&amp;#39;s just so
+47m3s: crazy
+47m5s: wait right see what we&amp;#39;re doing there
+47m7s: that make it a bit bigger don&amp;#39;t need
+47m8s: that either
+47m11s: oops
+47m12s: be CU that is it is enl thank you thank
+47m16s: you yes I agree it is just playing
+47m18s: around with the reppel it is super
+47m20s: enlightening to figure out what is going
+47m23s: on so we&amp;#39;re getting closer
+47m27s: no cigar yet to being able to return the
+47m30s: correct value in this Unbound function
+47m34s: response so we sum the stock Andrew
+47m37s: thank you Andrew for saying DJ get on
+47m40s: with
+47m43s: it what we can do
+47m46s: here notice that we get of course an
+47m49s: array of three objects each with that so
+47m51s: we can say some check it out we this is
+47m53s: this is this is all possible
+47m57s: sum of
+48m1s: stock why is that possible we got an
+48m4s: example here
+48m6s: some there for example in our select we
+48m10s: can just put any sort of SQL and I&amp;#39;m
+48m13s: deliberately saying it out loud without
+48m14s: spelling it out because it be cql or SQL
+48m17s: in there right we can look there b as C
+48m20s: so we could even do it maybe do an as
+48m22s: right let&amp;#39;s try that Su stock as the
+48m25s: total
+48m27s: the
+48m27s: total look how easy it is look how easy
+48m30s: it
+48m32s: is one more thing when we did this
+48m34s: before select dot uh no object. keys
+48m41s: select check out this select
+48m43s: one select one just like in SE in SQL
+48m47s: select one or limit one Whatever right
+48m49s: so we why we add this
+48m53s: select
+48m55s: one do column
+49m0s: so now my stream
+49m3s: laabs uh
+49m5s: says uh um end end
+49m10s: stream which
+49m13s: suggests uh it&amp;#39;s back I did see it say
+49m19s: disconnected
+49m21s: retrying you&amp;#39;re back okay brilliant okay
+49m25s: fantastic no idea well as you know it&amp;#39;s
+49m27s: the first it&amp;#39;s the first outage we&amp;#39;ve
+49m29s: had in living memory back I&amp;#39;m back okay
+49m31s: I can&amp;#39;t remember what I was saying last
+49m33s: time but um there we go so select book
+49m36s: from books columns. one. columns stock
+49m40s: as total oh one what colum
+49m48s: reading ah okay so there we go so
+49m52s: object object. keys
+49m56s: select Dot from we can only have
+50m0s: localized so we can have to say
+50m8s: select do
+50m10s: one from books there we go fine so let&amp;#39;s
+50m13s: put that in there now come on DJ stop
+50m14s: messing
+50m15s: around and just add that now of course
+50m20s: what we&amp;#39;re going to get of course is
+50m21s: back again thank you very much liking a
+50m23s: TR yes it&amp;#39;s like I&amp;#39;m going through a
+50m24s: state through a tunnel there we go on
+50m26s: the canal or whatever a weight
+50m28s: expressions are only allowed within
+50m29s: async functions and right so we need to
+50m32s: make sure that this function is defined
+50m34s: as
+50m36s: asynchronous okay are we ready are we
+50m39s: ready that&amp;#39;s restarting
+50m41s: there let&amp;#39;s go to um Local Host 404 here
+50m48s: don&amp;#39;t want that there in fact let&amp;#39;s
+50m49s: let&amp;#39;s do it uh in the terminal of course
+50m53s: uh so let&amp;#39;s go out of here and
+50m58s: listening there we go that&amp;#39;ll do uh
+51m0s: books ah we don&amp;#39;t want books do we we
+51m3s: want um book shop total
+51m8s: stock oh
+51m12s: uh skate brackets that&amp;#39;s not even go
+51m15s: there today um
+51m18s: list let&amp;#39;s just do this curl minus s
+51m21s: Local Host 404 OD data V4
+51m27s: Bookshop total
+51m30s: stock let&amp;#39;s put that in
+51m34s: um single
+51m37s: quotes are we
+51m41s: ready we&amp;#39;re ready spelling spelling
+51m44s: chakia spelling
+51m46s: DJ um that&amp;#39;s cool we could do better
+51m49s: because look we&amp;#39;ve got total stock the
+51m52s: value of total stock actually is an
+51m54s: object isn&amp;#39;t remember um it was open
+51m57s: curly brackets total stock colon or
+51m59s: total whatever 147 so actually we can go
+52m1s: up here and say um uh let&amp;#39;s
+52m6s: uh uh what do we want um in fact let&amp;#39;s
+52m10s: do it let&amp;#39;s do it in a neater way let&amp;#39;s
+52m13s: have it in a block here um which will
+52m15s: mean we&amp;#39;ll need to return something
+52m16s: right return something uh let&amp;#39;s say here
+52m20s: const results equals and then we&amp;#39;ll say
+52m23s: return result do total right because
+52m27s: we&amp;#39;re asking for total there total see
+52m29s: what happens
+52m31s: there oh uh there there there there
+52m39s: and what what
+52m42s: ah DJ you fool
+52m45s: there it&amp;#39;s getting so excited 854 right
+52m48s: okay that&amp;#39;s why I&amp;#39;m get so excited there
+52m51s: and there we go 147 value 147
+52m57s: sashan says I for sure need to rewatch
+52m59s: this episode a couple of times this cql
+53m0s: thing is cool sashan I think that is the
+53m3s: quote of the day quote of the morning it
+53m5s: is cql is really cool but it&amp;#39;s also very
+53m7s: flexible and to my small brain you have
+53m11s: to think about it a lot just
+53m15s: to become closer to it okay so that&amp;#39;s
+53m19s: why I decided it was probably worthwhile
+53m21s: me super super super digressing today
+53m23s: and having a little play around in the
+53m25s: repple just so we can feel more
+53m27s: comfortable with it I hope that was okay
+53m29s: so
+53m30s: now we understand what the heck is going
+53m34s: on with this weird syntax that doesn&amp;#39;t
+53m37s: look like SQL and it does well it looks
+53m39s: like SQL and it looks like JavaScript
+53m41s: but it looks like SQL only a bit and it
+53m43s: looks like JavaScript only a
+53m45s: bit but actually now we understand what
+53m48s: it is how it works why it works and we
+53m51s: can appreciate it more and feel more
+53m54s: confident hopefully in modifying this
+53m58s: stuff right now it&amp;#39;s
+54m3s: 855 I was going to then suggest we do
+54m8s: one
+54m9s: more function but this time we&amp;#39;ll do a a
+54m14s: bound function let&amp;#39;s actually let&amp;#39;s
+54m16s: define it now uh let&amp;#39;s bring in uh main
+54m20s: CDs right and we&amp;#39;ll Define a bound
+54m25s: function so we&amp;#39;ve done the total
+54m27s: stock which is an Unbound
+54m30s: function so now if we go down here and
+54m33s: say right let&amp;#39;s let&amp;#39;s have a
+54m36s: function this is something I was well
+54m39s: actually I&amp;#39;m thinking about this not for
+54m42s: this area here but I&amp;#39;m doing the
+54m44s: developer challenge next month in July
+54m47s: and I was thinking well I don&amp;#39;t want to
+54m50s: give any the game away right yet right
+54m52s: now
+54m54s: but one of the things is I want people
+54m57s: to work out how to
+54m59s: do uh something like you know stock Val
+55m2s: stock value stock value so I thought we
+55m4s: could apply stock value here let imagine
+55m6s: we have CSV imagine we have um price on
+55m10s: the thing as well right so let&amp;#39;s add
+55m12s: here price 10 price 20 price 30 right so
+55m17s: we got price in there obvious that&amp;#39;s
+55m20s: going to break because we haven&amp;#39;t got
+55m21s: the thing defined in there so let&amp;#39;s add
+55m23s: in the um schema
+55m28s: oops um price there we go
+55m32s: price now now now
+55m37s: now uh get rid of
+55m40s: that so now we&amp;#39;ve
+55m45s: got um
+55m47s: listening no
+55m49s: [Music]
+55m54s: uh uh
+55m58s: books JQ there like that so we got price
+56m2s: now so what we want is a bound function
+56m5s: that will give us the stock value of a
+56m7s: given book so the player of games what
+56m10s: is the stock value it&amp;#39;s basically is
+56m12s: five is how many is there in stock times
+56m15s: the price so 53 well 150 right so how do
+56m19s: you
+56m20s: define in the last minute Andrew thanks
+56m22s: you oh thank you for joining Andrew it&amp;#39;s
+56m23s: lovely tea time now uh how do you define
+56m27s: a bound function let&amp;#39;s just type it out
+56m28s: and let&amp;#39;s think about it next time
+56m30s: actions you have this actions
+56m32s: clause function stock
+56m37s: value returns
+56m40s: integer oh uh where is it
+56m44s: ah uh what am I doing wrong here act oh
+56m46s: actions sorry there actions
+56m50s: there so now we have not only an Unbound
+56m54s: function def defined but a bound
+56m56s: function and look how it&amp;#39;s bound through
+56m58s: this act through this little block here
+57m0s: on the books it&amp;#39;s bound to the books
+57m2s: entity okay um Dwight said Dwight says
+57m5s: how many more sessions before the summer
+57m7s: break this is the best series ever thank
+57m8s: you Dwight um that&amp;#39;s a good point
+57m10s: actually I&amp;#39;m going away in August so
+57m11s: we&amp;#39;ll try and do some uh next month in
+57m14s: July so maybe maybe four more and then
+57m17s: we&amp;#39;ll have it take a break uh so yeah
+57m19s: that&amp;#39;s it so let&amp;#39;s leave it there we&amp;#39;ve
+57m21s: defined this function in fact let&amp;#39;s go
+57m23s: to the H let&amp;#39;s go to the website and go
+57m25s: website metadata um stock value there we
+57m29s: go look function name is bound true
+57m33s: parameter name in Bookshop books okay
+57m35s: look at that that&amp;#39;s implicit parameter
+57m38s: so next time going be next week we&amp;#39;ll
+57m41s: work out how to define the
+57m44s: implementation for this stock value
+57m47s: knowing what we know about SQL and SQL
+57m50s: and all these sorts of things but we&amp;#39;ll
+57m52s: need to know one more thing how to get
+57m55s: the value of the books key that&amp;#39;s passed
+57m59s: automatically when you call the bound
+58m0s: function right see you next week and
+58m3s: have a great Friday have a great weekend
+58m5s: uh sorry for all the digressions but
+58m7s: there we go it&amp;#39;s all fun bye for now

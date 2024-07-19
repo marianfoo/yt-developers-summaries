@@ -1,21 +1,21 @@
-# Summary of DJ Adams' Live Coding Session on SAP CAP
+# Back to basics with SAP Cloud Application Programming Model (CAP) - part 1
+[Watch the video here!](https://www.youtube.com/watch?v=gu5r1EWSDSU)
 
-In this session, DJ Adams reintroduces the SAP Cloud Application Programming Model (CAP) through live coding, providing insights into both the technical aspects of CAP and his personal experiences.
+In this live coding session, DJ Adams explores the SAP Cloud Application Programming Model (CAP). Participants can learn about the basics of CAP, OData services, and local development setups while interacting with an engaging community.
 
-- **Main Topics Covered:**
-  - Introduction to SAP CAP and its significance.
-  - Installation of necessary tools for local development.
-  - Development of services with CAP, specifically focusing on Node.js.
-  - Real-time interaction and viewer engagement.
+### Main Topic
+**Main Topics Covered:**
+- [2m0s](https://www.youtube.com/watch?v=gu5r1EWSDSU&t=2m0s): Introduction to the live stream and SAP ecosystem
+- [12m6s](https://www.youtube.com/watch?v=gu5r1EWSDSU&t=12m6s): Overview of CAP and its significance
+- [16m56s](https://www.youtube.com/watch?v=gu5r1EWSDSU&t=16m56s): Setting up the environment for local development
+- [22m31s](https://www.youtube.com/watch?v=gu5r1EWSDSU&t=22m31s): Discussion on databases in CAP
+- [54m10s](https://www.youtube.com/watch?v=gu5r1EWSDSU&t=54m10s): First CAP application setup and service definition
 
-### SAP CAP Discussion
+### Content
+DJ dives into hands-on coding with SAP CAP, highlighting the importance of starting from basics, especially for newcomers to the framework. He introduces the fundamental concepts and tools necessary for local development, including Node.js, Visual Studio Code, and Docker. Throughout the session, viewers can expect demonstrations of how to create applications using CAP, such as setting up a generic bookshop application. DJ’s approach emphasizes dispelling fears about getting started and encouraging community interaction for questions and clarifications.
 
-DJ dives into SAP CAP fundamentals, specifically aiming to make the content accessible for new developers. He discusses how to set up local development environments using Docker and VS Code, explaining the roles of Node.js and CDS command line tools. The session emphasizes using containers to eliminate installation hurdles on personal machines, allowing for more seamless code development. Viewers learn to initialize a CAP project with a simple command and to understand the folder structure it creates, as well as to add data models easily. DJ encourages viewers to engage with questions, reaffirming that no question is too trivial as they navigate through the coding process together.
+### DJ's private life
+DJ shares details about his recovery from flu while living on a narrowboat in the UK, shedding light on his unique lifestyle and current setup for live streaming.
 
-### Personal Insights
-
-DJ shared that he's been recovering from a recent bout of flu and is currently streaming live from his narrowboat, which adds a unique personal touch to the session.
-
-### Viewer Interaction
-
-Throughout the session, viewers engaged actively in the chat, posing questions and providing insights that contributed to the overall learning experience. DJ highlighted a collaborative atmosphere, encouraging community interaction as they explored SAP CAP and its features together.
+### Chat
+The audience is actively participating in the chat, providing insights and asking questions pertinent to coding concepts and setups. DJ is fostering an interactive atmosphere where no question is too silly, and community engagement is a crucial element of the stream.

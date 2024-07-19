@@ -1,1345 +1,1345 @@
-good morning good afternoon good evening
-welcome to handson Sab Dev another Back
-to Basics session with me DJ cacro
-welcome one and all um we&amp;#39;ve got uh I&amp;#39;ve
-got my I&amp;#39;m I&amp;#39;m looking at the chat up
-here now I&amp;#39;ve got a little bit of a
-different setup because I&amp;#39;m just trying
-to minimize my requirements Hardware
-wise but anyway welcome to gav Good
-Morning gav says awaiting a lovely
-session on CA or cap capap maybe I don&amp;#39;t
-know and welcome to helmet in Brunswick
-pound in Germany and welcome to visz in
-Bangkok Thailand BKK I quite like the
-the abbreviation BKK it&amp;#39;s pretty cool
-like tlas three lesser
-abbreviations I think Hit The Sweet Spot
-with me in terms of you know just
-perfect um so and also from or two Solly
-Hull greetings to you zahed and welcome
-it&amp;#39;s very sunny here it&amp;#39;s also I think
-the pollen count is quite High I&amp;#39;ve been
-sneezing
-uh this morning uh I&amp;#39;ve just been
-sneezing now I&amp;#39;ve just closed the stern
-doors I was going to keep the stern
-doors of my Naro open because the sun is
-shining through in a lovely
-way but um there&amp;#39;s lots of pollen coming
-in as well as you can probably tell from
-my
-nose anyway so welcome Kiara bonjourno
-to you in
-um in breia in Italy and helmet I helmet
-says I already had a training run for
-next week&amp;#39;s ui5 con run hope I can be
-part of the team of course you can be
-part of the team you are part of the
-team I&amp;#39;m currently injured of it well
-that&amp;#39;s fine basically so what helmet is
-referring to is of course next week is
-code connect week where we have um an
-sap code jam on Monday on uh cap and
-service integration on Tuesday it&amp;#39;s
-recap the conference about cap on
-Wednesday it&amp;#39;s ui5 con on Thursday it&amp;#39;s
-AB upcon 2024 Europe and uh it&amp;#39;s going
-to be amazing so all those conferences
-and events and things are taking place
-at
-in in Germany in person but also as we
-put in the news the episode of which
-went out yesterday I&amp;#39;ll give you a link
-in a second you can watch all of the
-sessions virtually so recap ui5 conon
-and abaton all have uh live streams that
-will be streaming each of the tracks and
-the sessions in those tracks and we&amp;#39;re
-having a run I think it&amp;#39;s on is it on uh
-Tuesday Morning the morning before recap
-uh I think that&amp;#39;s right helmet I know
-that wter is going and Rob Robin of
-course and I will be going so
-everybody&amp;#39;s welcome whoever wants to go
-will run at the uh the pace of the the
-steadiest runner that&amp;#39;s cool so there we
-go and Dwight hello to you where have
-you been don&amp;#39;t do that ever
-again well where was I last Friday uh I
-was away I was on holiday yes had a long
-weekend um so it was quite nice so uh
-yeah sorry about that Dwight I won&amp;#39;t do
-it again I&amp;#39;ll try not to do it again
-although next week I am not here again
-cuz I&amp;#39;m giving another code Jam after
-code connect in lusen uh on Friday next
-week so I&amp;#39;m not going to be doing a live
-stream next week but the week after
-again uh procedure good morning to you
-and pratique good morning to you in
-Brisbane ah marvelous good to see you
-did you attend mastering sat sap that
-was in Brisbane wasn&amp;#39;t it uh Kaza good
-morning Bono here to cap exactly so see
-I like that I like that cuz Attis has
-got the spirit of the whole thing uh
-chakia good morning to you and Daniel
-good morning yes some amazing sessions
-with so many new topics on cap I&amp;#39;m
-hosting two workshop at
-recap amazing amazing so I&amp;#39;ve got my
-coffee so let me just switch to the main
-scene so I can start sharing um some
-stuff uh as you know let me put that in
-the chat and I mean you should know this
-anyway but links to all the resources
-are always um in a little comment to the
-sap Community event entry um about this
-particular thing so that that&amp;#39;s that&amp;#39;s
-this you know what&amp;#39;s it called Back to
-Basics with Sab Cloud application
-programming part 14 There&amp;#39;s the link to
-the video we always put one of these in
-here and then I always add a comment
-with some of the stuff I want to share
-and anything we do come across that you
-know we want to also record in terms of
-links we&amp;#39;ll put them in here as well so
-there&amp;#39;s like a reference to everything
-sashan good morning to you and
-Mathematics good morning I love that
-name mathematics how brilliant is that
-so you&amp;#39;re all welcome I love you
-all so um just a couple of things this
-week&amp;#39;s sap developer news is there um
-I&amp;#39;ve shared the link to this thing here
-so you know I don&amp;#39;t need to share
-individual links in the sap developer
-news however um one of the one of the
-items was on an awesome bot sap versions
-bot just jump to that there I won&amp;#39;t play
-the news but I&amp;#39;ll just
-um uh scroll down there and of course in
-the news there we go sap version bot uh
-this is by our friend on the channel Mr
-helmet tman so helmet um if you got any
-other comments that you can want to put
-in the in the chat about this
-bot I use it so check out the news what
-it is and you can go and follow it on uh
-on uh on your masteron account in the
-fediverse it&amp;#39;s amazing so uh yeah thank
-you hel for doing that that&amp;#39;s really
-good so I I keep up to date with all the
-uh cap releases and other ui5 related
-releases and also for example the btp
-provider uh for terraform you know
-that&amp;#39;s in there as well so that&amp;#39;s pretty
-amazing uh so that&amp;#39;s that um oh yes
-we&amp;#39;ve released
-another short in the series Mark tman
-good morning to you looking forward to
-attending recap and ab up conf in order
-next week yes what awesome great to be
-great to catch up with you and any else
-who&amp;#39;s going so in um YouTube we have a
-playlist I don&amp;#39;t know why that&amp;#39;s all
-gray there but anyway I have a playlist
-and what we&amp;#39;re doing is we&amp;#39;re trying to
-sort of um condense into like 60 seconds
-or less in a you know mobile format some
-sort of cap tips and tricks and bits of
-info and everything see where it goes so
-let us know in the chat right now
-whether you think this is useful
-interesting what else you might think
-might go into a short form like this in
-terms of sort of good to know things
-about cap so latest one was on um C
-plugins with the Telemetry plugin so
-there we go and in fact we have Daniel
-schlater in the room and I think did I
-make a did I put in the comment there
-about oh stop did I put in the comment
-about um where is it where&amp;#39;s the
-information
-description uh no um but anyway we&amp;#39;ll
-find it um there&amp;#39;s a really good in fact
-Daniel Scher there we go kept CDs
-plugins how to build uh supplementary
-article reusable components yes I think
-you should read that as well let&amp;#39;s add
-that to reusable components for here
-edit
-ah uh because it&amp;#39;s awesome
-edit why is that so small when you go to
-edit let&amp;#39;s add it there for example
-um reusable
-components uh for cap there there we go
-that&amp;#39;s in there now as well so we got
-that as well okay so let&amp;#39;s get started
-um
-what I want to cover today with you if
-that&amp;#39;s okay with you is um the after
-handlers okay now let&amp;#39;s just take a step
-back uh this is where we left off
-exactly where we left off um last time
-and we were looking starting to look at
-handlers starting to look at custom
-server implementations knowing also of
-course that out of the box uh you know
-the standard cap server the standard
-handlers will do all of the heavy
-lifting for us and it&amp;#39;s really only
-extra bits on top of that standard heavy
-lifting that we need to
-implement um and one of the things we
-looked at very briefly really was the on
-Handler where we say Okay cap I DJ for
-example or us you want to perform all
-the work necessary to return the data
-instead of you dear a cap server doing
-the normal heavy lifting okay so that&amp;#39;s
-quite
-rare that you&amp;#39;d want to do that except
-in the circumstance where for example
-you&amp;#39;re implementing some custom Logic
-for a no data action or a function
-because those
-implementations are also you would also
-provide those in the context of an on
-but we&amp;#39;re not we&amp;#39;ve not got to actions
-and functions yet in od data in cap uh
-so you know just put that let&amp;#39;s put that
-aside for a second we also know there&amp;#39;s
-a before Handler and put in the
-chat what you
-think uh we might use a before Handler
-for um if you look at the links here um
-there&amp;#39;s one down here um cap listening
-one down here uh that talks about the
-different handlers so if I go to the top
-here where is it methods serve on before
-and
-after so before is a Handler that you
-can register that&amp;#39;s
-called um handlers run before the on
-handlers frequently oh it&amp;#39;s giving the
-game away now oh oh chakia chanaka gets
-it anyway exactly data validation um and
-also Amy Amy before can be used for
-create and update operations
-uh possibly
-I can&amp;#39;t think of
-a uh if you wanted to do some
-pre-work uh when you were wanting to
-handle Crea update operations then you
-might want to put it in there before yes
-but I think I think the the the most
-common uh use case for a before Handler
-is for uh inbound data or data
-validation in general you know in in a
-request that&amp;#39;s sent that contains data
-okay um so Rick good morning to you and
-good morning good afternoon AJ in uh
-where are you AJ in Bangalore uh I don&amp;#39;t
-even know a is my friend and colleague
-and I don&amp;#39;t even know where he is
-anyway we&amp;#39;re all Global we&amp;#39;re all
-friends here but what we&amp;#39;re going to
-look at today is the idea of the after
-handlers which run after the on handlers
-frequently to enrich outbound data right
-so it&amp;#39;s and the really interesting thing
-the really really interesting thing is
-well there&amp;#39;s lots of interesting things
-we spent a bit of time last time looking
-at
-the the things that are passed to such a
-on Handler and we know that we get past
-the request object and also by looking
-by using the the rest operator we dug in
-with debugging and we found that what
-gets past is just one other value which
-is a reference to next which is the the
-next Handler in the chain that&amp;#39;s
-actually part of the standard heavy
-lifting mechanisms in the cap server
-okay we found that out so again just to
-repeat in fact if I if I replace that um
-with the word next we sort of see we can
-see with our eyes that&amp;#39;s the sort of
-thing that gets passed to an on Handler
-however
-ever when we start thinking about let&amp;#39;s
-just leave leave that there for a second
-we we&amp;#39;ll do a um this. after as well
-we&amp;#39;ll start registering this. after
-we&amp;#39;ll do a read as well of the
-books but
-now let&amp;#39;s just do that as well there we
-go but now what do we get in here what
-do we get
-past it&amp;#39;s not surp well surp is it
-surprising that it&amp;#39;s not maybe it&amp;#39;s not
-surprising but it&amp;#39;s not the same pair of
-parameters that get passed to an on
-Handler let&amp;#39;s have a look at the
-documentation um Ser before here we go
-CDs request here we go here&amp;#39;s the before
-Handler type uh call back mechanism
-here&amp;#39;s it where&amp;#39;s where&amp;#39;s the on there
-we go there&amp;#39;s the on are we all
-following this by the way there&amp;#39;s the on
-and the Handler gets given two things
-the actual request and the next function
-and that&amp;#39;s what we&amp;#39; got reflected here
-request and next okay we&amp;#39;re only got
-this got these squiggly lines because of
-course we&amp;#39;ve you we&amp;#39;ve defined these but
-we&amp;#39;re not using these bit know there&amp;#39;s a
-brilliant meme um you know with an
-animal saying you know whoa It&amp;#39;s like
-hold on edit I am going to use the
-variable you know who calm down I think
-it&amp;#39;s quite good um but here with the
-after where is it the Handler gets given
-two things but they&amp;#39;re slightly
-different we get given the request just
-in case in our after handling we need to
-refer to something that came in in the
-request but remember at this stage the
-request has already been handled by
-either the standard on Handler that&amp;#39;s
-built into the cap server or by the
-custom on hand on Handler that we&amp;#39;ve
-written
-right and what we get is the first and
-arguably one could say the primary
-parameter is the data the the stuff
-that&amp;#39;s been retrieved or you know
-calculated or
-whatever because of the request that
-came in as in we just get given hey by
-the way uh after Handler here&amp;#39;s the data
-that&amp;#39;s been retrieved do you want to do
-anything with it before I give it back
-to the requester right that&amp;#39;s the idea
-of an after Handler so we get an array
-of objects so so let&amp;#39;s
-see what that means and also you get
-some examples here here of what sort of
-thing we might do we&amp;#39;ll come back to
-this in a second um so let&amp;#39;s just do
-this uh and say down here
-um data should let&amp;#39;s call it data or
-should we call it results should we call
-it results or should we call it data I&amp;#39;d
-like to call it data generically for now
-we&amp;#39;re going to change it anyway so let&amp;#39;s
-maybe call it data and the request okay
-and what all will do
-console.log data okay
-right so far so good any questions um oh
-by the
-way was nice
-coffee by the way by the way by the way
-um in fact we we&amp;#39;ll get we&amp;#39;ll get rid of
-this now we&amp;#39;ll get uh rid of
-that uh
-[Music]
-so let&amp;#39;s start this
-up CDs
-watch and let&amp;#39;s see what
-happens so we&amp;#39;re getting our hello world
-log and we&amp;#39;re getting our I am in the
-anonymous function log output and we&amp;#39;re
-also not yet also and but we&amp;#39;re not yet
-getting this console log data because of
-course there&amp;#39;s no request that&amp;#39;s come in
-that needs to be handled so let&amp;#39;s bring
-in um local
-poost 404 let&amp;#39;s just bring that here and
-put that don&amp;#39;t happen to my oh not there
-there uh no
-ah uh what&amp;#39;s going on put that there
-yeah since the upgrade to Mac OS son 14
-whatever it&amp;#39;s broken something uh which
-is annoying um so now we&amp;#39;re going to
-make a request on
-books now let me put my head down at the
-bottom for a second
-what does that tell us it tells us we
-haven&amp;#39;t we&amp;#39;ve we&amp;#39;ve sort of not done any
-heavy lifting the cap server has
-retrieved or has processed the request
-which is basically the request for the
-entity set the books entity set let&amp;#39;s
-move that across here for a second there
-Bookshop
-books let&amp;#39;s get rid of that there and
-this output
-here is the result of
-this console loog data now in fact is it
-worth taking a digression let me know on
-the chat let me know on the chat is it
-worth taking a
-digression um because it&amp;#39;d be nice to
-have our own custom log records wouldn&amp;#39;t
-it you know we got this OD data log
-record type here
-CDs so why don&amp;#39;t we just
-randomly um let&amp;#39;s get rid let&amp;#39;s get rid
-of this whole hello world one anyway
-right we don&amp;#39;t want that one but what
-we&amp;#39;ll do is we&amp;#39;ll say
-const log or uh logger logger let&amp;#39;s call
-it logger so it&amp;#39;s sort of different to
-log chakia says yes please your
-digressions is a gold mine your
-digression is a gold mine well thank you
-very much I think um H not the same with
-the return next on this do on read Visa
-Visa says yes please um d i uh that
-again not the same with the return next
-on this on read exactly yes exactly
-Dwight that&amp;#39;s really good and in fact
-that reminds me remind me later on to
-dig into what we need to do what is
-expected of us because Dwight makes a
-really really good point a really good
-observation um we needed to make a
-return on the on Handler of next if we
-wanted the next thing to be called right
-but here we&amp;#39;re not making any return at
-all are
-we um and when we start to look at some
-examples which is the the the cap
-samples not cap samples sap samples org
-on GitHub has some great examples of the
-after Handler in use and we&amp;#39;ll look at
-those in a
-second um we&amp;#39;ll s we&amp;#39;ll have a look at
-some of the afters and see what people
-do so Dwight brilliant observation um
-and uh remind me in the chat it&amp;#39;s great
-uh to look into what that is so where
-were we oh yes log so what we can do is
-C say CDs use the CDs um uh
-facade and create a new logger logger
-instance right and CDs log let&amp;#39;s give it
-a name cap uh cap B2B right that&amp;#39;s our
-sort of you know cap Back Back to Basics
-thing now we&amp;#39;ve got that we can replace
-calls to the boring console.log to this
-logger instance we can also mess about
-with the log levels but we&amp;#39;ll do that
-another time because this is not all
-about logging and we&amp;#39;ll do that there as
-well so let&amp;#39;s get rid of that and do
-that and now let&amp;#39;s just save
-that make a request
-again and now check it out how cool is
-that you&amp;#39;ve got your own custom personal
-log records cap B2B okay I think it&amp;#39;s
-quite cool you know small things I&amp;#39;m I&amp;#39;m
-I&amp;#39;m pleased with small
-things like this little cinnamon roll
-thing so so we&amp;#39;ve got logs
-now and notice
-then that what we get given is the in
-the primary argument here the primary
-parameter is the data that&amp;#39;s already
-been retrieved by fulfilling effectively
-more or less fulfilling the request and
-we get a chance if we want
-to to modify that what was that what was
-the phrase that was used here um oh use
-this use this method this after to
-register handlers to run after the on
-handlers frequently used to enrich
-outbound data the Handler received two
-arguments results the outcome of the on
-Handler which R before and an instance
-of the request just in case we need to
-refer to it so let&amp;#39;s do a something
-really stupid it&amp;#39;s but it&amp;#39;s a classic
-thing right it&amp;#39;s a classic sort of just
-adding on to a stream you know we&amp;#39;re
-this is all about Basics here so let&amp;#39;s
-just not complicate not boily
-ocean what all will
-do um is data do um
-map uh well they going be books book
-book.
-tile add on an exclamation mark let&amp;#39;s
-see what see what happens
-there there okay let me make that a
-little bit bigger so that&amp;#39;s a that&amp;#39;s
-that&amp;#39;s a really stupid example and I&amp;#39;ve
-deliberately sort of been very vague
-about what I&amp;#39;m doing here with map with
-the reference to data the data parameter
-with this call back Anonymous callback
-function and everything is you know
-quite functional but I mean know that&amp;#39;s
-that&amp;#39;s by The Bu so this is sort of also
-thinking about what Dwight was talking
-about and what my my answer to my my
-response to what Dwight was had
-observed it&amp;#39;s really interesting what&amp;#39;s
-going on here so keep keep that in your
-mind you know we&amp;#39;re actually inside a
-code block and
-remember remember when you have an
-anonymous f a fat Arrow function like
-this and you have a code block with
-braces nothing gets returned unless you
-explicitly say return this okay so what
-is happening here how is this
-modification in as a call back inside a
-map function on the data inside a CO
-braced code block how is that actually
-having an effect on the data that is
-passing through us going to the as a
-response right because it works look we
-get the exclamation marks there one two
-three so have to think about that
-now what was going to do then
-um what was I going to do oh yes what
-we&amp;#39;re going to do oh yes there&amp;#39;s loads
-of things we can do um one of
-the one of the things I started to get a
-little bit tired
-of is making a change here CDs watch is
-really cool and it&amp;#39;ll monitor for
-changes and restart the server look let
-me just press save there as you know
-everybody knows this yeah right it&amp;#39;ll
-restart but then I&amp;#39;m going to go across
-all the way across over here and then
-refresh B there okay
-now I won&amp;#39;t go into it in too much
-detail because I wrote a blog post about
-it recently but basically if we have a
-look let&amp;#39;s get rid of that and
-that I wrote a blog post called
-controlling automatic HTTP requests in
-cap nodejs design time bit a mouthful
-but have a look at that and what I did
-there was I sort of made things easier
-for myself because I&amp;#39;m lazy and of
-course you know one of one of the great
-attributes of um one of the the supposed
-attributes of a great program is
-laziness so you know I&amp;#39;m striving to be
-more
-lazy is to have the requests
-automatically resubmitted as well okay
-now if what I can do let me get rid of
-that what I can do here is I can open up
-another terminal and I can for example
-um if I
-change um let if I say list uh list all
-those and I can say ENT I think we&amp;#39;ve
-mentioned ENT before ENT is a
-ENT uh run arbitary commands when files
-change I think let me know in the chat
-if we&amp;#39;ve talked about this before let me
-add that to that thing anyway
-ENT ear nose and
-throat uh what&amp;#39;s going on here there
-there ENT Bang there right post so ENT
-is in the uh Docker container as we can
-see here in the dev container Dev
-container Docker file here one of the
-things I install is ENT which is quite
-cool because it&amp;#39;s super useful so I can
-say for example uh ENT uh Echo hello or
-let&amp;#39;s just ENT date let&amp;#39;s just as as an
-example right ENT date okay so it&amp;#39;ll run
-that straight away and then when I
-change something inside the serve
-directory it&amp;#39;ll do whatever ENT tells it
-to do so ENT is the thing that&amp;#39;s
-monitoring the list of these files here
-done save save save now the problem is
-that if I were to say here for example
-ENT curl silent local lat why say lat
-Local Host 404 o data for
-Bookshop books let&amp;#39;s get rid of that
-thing there Bookshop books right like
-that and then if I save that
-again some there we go there we go it
-sometimes doesn&amp;#39;t work because the
-server is still re let me put my head up
-there the server is still restarting
-okay so the the request enter ENT makes
-the Cur request a little bit too early
-it doesn&amp;#39;t give the server time of
-course
-to start and you know starting with the
-all strategy start serving start
-listening and properly
-launching so this blog post is all about
-it&amp;#39;s 826 already DJ uh this blog post is
-all about
-using one of the amazing features of cap
-server which are these life cycle
-events okay so what I did is I created a
-custom server
-JS and started it required sap CDs you
-is that big enough
-required apcds and then started uh def
-defined a callback on the
-listening life cycle event and the
-listening life cycle
-event this is all about the cap server
-now is an event that&amp;#39;s
-fired
-when it finally starts to listen on
-Local 44 in this case you know when it&amp;#39;s
-finally bound to that socket okay oh
-Daniel says and this is very dangerous
-because now there is a difference
-between
-[Music]
-uh there is a difference there that
-heart in the way on the on the chat
-there&amp;#39;s a little heart thing I can&amp;#39;t see
-what Daniel&amp;#39;s written um in fact well
-I&amp;#39;ll write something uh to push up
-Daniel&amp;#39;s chat so I can it moves up up a
-bit in the chat there we go so um Daniel
-says and this is very dangerous because
-now there is a difference between the
-record on the DB and what we see as data
-on the UI yes exactly yeah so this is
-this is a very good thing to point out
-however I mean I&amp;#39;m guessing Daniel
-Daniel&amp;#39;s referring to when I put the
-exclamation
-mark on the um on the on the string okay
-it might not be but Daniel if it&amp;#39;s if
-it&amp;#39;s not let me know what it
-is but it&amp;#39;s just a simple example and
-but also I think it&amp;#39;s also fair to say
-if you look at the if you look at the um
-the classic capay
-example uh we see um here look adding
-11%
-uh discount uh to there and I think on
-the previous ones it sort of adds dash
-dash uh 11% discount onto this onto the
-title of the book okay and that sort of
-deliberately is super simple
-deliberately so um and you probably
-don&amp;#39;t want to do that uh for real I mean
-put an exclamation mark on the end of a
-string is stupid anyway but it&amp;#39;s just to
-show you that we can modify the data or
-add to the data here we&amp;#39;re actually you
-know defining uh a value for a discreet
-property here discount property um
-Daniel&amp;#39;s right to point that out now um
-that said you know we might want to
-change things on the Fly we might want
-to sort of automatically compute or
-modify stuff on the fly if we if that&amp;#39;s
-what we need to do from from a business
-perspective but yes be aware of what you
-do now um so we&amp;#39;ve got this got this
-listening thing so we can start to start
-to work with that so I can now then
-write a file an empty file when the
-listening event is fired so I did that
-in my server thing quite cool but then I
-thought tell you what I could make a
-little plug-in out of this good morning
-to Matias in Dortmund an old friend from
-the handb channel welcome Matas so I
-thought you know what I&amp;#39;m going to write
-a a plug-in version of this so so I did
-cap listening plugin that&amp;#39;s also in the
-um list here cap listening plugin
-so if you want to have a little go at
-starting writing your own
-plug-in this is probably the simplest
-example of a plugin you could ever get
-it&amp;#39;s almost like
-nothing that is the entirety of the code
-okay that&amp;#39;s exactly what we saw in the
-blog post right but now it&amp;#39;s in the form
-of a
-plug-in uh so that and it&amp;#39;s got this
-it&amp;#39;s it&amp;#39;s in the form of a file a magic
-file name a bit like ser JS is a magic
-file that the cap server will say oh
-there&amp;#39;s a server.js a custom server
-implementation I&amp;#39;ll load that and
-execute the contents of that as well the
-plug-in mechanism does a similar sort of
-thing and if you call a file CDs plugin
-in your imported npm package it&amp;#39;ll run
-that and do all the magic so what we&amp;#39;ll
-do here is we&amp;#39;ll say um npm install dve
-Dev this is a Dev a design time
-dependency so we don&amp;#39;t want it in our
-you know in our run time in the cloud or
-anything we just want it in the dev so
-if we do that and we we can you can
-install the package straight from for
-example GitHub straight from git so
-let&amp;#39;s do that this is a major dition but
-there we go there we go uh clear let&amp;#39;s
-do that npm install save Dev now what
-what I mean by save Dev let&amp;#39;s just here
-um package.json there let package.json
-there let&amp;#39;s move that across to there
-note that we got dependencies and Dev
-dependencies we all do we all know the
-difference between dependencies and Dev
-dependencies in npm and node um me Ms
-Dev dependencies sort of do what they
-say on the tin their dependencies just
-for the design time just while we&amp;#39;re
-developing and that save Dev means save
-it in there record this in there not in
-there because that&amp;#39;s the stuff that
-gets um gets installed when you build
-and push to for example you know Cloud
-Foundry which we don&amp;#39;t want we don&amp;#39;t
-want we don&amp;#39;t want this in production so
-let&amp;#39;s run
-that that was a long
-explanation Okay add did one package at
-and notice there look line we got it in
-line 14 cap listening plugin there&amp;#39;s a
-reference to um the the repo there so
-now if we oh in fact if we do an LS a
-what is the lat let&amp;#39;s list in Long
-format and show the latest last we can
-see this this listening file that&amp;#39;s been
-created it&amp;#39;s been created at 732 which
-is just now 832 732 UTC and there it&amp;#39;s
-because of this listening thing so if I
-were to in fact um
-watch LS minus L
-listening there right if if I now Run is
-it 730 it&amp;#39;s still 732 does that make
-sense by the way and also is this
-digression okay um I think I think it is
-it might be useful because it it&amp;#39;s super
-I find it super useful to be able to
-sort of you know hands free have a have
-my Cur request have my HTTP request
-readon for me when I change something
-but only when the server gets a chance
-to restart so Shak says why is CD SDK
-not not part of Dev dependencies well
-that&amp;#39;s a that&amp;#39;s a really good question
-maybe Daniel can help us out on that
-question there but basically it&amp;#39;s almost
-like cdsd
-K is a given you need CSD cdsd K
-installed globally to sort of bootstrap
-the whole sort of project initiation
-right so when I said CDs in it right at
-the very start of this um series to
-create a new cap project
-there was no project there was no um you
-know there was no package Json there was
-no nothing it&amp;#39;s almost like the big bang
-so we needed csdk sort of installed
-globally anyway now um so that hopefully
-that makes sense to ARA so now if I save
-main.js that should restart the server
-but o when and only when in fact um yeah
-when and only when this server listening
-gets retriggered we get the listening
-event fired at the life cycle event and
-then that will cause the cap plug PL in
-to uh touch this listening file which
-should change the Tim stamp so let&amp;#39;s
-save that bum bum bum and then there 34
-okay perfect
-so with all that in mind what we can do
-now is get rid of this what we can do
-now is say um list listening so all we
-need to do now is look out for the
-listening file changes pass that to ENT
-and then say let&amp;#39;s clear the screen
-that&amp;#39;s also let&amp;#39;s put a few things let&amp;#39;s
-put it in bash C uh dates and then curl
-minus s Local Host you know what it&amp;#39;s
-only when I&amp;#39;m on the live stream I type
-lolcat host I always type Local Host
-correctly when I&amp;#39;m not on the live
-stream what&amp;#39;s going on 404 o data B4
-catalog books and we&amp;#39;ll pass it into JQ
-to format it nicely there oh what&amp;#39;s
-going on uh bash C update curl minus s
-local 44 o dat V4 catalog books uh let&amp;#39;s
-just pass that not into JQ for a second
-what&amp;#39;s going
-on oh that&amp;#39;s why OA V4 what oh it&amp;#39;s not
-catalog it&amp;#39;s it&amp;#39;s it&amp;#39;s
-um
-Bookshop there right okay so now now now
-now now now watch
-this I can make a change here save that
-that will restart but only once that&amp;#39;s
-restarted and started listening again
-will this call be made okay does that
-make sense let me know in the chat give
-us a give us a give us a sign in the
-chat that that makes sense and whether
-you think that&amp;#39;s going to be useful for
-you and also maybe you can sort of you
-know clone the repo and start developing
-your own plugins because it&amp;#39;s amazing
-right um okay so now we&amp;#39;ve got
-everything set up and we can sort of re
-have these things retried now I can just
-go into here and let&amp;#39;s sort of get rid
-of this let&amp;#39;s put uh some x&amp;#39;s instead
-right so x x x x x just to just show us
-that we know we&amp;#39;re making a change we
-can visually see that okay
-fine now so actually just going back to
-oh yeah no we we want to look at um we
-want to look at some of the examples
-don&amp;#39;t we so in
-here what
-I put here I just I don&amp;#39;t know what&amp;#39;s
-going on with this white space here you
-know I can&amp;#39;t I can&amp;#39;t make this white
-space go away sorry about that um when
-you have a nested bullet thing so here&amp;#39;s
-some examples in
-sap in the sap samples org on GitHub of
-use of the after so let&amp;#39;s let&amp;#39;s open
-them all up we don&amp;#39;t need that let&amp;#39;s get
-rid of that let&amp;#39;s get rid of that let&amp;#39;s
-open them all up and just have a quick
-browse through uh do you find a custom
-after Handler oh uh we&amp;#39;ll come back to
-that in a second uh there right we&amp;#39;ve
-seen that one already
-so dot
-after
-so for example that bit bigger for
-example and this is a great way I would
-say to sort of learn about and just just
-stare at and start to soak it up under
-your
-skin what it feels like to write
-handlers what what CDs feels like what
-what node.js handlers feel like you know
-just I think we should read more code
-right so for example here we can see
-that you know an after Handler is being
-used well there&amp;#39;s three after handlers
-and they&amp;#39;re all being used in really
-interesting to my brain to my small
-brain ways they&amp;#39;re they&amp;#39;re being used in
-an update context we&amp;#39;re using an after
-Handler right now in a read context but
-this is an update context so we can sort
-you can go back and stare at that for
-example and you can also you know pick
-out some beautiful sort of cql right
-core career language stuff but we&amp;#39;re
-going do that another time so there&amp;#39;s
-there&amp;#39;s one example let&amp;#39;s have a look
-there there look at that there is that
-um
-classic that what I was referring to
-when I was sort of addressing what
-Daniel was very correctly pointing out
-this is the Canon almost the canonical
-capaya capir um example where we
-basically append something onto a string
-that of something that already exists so
-add on to the end of the title-- 11%
-discount but it&amp;#39;s I think it&amp;#39;s still
-beautiful because it just it&amp;#39;s really
-simple so this is the simplest thing
-that could possibly work but
-but who can spot what is the what is the
-value of the first parameter that&amp;#39;s
-passed to this after function each what
-the heck is that all about put in the
-chat what you think that is all about
-okay have you ever seen each at all and
-if so have you seen each in that
-position in the parameter
-list let me know in the chat we got to
-come back to that uh there&amp;#39;s another
-after after submit order and this is
-also beautiful example right youit an
-event so an after Handler is a really
-good idea good idea is a really good
-opportunity to do stuff
-like emit function emit events when
-things have happened because the after
-he&amp;#39;s sort of saying well you know the
-main the main event has happened event
-is is an overloaded term there the M you
-know the main handling of this request
-has happened successfully so I&amp;#39;m going
-to you know raise an event so this have
-to submit order submit order given the
-name we can sort of tell it&amp;#39;s probably a
-o data function or an action so it&amp;#39;s not
-you know a standard CR plus Q style
-operation so oh wait this emit this.
-emit ordered book right um we&amp;#39;ll do
-events another time right and then
-finally is it finally uh search for
-after there look at that there&amp;#39;s another
-beautiful example you can actually have
-an after Handler there&amp;#39;s the actual uh
-Handler
-definition running for multiple
-different operations on a a given
-entity okay and then there was one more
-which I think brings us back to what
-Dwight said before after there read ah
-yeah oh there we go that&amp;#39;s it that
-that&amp;#39;s all there is not of one um so
-check this out this is also interesting
-because um oh atanu says and Sir can you
-explain line 19 this. emit ah okay of
-course where was it uh was it that one
-there
-maybe uh the
-was it line 19 or 29 maybe I well
-there&amp;#39;s a this.
-emit now I guess I guess the the easiest
-way to explain it if you go to to cap
-somewhere in cap and do a search for
-Emit let&amp;#39;s see what happens uh handling
-operator emitter serve. emit there we go
-serve. emit or messaging emitting events
-okay
-so generally the cap server it&amp;#39;s
-this is this is philosophy um in scri in
-scripting in some functional languages
-in sort of you know obtuse philosophy
-one version of which is every in in TCL
-for example everything is a
-string okay everything is a this
-everything is a that everything is a
-string in cap I think it&amp;#39;s also fair to
-say in a sort of really light way
-everything is an
-event whether that&amp;#39;s incoming standard o
-data operations like you know a read or
-a query or a update or
-incoming uh functions like you know
-submit order or
-actions all these are handled as events
-right but also the cap server can
-respond to events in the more
-traditional sense of the word event I.E
-events in the context of mqtt or uh a
-mqp or HTTP based events right but so it
-can it treats everything almost like the
-same which is a beautiful way of
-thinking about things but what cap can
-also do what you can also do in a server
-implementation is not only you know
-respond to requests you can make
-requests of external services for
-example but you can also as well as
-respond to uh incoming or events that
-are
-created you can also create events
-yourself
-so admitting events what did it say here
-yeah there we go um a wait messaging
-admit right so you can you can admit
-events and event Eventing uh and cap is
-just so amazing right so uh that&amp;#39;s
-almost like a separate series we should
-do that shouldn&amp;#39;t we we should do that
-so hopefully that explains it a little
-bit atanu is that let me know if that
-explains it um so could that event be a
-I wish I wish the YouTube chat wouldn&amp;#39;t
-put that heart in the way because I
-can&amp;#39;t see what uh Kaz that is saying let
-me go there um could that event be a
-post request to an S4 Hannah from btp
-well yes but it wouldn&amp;#39;t be an event in
-the same way that we&amp;#39;re looking at
-here um in where was it there that is an
-event that&amp;#39;s been defined okay um as uh
-we&amp;#39;re digressing here but that&amp;#39;s let&amp;#39;s
-just what was that where were we cat
-service cat service let&amp;#39;s have a look um
-authenticated user somewhere somewhere
-somewhere there will be an event defined
-right uh unless it&amp;#39;s a standard event uh
-cap Service uh ordered book um we we
-could look we could look but basically
-there&amp;#39;ll be an event defined called
-ordered book and that event will have a
-payload defined and that payload in this
-case has got a book um property and a
-quantity property and a buyer property
-right um so you know we we&amp;#39;ll dig into
-that maybe another time but uh basically
-it&amp;#39;s an event that&amp;#39;s defined um in in
-sort of
-what&amp;#39;s the word what&amp;#39;s the it used to be
-called messaging service what&amp;#39;s it
-called now
-uh I don&amp;#39;t know uh sap Cloud messaging
-service I don&amp;#39;t know what it&amp;#39;s called
-now changed the name and it&amp;#39;s confused
-me um basically it&amp;#39;s that sort of event
-s that hopefully uh um explain that a
-little bit kazes uh so yes you could
-make a post to uh a post request to
-esana in an after uh context of course
-she could yes event mesh thank thank you
-chak event mesh event mesh DJ come on
-wake up um so there we go now um what
-what we were about to look at we were
-about to look at this thing here yes
-there we go that thing there what time
-is it
-8:44
-now I have a think maybe we&amp;#39;ll do this
-next time because this takes a lot of I
-think this should take a lot of digging
-in notice on line 15 for each
-how many people are aware of what for
-each for each does in JavaScript in
-nodejs
-JavaScript and how that
-differs philosophically but also
-practically from map which we just
-used and how that mutates changes or
-doesn&amp;#39;t the data upon which it&amp;#39;s being
-uh it is operating
-this is such a beautiful example here
-because we&amp;#39;ve
-got this
-after method and we&amp;#39;re passing it the
-definition of a function oh sorry we&amp;#39;re
-passing it a definition of a function
-which basically is just that blue
-highlighted bit there and that function
-is basically Anonymous function
-expecting a data parameter is only only
-is only interested in the data in the
-results that are passed to it and what
-what it will do is it will call this
-function change urgency due to subject
-which is there right in this passing it
-the data and what this does it receives
-the data and makes sure the data there
-is some data and also it&amp;#39;ll do a little
-sort of uh little dance to say well you
-know is this an array is this not an
-array U if it it isn&amp;#39;t let&amp;#39;s just assume
-let&amp;#39;s just make it an array by enclosing
-in square brackets that&amp;#39;s quite
-interesting in terms of um what we want
-to look at shortly with each
-right um but yes uh and then it will go
-through each of the elements right in
-this array with for each and
-then set
-something okay now the question is does
-setting something inside of for each
-mutate or
-not okay that&amp;#39;s a big
-question and what is this data you know
-the what is data that gets passed to
-us think these are really big
-philosophical questions but I think it&amp;#39;s
-important to understand how this I mean
-we can we can use this as is you know
-without thinking too deeply about it but
-I think I think it&amp;#39;s important to
-understand what actually is going on
-now uh chinaka says uh chinaki is on
-fire today with the chats brilliant
-chinaka cudos to you um so map is a
-higher order function which doesn&amp;#39;t
-mutate the original array perfect
-a higher order function basically a
-higher order function phrase higher
-order function is from functional
-programming mostly and it means a
-function that can take another function
-as an argument and
-or emit or sorry not don&amp;#39;t use emit
-because that&amp;#39;s an overloaded term or and
-or produce a new function as its output
-okay that&amp;#39;s you know higher order
-functions are a fundamental basis of
-functional programming and it&amp;#39;s a
-beautiful thing right so chakia is
-correct in that uh regard but also
-correct in that it the whole idea of map
-is that if you use it in the normal way
-it doesn&amp;#39;t change what you&amp;#39;re mapping
-over it produces a
-new instance of the array over which
-you&amp;#39;re mapping now the Callback function
-that you can pass to map in this sort of
-higher Ro
-relationship you do get information you
-get a reference to the array itself and
-you get a reference to the index of the
-the item that you&amp;#39;re mapping over you
-could if you wanted to if you really
-stupid use that to mutate the actual
-original array so you can technically do
-it but you&amp;#39;d be an idiot if you did
-right so for each janaka says um uh
-mutates the original in fact before we
-go to mutating Mark has said something
-really interesting as well which is also
-correct which is one of the beautiful
-things about map is that being a higher
-function and being more of the
-functional
-programming aesthetic that&amp;#39;s the wrong
-word but anyway I&amp;#39;m going to use it in
-JavaScript it allows us to change
-because the it it
-produces this new array so you you you
-map over an array and it produces an
-array in fact Let&amp;#39;s Do It Let&amp;#39;s Do It
-Let&amp;#39;s Do It um node node um const a
-equals and notice I&amp;#39;m using const right
-sort of to sort of underline oh my God
-849 to under line that we&amp;#39;re not going
-to be mutating this we can&amp;#39;t mutate it
-if it&amp;#39;s a constant 1 2 3 right let&amp;#39;s do
-that a do map right um x x um
-plus 10 right and so if we run
-that uh use an anonymous function as the
-single parameter to map there are there
-are other anyway that&amp;#39;s not even go
-there that&amp;#39;s what happens right what
-happens
-there so it produces something now going
-to
-Mark&amp;#39;s um comment here which is also
-very correct and very important for each
-is not chainable so if I wanted to say a
-do map um and then dot filter and but
-only show me the ones that are where X
-is less than
-um 12 for example there okay so we can
-we can sort of chain functions together
-in a beautiful way now if we were to say
-a do for each
-x x um +
-10
-right it doesn&amp;#39;t spit anything out so we
-couldn&amp;#39;t then change something on here
-filter you know cannot read properties
-of undefined you know the we get
-undefined from the for each so we can&amp;#39;t
-chain these things
-right and um it&amp;#39;s it&amp;#39;s immutable but if
-we were to say VAR b equals
-456 B do um uh B do4 each x x +
-10 456 that doesn&amp;#39;t uh mutate either
-however and we&amp;#39;ll I don&amp;#39;t I don&amp;#39;t want
-to go into this in too much detail for
-each can and does
-mutate right in fact let&amp;#39;s let&amp;#39;s go into
-it really quickly right and I&amp;#39;ll say
-very briefly the reason
-why we&amp;#39;re not mutating these values here
-is because these are primitive values
-like booleans uh integers strings for
-example are primitive values and
-function calls in JavaScript are pass by
-value okay yes exactly VA says uh for
-each always returns undefined exactly um
-so if we but if we were to have um far
-um C equals um I don&amp;#39;t know ah color
-red um
-color blue right for example there and
-then we we would to say C do for
-each uh x x dot in fact in fact let&amp;#39;s do
-map first map let&amp;#39;s let&amp;#39;s clear the
-screen
-uh there there C so if we say C map um x
-x. color let&amp;#39;s just get a list of the
-colors there red and blue okay if we
-were to say for example uh x. color
-equals uh different
-color we would get that okay um which is
-also fine however if we were to say x uh
-C dot for each x x.
-color equals a new
-color check it out we&amp;#39;ve mutated the
-original
-now let me know in the chat if in the
-next episode we want to go a little bit
-deeper into this and why this happens to
-objects and why this doesn&amp;#39;t
-happen
-to uh oh be sorry to um to Primitives
-okay and what that effect has on things
-like this it it we need to understand a
-little bit
-about this to properly understand what&amp;#39;s
-going on here right does that make sense
-anyway before we
-go before we go six minutes left what I
-want to do is talk a little bit about
-and that&amp;#39;s also by the way why and again
-we need to I think we need to understand
-this because it&amp;#39;s really important why
-this is working because we&amp;#39;re not
-returning anything here are we we are
-not returning anything even if we did
-oops it would be exactly the same right
-it would have no real new effect look I
-love I love the listening plugin because
-it&amp;#39;s only going to request it now there
-that um it&amp;#39;s the same thing we don&amp;#39;t
-really need to do the return we should
-normally if we want to pass information
-back from this Co this Anonymous call
-back function when it&amp;#39;s defined in curly
-braces you know nothing&amp;#39;s actually
-returned so what is happening but before
-we do anything else so Dwight says the
-this on read is intercepting the request
-before the data are actually read
-whereas this after read the data are
-actually available thus the anonymous
-function can operate yes you absolutely
-Dwight is absolutely
-right but I think I&amp;#39;m I&amp;#39;m I&amp;#39;m what I&amp;#39;m
-more focused on
-here what what Dwight says is 100%
-correct and not in dispute here at all
-right um what I&amp;#39;m saying
-is why
-does doing a map for example that
-returns something but we&amp;#39;re in a in this
-code block here which means that there&amp;#39;s
-nothing passed back from this Anonymous
-function so how can we even affect the
-data that&amp;#39;s coming
-through why does that
-work okay that&amp;#39;s what we&amp;#39;ll I think we
-do need to look into this next time let
-me know in the chat if you want to look
-into it next time so Mark says um for
-your information if you use uh sap XS
-security don&amp;#39;t use V before wasted my
-hole yesterday as there&amp;#39;s a bug in it
-thank you Mark that&amp;#39;s very nice uh visas
-I guess because array is passed by
-reference we modify value in the memory
-of that array visas has got it visas has
-got it now we want to unpack what visa
-says next time I think by some simple
-examples uh here uh if you want to do
-that let me know okay so uh Kiara says
-complex objects are passed by reference
-yes exactly exactly exactly so uh some
-of you are getting it already which is
-beautiful right so Michael says objects
-in JavaScript are uh again I need to see
-what say uh are references like points
-into yes well yes they are references
-but function calls are passed by yeah
-okay brilliant brilliant so you&amp;#39;re with
-me you&amp;#39;re with me you&amp;#39;re with me you&amp;#39;re
-with me
-now what I want to do here is just
-explore a little
-bit uh logger let&amp;#39;s log the data right
-let&amp;#39;s do
-that come on come on come on there we go
-okay
-perfect
-so what do we get logged out we
-get with our little cap B2B log of
-prefix cool we get an array of
-objects okay now if we were to
-say each here let&amp;#39;s just whack it in
-right before thinking about it let&amp;#39;s use
-that example that we saw somewhere here
-right
-uh where was it
-um I can&amp;#39;t remember where it was now uh
-there maybe each doesn&amp;#39;t matter doesn&amp;#39;t
-matter doesn&amp;#39;t matter
-um now I&amp;#39;ve just changed read to each a
-magic
-word if I save
-that we get the same
-response but check out what have we got
-what&amp;#39;s the difference over here we get
-get not one log record with an array we
-get three log records each with not an
-array but a single
-object okay this is a convenience
-function it used to be that this
-happened uh when you put each here and
-when you actually
-named it still does actually I think for
-compatible backwards compatible oh maybe
-it doesn&amp;#39;t data is not oh sorry logger
-uh each there it&amp;#39;s for backward
-compatibility reasons that still works
-but we shouldn&amp;#39;t use that approach okay
-um we should
-instead use that approach now I&amp;#39;ve
-written about this
-inh where is
-it each where is it there blog post
-defining a custom after handling cap so
-that there describes what I&amp;#39;m I&amp;#39;m
-rushing
-through and what you should do okay so
-basically tldr there&amp;#39;s a special
-behavior if you using each parameter
-name when defining an after Handler but
-the way this works and the way you
-should invoke it has changed okay so
-check that out as well and we&amp;#39;ll dig in
-a little bit more and do some cool
-things with an after Handler uh I think
-we might going back to what Daniel said
-he gave me the idea that we could Define
-a virtual property a virtual element in
-our books for example
-so that we don&amp;#39;t have that persisted in
-the database we just have it computed on
-the Fly there&amp;#39;s another ex there&amp;#39;s
-another another way you can use the
-after Handler to sort of compute values
-okay and put those values in a virtual
-element that doesn&amp;#39;t get persisted but
-gets exposed in the O dat service right
-I hope that was okay
-um no live stream next week because I&amp;#39;m
-doing a code Jam but let&amp;#39;s do this let&amp;#39;s
-carry on the week after um and isan good
-morning and over there we go uh so uh
-watch the live stream replay is isan
-isan sorry isan and Dwight great stuff
-thanks DJ wez thanks DJ and every one ni
-session Amy thank you all Kaz kazazis
-and yeah okay goodbye have a great
-Friday have a great weekend and see you
-soon bye
+0m28s: good morning good afternoon good evening
+0m30s: welcome to handson Sab Dev another Back
+0m33s: to Basics session with me DJ cacro
+0m36s: welcome one and all um we&amp;#39;ve got uh I&amp;#39;ve
+0m39s: got my I&amp;#39;m I&amp;#39;m looking at the chat up
+0m41s: here now I&amp;#39;ve got a little bit of a
+0m42s: different setup because I&amp;#39;m just trying
+0m44s: to minimize my requirements Hardware
+0m46s: wise but anyway welcome to gav Good
+0m50s: Morning gav says awaiting a lovely
+0m52s: session on CA or cap capap maybe I don&amp;#39;t
+0m55s: know and welcome to helmet in Brunswick
+0m59s: pound in Germany and welcome to visz in
+1m2s: Bangkok Thailand BKK I quite like the
+1m5s: the abbreviation BKK it&amp;#39;s pretty cool
+1m8s: like tlas three lesser
+1m11s: abbreviations I think Hit The Sweet Spot
+1m15s: with me in terms of you know just
+1m17s: perfect um so and also from or two Solly
+1m21s: Hull greetings to you zahed and welcome
+1m25s: it&amp;#39;s very sunny here it&amp;#39;s also I think
+1m27s: the pollen count is quite High I&amp;#39;ve been
+1m29s: sneezing
+1m31s: uh this morning uh I&amp;#39;ve just been
+1m33s: sneezing now I&amp;#39;ve just closed the stern
+1m35s: doors I was going to keep the stern
+1m36s: doors of my Naro open because the sun is
+1m38s: shining through in a lovely
+1m40s: way but um there&amp;#39;s lots of pollen coming
+1m44s: in as well as you can probably tell from
+1m45s: my
+1m46s: nose anyway so welcome Kiara bonjourno
+1m49s: to you in
+1m51s: um in breia in Italy and helmet I helmet
+1m55s: says I already had a training run for
+1m57s: next week&amp;#39;s ui5 con run hope I can be
+2m0s: part of the team of course you can be
+2m1s: part of the team you are part of the
+2m3s: team I&amp;#39;m currently injured of it well
+2m5s: that&amp;#39;s fine basically so what helmet is
+2m7s: referring to is of course next week is
+2m10s: code connect week where we have um an
+2m13s: sap code jam on Monday on uh cap and
+2m17s: service integration on Tuesday it&amp;#39;s
+2m18s: recap the conference about cap on
+2m21s: Wednesday it&amp;#39;s ui5 con on Thursday it&amp;#39;s
+2m24s: AB upcon 2024 Europe and uh it&amp;#39;s going
+2m27s: to be amazing so all those conferences
+2m30s: and events and things are taking place
+2m32s: at
+2m33s: in in Germany in person but also as we
+2m38s: put in the news the episode of which
+2m40s: went out yesterday I&amp;#39;ll give you a link
+2m42s: in a second you can watch all of the
+2m44s: sessions virtually so recap ui5 conon
+2m48s: and abaton all have uh live streams that
+2m52s: will be streaming each of the tracks and
+2m55s: the sessions in those tracks and we&amp;#39;re
+2m58s: having a run I think it&amp;#39;s on is it on uh
+3m0s: Tuesday Morning the morning before recap
+3m3s: uh I think that&amp;#39;s right helmet I know
+3m5s: that wter is going and Rob Robin of
+3m7s: course and I will be going so
+3m9s: everybody&amp;#39;s welcome whoever wants to go
+3m10s: will run at the uh the pace of the the
+3m12s: steadiest runner that&amp;#39;s cool so there we
+3m15s: go and Dwight hello to you where have
+3m17s: you been don&amp;#39;t do that ever
+3m20s: again well where was I last Friday uh I
+3m23s: was away I was on holiday yes had a long
+3m26s: weekend um so it was quite nice so uh
+3m30s: yeah sorry about that Dwight I won&amp;#39;t do
+3m31s: it again I&amp;#39;ll try not to do it again
+3m32s: although next week I am not here again
+3m35s: cuz I&amp;#39;m giving another code Jam after
+3m37s: code connect in lusen uh on Friday next
+3m40s: week so I&amp;#39;m not going to be doing a live
+3m42s: stream next week but the week after
+3m44s: again uh procedure good morning to you
+3m46s: and pratique good morning to you in
+3m48s: Brisbane ah marvelous good to see you
+3m52s: did you attend mastering sat sap that
+3m54s: was in Brisbane wasn&amp;#39;t it uh Kaza good
+3m57s: morning Bono here to cap exactly so see
+4m1s: I like that I like that cuz Attis has
+4m4s: got the spirit of the whole thing uh
+4m7s: chakia good morning to you and Daniel
+4m9s: good morning yes some amazing sessions
+4m11s: with so many new topics on cap I&amp;#39;m
+4m12s: hosting two workshop at
+4m15s: recap amazing amazing so I&amp;#39;ve got my
+4m20s: coffee so let me just switch to the main
+4m23s: scene so I can start sharing um some
+4m26s: stuff uh as you know let me put that in
+4m29s: the chat and I mean you should know this
+4m30s: anyway but links to all the resources
+4m33s: are always um in a little comment to the
+4m36s: sap Community event entry um about this
+4m40s: particular thing so that that&amp;#39;s that&amp;#39;s
+4m42s: this you know what&amp;#39;s it called Back to
+4m43s: Basics with Sab Cloud application
+4m44s: programming part 14 There&amp;#39;s the link to
+4m46s: the video we always put one of these in
+4m48s: here and then I always add a comment
+4m50s: with some of the stuff I want to share
+4m52s: and anything we do come across that you
+4m53s: know we want to also record in terms of
+4m57s: links we&amp;#39;ll put them in here as well so
+4m59s: there&amp;#39;s like a reference to everything
+5m1s: sashan good morning to you and
+5m3s: Mathematics good morning I love that
+5m5s: name mathematics how brilliant is that
+5m8s: so you&amp;#39;re all welcome I love you
+5m11s: all so um just a couple of things this
+5m14s: week&amp;#39;s sap developer news is there um
+5m16s: I&amp;#39;ve shared the link to this thing here
+5m18s: so you know I don&amp;#39;t need to share
+5m19s: individual links in the sap developer
+5m21s: news however um one of the one of the
+5m24s: items was on an awesome bot sap versions
+5m29s: bot just jump to that there I won&amp;#39;t play
+5m31s: the news but I&amp;#39;ll just
+5m32s: um uh scroll down there and of course in
+5m35s: the news there we go sap version bot uh
+5m39s: this is by our friend on the channel Mr
+5m42s: helmet tman so helmet um if you got any
+5m45s: other comments that you can want to put
+5m47s: in the in the chat about this
+5m49s: bot I use it so check out the news what
+5m52s: it is and you can go and follow it on uh
+5m54s: on uh on your masteron account in the
+5m57s: fediverse it&amp;#39;s amazing so uh yeah thank
+5m59s: you hel for doing that that&amp;#39;s really
+6m1s: good so I I keep up to date with all the
+6m3s: uh cap releases and other ui5 related
+6m6s: releases and also for example the btp
+6m8s: provider uh for terraform you know
+6m10s: that&amp;#39;s in there as well so that&amp;#39;s pretty
+6m12s: amazing uh so that&amp;#39;s that um oh yes
+6m16s: we&amp;#39;ve released
+6m18s: another short in the series Mark tman
+6m21s: good morning to you looking forward to
+6m24s: attending recap and ab up conf in order
+6m25s: next week yes what awesome great to be
+6m28s: great to catch up with you and any else
+6m29s: who&amp;#39;s going so in um YouTube we have a
+6m33s: playlist I don&amp;#39;t know why that&amp;#39;s all
+6m35s: gray there but anyway I have a playlist
+6m37s: and what we&amp;#39;re doing is we&amp;#39;re trying to
+6m39s: sort of um condense into like 60 seconds
+6m41s: or less in a you know mobile format some
+6m45s: sort of cap tips and tricks and bits of
+6m46s: info and everything see where it goes so
+6m48s: let us know in the chat right now
+6m50s: whether you think this is useful
+6m51s: interesting what else you might think
+6m53s: might go into a short form like this in
+6m56s: terms of sort of good to know things
+6m58s: about cap so latest one was on um C
+7m2s: plugins with the Telemetry plugin so
+7m4s: there we go and in fact we have Daniel
+7m6s: schlater in the room and I think did I
+7m8s: make a did I put in the comment there
+7m10s: about oh stop did I put in the comment
+7m11s: about um where is it where&amp;#39;s the
+7m13s: information
+7m14s: description uh no um but anyway we&amp;#39;ll
+7m17s: find it um there&amp;#39;s a really good in fact
+7m21s: Daniel Scher there we go kept CDs
+7m24s: plugins how to build uh supplementary
+7m27s: article reusable components yes I think
+7m29s: you should read that as well let&amp;#39;s add
+7m30s: that to reusable components for here
+7m34s: edit
+7m36s: ah uh because it&amp;#39;s awesome
+7m39s: edit why is that so small when you go to
+7m42s: edit let&amp;#39;s add it there for example
+7m45s: um reusable
+7m50s: components uh for cap there there we go
+7m54s: that&amp;#39;s in there now as well so we got
+7m56s: that as well okay so let&amp;#39;s get started
+7m59s: um
+8m0s: what I want to cover today with you if
+8m2s: that&amp;#39;s okay with you is um the after
+8m6s: handlers okay now let&amp;#39;s just take a step
+8m10s: back uh this is where we left off
+8m12s: exactly where we left off um last time
+8m16s: and we were looking starting to look at
+8m19s: handlers starting to look at custom
+8m21s: server implementations knowing also of
+8m23s: course that out of the box uh you know
+8m26s: the standard cap server the standard
+8m28s: handlers will do all of the heavy
+8m30s: lifting for us and it&amp;#39;s really only
+8m33s: extra bits on top of that standard heavy
+8m37s: lifting that we need to
+8m40s: implement um and one of the things we
+8m43s: looked at very briefly really was the on
+8m45s: Handler where we say Okay cap I DJ for
+8m50s: example or us you want to perform all
+8m54s: the work necessary to return the data
+8m58s: instead of you dear a cap server doing
+9m0s: the normal heavy lifting okay so that&amp;#39;s
+9m3s: quite
+9m4s: rare that you&amp;#39;d want to do that except
+9m6s: in the circumstance where for example
+9m9s: you&amp;#39;re implementing some custom Logic
+9m11s: for a no data action or a function
+9m14s: because those
+9m16s: implementations are also you would also
+9m20s: provide those in the context of an on
+9m22s: but we&amp;#39;re not we&amp;#39;ve not got to actions
+9m24s: and functions yet in od data in cap uh
+9m28s: so you know just put that let&amp;#39;s put that
+9m30s: aside for a second we also know there&amp;#39;s
+9m32s: a before Handler and put in the
+9m35s: chat what you
+9m39s: think uh we might use a before Handler
+9m44s: for um if you look at the links here um
+9m49s: there&amp;#39;s one down here um cap listening
+9m53s: one down here uh that talks about the
+9m56s: different handlers so if I go to the top
+9m57s: here where is it methods serve on before
+10m1s: and
+10m2s: after so before is a Handler that you
+10m6s: can register that&amp;#39;s
+10m8s: called um handlers run before the on
+10m12s: handlers frequently oh it&amp;#39;s giving the
+10m14s: game away now oh oh chakia chanaka gets
+10m17s: it anyway exactly data validation um and
+10m21s: also Amy Amy before can be used for
+10m24s: create and update operations
+10m27s: uh possibly
+10m30s: I can&amp;#39;t think of
+10m32s: a uh if you wanted to do some
+10m37s: pre-work uh when you were wanting to
+10m39s: handle Crea update operations then you
+10m41s: might want to put it in there before yes
+10m42s: but I think I think the the the most
+10m46s: common uh use case for a before Handler
+10m50s: is for uh inbound data or data
+10m53s: validation in general you know in in a
+10m55s: request that&amp;#39;s sent that contains data
+10m57s: okay um so Rick good morning to you and
+11m1s: good morning good afternoon AJ in uh
+11m5s: where are you AJ in Bangalore uh I don&amp;#39;t
+11m7s: even know a is my friend and colleague
+11m9s: and I don&amp;#39;t even know where he is
+11m12s: anyway we&amp;#39;re all Global we&amp;#39;re all
+11m14s: friends here but what we&amp;#39;re going to
+11m16s: look at today is the idea of the after
+11m20s: handlers which run after the on handlers
+11m24s: frequently to enrich outbound data right
+11m27s: so it&amp;#39;s and the really interesting thing
+11m30s: the really really interesting thing is
+11m33s: well there&amp;#39;s lots of interesting things
+11m35s: we spent a bit of time last time looking
+11m40s: at
+11m41s: the the things that are passed to such a
+11m46s: on Handler and we know that we get past
+11m51s: the request object and also by looking
+11m55s: by using the the rest operator we dug in
+11m58s: with debugging and we found that what
+12m0s: gets past is just one other value which
+12m4s: is a reference to next which is the the
+12m7s: next Handler in the chain that&amp;#39;s
+12m10s: actually part of the standard heavy
+12m12s: lifting mechanisms in the cap server
+12m14s: okay we found that out so again just to
+12m17s: repeat in fact if I if I replace that um
+12m22s: with the word next we sort of see we can
+12m25s: see with our eyes that&amp;#39;s the sort of
+12m26s: thing that gets passed to an on Handler
+12m29s: however
+12m30s: ever when we start thinking about let&amp;#39;s
+12m33s: just leave leave that there for a second
+12m35s: we we&amp;#39;ll do a um this. after as well
+12m39s: we&amp;#39;ll start registering this. after
+12m41s: we&amp;#39;ll do a read as well of the
+12m44s: books but
+12m46s: now let&amp;#39;s just do that as well there we
+12m49s: go but now what do we get in here what
+12m52s: do we get
+12m54s: past it&amp;#39;s not surp well surp is it
+12m59s: surprising that it&amp;#39;s not maybe it&amp;#39;s not
+13m1s: surprising but it&amp;#39;s not the same pair of
+13m4s: parameters that get passed to an on
+13m6s: Handler let&amp;#39;s have a look at the
+13m8s: documentation um Ser before here we go
+13m11s: CDs request here we go here&amp;#39;s the before
+13m13s: Handler type uh call back mechanism
+13m16s: here&amp;#39;s it where&amp;#39;s where&amp;#39;s the on there
+13m17s: we go there&amp;#39;s the on are we all
+13m19s: following this by the way there&amp;#39;s the on
+13m21s: and the Handler gets given two things
+13m26s: the actual request and the next function
+13m29s: and that&amp;#39;s what we&amp;#39; got reflected here
+13m31s: request and next okay we&amp;#39;re only got
+13m33s: this got these squiggly lines because of
+13m35s: course we&amp;#39;ve you we&amp;#39;ve defined these but
+13m37s: we&amp;#39;re not using these bit know there&amp;#39;s a
+13m39s: brilliant meme um you know with an
+13m42s: animal saying you know whoa It&amp;#39;s like
+13m44s: hold on edit I am going to use the
+13m46s: variable you know who calm down I think
+13m48s: it&amp;#39;s quite good um but here with the
+13m54s: after where is it the Handler gets given
+13m58s: two things but they&amp;#39;re slightly
+14m1s: different we get given the request just
+14m4s: in case in our after handling we need to
+14m8s: refer to something that came in in the
+14m11s: request but remember at this stage the
+14m13s: request has already been handled by
+14m17s: either the standard on Handler that&amp;#39;s
+14m19s: built into the cap server or by the
+14m21s: custom on hand on Handler that we&amp;#39;ve
+14m24s: written
+14m26s: right and what we get is the first and
+14m29s: arguably one could say the primary
+14m33s: parameter is the data the the stuff
+14m36s: that&amp;#39;s been retrieved or you know
+14m39s: calculated or
+14m41s: whatever because of the request that
+14m43s: came in as in we just get given hey by
+14m46s: the way uh after Handler here&amp;#39;s the data
+14m49s: that&amp;#39;s been retrieved do you want to do
+14m50s: anything with it before I give it back
+14m51s: to the requester right that&amp;#39;s the idea
+14m53s: of an after Handler so we get an array
+14m57s: of objects so so let&amp;#39;s
+15m1s: see what that means and also you get
+15m4s: some examples here here of what sort of
+15m6s: thing we might do we&amp;#39;ll come back to
+15m7s: this in a second um so let&amp;#39;s just do
+15m10s: this uh and say down here
+15m14s: um data should let&amp;#39;s call it data or
+15m16s: should we call it results should we call
+15m18s: it results or should we call it data I&amp;#39;d
+15m21s: like to call it data generically for now
+15m23s: we&amp;#39;re going to change it anyway so let&amp;#39;s
+15m24s: maybe call it data and the request okay
+15m27s: and what all will do
+15m32s: console.log data okay
+15m36s: right so far so good any questions um oh
+15m40s: by the
+15m42s: way was nice
+15m43s: coffee by the way by the way by the way
+15m46s: um in fact we we&amp;#39;ll get we&amp;#39;ll get rid of
+15m49s: this now we&amp;#39;ll get uh rid of
+15m53s: that uh
+15m55s: [Music]
+16m0s: so let&amp;#39;s start this
+16m2s: up CDs
+16m5s: watch and let&amp;#39;s see what
+16m9s: happens so we&amp;#39;re getting our hello world
+16m12s: log and we&amp;#39;re getting our I am in the
+16m15s: anonymous function log output and we&amp;#39;re
+16m18s: also not yet also and but we&amp;#39;re not yet
+16m21s: getting this console log data because of
+16m23s: course there&amp;#39;s no request that&amp;#39;s come in
+16m25s: that needs to be handled so let&amp;#39;s bring
+16m27s: in um local
+16m29s: poost 404 let&amp;#39;s just bring that here and
+16m33s: put that don&amp;#39;t happen to my oh not there
+16m35s: there uh no
+16m38s: ah uh what&amp;#39;s going on put that there
+16m43s: yeah since the upgrade to Mac OS son 14
+16m47s: whatever it&amp;#39;s broken something uh which
+16m49s: is annoying um so now we&amp;#39;re going to
+16m52s: make a request on
+16m55s: books now let me put my head down at the
+16m58s: bottom for a second
+16m59s: what does that tell us it tells us we
+17m2s: haven&amp;#39;t we&amp;#39;ve we&amp;#39;ve sort of not done any
+17m6s: heavy lifting the cap server has
+17m9s: retrieved or has processed the request
+17m11s: which is basically the request for the
+17m12s: entity set the books entity set let&amp;#39;s
+17m14s: move that across here for a second there
+17m16s: Bookshop
+17m18s: books let&amp;#39;s get rid of that there and
+17m22s: this output
+17m24s: here is the result of
+17m29s: this console loog data now in fact is it
+17m32s: worth taking a digression let me know on
+17m34s: the chat let me know on the chat is it
+17m36s: worth taking a
+17m39s: digression um because it&amp;#39;d be nice to
+17m42s: have our own custom log records wouldn&amp;#39;t
+17m45s: it you know we got this OD data log
+17m47s: record type here
+17m50s: CDs so why don&amp;#39;t we just
+17m53s: randomly um let&amp;#39;s get rid let&amp;#39;s get rid
+17m56s: of this whole hello world one anyway
+17m58s: right we don&amp;#39;t want that one but what
+17m59s: we&amp;#39;ll do is we&amp;#39;ll say
+18m1s: const log or uh logger logger let&amp;#39;s call
+18m5s: it logger so it&amp;#39;s sort of different to
+18m12s: log chakia says yes please your
+18m14s: digressions is a gold mine your
+18m16s: digression is a gold mine well thank you
+18m18s: very much I think um H not the same with
+18m21s: the return next on this do on read Visa
+18m25s: Visa says yes please um d i uh that
+18m28s: again not the same with the return next
+18m31s: on this on read exactly yes exactly
+18m34s: Dwight that&amp;#39;s really good and in fact
+18m36s: that reminds me remind me later on to
+18m39s: dig into what we need to do what is
+18m42s: expected of us because Dwight makes a
+18m45s: really really good point a really good
+18m48s: observation um we needed to make a
+18m51s: return on the on Handler of next if we
+18m55s: wanted the next thing to be called right
+18m58s: but here we&amp;#39;re not making any return at
+19m0s: all are
+19m2s: we um and when we start to look at some
+19m5s: examples which is the the the cap
+19m9s: samples not cap samples sap samples org
+19m12s: on GitHub has some great examples of the
+19m14s: after Handler in use and we&amp;#39;ll look at
+19m16s: those in a
+19m17s: second um we&amp;#39;ll s we&amp;#39;ll have a look at
+19m21s: some of the afters and see what people
+19m23s: do so Dwight brilliant observation um
+19m27s: and uh remind me in the chat it&amp;#39;s great
+19m31s: uh to look into what that is so where
+19m33s: were we oh yes log so what we can do is
+19m36s: C say CDs use the CDs um uh
+19m41s: facade and create a new logger logger
+19m45s: instance right and CDs log let&amp;#39;s give it
+19m48s: a name cap uh cap B2B right that&amp;#39;s our
+19m51s: sort of you know cap Back Back to Basics
+19m54s: thing now we&amp;#39;ve got that we can replace
+20m0s: calls to the boring console.log to this
+20m4s: logger instance we can also mess about
+20m8s: with the log levels but we&amp;#39;ll do that
+20m9s: another time because this is not all
+20m11s: about logging and we&amp;#39;ll do that there as
+20m13s: well so let&amp;#39;s get rid of that and do
+20m16s: that and now let&amp;#39;s just save
+20m20s: that make a request
+20m23s: again and now check it out how cool is
+20m27s: that you&amp;#39;ve got your own custom personal
+20m30s: log records cap B2B okay I think it&amp;#39;s
+20m33s: quite cool you know small things I&amp;#39;m I&amp;#39;m
+20m36s: I&amp;#39;m pleased with small
+20m38s: things like this little cinnamon roll
+20m40s: thing so so we&amp;#39;ve got logs
+20m44s: now and notice
+20m48s: then that what we get given is the in
+20m52s: the primary argument here the primary
+20m55s: parameter is the data that&amp;#39;s already
+20m57s: been retrieved by fulfilling effectively
+21m1s: more or less fulfilling the request and
+21m3s: we get a chance if we want
+21m6s: to to modify that what was that what was
+21m9s: the phrase that was used here um oh use
+21m13s: this use this method this after to
+21m16s: register handlers to run after the on
+21m18s: handlers frequently used to enrich
+21m20s: outbound data the Handler received two
+21m22s: arguments results the outcome of the on
+21m24s: Handler which R before and an instance
+21m25s: of the request just in case we need to
+21m27s: refer to it so let&amp;#39;s do a something
+21m29s: really stupid it&amp;#39;s but it&amp;#39;s a classic
+21m30s: thing right it&amp;#39;s a classic sort of just
+21m32s: adding on to a stream you know we&amp;#39;re
+21m34s: this is all about Basics here so let&amp;#39;s
+21m36s: just not complicate not boily
+21m39s: ocean what all will
+21m42s: do um is data do um
+21m50s: map uh well they going be books book
+21m53s: book.
+21m55s: tile add on an exclamation mark let&amp;#39;s
+21m58s: see what see what happens
+22m2s: there there okay let me make that a
+22m4s: little bit bigger so that&amp;#39;s a that&amp;#39;s
+22m6s: that&amp;#39;s a really stupid example and I&amp;#39;ve
+22m7s: deliberately sort of been very vague
+22m9s: about what I&amp;#39;m doing here with map with
+22m13s: the reference to data the data parameter
+22m16s: with this call back Anonymous callback
+22m18s: function and everything is you know
+22m19s: quite functional but I mean know that&amp;#39;s
+22m21s: that&amp;#39;s by The Bu so this is sort of also
+22m25s: thinking about what Dwight was talking
+22m27s: about and what my my answer to my my
+22m30s: response to what Dwight was had
+22m32s: observed it&amp;#39;s really interesting what&amp;#39;s
+22m35s: going on here so keep keep that in your
+22m39s: mind you know we&amp;#39;re actually inside a
+22m42s: code block and
+22m43s: remember remember when you have an
+22m45s: anonymous f a fat Arrow function like
+22m47s: this and you have a code block with
+22m51s: braces nothing gets returned unless you
+22m54s: explicitly say return this okay so what
+22m58s: is happening here how is this
+23m3s: modification in as a call back inside a
+23m6s: map function on the data inside a CO
+23m9s: braced code block how is that actually
+23m12s: having an effect on the data that is
+23m14s: passing through us going to the as a
+23m17s: response right because it works look we
+23m19s: get the exclamation marks there one two
+23m23s: three so have to think about that
+23m29s: now what was going to do then
+23m33s: um what was I going to do oh yes what
+23m37s: we&amp;#39;re going to do oh yes there&amp;#39;s loads
+23m38s: of things we can do um one of
+23m42s: the one of the things I started to get a
+23m46s: little bit tired
+23m48s: of is making a change here CDs watch is
+23m52s: really cool and it&amp;#39;ll monitor for
+23m54s: changes and restart the server look let
+23m56s: me just press save there as you know
+23m57s: everybody knows this yeah right it&amp;#39;ll
+23m59s: restart but then I&amp;#39;m going to go across
+24m2s: all the way across over here and then
+24m3s: refresh B there okay
+24m8s: now I won&amp;#39;t go into it in too much
+24m11s: detail because I wrote a blog post about
+24m13s: it recently but basically if we have a
+24m16s: look let&amp;#39;s get rid of that and
+24m20s: that I wrote a blog post called
+24m24s: controlling automatic HTTP requests in
+24m26s: cap nodejs design time bit a mouthful
+24m31s: but have a look at that and what I did
+24m35s: there was I sort of made things easier
+24m38s: for myself because I&amp;#39;m lazy and of
+24m40s: course you know one of one of the great
+24m41s: attributes of um one of the the supposed
+24m45s: attributes of a great program is
+24m46s: laziness so you know I&amp;#39;m striving to be
+24m48s: more
+24m50s: lazy is to have the requests
+24m53s: automatically resubmitted as well okay
+24m56s: now if what I can do let me get rid of
+24m59s: that what I can do here is I can open up
+25m1s: another terminal and I can for example
+25m4s: um if I
+25m6s: change um let if I say list uh list all
+25m10s: those and I can say ENT I think we&amp;#39;ve
+25m13s: mentioned ENT before ENT is a
+25m16s: ENT uh run arbitary commands when files
+25m19s: change I think let me know in the chat
+25m20s: if we&amp;#39;ve talked about this before let me
+25m22s: add that to that thing anyway
+25m24s: ENT ear nose and
+25m26s: throat uh what&amp;#39;s going on here there
+25m30s: there ENT Bang there right post so ENT
+25m35s: is in the uh Docker container as we can
+25m38s: see here in the dev container Dev
+25m40s: container Docker file here one of the
+25m42s: things I install is ENT which is quite
+25m45s: cool because it&amp;#39;s super useful so I can
+25m47s: say for example uh ENT uh Echo hello or
+25m52s: let&amp;#39;s just ENT date let&amp;#39;s just as as an
+25m54s: example right ENT date okay so it&amp;#39;ll run
+25m57s: that straight away and then when I
+25m58s: change something inside the serve
+26m2s: directory it&amp;#39;ll do whatever ENT tells it
+26m6s: to do so ENT is the thing that&amp;#39;s
+26m7s: monitoring the list of these files here
+26m10s: done save save save now the problem is
+26m16s: that if I were to say here for example
+26m19s: ENT curl silent local lat why say lat
+26m25s: Local Host 404 o data for
+26m29s: Bookshop books let&amp;#39;s get rid of that
+26m32s: thing there Bookshop books right like
+26m34s: that and then if I save that
+26m39s: again some there we go there we go it
+26m42s: sometimes doesn&amp;#39;t work because the
+26m44s: server is still re let me put my head up
+26m46s: there the server is still restarting
+26m49s: okay so the the request enter ENT makes
+26m52s: the Cur request a little bit too early
+26m54s: it doesn&amp;#39;t give the server time of
+26m56s: course
+26m58s: to start and you know starting with the
+27m0s: all strategy start serving start
+27m2s: listening and properly
+27m5s: launching so this blog post is all about
+27m7s: it&amp;#39;s 826 already DJ uh this blog post is
+27m10s: all about
+27m12s: using one of the amazing features of cap
+27m16s: server which are these life cycle
+27m18s: events okay so what I did is I created a
+27m21s: custom server
+27m22s: JS and started it required sap CDs you
+27m27s: is that big enough
+27m28s: required apcds and then started uh def
+27m33s: defined a callback on the
+27m36s: listening life cycle event and the
+27m39s: listening life cycle
+27m40s: event this is all about the cap server
+27m43s: now is an event that&amp;#39;s
+27m46s: fired
+27m48s: when it finally starts to listen on
+27m52s: Local 44 in this case you know when it&amp;#39;s
+27m54s: finally bound to that socket okay oh
+27m58s: Daniel says and this is very dangerous
+28m0s: because now there is a difference
+28m1s: between
+28m2s: [Music]
+28m4s: uh there is a difference there that
+28m6s: heart in the way on the on the chat
+28m7s: there&amp;#39;s a little heart thing I can&amp;#39;t see
+28m9s: what Daniel&amp;#39;s written um in fact well
+28m11s: I&amp;#39;ll write something uh to push up
+28m14s: Daniel&amp;#39;s chat so I can it moves up up a
+28m15s: bit in the chat there we go so um Daniel
+28m17s: says and this is very dangerous because
+28m19s: now there is a difference between the
+28m20s: record on the DB and what we see as data
+28m22s: on the UI yes exactly yeah so this is
+28m24s: this is a very good thing to point out
+28m27s: however I mean I&amp;#39;m guessing Daniel
+28m29s: Daniel&amp;#39;s referring to when I put the
+28m30s: exclamation
+28m32s: mark on the um on the on the string okay
+28m37s: it might not be but Daniel if it&amp;#39;s if
+28m38s: it&amp;#39;s not let me know what it
+28m40s: is but it&amp;#39;s just a simple example and
+28m43s: but also I think it&amp;#39;s also fair to say
+28m46s: if you look at the if you look at the um
+28m49s: the classic capay
+28m52s: example uh we see um here look adding
+28m57s: 11%
+28m58s: uh discount uh to there and I think on
+29m1s: the previous ones it sort of adds dash
+29m3s: dash uh 11% discount onto this onto the
+29m6s: title of the book okay and that sort of
+29m9s: deliberately is super simple
+29m11s: deliberately so um and you probably
+29m15s: don&amp;#39;t want to do that uh for real I mean
+29m17s: put an exclamation mark on the end of a
+29m18s: string is stupid anyway but it&amp;#39;s just to
+29m20s: show you that we can modify the data or
+29m22s: add to the data here we&amp;#39;re actually you
+29m24s: know defining uh a value for a discreet
+29m28s: property here discount property um
+29m32s: Daniel&amp;#39;s right to point that out now um
+29m35s: that said you know we might want to
+29m36s: change things on the Fly we might want
+29m38s: to sort of automatically compute or
+29m39s: modify stuff on the fly if we if that&amp;#39;s
+29m42s: what we need to do from from a business
+29m43s: perspective but yes be aware of what you
+29m45s: do now um so we&amp;#39;ve got this got this
+29m49s: listening thing so we can start to start
+29m51s: to work with that so I can now then
+29m53s: write a file an empty file when the
+29m57s: listening event is fired so I did that
+29m59s: in my server thing quite cool but then I
+30m2s: thought tell you what I could make a
+30m4s: little plug-in out of this good morning
+30m6s: to Matias in Dortmund an old friend from
+30m9s: the handb channel welcome Matas so I
+30m14s: thought you know what I&amp;#39;m going to write
+30m15s: a a plug-in version of this so so I did
+30m21s: cap listening plugin that&amp;#39;s also in the
+30m24s: um list here cap listening plugin
+30m30s: so if you want to have a little go at
+30m31s: starting writing your own
+30m33s: plug-in this is probably the simplest
+30m36s: example of a plugin you could ever get
+30m38s: it&amp;#39;s almost like
+30m41s: nothing that is the entirety of the code
+30m44s: okay that&amp;#39;s exactly what we saw in the
+30m46s: blog post right but now it&amp;#39;s in the form
+30m50s: of a
+30m51s: plug-in uh so that and it&amp;#39;s got this
+30m54s: it&amp;#39;s it&amp;#39;s in the form of a file a magic
+30m56s: file name a bit like ser JS is a magic
+30m59s: file that the cap server will say oh
+31m1s: there&amp;#39;s a server.js a custom server
+31m2s: implementation I&amp;#39;ll load that and
+31m4s: execute the contents of that as well the
+31m6s: plug-in mechanism does a similar sort of
+31m8s: thing and if you call a file CDs plugin
+31m10s: in your imported npm package it&amp;#39;ll run
+31m15s: that and do all the magic so what we&amp;#39;ll
+31m17s: do here is we&amp;#39;ll say um npm install dve
+31m19s: Dev this is a Dev a design time
+31m21s: dependency so we don&amp;#39;t want it in our
+31m23s: you know in our run time in the cloud or
+31m25s: anything we just want it in the dev so
+31m27s: if we do that and we we can you can
+31m28s: install the package straight from for
+31m30s: example GitHub straight from git so
+31m33s: let&amp;#39;s do that this is a major dition but
+31m36s: there we go there we go uh clear let&amp;#39;s
+31m39s: do that npm install save Dev now what
+31m41s: what I mean by save Dev let&amp;#39;s just here
+31m43s: um package.json there let package.json
+31m46s: there let&amp;#39;s move that across to there
+31m49s: note that we got dependencies and Dev
+31m51s: dependencies we all do we all know the
+31m53s: difference between dependencies and Dev
+31m54s: dependencies in npm and node um me Ms
+31m59s: Dev dependencies sort of do what they
+32m0s: say on the tin their dependencies just
+32m2s: for the design time just while we&amp;#39;re
+32m3s: developing and that save Dev means save
+32m6s: it in there record this in there not in
+32m9s: there because that&amp;#39;s the stuff that
+32m11s: gets um gets installed when you build
+32m14s: and push to for example you know Cloud
+32m17s: Foundry which we don&amp;#39;t want we don&amp;#39;t
+32m18s: want we don&amp;#39;t want this in production so
+32m21s: let&amp;#39;s run
+32m22s: that that was a long
+32m25s: explanation Okay add did one package at
+32m27s: and notice there look line we got it in
+32m30s: line 14 cap listening plugin there&amp;#39;s a
+32m31s: reference to um the the repo there so
+32m36s: now if we oh in fact if we do an LS a
+32m42s: what is the lat let&amp;#39;s list in Long
+32m44s: format and show the latest last we can
+32m46s: see this this listening file that&amp;#39;s been
+32m48s: created it&amp;#39;s been created at 732 which
+32m49s: is just now 832 732 UTC and there it&amp;#39;s
+32m54s: because of this listening thing so if I
+32m55s: were to in fact um
+32m59s: watch LS minus L
+33m3s: listening there right if if I now Run is
+33m6s: it 730 it&amp;#39;s still 732 does that make
+33m8s: sense by the way and also is this
+33m10s: digression okay um I think I think it is
+33m12s: it might be useful because it it&amp;#39;s super
+33m14s: I find it super useful to be able to
+33m15s: sort of you know hands free have a have
+33m18s: my Cur request have my HTTP request
+33m22s: readon for me when I change something
+33m24s: but only when the server gets a chance
+33m26s: to restart so Shak says why is CD SDK
+33m29s: not not part of Dev dependencies well
+33m32s: that&amp;#39;s a that&amp;#39;s a really good question
+33m33s: maybe Daniel can help us out on that
+33m35s: question there but basically it&amp;#39;s almost
+33m37s: like cdsd
+33m40s: K is a given you need CSD cdsd K
+33m44s: installed globally to sort of bootstrap
+33m46s: the whole sort of project initiation
+33m49s: right so when I said CDs in it right at
+33m51s: the very start of this um series to
+33m55s: create a new cap project
+33m58s: there was no project there was no um you
+34m1s: know there was no package Json there was
+34m3s: no nothing it&amp;#39;s almost like the big bang
+34m5s: so we needed csdk sort of installed
+34m7s: globally anyway now um so that hopefully
+34m9s: that makes sense to ARA so now if I save
+34m12s: main.js that should restart the server
+34m15s: but o when and only when in fact um yeah
+34m19s: when and only when this server listening
+34m21s: gets retriggered we get the listening
+34m23s: event fired at the life cycle event and
+34m25s: then that will cause the cap plug PL in
+34m28s: to uh touch this listening file which
+34m30s: should change the Tim stamp so let&amp;#39;s
+34m32s: save that bum bum bum and then there 34
+34m36s: okay perfect
+34m39s: so with all that in mind what we can do
+34m43s: now is get rid of this what we can do
+34m45s: now is say um list listening so all we
+34m50s: need to do now is look out for the
+34m52s: listening file changes pass that to ENT
+34m55s: and then say let&amp;#39;s clear the screen
+34m58s: that&amp;#39;s also let&amp;#39;s put a few things let&amp;#39;s
+35m0s: put it in bash C uh dates and then curl
+35m3s: minus s Local Host you know what it&amp;#39;s
+35m7s: only when I&amp;#39;m on the live stream I type
+35m8s: lolcat host I always type Local Host
+35m10s: correctly when I&amp;#39;m not on the live
+35m11s: stream what&amp;#39;s going on 404 o data B4
+35m16s: catalog books and we&amp;#39;ll pass it into JQ
+35m19s: to format it nicely there oh what&amp;#39;s
+35m22s: going on uh bash C update curl minus s
+35m27s: local 44 o dat V4 catalog books uh let&amp;#39;s
+35m30s: just pass that not into JQ for a second
+35m32s: what&amp;#39;s going
+35m34s: on oh that&amp;#39;s why OA V4 what oh it&amp;#39;s not
+35m38s: catalog it&amp;#39;s it&amp;#39;s it&amp;#39;s
+35m41s: um
+35m43s: Bookshop there right okay so now now now
+35m48s: now now now watch
+35m50s: this I can make a change here save that
+35m54s: that will restart but only once that&amp;#39;s
+35m56s: restarted and started listening again
+35m58s: will this call be made okay does that
+36m0s: make sense let me know in the chat give
+36m1s: us a give us a give us a sign in the
+36m3s: chat that that makes sense and whether
+36m4s: you think that&amp;#39;s going to be useful for
+36m7s: you and also maybe you can sort of you
+36m10s: know clone the repo and start developing
+36m12s: your own plugins because it&amp;#39;s amazing
+36m14s: right um okay so now we&amp;#39;ve got
+36m17s: everything set up and we can sort of re
+36m19s: have these things retried now I can just
+36m21s: go into here and let&amp;#39;s sort of get rid
+36m23s: of this let&amp;#39;s put uh some x&amp;#39;s instead
+36m25s: right so x x x x x just to just show us
+36m28s: that we know we&amp;#39;re making a change we
+36m29s: can visually see that okay
+36m32s: fine now so actually just going back to
+36m36s: oh yeah no we we want to look at um we
+36m38s: want to look at some of the examples
+36m39s: don&amp;#39;t we so in
+36m42s: here what
+36m44s: I put here I just I don&amp;#39;t know what&amp;#39;s
+36m46s: going on with this white space here you
+36m48s: know I can&amp;#39;t I can&amp;#39;t make this white
+36m50s: space go away sorry about that um when
+36m53s: you have a nested bullet thing so here&amp;#39;s
+36m55s: some examples in
+36m58s: sap in the sap samples org on GitHub of
+37m2s: use of the after so let&amp;#39;s let&amp;#39;s open
+37m5s: them all up we don&amp;#39;t need that let&amp;#39;s get
+37m6s: rid of that let&amp;#39;s get rid of that let&amp;#39;s
+37m8s: open them all up and just have a quick
+37m9s: browse through uh do you find a custom
+37m11s: after Handler oh uh we&amp;#39;ll come back to
+37m14s: that in a second uh there right we&amp;#39;ve
+37m18s: seen that one already
+37m21s: so dot
+37m23s: after
+37m24s: so for example that bit bigger for
+37m29s: example and this is a great way I would
+37m32s: say to sort of learn about and just just
+37m35s: stare at and start to soak it up under
+37m38s: your
+37m39s: skin what it feels like to write
+37m43s: handlers what what CDs feels like what
+37m46s: what node.js handlers feel like you know
+37m49s: just I think we should read more code
+37m53s: right so for example here we can see
+37m56s: that you know an after Handler is being
+37m58s: used well there&amp;#39;s three after handlers
+38m0s: and they&amp;#39;re all being used in really
+38m1s: interesting to my brain to my small
+38m3s: brain ways they&amp;#39;re they&amp;#39;re being used in
+38m5s: an update context we&amp;#39;re using an after
+38m8s: Handler right now in a read context but
+38m10s: this is an update context so we can sort
+38m12s: you can go back and stare at that for
+38m13s: example and you can also you know pick
+38m15s: out some beautiful sort of cql right
+38m19s: core career language stuff but we&amp;#39;re
+38m20s: going do that another time so there&amp;#39;s
+38m23s: there&amp;#39;s one example let&amp;#39;s have a look
+38m24s: there there look at that there is that
+38m27s: um
+38m28s: classic that what I was referring to
+38m30s: when I was sort of addressing what
+38m31s: Daniel was very correctly pointing out
+38m34s: this is the Canon almost the canonical
+38m36s: capaya capir um example where we
+38m40s: basically append something onto a string
+38m44s: that of something that already exists so
+38m45s: add on to the end of the title-- 11%
+38m48s: discount but it&amp;#39;s I think it&amp;#39;s still
+38m50s: beautiful because it just it&amp;#39;s really
+38m51s: simple so this is the simplest thing
+38m53s: that could possibly work but
+38m55s: but who can spot what is the what is the
+38m58s: value of the first parameter that&amp;#39;s
+38m59s: passed to this after function each what
+39m2s: the heck is that all about put in the
+39m3s: chat what you think that is all about
+39m6s: okay have you ever seen each at all and
+39m8s: if so have you seen each in that
+39m10s: position in the parameter
+39m12s: list let me know in the chat we got to
+39m15s: come back to that uh there&amp;#39;s another
+39m17s: after after submit order and this is
+39m19s: also beautiful example right youit an
+39m23s: event so an after Handler is a really
+39m27s: good idea good idea is a really good
+39m31s: opportunity to do stuff
+39m34s: like emit function emit events when
+39m37s: things have happened because the after
+39m39s: he&amp;#39;s sort of saying well you know the
+39m41s: main the main event has happened event
+39m44s: is is an overloaded term there the M you
+39m46s: know the main handling of this request
+39m48s: has happened successfully so I&amp;#39;m going
+39m51s: to you know raise an event so this have
+39m53s: to submit order submit order given the
+39m55s: name we can sort of tell it&amp;#39;s probably a
+39m58s: o data function or an action so it&amp;#39;s not
+40m0s: you know a standard CR plus Q style
+40m3s: operation so oh wait this emit this.
+40m6s: emit ordered book right um we&amp;#39;ll do
+40m9s: events another time right and then
+40m11s: finally is it finally uh search for
+40m13s: after there look at that there&amp;#39;s another
+40m15s: beautiful example you can actually have
+40m17s: an after Handler there&amp;#39;s the actual uh
+40m20s: Handler
+40m22s: definition running for multiple
+40m25s: different operations on a a given
+40m28s: entity okay and then there was one more
+40m31s: which I think brings us back to what
+40m34s: Dwight said before after there read ah
+40m38s: yeah oh there we go that&amp;#39;s it that
+40m39s: that&amp;#39;s all there is not of one um so
+40m42s: check this out this is also interesting
+40m45s: because um oh atanu says and Sir can you
+40m48s: explain line 19 this. emit ah okay of
+40m51s: course where was it uh was it that one
+40m54s: there
+40m55s: maybe uh the
+40m59s: was it line 19 or 29 maybe I well
+41m1s: there&amp;#39;s a this.
+41m3s: emit now I guess I guess the the easiest
+41m6s: way to explain it if you go to to cap
+41m7s: somewhere in cap and do a search for
+41m10s: Emit let&amp;#39;s see what happens uh handling
+41m13s: operator emitter serve. emit there we go
+41m16s: serve. emit or messaging emitting events
+41m20s: okay
+41m22s: so generally the cap server it&amp;#39;s
+41m28s: this is this is philosophy um in scri in
+41m31s: scripting in some functional languages
+41m33s: in sort of you know obtuse philosophy
+41m37s: one version of which is every in in TCL
+41m40s: for example everything is a
+41m42s: string okay everything is a this
+41m44s: everything is a that everything is a
+41m46s: string in cap I think it&amp;#39;s also fair to
+41m49s: say in a sort of really light way
+41m52s: everything is an
+41m53s: event whether that&amp;#39;s incoming standard o
+41m57s: data operations like you know a read or
+41m59s: a query or a update or
+42m4s: incoming uh functions like you know
+42m7s: submit order or
+42m10s: actions all these are handled as events
+42m15s: right but also the cap server can
+42m18s: respond to events in the more
+42m21s: traditional sense of the word event I.E
+42m24s: events in the context of mqtt or uh a
+42m27s: mqp or HTTP based events right but so it
+42m31s: can it treats everything almost like the
+42m34s: same which is a beautiful way of
+42m37s: thinking about things but what cap can
+42m39s: also do what you can also do in a server
+42m41s: implementation is not only you know
+42m44s: respond to requests you can make
+42m46s: requests of external services for
+42m48s: example but you can also as well as
+42m50s: respond to uh incoming or events that
+42m53s: are
+42m54s: created you can also create events
+42m56s: yourself
+42m57s: so admitting events what did it say here
+42m59s: yeah there we go um a wait messaging
+43m2s: admit right so you can you can admit
+43m4s: events and event Eventing uh and cap is
+43m7s: just so amazing right so uh that&amp;#39;s
+43m9s: almost like a separate series we should
+43m11s: do that shouldn&amp;#39;t we we should do that
+43m12s: so hopefully that explains it a little
+43m14s: bit atanu is that let me know if that
+43m16s: explains it um so could that event be a
+43m19s: I wish I wish the YouTube chat wouldn&amp;#39;t
+43m21s: put that heart in the way because I
+43m22s: can&amp;#39;t see what uh Kaz that is saying let
+43m24s: me go there um could that event be a
+43m27s: post request to an S4 Hannah from btp
+43m30s: well yes but it wouldn&amp;#39;t be an event in
+43m32s: the same way that we&amp;#39;re looking at
+43m34s: here um in where was it there that is an
+43m37s: event that&amp;#39;s been defined okay um as uh
+43m41s: we&amp;#39;re digressing here but that&amp;#39;s let&amp;#39;s
+43m43s: just what was that where were we cat
+43m45s: service cat service let&amp;#39;s have a look um
+43m50s: authenticated user somewhere somewhere
+43m52s: somewhere there will be an event defined
+43m55s: right uh unless it&amp;#39;s a standard event uh
+44m0s: cap Service uh ordered book um we we
+44m3s: could look we could look but basically
+44m5s: there&amp;#39;ll be an event defined called
+44m7s: ordered book and that event will have a
+44m9s: payload defined and that payload in this
+44m10s: case has got a book um property and a
+44m14s: quantity property and a buyer property
+44m16s: right um so you know we we&amp;#39;ll dig into
+44m20s: that maybe another time but uh basically
+44m23s: it&amp;#39;s an event that&amp;#39;s defined um in in
+44m26s: sort of
+44m28s: what&amp;#39;s the word what&amp;#39;s the it used to be
+44m31s: called messaging service what&amp;#39;s it
+44m32s: called now
+44m35s: uh I don&amp;#39;t know uh sap Cloud messaging
+44m39s: service I don&amp;#39;t know what it&amp;#39;s called
+44m41s: now changed the name and it&amp;#39;s confused
+44m42s: me um basically it&amp;#39;s that sort of event
+44m46s: s that hopefully uh um explain that a
+44m49s: little bit kazes uh so yes you could
+44m51s: make a post to uh a post request to
+44m54s: esana in an after uh context of course
+44m57s: she could yes event mesh thank thank you
+44m59s: chak event mesh event mesh DJ come on
+45m2s: wake up um so there we go now um what
+45m7s: what we were about to look at we were
+45m9s: about to look at this thing here yes
+45m11s: there we go that thing there what time
+45m13s: is it
+45m15s: 8:44
+45m17s: now I have a think maybe we&amp;#39;ll do this
+45m20s: next time because this takes a lot of I
+45m22s: think this should take a lot of digging
+45m23s: in notice on line 15 for each
+45m28s: how many people are aware of what for
+45m31s: each for each does in JavaScript in
+45m34s: nodejs
+45m35s: JavaScript and how that
+45m39s: differs philosophically but also
+45m41s: practically from map which we just
+45m45s: used and how that mutates changes or
+45m52s: doesn&amp;#39;t the data upon which it&amp;#39;s being
+45m55s: uh it is operating
+45m59s: this is such a beautiful example here
+46m1s: because we&amp;#39;ve
+46m2s: got this
+46m4s: after method and we&amp;#39;re passing it the
+46m8s: definition of a function oh sorry we&amp;#39;re
+46m11s: passing it a definition of a function
+46m13s: which basically is just that blue
+46m15s: highlighted bit there and that function
+46m18s: is basically Anonymous function
+46m21s: expecting a data parameter is only only
+46m24s: is only interested in the data in the
+46m25s: results that are passed to it and what
+46m26s: what it will do is it will call this
+46m29s: function change urgency due to subject
+46m32s: which is there right in this passing it
+46m35s: the data and what this does it receives
+46m37s: the data and makes sure the data there
+46m39s: is some data and also it&amp;#39;ll do a little
+46m41s: sort of uh little dance to say well you
+46m43s: know is this an array is this not an
+46m45s: array U if it it isn&amp;#39;t let&amp;#39;s just assume
+46m47s: let&amp;#39;s just make it an array by enclosing
+46m49s: in square brackets that&amp;#39;s quite
+46m51s: interesting in terms of um what we want
+46m53s: to look at shortly with each
+46m55s: right um but yes uh and then it will go
+47m0s: through each of the elements right in
+47m3s: this array with for each and
+47m7s: then set
+47m10s: something okay now the question is does
+47m14s: setting something inside of for each
+47m17s: mutate or
+47m19s: not okay that&amp;#39;s a big
+47m23s: question and what is this data you know
+47m27s: the what is data that gets passed to
+47m30s: us think these are really big
+47m32s: philosophical questions but I think it&amp;#39;s
+47m34s: important to understand how this I mean
+47m36s: we can we can use this as is you know
+47m37s: without thinking too deeply about it but
+47m40s: I think I think it&amp;#39;s important to
+47m41s: understand what actually is going on
+47m45s: now uh chinaka says uh chinaki is on
+47m49s: fire today with the chats brilliant
+47m50s: chinaka cudos to you um so map is a
+47m53s: higher order function which doesn&amp;#39;t
+47m54s: mutate the original array perfect
+47m57s: a higher order function basically a
+47m59s: higher order function phrase higher
+48m1s: order function is from functional
+48m3s: programming mostly and it means a
+48m5s: function that can take another function
+48m8s: as an argument and
+48m10s: or emit or sorry not don&amp;#39;t use emit
+48m14s: because that&amp;#39;s an overloaded term or and
+48m16s: or produce a new function as its output
+48m21s: okay that&amp;#39;s you know higher order
+48m23s: functions are a fundamental basis of
+48m25s: functional programming and it&amp;#39;s a
+48m27s: beautiful thing right so chakia is
+48m29s: correct in that uh regard but also
+48m32s: correct in that it the whole idea of map
+48m35s: is that if you use it in the normal way
+48m38s: it doesn&amp;#39;t change what you&amp;#39;re mapping
+48m41s: over it produces a
+48m42s: new instance of the array over which
+48m47s: you&amp;#39;re mapping now the Callback function
+48m50s: that you can pass to map in this sort of
+48m52s: higher Ro
+48m53s: relationship you do get information you
+48m56s: get a reference to the array itself and
+48m58s: you get a reference to the index of the
+49m0s: the item that you&amp;#39;re mapping over you
+49m2s: could if you wanted to if you really
+49m5s: stupid use that to mutate the actual
+49m8s: original array so you can technically do
+49m10s: it but you&amp;#39;d be an idiot if you did
+49m12s: right so for each janaka says um uh
+49m16s: mutates the original in fact before we
+49m19s: go to mutating Mark has said something
+49m21s: really interesting as well which is also
+49m22s: correct which is one of the beautiful
+49m24s: things about map is that being a higher
+49m27s: function and being more of the
+49m29s: functional
+49m31s: programming aesthetic that&amp;#39;s the wrong
+49m33s: word but anyway I&amp;#39;m going to use it in
+49m35s: JavaScript it allows us to change
+49m37s: because the it it
+49m40s: produces this new array so you you you
+49m43s: map over an array and it produces an
+49m45s: array in fact Let&amp;#39;s Do It Let&amp;#39;s Do It
+49m46s: Let&amp;#39;s Do It um node node um const a
+49m51s: equals and notice I&amp;#39;m using const right
+49m53s: sort of to sort of underline oh my God
+49m55s: 849 to under line that we&amp;#39;re not going
+49m58s: to be mutating this we can&amp;#39;t mutate it
+50m0s: if it&amp;#39;s a constant 1 2 3 right let&amp;#39;s do
+50m2s: that a do map right um x x um
+50m10s: plus 10 right and so if we run
+50m15s: that uh use an anonymous function as the
+50m19s: single parameter to map there are there
+50m22s: are other anyway that&amp;#39;s not even go
+50m25s: there that&amp;#39;s what happens right what
+50m27s: happens
+50m28s: there so it produces something now going
+50m31s: to
+50m32s: Mark&amp;#39;s um comment here which is also
+50m35s: very correct and very important for each
+50m37s: is not chainable so if I wanted to say a
+50m39s: do map um and then dot filter and but
+50m44s: only show me the ones that are where X
+50m46s: is less than
+50m49s: um 12 for example there okay so we can
+50m53s: we can sort of chain functions together
+50m57s: in a beautiful way now if we were to say
+50m59s: a do for each
+51m2s: x x um +
+51m6s: 10
+51m8s: right it doesn&amp;#39;t spit anything out so we
+51m12s: couldn&amp;#39;t then change something on here
+51m15s: filter you know cannot read properties
+51m17s: of undefined you know the we get
+51m19s: undefined from the for each so we can&amp;#39;t
+51m20s: chain these things
+51m22s: right and um it&amp;#39;s it&amp;#39;s immutable but if
+51m27s: we were to say VAR b equals
+51m30s: 456 B do um uh B do4 each x x +
+51m40s: 10 456 that doesn&amp;#39;t uh mutate either
+51m45s: however and we&amp;#39;ll I don&amp;#39;t I don&amp;#39;t want
+51m48s: to go into this in too much detail for
+51m51s: each can and does
+51m53s: mutate right in fact let&amp;#39;s let&amp;#39;s go into
+51m57s: it really quickly right and I&amp;#39;ll say
+51m59s: very briefly the reason
+52m2s: why we&amp;#39;re not mutating these values here
+52m5s: is because these are primitive values
+52m8s: like booleans uh integers strings for
+52m10s: example are primitive values and
+52m13s: function calls in JavaScript are pass by
+52m16s: value okay yes exactly VA says uh for
+52m19s: each always returns undefined exactly um
+52m23s: so if we but if we were to have um far
+52m27s: um C equals um I don&amp;#39;t know ah color
+52m35s: red um
+52m39s: color blue right for example there and
+52m44s: then we we would to say C do for
+52m48s: each uh x x dot in fact in fact let&amp;#39;s do
+52m53s: map first map let&amp;#39;s let&amp;#39;s clear the
+52m56s: screen
+53m2s: uh there there C so if we say C map um x
+53m7s: x. color let&amp;#39;s just get a list of the
+53m9s: colors there red and blue okay if we
+53m11s: were to say for example uh x. color
+53m15s: equals uh different
+53m21s: color we would get that okay um which is
+53m27s: also fine however if we were to say x uh
+53m30s: C dot for each x x.
+53m37s: color equals a new
+53m44s: color check it out we&amp;#39;ve mutated the
+53m49s: original
+53m51s: now let me know in the chat if in the
+53m54s: next episode we want to go a little bit
+53m56s: deeper into this and why this happens to
+54m1s: objects and why this doesn&amp;#39;t
+54m5s: happen
+54m7s: to uh oh be sorry to um to Primitives
+54m12s: okay and what that effect has on things
+54m16s: like this it it we need to understand a
+54m19s: little bit
+54m20s: about this to properly understand what&amp;#39;s
+54m24s: going on here right does that make sense
+54m28s: anyway before we
+54m30s: go before we go six minutes left what I
+54m34s: want to do is talk a little bit about
+54m38s: and that&amp;#39;s also by the way why and again
+54m41s: we need to I think we need to understand
+54m43s: this because it&amp;#39;s really important why
+54m45s: this is working because we&amp;#39;re not
+54m46s: returning anything here are we we are
+54m48s: not returning anything even if we did
+54m55s: oops it would be exactly the same right
+54m58s: it would have no real new effect look I
+55m0s: love I love the listening plugin because
+55m1s: it&amp;#39;s only going to request it now there
+55m4s: that um it&amp;#39;s the same thing we don&amp;#39;t
+55m7s: really need to do the return we should
+55m9s: normally if we want to pass information
+55m11s: back from this Co this Anonymous call
+55m14s: back function when it&amp;#39;s defined in curly
+55m18s: braces you know nothing&amp;#39;s actually
+55m20s: returned so what is happening but before
+55m23s: we do anything else so Dwight says the
+55m25s: this on read is intercepting the request
+55m28s: before the data are actually read
+55m29s: whereas this after read the data are
+55m30s: actually available thus the anonymous
+55m32s: function can operate yes you absolutely
+55m33s: Dwight is absolutely
+55m35s: right but I think I&amp;#39;m I&amp;#39;m I&amp;#39;m what I&amp;#39;m
+55m39s: more focused on
+55m43s: here what what Dwight says is 100%
+55m46s: correct and not in dispute here at all
+55m51s: right um what I&amp;#39;m saying
+55m54s: is why
+55m56s: does doing a map for example that
+55m59s: returns something but we&amp;#39;re in a in this
+56m1s: code block here which means that there&amp;#39;s
+56m2s: nothing passed back from this Anonymous
+56m6s: function so how can we even affect the
+56m8s: data that&amp;#39;s coming
+56m10s: through why does that
+56m12s: work okay that&amp;#39;s what we&amp;#39;ll I think we
+56m15s: do need to look into this next time let
+56m17s: me know in the chat if you want to look
+56m18s: into it next time so Mark says um for
+56m20s: your information if you use uh sap XS
+56m23s: security don&amp;#39;t use V before wasted my
+56m24s: hole yesterday as there&amp;#39;s a bug in it
+56m26s: thank you Mark that&amp;#39;s very nice uh visas
+56m28s: I guess because array is passed by
+56m30s: reference we modify value in the memory
+56m31s: of that array visas has got it visas has
+56m33s: got it now we want to unpack what visa
+56m37s: says next time I think by some simple
+56m39s: examples uh here uh if you want to do
+56m42s: that let me know okay so uh Kiara says
+56m44s: complex objects are passed by reference
+56m46s: yes exactly exactly exactly so uh some
+56m49s: of you are getting it already which is
+56m50s: beautiful right so Michael says objects
+56m53s: in JavaScript are uh again I need to see
+56m56s: what say uh are references like points
+56m58s: into yes well yes they are references
+57m1s: but function calls are passed by yeah
+57m4s: okay brilliant brilliant so you&amp;#39;re with
+57m7s: me you&amp;#39;re with me you&amp;#39;re with me you&amp;#39;re
+57m8s: with me
+57m10s: now what I want to do here is just
+57m13s: explore a little
+57m16s: bit uh logger let&amp;#39;s log the data right
+57m19s: let&amp;#39;s do
+57m25s: that come on come on come on there we go
+57m27s: okay
+57m30s: perfect
+57m31s: so what do we get logged out we
+57m36s: get with our little cap B2B log of
+57m39s: prefix cool we get an array of
+57m43s: objects okay now if we were to
+57m47s: say each here let&amp;#39;s just whack it in
+57m51s: right before thinking about it let&amp;#39;s use
+57m53s: that example that we saw somewhere here
+57m55s: right
+57m56s: uh where was it
+58m0s: um I can&amp;#39;t remember where it was now uh
+58m4s: there maybe each doesn&amp;#39;t matter doesn&amp;#39;t
+58m6s: matter doesn&amp;#39;t matter
+58m8s: um now I&amp;#39;ve just changed read to each a
+58m12s: magic
+58m13s: word if I save
+58m16s: that we get the same
+58m20s: response but check out what have we got
+58m23s: what&amp;#39;s the difference over here we get
+58m26s: get not one log record with an array we
+58m29s: get three log records each with not an
+58m33s: array but a single
+58m37s: object okay this is a convenience
+58m39s: function it used to be that this
+58m44s: happened uh when you put each here and
+58m48s: when you actually
+58m50s: named it still does actually I think for
+58m52s: compatible backwards compatible oh maybe
+58m54s: it doesn&amp;#39;t data is not oh sorry logger
+58m56s: uh each there it&amp;#39;s for backward
+58m59s: compatibility reasons that still works
+59m1s: but we shouldn&amp;#39;t use that approach okay
+59m5s: um we should
+59m7s: instead use that approach now I&amp;#39;ve
+59m10s: written about this
+59m13s: inh where is
+59m17s: it each where is it there blog post
+59m20s: defining a custom after handling cap so
+59m22s: that there describes what I&amp;#39;m I&amp;#39;m
+59m26s: rushing
+59m28s: through and what you should do okay so
+59m32s: basically tldr there&amp;#39;s a special
+59m33s: behavior if you using each parameter
+59m35s: name when defining an after Handler but
+59m37s: the way this works and the way you
+59m38s: should invoke it has changed okay so
+59m41s: check that out as well and we&amp;#39;ll dig in
+59m43s: a little bit more and do some cool
+59m44s: things with an after Handler uh I think
+59m46s: we might going back to what Daniel said
+59m48s: he gave me the idea that we could Define
+59m50s: a virtual property a virtual element in
+59m53s: our books for example
+59m56s: so that we don&amp;#39;t have that persisted in
+59m58s: the database we just have it computed on
+60m0s: the Fly there&amp;#39;s another ex there&amp;#39;s
+60m2s: another another way you can use the
+60m3s: after Handler to sort of compute values
+60m7s: okay and put those values in a virtual
+60m9s: element that doesn&amp;#39;t get persisted but
+60m11s: gets exposed in the O dat service right
+60m14s: I hope that was okay
+60m16s: um no live stream next week because I&amp;#39;m
+60m18s: doing a code Jam but let&amp;#39;s do this let&amp;#39;s
+60m21s: carry on the week after um and isan good
+60m24s: morning and over there we go uh so uh
+60m27s: watch the live stream replay is isan
+60m29s: isan sorry isan and Dwight great stuff
+60m31s: thanks DJ wez thanks DJ and every one ni
+60m33s: session Amy thank you all Kaz kazazis
+60m36s: and yeah okay goodbye have a great
+60m38s: Friday have a great weekend and see you
+60m39s: soon bye

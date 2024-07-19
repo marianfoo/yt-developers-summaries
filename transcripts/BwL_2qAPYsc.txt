@@ -1,1406 +1,1406 @@
-e
-[Music]
-[Applause]
-[Music]
-[Music]
-[Applause]
-[Music]
-good morning good afternoon good evening
-welcome to Hands-On Sab Dev with me
-again DJ cacro welcome one and all uh
-welcome to visas
-in Bangkok Thailand great to have you
-again one of the uh one of the regulars
-it&amp;#39;s great to see you Vis and Ravi Kumar
-good morning to you or good afternoon
-maybe yes uh I&amp;#39;m looking at my watch
-here
-801 yes good afternoon to you in uh was
-it Bangalore and uh r r r r r what is
-Cap well you&amp;#39;ve come to the right place
-to find out good uh welcome uh cap is
-short for cloud application programming
-uh and more specifically sort of short
-for sap Cloud application programming
-model it&amp;#39;s a it&amp;#39;s a programming
-framework uh that supports nodejs and
-Java and it&amp;#39;s amazing it&amp;#39;s beautiful
-it&amp;#39;s built by a wonderful uh uh set of
-teams of people at sap and uh this is
-what this uh this back to basic series
-is all about the nodejs specific version
-or flavor of cap so uh yeah stick around
-and you&amp;#39;ll find out a little bit more
-good morning to you helmet in branke in
-and Antonio good morning to you and
-Kiara bonjo and AJ good afternoon to you
-and zahed good morning to you in suly
-Hall Sunny Su Hall fantastic I&amp;#39;m just a
-little bit further north than you I&amp;#39;m
-I&amp;#39;m sort of where&amp;#39;s the nearest place
-I&amp;#39;m in burco um which is sort of near Ms
-Kirk uh yeah Ms Kirk that sort of that
-sort of area Henrik good morning to you
-in Denmark and ansha hi good morning to
-you and Tom good morning from Greece
-Hass uh fantastic and Ola Monica Rafael
-good morning to you in Poland and
-Raphael good morning to you in SCH in
-Switzerland and ra R ra so no more abat
-for cap uh oh I&amp;#39;ll come back to that in
-a second to say all lots of good
-mornings it&amp;#39;s fantastic thank you all by
-the way for saying good morning I love
-it because it&amp;#39;s nice to see who&amp;#39;s on and
-you know it&amp;#39;s nice to see you
-interacting sasu good morning to you in
-Munich and anchel good morning to you in
-uh I don&amp;#39;t know where you are but am I
-from Germany No I um I&amp;#39;m from Manchester
-in brexitland uh uh that&amp;#39;s where I&amp;#39;m
-from um and I&amp;#39;m coming to you live from
-the leads in Liverpool Canal from my
-Naro as usual now um so
-ra so no more for cap well um there is
-an equivalent let&amp;#39;s call it equivalent
-um framework for the abop developers
-amongst us which is the restful
-application programming model and they
-share many similarities and they share a
-almost like you know I remember that
-phrase what&amp;#39;s that phrase uh the United
-Kingdom and the United States of America
-Two Nations divided by a common language
-English obviously so you know just
-different different sort of dialects
-different sort
-of yeah I supp versions of of of the
-same language in the same sort of way
-similar sort of way rap and cap both use
-the declarative language CDs but there
-are some subtle differences between the
-two but yeah stick around and uh yeah
-learn about a little bit about cap
-fantastic ftic uh Angel lovely fantastic
-to home of the Tom yes exactly home
-brexit land home of the idiots welcome
-so yeah we&amp;#39;re going to cover um let blow
-my nose for a second we&amp;#39;re going to
-cover compositions today when I say
-cover I was like woring all week like oh
-will we fit everything into the to the
-one uh one episode about compe
-compositions um I think we&amp;#39;ll do the
-basics certainly in in this episode but
-there are compositions are so important
-and there they&amp;#39;re so
-wonderful uh that we may have to extend
-into another episode but anyway let&amp;#39;s
-get going DJ stop talking anel says hi
-this is annal from Mumbai welcome to you
-annal and welcome to you Jennifer in
-India and Mark good morning in to you in
-ke hope to see you about comt and recap
-yes I&amp;#39;ll be there at code connect uh in
-June early June uh good morning DJ uh
-good morning to you NES as well
-fantastic let me let me move to the main
-screen so I can start sharing stuff so
-we&amp;#39;re going to be looking at
-compositions today we&amp;#39;re going to be
-using the the cap B2B repo that we&amp;#39;ve
-been working on you know nice simple
-repo we
-moving uh moving from what we&amp;#39;ve got so
-far which is just books and authors with
-an association which is sort of related
-to compositions but not quite the same
-we&amp;#39;ll talk about that in a
-minute and we&amp;#39;ll sort of
-try
-transmogrify that stuff into uh
-something we can start thinking about
-composition compositions with um and it
-also says here let&amp;#39;s just jump in for a
-second cat run times provide these
-special treatments to compositions out
-of the box so we&amp;#39;re going to be seeing
-if we can see these treatments
-experience The Wonder of these
-particular these three treatments deep
-insert update cascaded delete and auto
-Exposition Auto Exposition is that the
-right word Auto exposure Exposition Auto
-exposure of uh composition targ what
-even does that mean we&amp;#39;re going to find
-out today uh hopefully uh so anyway
-before we get on um uh oh by the way so
-before I used to sort of you know pre
-preload the chat buffer here with all
-these URLs so of course then you have to
-go back to the chat and find out where
-these things are what the heck is that
-face doing there I don&amp;#39;t know what was
-going anyway
-um let me do that Bang there perfect uh
-get rid of that stuff um so uh but I
-thought of a better idea I have been
-doing this in the past let me know in
-the chat um we have uh in the sap events
-in the events part of the new sap
-Community platform we have sap Community
-event I will share that link because
-that&amp;#39;s really all you need I suppose uh
-put that down there and then in each
-each um what&amp;#39;s the word each week I will
-put in if I remember an entry so people
-can sort of subscribe to that and
-everything and blah blah blah you know
-you don&amp;#39;t have to do that but this is
-also good because that is therefore also
-where and you can go back and look in
-the calendar go back to
-previous uh you know there&amp;#39;s there&amp;#39;s um
-uh where is it go back to April and have
-a look there you can see uh back to
-basic back to basic back to so there&amp;#39;s
-one we did on the 8th of March for
-example and you can go back there and
-look at all the links to all the
-resources we talked about and so instead
-of putting all the URLs to all these
-different things I&amp;#39;m going to show you
-I&amp;#39;m going to put them in I&amp;#39;ve just
-started started typing them in while I
-was waiting for 8:00 to start and
-everything so I&amp;#39;ll put them in here if
-that&amp;#39;s okay let me know if that will be
-uh a better option for you okay so all
-these things in here are all these tabs
-here you can go back later on have a
-coffee after the live stream finished
-and get all the links from here oh by
-the way hello and welcome to um anel are
-we doing sap analytics Cloud oh uh no
-we&amp;#39;re not um so my very good friend and
-colleague Vitali um is is uh is the
-person to talk to there about sap
-analytics Cloud this is sap Cloud
-application programming naming what&amp;#39;s
-that what&amp;#39;s that adage uh in computer
-science there are two hard
-problems uh cash invalidation naming
-things and off by one errors see what I
-did there see what the joke did there
-anyway so yeah the names can be
-sometimes confusing this is the cloud
-application programming model um and
-it&amp;#39;s about you know um a programming
-model that allows us to build Services
-backend Services primarily for our Cloud
-applications it&amp;#39;s amazing um so Antonio
-good night good good night from Mexico
-good good yes good early morning uh and
-welcome and thank you for joining at
-asok thank you for joining uh in uh to
-you in Belgium amazing so uh we have the
-SB developer news there it came out last
-night there&amp;#39;s Antonio talking about Sab
-Co jams talking about sa Co jams here&amp;#39;s
-all the sap code jams upcoming and again
-you can get all the links in here um Tom
-and Rich our illustrious uh pair of
-abers uh in the developer Advocates team
-we of course got Miki as well um but
-they they have moved over they traveled
-over this week and they&amp;#39;re in uh where
-are they in uh in in in in in Amsterdam
-so they&amp;#39;re doing a CO Jam they&amp;#39;re
-starting a CO Jam right now so there&amp;#39;s
-another uh what&amp;#39;s it what&amp;#39;s the word uh
-Road road trip Cod Jam so check out all
-the Cod jams there
-the developer challenge being run by uh
-Daniel we&amp;#39;re in the the next week and
-it&amp;#39;s all about formula so check out the
-developer Challenge on sap build apps
-it&amp;#39;s amazing so Ian uh Ian th put a news
-item in the news this week about that um
-and I when I was sort of thinking about
-the compositions there&amp;#39;s a couple of uh
-like oh yeah I&amp;#39;ll write about this
-because it&amp;#39;s you know maybe some
-somebody might be interested so have a
-look at this so there&amp;#39;s a blog post here
-that I wrote um about basically
-sometimes um if you&amp;#39;re maintaining some
-Json data in a in in the project
-directory in a cap project directory and
-of course you you maintain that for
-whatever reason you want to use that as
-a payload in a curer request in a post
-request for example you might not want
-the cap server to restart and if you&amp;#39;re
-running it in CDs watch mode it will
-restart because that&amp;#39;s usually what you
-want so here&amp;#39;s a little bit of a hack as
-to how you can stop it automatically
-restarting as in stopping how we can
-stop the normal void the normal behavior
-so check out that blog post there the
-link again is in this thing here um and
-also yesterday uh what I&amp;#39;m doing now is
-uh and what we will be doing is you know
-having lots of terminals as normal and
-you know you know having all sorts of
-things on our vs code and sometimes uh
-or previously uh we had the the uh The
-Prompt ending here so I started sort of
-typing here and it wasn&amp;#39;t very long to
-type I like typing on a nice clean line
-so this blog post here um it just is a
-bit of a little bit of a hack on the
-PS1 um uh environment variable and a
-nice sort of light SED hack to say ah I
-want to move the dollar sign round to
-the next line in fact I personally
-prefer a semicolon because you know I&amp;#39;m
-cool or I like to be I like to think I&amp;#39;m
-cool I&amp;#39;m not I&amp;#39;m an idiot but there we
-go there&amp;#39;s the thing so that&amp;#39;s that&amp;#39;s
-why we&amp;#39;re now starting typing on a new
-line and if you want to know how I did
-that basically uh tail
-I did that by doing that right and that
-is explained in this blog post so
-there&amp;#39;s a blog post there and finally
-the final sort of announcement before we
-get started um as you know we&amp;#39;re in sort
-of the test drive period for sap build
-code which is amazing and um we&amp;#39;re going
-to do Tom uh Tom young and I are going
-to do a live stream oh look who&amp;#39;s I
-idiot uh Tom going to a live stream at
-the end of the test drive period which
-is going to be Friday April the
-26th and then uh I good friend Steve
-pointed out DJ you idiot um there you
-know you&amp;#39;re doing a test drive doing a
-test drive live stream but that doesn&amp;#39;t
-really cover uh the
-Americas uh for this special event so
-we&amp;#39;ve added a new uh second live stream
-you know know have to go to one of them
-doing very similar things in both live
-streams but on the same day um 12 1200
-EDT I think is 5:00 p.m. UK uh I in 1700
-UK 1800
-EST so we got an extra live stream there
-so there we
-go uh now what&amp;#39;s going on here are we
-still connected yes we&amp;#39;re still
-connected let&amp;#39;s go let&amp;#39;s go let&amp;#39;s go
-okay clear don&amp;#39;t clear that one because
-I want to I want to keep adding things
-to that clear that one there we go so
-compositions somebody put in your chat
-just to start us off um what you think
-compositions are good for uh and while I
-give you a chance to put that in the
-chat uh let let&amp;#39;s go back and see
-remember where we are let&amp;#39;s get rid of
-that as well remember where we are um in
-our back to basic sort of um repo and as
-as you know you can probably find if
-you&amp;#39;re not aware you can find the cap
-B2B B repo here I should add that to uh
-there we go um let&amp;#39;s put it at the top
-there oh no let&amp;#39;s put that there
-actually let&amp;#39;s put it as we go um Cap B
-Tob re
-working
-repository there there there we go
-perfect uh in that
-repo we have and we&amp;#39;ve been doing it
-deliberately simple we&amp;#39;ve got a
-single CDs file services. CDs in the
-sort of the project route uh we&amp;#39;ve got
-some data as well in a data directory in
-the project route okay um and in that in
-that CDs file we&amp;#39;ve got um a service and
-inside that service directly we sort of
-on the Fly Define two entities a book&amp;#39;s
-entity and an author&amp;#39;s entity and we
-have a relationship
-between uh those two entities with this
-Association now somebody put something
-in the chat please just to make sure the
-chat I&amp;#39;m not sure my chat is updating so
-or maybe I could put something in the
-chat hello from
-myself will that will that appear in the
-chat oh there there it is there you&amp;#39;re
-just all very quiet am I am I um am I
-boring you to death
-already somebody put what you think um
-what you think compositions are good for
-and we&amp;#39;ll get around to it um so there
-we go so um so we have this now before
-we get into compositions and before we
-start to modify this to move not move
-away from associations we can see that
-associations
-here are about expressing relationships
-between what essentially a I can I&amp;#39;ve
-already sort of seen the pattern of text
-I&amp;#39;ve not read the text from Henrik but I
-think Henrik is absolutely beautifully
-spot on and and I was hoping that we
-would allow ourselves to get to exactly
-that um so Daniel says classical header
-items coming up wink exactly exactly
-exactly exactly now so in contrast to
-that which we&amp;#39;ll de into in a second
-books are independent things authors are
-independent things you know a book
-exists as a as a thing an author a human
-exists as a thing and they can be indep
-dependent right once you once an
-author&amp;#39;s written a book that book still
-exists so that&amp;#39;s why um there&amp;#39;s no sort
-of otherwise inherent dependency between
-those two and the relationship in this
-case then we express with an association
-an author is associated with a book A
-book is associated with an author right
-however however however however has as
-Henrik Henrik uh says absolutely
-beautiful and refers to it as classical
-why is the word classical use here by
-Henrik because we&amp;#39;re thinking back
-to I don&amp;#39;t mean back as in you old
-fashioned I mean just thinking
-about the classic the the
-normal unit of of of of work almost in
-sap R2 and R3 systems S4 H Hana
-documents a document header and document
-items or positions okay and that&amp;#39;s and
-that is really the in my in my small
-brain the main raise onra of the
-composition type of relationship it&amp;#39;s
-where you have a relationship between a
-parent and children that are dependent
-upon that parent and and yes while while
-p parent child in the human in the human
-context is still you know they&amp;#39;re still
-independent things but it it makes it
-makes more sense to think about
-positions of document items of a
-document and as not really having that
-much meaning outside the context of that
-document
-okay so where you have a dependent
-relationship does it say that in the
-thing let&amp;#39;s have a look um uh yes
-contained in there we go comp
-compositions represent contained in
-relationships okay so when we want to
-express a classic thing like a doc a
-purchase order with a header and items
-or for example I know a a Goods receipt
-document or a whatever invoice header
-items this whole sap Enterprise you know
-basic unit of work is a document right
-so um Daniel Scher hello world hello
-world Daniel nice have you Daniel on the
-on the on the on the on the stream Sunny
-hello everyone and DJ Adams good
-afternoon from Mumbai good afternoon to
-you in Mumbai as well and zahed
-compositions are good to create document
-structures fantastic so zahed and Henrik
-are absolutely spot on so and we can see
-here here&amp;#39;s an example right modeling
-document structures the clues in the
-name right the clues in the title entity
-orders orders has this thing called
-items notice the capital I right we&amp;#39;re
-moving away in or away but in this
-particular case where we&amp;#39;re
-expressing uh or defining an element
-which is is being defined when when
-we&amp;#39;re defining an element which is being
-described as being of type composition
-you can see here that the con ition is
-to actually capitalize the first letter
-of that element name items okay and it&amp;#39;s
-a composition of many order
-items and then we have this this on
-condition we&amp;#39;ll come to that later and
-these order items here is another entity
-right okay so we&amp;#39;ve still got two
-entities maybe next week we&amp;#39;ll have to
-do this next week but we can use aspects
-to have sort of
-inline uh contained entities down there
-for example how beautiful is that right
-but we&amp;#39;ll do that maybe next week let&amp;#39;s
-get Basics out the way the basics Basics
-so
-associations independent entities
-compositions contained in relationships
-but before we do anything else I think
-819 I think what we should do is um sun
-says this is my first time watching DJ
-Adams in capitals video live I always
-use recorded videos well welcome sunny
-and thanks thanks for joining live I
-hope you um take advantage of and enjoy
-enjoy the chat which you are doing which
-is fantastic you make you you&amp;#39;re um
-you&amp;#39;re a good example and a good role
-model for uh for everyone here who joins
-live chat chat chat give me your opinion
-give me your questions as many as you
-want um I can&amp;#39;t answer any of them maybe
-I don&amp;#39;t know but anyway let&amp;#39;s let&amp;#39;s keep
-going so what we&amp;#39;re going to do is we
-going to move away from this sort of
-simple single Services only and data and
-then move back to where we started from
-right at the start when we do a CDs in
-fact let&amp;#39;s go over here uh CDs init uh
-temp uh temp
-project if we go to Temp project
-now and have that we have we get three
-directories as we all know this now
-because we&amp;#39;ve done we know we looked at
-the other previous episodes here we get
-an app director a DB director and server
-we&amp;#39;re going to go back to that now so
-let&amp;#39;s go back there from RF temp from
-temp project and let&amp;#39;s make deer uh
-let&amp;#39;s make a DB directory and also a
-serve
-directory okay um and in those
-directories ahim hello sap myap friends
-uh my sap friends that&amp;#39;s a good Emoji uh
-that&amp;#39;s a good name as well actually um
-uh so if we do that oh Sunny has my
-question which is good environmental cap
-mass or Visual Studio Cod either are
-great either have the same um that&amp;#39;s a
-good question either have have the same
-uh what&amp;#39;s it called where is it called
-where is it ah Dev it&amp;#39;s in the dev
-container don&amp;#39;t locally installed um the
-same sap CDs Lang language
-support extension which makes developing
-cap stuff magic it&amp;#39;s fantastic so if you
-want you know a cloud-based um uh
-approach then the business application
-studio if you want uh you know a local
-approach use vs code but actually
-they&amp;#39;re the same thing you know business
-application studi these days based on
-code OSS which is the open source
-portion of vs code and there&amp;#39;s all sorts
-of relationships between them you can
-sort of you know go from vs code and you
-can attach to a Dev space in B and all
-sorts of different things so it&amp;#39;s the
-same thing so great question though uh I
-think some of the previous uh episodes
-we talked a little bit about that okay
-so now what I&amp;#39;m going to do I&amp;#39;m going to
-move uh or let me copy first of I&amp;#39;ll
-copy Services into uh DB let&amp;#39;s call it
-schema. CDs okay uh and then open that
-uh uh code schema CDs uh Services
-services on that one there there we go
-uh there let&amp;#39;s move that there now I&amp;#39;ve
-now split off let&amp;#39;s go back to the um
-thingy here I&amp;#39;ve now split off uh I want
-to split off here so we got to get rid
-of services and get rid of that and
-format that i&amp;#39; I&amp;#39;ve worked out why I
-can&amp;#39;t do this keyboard shortcut because
-I&amp;#39;m already using that keyboard shortcut
-for amethyst my window manager so there
-we go so there we go let&amp;#39;s let&amp;#39;s have
-some some sort of beautiful formatting
-so now we&amp;#39;ve moved from defining having
-these entities defined inside a service
-inside a services. CDS file in the
-project route to defining these just the
-schema layer so you know in the DB
-directory more like persistence things
-okay so got books okay and and and
-authors and now we&amp;#39;re also going I&amp;#39;m
-also going to copy the services into uh
-serve and call it main. CDs for example
-right um and code serve main.
-CDs and now we get get rid of that and
-we want to bring oh actually want the
-services but now we want to bring in
-something in there okay let me move that
-across to
-here uh there I&amp;#39;m put my head down the
-bottom okay do that okay so this is
-where we start to think
-about not separation of concerns but
-using the beauty of the CDs language
-itself in how it enables us and
-encourages us really to think about
-cleanly and
-separately defining the things that make
-it a little bit more maintainable and
-clean and beautiful so over here what we
-want to do is give it give give these
-entities a name space we don&amp;#39;t have to
-but it makes our lives easier and also
-of course when you start working in
-larger projects larger than just one
-person you know it makes it a little bit
-more
-um explicit in what you&amp;#39;re changing what
-you&amp;#39;re importing and so on so I&amp;#39;m going
-to say uh Nam space um or. macro think
-of my um think it might sort of what&amp;#39;s
-it called k.org domain name right
-that&amp;#39;ll do right so in this file we&amp;#39;ve
-now got the same entities and this
-aspect I could I could import the aspect
-from sap CDs comma but leave that there
-for now let&amp;#39;s not go down that route 824
-DJ come on I&amp;#39;m sort of panicking um and
-now we can go into here and say using
-org
-from DB
-schema Deb what&amp;#39;s going on here schema
-we don&amp;#39;t need the CDs um what&amp;#39;s it
-called the CDs extension because that&amp;#39;s
-automatic using or schema there we go
-and we get that squidly underline
-because of course it&amp;#39;s saying DJ you
-haven&amp;#39;t used or but we&amp;#39;re going to do
-that now so so now we can sort of bring
-in those two entities into our service
-and have exactly the same as what we had
-before in that same
-in in that single services. CDs file
-which had both in right so we&amp;#39;ve now
-separated out the service definition
-from the schema level definition entity
-books as
-projection on
-org. Q look at that see see so going
-back to your question Sunny whether you
-use uh business application Studio or
-whether you use vs code with this
-extension you get this
-beauty cacro do books
-and then just have that there
-authors and there let&amp;#39;s have that save
-that why don&amp;#39;t we also do a CDS watch
-okay uh so uh huno welcome huno says and
-I like the chat between you as well uh
-both passes based on the open source
-version of V code exactly exactly you
-know thank you for that uh do what uh do
-a definition of artifact Bookshop in
-Services Bookshop uh what&amp;#39;s going on oh
-ah why why do we get that why do get
-that because I&amp;#39;ve still got well check
-it out actually um CDs watch um it&amp;#39;s
-bringing
-in uh list in fact
-find uh max depth 2 just send one
-directory here in One Directory name
-star. CDs what have we got we&amp;#39;ve still
-got services. CDs remove services. CDs
-CDs
-watch there we go now okay so now we&amp;#39;ve
-oh H says on the other hand on your
-local machine you will have to take care
-of everything by yourself yes true very
-true yeah so some people like that some
-people like it to be you know managed
-for them best of both
-ones so basically now we&amp;#39;re almost back
-but I would like to
-also move the data directory into the DB
-directory because the data Direction at
-the moment is in our project route but
-now really we should sort move it I&amp;#39;m
-not going to drag I&amp;#39;m going to say move
-data into DB DB and there we go uh CD
-data
-and really now Bookshop let&amp;#39;s let&amp;#39;s
-clean that one up as well we we did that
-just to prove a point that it&amp;#39;s Dash or
-dot so let&amp;#39;s say move Bookshop dot uh uh
-there&amp;#39;s a bookshops Das um
-authors. CSV uh sorry I&amp;#39;m going do it
-books. CSV there we go CDs watch
-oh I&amp;#39;m in the wrong directory CDs and
-wrong directory again CDs watch there we
-go Lauren laurren good morning to you
-from the Netherland struggling with
-Cloud so happy to finally join a light
-Breeze with cap a light Breeze with cap
-maybe I should rename the series a light
-Breeze with cap brilliant um there we
-go so we&amp;#39;ve now got same as we have
-before um let&amp;#39;s bring in a um another
-bring that to there another little
-thingy here and start going to um
-404 this is what we had before bookshops
-authors there we go same thing right we
-got everything there that we we&amp;#39;ve had
-before we got the metadata looks nice
-there beautiful we got our enti type
-books enti type authors and we&amp;#39;ve got
-the books and authors exposed and we can
-look at the data there we got the player
-of games s i guide and mostly harmless
-and we&amp;#39;ve also got that okay so we&amp;#39;re no
-further on than we than we were before
-but now we&amp;#39;ve got a a lot more in my in
-my opinion um
-beautiful clean separation between the
-persistance layer DB schema. CDs where
-we got the entities defined in in a name
-space and the service definition so we
-could have multiple service files and
-different Services looking at different
-at different sort of views
-on different combinations of these
-things so now um we can start to think
-about compositions and why don&amp;#39;t we go
-here and um grab the I&amp;#39;m I&amp;#39;m pointing
-this screen you can&amp;#39;t see my finger can
-you grab this code here and start with
-that oh I see a question from sunny
-sunny your qu your your uh question few
-is very strong today brilliant could you
-please share the use cases when we need
-to use a cap based framework or a r
-based framework assuming using Cloud for
-both cap and R I said that&amp;#39;s the classic
-question and I will answer it very
-briefly um by saying if you know if you
-have if you have AB developers if you&amp;#39;re
-an AB
-developer and have a lot invested in
-that uh area which of course is you know
-uh very likely CU it&amp;#39;s awesome and and
-you know very likely because of uh um
-history then it makes a lot of sense to
-keep investing in that area about cloud
-and rap but if you are you know if
-you&amp;#39;re got a different organization and
-you you have developers that are not
-vers in abat then cap is the perfect cor
-coroller is that the right word I don&amp;#39;t
-know I just came to me the perfect sort
-of alternative okay so if you&amp;#39;ve got
-Java developers or JavaScript or
-typescript developers then
-cap is um is an appropriate framework to
-use so you know that&amp;#39;s one very very
-basic way of thinking about it but it&amp;#39;s
-also something that makes sense to me
-you know use the developers that you
-have and therefore use the languages
-that they&amp;#39;re proficient in and
-comfortable in and so on uh so oh uh
-Henrik says perhaps a session on the
-magic of CDs watch could name it who
-watches the Watchers quis custodiat IPOs
-custodios is that the
-pheis
-codet yes oh c yes we go chis custo not
-custodes custodes Latin I&amp;#39;ve not done
-Latin for a long time um but there we go
-who guards the guards who guards those
-guards that&amp;#39;s where the original phrase
-is from in fact I should put that in the
-thing as well shouldn&amp;#39;t I there we go um
-put that in um there uh quis
-custodiet ipsos
-those
-custo that&amp;#39;s accusative plural isn&amp;#39;t it
-but it&amp;#39;s like third or fourth declension
-I don&amp;#39;t know I can&amp;#39;t
-remember um we I think we did some on
-the magic of CDs watch didn&amp;#39;t we on
-previous uh on a previous episode in
-this series I think we did uh Lorenzo
-says hi DJ the convention for mock DB
-data should be namespace entity
-shouldn&amp;#39;t it how is it loading anyway
-datas with Nam oh without uh you know
-what I was hoping somebody would spot
-that um that&amp;#39;s a great question can I
-come to that question a little bit later
-um because it it it is very very subtle
-it will load it um so basically as you
-can see here uh well no let&amp;#39;s answer
-that question now sounds like question
-because it&amp;#39;s a great question and a
-thousand points for observing that what
-we have in here um did oh yeah here we
-go we removed it right DB data Bookshop
-authors Bookshop uh uh books let&amp;#39;s think
-about that for a
-second okay the um in fact we can think
-about it with the help of where is it
-where is it where is it with the help of
-I think uh the metadata let&amp;#39;s bring that
-back there let&amp;#39;s look at the metadata oh
-I&amp;#39;m not running CDs watch CDs
-watch metadata come on come on come on
-come on
-metadata oh come on come on come
-on there metat go right we have
-here we can
-see that we have this namespace Bookshop
-where is that namespace coming from it&amp;#39;s
-coming from the service sort of
-context in which these two entities are
-defined okay and the the automatic CSV
-data loading mechanism is actually quite
-cool in that it will
-recognize that you&amp;#39;ve got files that are
-named after the entity in that context
-there but also I think also let&amp;#39;s just
-do this um oh tell you what let&amp;#39;s do it
-here let&amp;#39;s do it here let&amp;#39;s CDs watch
-and also let&amp;#39;s have that there let&amp;#39;s go
-to books and also let&amp;#39;s go to um
-authors there&amp;#39;s the authors let&amp;#39;s rename
-this Bookshop Let&amp;#39;s do let&amp;#39;s do Q macro
-no or. qro or.
-macro there we go and also um there or.
-Q
-macro can you see it&amp;#39;s still doing the
-initialization in it from DB data or Q
-macro and if we refresh
-that it&amp;#39;s still there so it&amp;#39;s very I
-mean one of the things one of the things
-you got to think about in cap and in
-specifically to do with uh what Henrik
-was saying about you know the magic of
-CDs
-watch there&amp;#39;s a there&amp;#39;s a there&amp;#39;s
-a a br I think we&amp;#39;ve talked about this
-before a long time ago there&amp;#39;s a an
-adage uh a motto
-um uh DM it&amp;#39;s not it&amp;#39;s not the
-distribution I want it dim do what I
-mean do what I mean dim pill there we go
-there we go writing pear programs do
-what I mean and I would I would argue
-that the CDs design time facilities the
-tools follow the dwim philosophy I.E
-just do it do what I mean you know I
-don&amp;#39;t have toel it out to you just you
-know you know what I mean just do what I
-want you to
-do okay and this is an example I think
-of cap doing that um so it will say well
-well you know you&amp;#39;ve got these files
-here defined for an entity in this name
-space recognize that namespace but
-basically but basically also where is
-it let&amp;#39;s put that there also that acts
-as a sort of name space so it&amp;#39;s taking
-it from it will take it from either or
-both and even if we move let&amp;#39;s let&amp;#39;s do
-this let&amp;#39;s open up another terminal um
-uh there we go how do I do that oh yes
-there what&amp;#39;s going on I thought I knew
-the keyboard shortcut for opening oh
-there right there we go it&amp;#39;s uh command
-backslash uh if we say for example move
-DB data to
-serve move that okay it&amp;#39;s not going to
-restart because it&amp;#39;s not watching for
-that sort of thing but if we do CDs
-watch now we still it&amp;#39;ll still find
-those data files 836 okay I&amp;#39;m panicking
-it&amp;#39;ll still find those data files those
-CSV data files but in the serve because
-it&amp;#39;s got this this this hierarchy of
-roots remember we talked about this
-before cdsn roots
-that it will look in not only for CDs
-files for the overall CDs model but also
-for data okay so in the same way it will
-also you know be very lenient in terms
-of well yeah okay you know books within
-the oq macro or books within the book
-shop have it let&amp;#39;s have it does that
-make sense that was a really long answer
-I apologize that was okay though um some
-more yes there we go um so Lorenzo I
-hope that sort of uh I don&amp;#39;t know
-answers your question addresses your
-question talks about your question uh
-but these questions are great so let&amp;#39;s
-answer the questions um whoo says cap no
-JS Java versus rap ab app normally if
-you want to do real scalable apps you
-would go with cap in the other hand if
-you developers you would go oh that&amp;#39;s a
-that&amp;#39;s fighting talk I would have to
-disagree with part of that I think one
-of the most scalable
-platforms um and languages is the abat
-platform and the abat language
-especially with rap okay so it&amp;#39;s not
-about whether you need to have something
-scalable I think it&amp;#39;s um you know the
-way that these uh these Services you
-know some of the largest
-Enterprise um Enterprise systems in the
-world are up based systems on the based
-on the R3 architecture you know s S4
-Hann is still on the R3 architecture
-which is a beautiful architecture and
-that scales beautifully so it&amp;#39;s not I
-don&amp;#39;t think it&amp;#39;s about
-scalability um I think for me it&amp;#39;s more
-about language uh if you forgive me for
-saying that who know um put in the chat
-if you disagree that&amp;#39;s Al also cool sun
-says addition to question in terms of
-client client will prefer which
-framework yes exact that&amp;#39;s very true
-that&amp;#39;s very true you know you go to a
-client I worked in a long time decades
-in the sort of Consulting World in sap
-and you know different clients different
-customers have different different ways
-they like to do things so yeah it&amp;#39;s also
-client driven uh nit hello and helmet uh
-huno uh oh helmet is is going with you
-huno that&amp;#39;s helmet that&amp;#39;s that&amp;#39;s that&amp;#39;s
-that&amp;#39;s that&amp;#39;s a good opinion to have uh
-strong opinions uh loosely held I think
-that&amp;#39;s another phrase strong opinions
-loosely held uh I&amp;#39;ll put the oh did I
-put the do what I mean in there H what
-we talk about um there we go let put in
-let me put that in there as well ah
-Pearl and dwim there and
-strong strong opinions
-loose held who said that Lucy held um
-this is the go beong strong opinions Luc
-held
-[Music]
-uh anyway let me just put that um
-search in there because they&amp;#39;ll remind
-you to look it up there we go strong
-opinions loosely held strong opinions
-Loosely it&amp;#39;s a good it&amp;#39;s a good
-philosophy interesting philosophy held
-held there right go right okay brilliant
-brilliant brilliant so youo says
-probably the only one probably the only
-one which cost less for him for the
-client so his business people do not
-care about the technical stuff that&amp;#39;s
-true sadly true uh in the sap world most
-of customers would have saved with ECC
-if they would not be forced to upgrade
-ss4 I&amp;#39;m not going to get into that who
-know uh it&amp;#39;s uh it&amp;#39;s a big it&amp;#39;s a big
-it&amp;#39;s a big discussion so Renzo and so
-that is the reason why we can mock even
-data from external services with the
-same convention right exactly yeah if
-you have a look at if you have a look at
-um H what&amp;#39;s it called uh service
-integration code jum in
-here service
-integration with cap code Jam there if
-you have a look at that you will see in
-one of the exercises where we bring in
-an external service and we would Define
-some data locally for that to be served
-in the mocking of that external service
-exactly the point Lorenzo so helmet says
-unfortunately I know helmet&amp;#39;s always got
-great opinions unfortunately or there&amp;#39;s
-not any real it strategy at customer
-side Sab customers wait for what sap
-leads to and decid to take the route
-that cost
-less yes exactly but this is all about
-cap so let&amp;#39;s talk about cap um so we&amp;#39;ve
-got this fantastic this is brilliant
-though I love it I love it I love it
-let&amp;#39;s get to the first part let&amp;#39;s see if
-we can get get a composition going in so
-get rid of that there we go so I think
-we&amp;#39;ll leave the data there uh should we
-leave yeah let&amp;#39;s leave the data there it
-doesn&amp;#39;t matter so we got the data in
-there LS LR tree serve there we&amp;#39;ve got
-yes okay that&amp;#39;s put oh no actually
-because it&amp;#39;s got or. caker it makes more
-sense to me to move uh serve data back
-to DB because that&amp;#39;s where the orq macro
-is right so tree DB we got that there
-tree serve we got that there fine okay
-now have I still got that in my um
-buffer no let&amp;#39;s copy that and let&amp;#39;s
-bring that in okay let&amp;#39;s get rid of that
-we don&amp;#39;t need that for now um do we need
-that no and no let&amp;#39;s go down here and
-add those
-things let&amp;#39;s now start to a it&amp;#39;s taking
-me 41 minutes to type in a composition
-but let&amp;#39;s get rid of that because that&amp;#39;s
-just you know uh from the from the from
-the example uh there uh there but let&amp;#39;s
-let&amp;#39;s subtly leave this commen in to be
-accessed through orders only what does
-that mean what do you think to be
-accessed through orders only means it&amp;#39;s
-one of these three um three what&amp;#39;s it
-called uh three treatments special
-treatments okay have a look at that I
-keep going to my uh screen one um okay
-thank you
-Lorenzo so what have we got entity
-orders let&amp;#39;s define an entity orders
-let&amp;#39;s have another called so we can see
-which ones which cuz goids are really
-hard to look at with my eyes so comment
-let&amp;#39;s have a comment in the order you
-know this order is placed by whatever
-string right okay and T do T do so what
-have we got here what have we got we&amp;#39;ve
-got an orders
-entity and we&amp;#39;ve got this composition of
-many order items very similar to
-Association of too many um something
-things remember we have the books the
-author&amp;#39;s Association the backlink
-association where we said for example
-here oh there it is there it is
-Association too many books on books to
-author equals Dollar Self we&amp;#39;ve got a
-similar too many Association too many
-relationship but this time it&amp;#39;s a
-composition and also note this I just
-love the subtle
-um the subtle difference between the
-preposition here two Association two
-okay which implies a sort
-of
-equal existential existentially equal uh
-relationship between the books and
-authors both of which can uh exist
-independent of each other whereas here
-notice that the preposition used is of
-so that sort of implies also this thing
-here where it says what is it um
-where uh contained in see that contained
-in so composition of that should give
-you a clue and start your brain thinking
-about this header items relationship
-that uh Henrik uh Henrik uh
-mentioned many order items we still
-because it&amp;#39;s to many we still need to
-have this sort of condition okay but
-basically it it follows the same idea we
-have how do you define the condition the
-first part of the of the left hand of
-the of the equals for example left hand
-of the the um equality uh condition says
-items what is that referring to that is
-referring to the name of this element
-and then this element points to
-something okay it points to the order
-items so the the right hand part of the
-or let&amp;#39;s say this part of the uh left
-hand side of the equals after the dot is
-an element in the pointed two thing so
-it&amp;#39;s there pair even highlights it for
-us right so
-basically Dollar Self is effectively the
-key of this entity is me right Dollar
-Self me this order right this this
-instance of the order as entity has to
-be the same as the key of this because
-remember oh also we need um we need to
-have don&amp;#39;t we don&amp;#39;t we have the CU ID
-right let&amp;#39;s put the CU ID in there
-comment items orders uh should we have
-the C see we&amp;#39;ll see what happens if we
-just take that um we probably need a CU
-ID don&amp;#39;t we anyway or some ID so let&amp;#39;s
-start let&amp;#39;s start that up and have a
-look what we get okay first of all let&amp;#39;s
-save that let&amp;#39;s go and open here CDs
-watch and now let&amp;#39;s bring in let&amp;#39;s bring
-that back in again we don&amp;#39;t need that
-one um let&amp;#39;s go back here back there
-back there what&amp;#39;s going on here oh ah
-why aren&amp;#39;t we getting that because we
-haven&amp;#39;t exposed it idiot DJ so let&amp;#39;s
-bring that in and open up um what&amp;#39;s it
-called main. CDs and let&amp;#39;s just expose
-and let&amp;#39;s just sort of think about what
-we&amp;#39;re doing here we want to
-expose
-um just our orders because we have
-composition targets are exposed Auto
-exposed in service interfaces let&amp;#39;s
-start taking
-a A Towing in the water approach to
-thinking about what the heck that might
-mean so we want to say here for example
-uh let&amp;#39;s do that orders as and as there
-okay let&amp;#39;s do that
-uh come on restart please thank you very
-much there we go now there we get
-orders okay no orders in fact let&amp;#39;s add
-some orders let&amp;#39;s add some a couple of
-orders let&amp;#39;s go and get um yeah let&amp;#39;s
-have a let&amp;#39;s well let&amp;#39;s have look at the
-metadata first of all in the
-orders there orders entity type there&amp;#39;s
-the entity type
-definition have you noticed what&amp;#39;s
-missing there right what&amp;#39;s missing there
-is something like this where we have a
-key property defined property o data
-term element CDs term right so this of
-course is just a you know this is just a
-the important bits of an entity
-definition so we do need a Cy of course
-obviously need a key so let&amp;#39;s go back to
-um schema. CDs and add in here uh
-willing fatless let&amp;#39;s annotate it with
-annotate it is that the word no let&amp;#39;s
-decorate it with the CI aspect okay oh
-LAX say good morning good afternoon to
-you could you also show how the DB table
-gets created the DB table gets created
-um what do you mean specifically there I
-think I might know what you mean or I&amp;#39;m
-going to take a guess as to what you
-mean which is the SQL light thing here
-um or do you mean for example um do you
-mean let&amp;#39;s just get do this for example
-this thing here so we can look at SQL
-previous squel Daniel SCH pointed us
-this week brand new in March 2024
-release of cap we can see the SQL so
-this is how um the schema. CDs
-translates into SQL so we have ddl
-statements here um that are based upon
-the definitions in here so we have the
-create table org qro orders so the the
-the name space gets translated as it
-were into a
-prefix for the table in the persistence
-lay in the ddl okay and here for example
-orders the
-cuid which is basically the CU you can
-see the cuid key ID which adds basically
-adds an an element called ID which is a
-key element of Type U
-ID that gets translated into ID narr 36
-why is it 36 because a u ID is 36
-characters long it&amp;#39;s sort of like a
-string but not a string it&amp;#39;s like an
-opaque
-string yeah opaque you do not look at it
-do not interpret it do not pass go do
-not collect to
-00 have a comment and and then we get
-the primary key ID it&amp;#39;s the primary key
-is the ID so is that what you mean or we
-can also do a deploy to the SQL light
-database and have a look at that as well
-let me know let me know in the chat if I
-probably not answer any question um so
-now let&amp;#39;s let&amp;#39;s have a look here and
-refresh that and now we get what we&amp;#39;re
-looking for here which is something that
-is sort of capable of maintaining a
-contained in relationship where the
-children can point back go to their
-parent Association to orders look and
-that because this is an managed
-Association composition doesn&amp;#39;t
-necessarily mean that you know two
-contained in relationship doesn&amp;#39;t mean
-that you only use compositions you use a
-composition to express the you know the
-pointing to the the contained in thing
-but that contained in thing can point
-back to its parent through a managed
-Association ah okay perfect thank you
-very much uh laxa um so now we can see
-here the order items has two key uh
-properties the parent ID where is that
-coming from that&amp;#39;s coming from the manag
-association remember the manag
-association takes the the from part the
-parent and the two part that it&amp;#39;s
-referring to which is the ID in orders
-there ID and squ them together with an
-underscore okay and generates that as as
-let&amp;#39;s do that again uh in the main CDs
-oh no let&amp;#39;s do it here I&amp;#39;ll do in in
-there what what what uh no don&amp;#39;t that
-what&amp;#39;s it what&amp;#39;s going on SQL there um
-in there parent ID okay
-right 850 we&amp;#39;ll have to do a second
-episode in this because there&amp;#39;s so much
-to explore in competitions we&amp;#39; only just
-got started right um so let&amp;#39;s add some
-data let&amp;#39;s add some
-data um because because because because
-because
-because um we don&amp;#39;t have any data let&amp;#39;s
-add some data and let&amp;#39;s go here and say
-let&amp;#39;s have a uu
-ID in fact let&amp;#39;s have two orders U ID um
-U ID let&amp;#39;s copy those that&amp;#39;ll do
-uh and let&amp;#39;s bring that into there and
-let&amp;#39;s now open let&amp;#39;s just that there
-again and let&amp;#39;s open up um let&amp;#39;s have
-another file let&amp;#39;s have another file um
-data new file oh doc can you hear my
-stomach rumbling I&amp;#39;m starving
-orders. CSV oh no DJ what are you doing
-we can we can be lazy can&amp;#39;t we lazy one
-of the three main features of a of a
-great programmer be lazy any can anybody
-put in the chat what I&amp;#39;m referring to uh
-that the famous Larry wall uh adage the
-three the three um aspects of a great
-programmer laziness something and
-something so I&amp;#39;m going to say CDs add
-data what&amp;#39;s going to happen here what is
-going to happen
-here I&amp;#39;ve got it to give me to create in
-the data directory in DB data the files
-are missing we&amp;#39;ve still got the authors
-we&amp;#39;ve still got the books but now we&amp;#39;ve
-got those two files there I don&amp;#39;t have
-to create them with the names and also
-it&amp;#39;s got the things here so ID let&amp;#39;s put
-that in there and comment first order uh
-second order second order there we go
-and let&amp;#39;s add the items as well right so
-we got the items we got um parent ID
-let&amp;#39;s have uh position one position one
-and quantity 10 and quantity 10 let&amp;#39;s
-have in the second order let&amp;#39;s
-have uh sorry in the second position
-second line item we&amp;#39;ll have sorry in the
-second order will&amp;#39;ll have two positions
-two items item one and item two where
-the quantity is 10 in the first one and
-you you know what I mean right okay ah
-there so let&amp;#39;s just have a look at that
-together let&amp;#39;s put that over there so
-they go we got our order ac5 there&amp;#39;s AC
-5&amp;#39;s item single item with 10 quantity
-and Order 609 there we got two order
-items one with 10 and one with 20 fine
-okay so now CDs
-watch let&amp;#39;s bring that back again and
-refresh there we go but the really so
-we&amp;#39;re going to we&amp;#39;re going to be able to
-capture or start to have a look at and
-stare
-at
-one just one for now let&amp;#39;s
-are you okay put in the chat somebody
-who&amp;#39;s somebody who&amp;#39;s put in the chat
-already put some more in the chat if
-you&amp;#39;re okay in us doing a second episode
-I think we need to do a second episode
-on compositions put in the chat you know
-tell us it&amp;#39;s all right to do a second
-episode on compositions so we can we can
-do it
-justice um notice what I haven&amp;#39;t put in
-let&amp;#39;s put that over there a bit uh let&amp;#39;s
-go here get rid of that get rid of that
-get rid of that in our main CDs in serve
-Main CD you can see serve that&amp;#39;s quite
-nice there the breadcrumbs serve main
-CDs in Bookshop right I&amp;#39;ve
-defined I&amp;#39;m exposing an entity called
-orders and it&amp;#39;s a projection on the org
-qro orders which I&amp;#39;ve imported from the
-schema level thank you visas thank you
-thank you so much right
-okay but I&amp;#39;ve not
-exposed order
-items because it says here composition
-targets DJ are Auto exposed in service
-interfaces
-so let&amp;#39;s have a look what that means
-first of
-all we&amp;#39;ve already seen partly what put
-my head at the top again we&amp;#39;ve already
-seen partly what that means look down
-here we&amp;#39;ve got our books entity type
-we&amp;#39;ve got our author&amp;#39;s entity type and
-we&amp;#39;ve got our sorry authors entity type
-we&amp;#39;ve got our orders entity type we
-haven&amp;#39;t said anything about order items
-but it&amp;#39;s in the metadata why is it in
-the metadata because it needs to be in
-the metadata in order in order to have
-this relationship expressed in the
-service and that&amp;#39;s what this is
-partly referring to Auto exposed in fact
-in
-fact if we have a look here get rid of
-that for a second if we have a look at
-the let&amp;#39;s look at the
-yaml if we collapse this is basically
-the yaml encoding the yaml language
-encoding rather than Jon encoding of the
-core schema notation the sort of machine
-readable version of this of main right
-but we&amp;#39;ll we&amp;#39;ll dig into that a little
-bit more this you know this is a back to
-Bases we&amp;#39;re not going to look at this
-too much but looking at this stuff tells
-us a ton of stuff so org Q macro orders
-org Q look at this don&amp;#39;t look at that
-bottom bit yet look at that there we&amp;#39;ve
-got where is
-it oh damn move oh miss oh yeah oh it&amp;#39;s
-because I&amp;#39;m I&amp;#39;m not used to VSS code
-let&amp;#39;s do that again and double click so
-it stays there right let&amp;#39;s just go down
-there uh or cacro orders no orq macro
-order items that reflects exactly this
-thing here Order items right order items
-it&amp;#39;s an entity it&amp;#39;s got these elements
-parent pause and
-quantity but the Bookshop order items so
-going back to your question uh Lorenzo
-this is why this the C the cap Server
-doesn&amp;#39;t really well distinguish es of
-course it distinguishes but it has both
-it&amp;#39;s thinking already about both
-prefixed things order items in the OR
-qro context and Order items context
-again is an overloaded word in the OR
-cacro Arena and Order items in the
-Bookshop Arena Bookshop service or qro
-namespace these are separate things but
-they both exist and look at that CDs
-Auto exposed with a d you may have
-already seen the CDs Auto
-expose without a D annotation we&amp;#39;ll get
-to that so zahed and Ravi says thank you
-yes thank you very much for responding
-in the chat chat is great uh so
-that has been generated when it&amp;#39;s when
-this schema. CDs is converted and the
-main CDs converted of course as well you
-know the whole when the model is
-built it&amp;#39;s this it&amp;#39;s a season that
-matters and what we get in the generated
-season is this CDs Auto exposed true
-that means you know in my brain the fact
-that it&amp;#39;s a past participle Auto exposed
-with a d means that it&amp;#39;s done for us
-right and that relates exactly to Auto
-expose even says there Auto expose you
-know clues in the name type thing what
-does that mean that means that we get it
-there but what that also means
-is across there a minute what that also
-means is when we go to
-orders we can say can we say can we say
-can we say will this work
-expand equals what&amp;#39;s it going to be
-items items because let&amp;#39;s get rid that
-for a second that get that there because
-this is the the relationship the
-navigation property in od data terms
-that we&amp;#39;ve defined because of this
-composition that we&amp;#39;re using items
-capital I expand equals items will this
-work
-yes yes yes and more yes what I want to
-leave you with though is a really
-straight
-thing um oh no actually no that&amp;#39;ll do
-for now that&amp;#39;ll do for
-now so let&amp;#39;s just recap in the in the
-final
-minute we have defined let&amp;#39;s get rid of
-that there we&amp;#39;ve
-defined a new entity orders and a new
-entity order items two separate entities
-next week hopefully we&amp;#39;ll get round to
-looking at where we don&amp;#39;t have to
-define a separate entity which is you
-know is sort of very subtly slightly
-not cumbersome but you know flat footed
-you know we I don&amp;#39;t know it it would be
-nice to define something like this sort
-of in line so that&amp;#39;s what we&amp;#39;ll look at
-as well but we&amp;#39;ll also look
-at more on the auto
-exposure right and the difference
-between oh tell you what tell you what
-really subtle 858 and the difference
-between Auto exposed let&amp;#39;s do that let&amp;#39;s
-do that um and Auto if I say CDs Auto
-expose without a D Auto exose as in I&amp;#39;m
-doing it as a human annotating that I do
-that that will restart if we now go
-here refresh it&amp;#39;s there right there&amp;#39;s a
-subtle difference between Auto Expos and
-auto exposed Auto exposed is sort of
-internal implicit and auto expose now we
-can look at the order items right before
-we couldn&amp;#39;t and in fact the final thing
-if we get rid of the auto Expos oh my
-goodness me get rid of that and save
-that uh did I get rid of that
-no come on down there down there down
-there delete save restart oh go there
-and go back there again but if we re
-refresh that it&amp;#39;ll say entity bookshops
-order items is not explicitly exposed as
-part of the service bombshell to leave
-on so we&amp;#39;ll look at what the heck that
-means what that means in terms of the
-composition targets Auto expose
-we&amp;#39;re going to do cascaded deletes next
-week which is like
-beautyful and then we&amp;#39;re going to do
-some deep inserts as well so basically
-this is a classic sort of again going
-back to what Henrik said right at the
-start this is the classic document
-structure header items often you want to
-create a whole document with the header
-and the items together bam compositions
-are what are beautiful for that okay
-that&amp;#39;s it for now thanks for joining
-have a great weekend and see you next
-time
-[Music]
-bye e
+0m0s: e
+0m36s: [Music]
+0m42s: [Applause]
+0m47s: [Music]
+1m28s: [Music]
+1m42s: [Applause]
+1m45s: [Music]
+2m19s: good morning good afternoon good evening
+2m21s: welcome to Hands-On Sab Dev with me
+2m24s: again DJ cacro welcome one and all uh
+2m28s: welcome to visas
+2m30s: in Bangkok Thailand great to have you
+2m33s: again one of the uh one of the regulars
+2m36s: it&amp;#39;s great to see you Vis and Ravi Kumar
+2m39s: good morning to you or good afternoon
+2m41s: maybe yes uh I&amp;#39;m looking at my watch
+2m44s: here
+2m45s: 801 yes good afternoon to you in uh was
+2m49s: it Bangalore and uh r r r r r what is
+2m52s: Cap well you&amp;#39;ve come to the right place
+2m54s: to find out good uh welcome uh cap is
+2m57s: short for cloud application programming
+3m1s: uh and more specifically sort of short
+3m3s: for sap Cloud application programming
+3m5s: model it&amp;#39;s a it&amp;#39;s a programming
+3m6s: framework uh that supports nodejs and
+3m9s: Java and it&amp;#39;s amazing it&amp;#39;s beautiful
+3m11s: it&amp;#39;s built by a wonderful uh uh set of
+3m13s: teams of people at sap and uh this is
+3m16s: what this uh this back to basic series
+3m19s: is all about the nodejs specific version
+3m22s: or flavor of cap so uh yeah stick around
+3m25s: and you&amp;#39;ll find out a little bit more
+3m27s: good morning to you helmet in branke in
+3m30s: and Antonio good morning to you and
+3m32s: Kiara bonjo and AJ good afternoon to you
+3m36s: and zahed good morning to you in suly
+3m38s: Hall Sunny Su Hall fantastic I&amp;#39;m just a
+3m41s: little bit further north than you I&amp;#39;m
+3m43s: I&amp;#39;m sort of where&amp;#39;s the nearest place
+3m45s: I&amp;#39;m in burco um which is sort of near Ms
+3m48s: Kirk uh yeah Ms Kirk that sort of that
+3m50s: sort of area Henrik good morning to you
+3m53s: in Denmark and ansha hi good morning to
+3m55s: you and Tom good morning from Greece
+3m58s: Hass uh fantastic and Ola Monica Rafael
+4m1s: good morning to you in Poland and
+4m2s: Raphael good morning to you in SCH in
+4m4s: Switzerland and ra R ra so no more abat
+4m6s: for cap uh oh I&amp;#39;ll come back to that in
+4m8s: a second to say all lots of good
+4m9s: mornings it&amp;#39;s fantastic thank you all by
+4m11s: the way for saying good morning I love
+4m12s: it because it&amp;#39;s nice to see who&amp;#39;s on and
+4m15s: you know it&amp;#39;s nice to see you
+4m16s: interacting sasu good morning to you in
+4m19s: Munich and anchel good morning to you in
+4m22s: uh I don&amp;#39;t know where you are but am I
+4m24s: from Germany No I um I&amp;#39;m from Manchester
+4m28s: in brexitland uh uh that&amp;#39;s where I&amp;#39;m
+4m30s: from um and I&amp;#39;m coming to you live from
+4m34s: the leads in Liverpool Canal from my
+4m36s: Naro as usual now um so
+4m40s: ra so no more for cap well um there is
+4m44s: an equivalent let&amp;#39;s call it equivalent
+4m48s: um framework for the abop developers
+4m51s: amongst us which is the restful
+4m53s: application programming model and they
+4m55s: share many similarities and they share a
+4m59s: almost like you know I remember that
+5m0s: phrase what&amp;#39;s that phrase uh the United
+5m3s: Kingdom and the United States of America
+5m6s: Two Nations divided by a common language
+5m9s: English obviously so you know just
+5m11s: different different sort of dialects
+5m13s: different sort
+5m14s: of yeah I supp versions of of of the
+5m17s: same language in the same sort of way
+5m18s: similar sort of way rap and cap both use
+5m22s: the declarative language CDs but there
+5m24s: are some subtle differences between the
+5m25s: two but yeah stick around and uh yeah
+5m28s: learn about a little bit about cap
+5m29s: fantastic ftic uh Angel lovely fantastic
+5m32s: to home of the Tom yes exactly home
+5m34s: brexit land home of the idiots welcome
+5m38s: so yeah we&amp;#39;re going to cover um let blow
+5m40s: my nose for a second we&amp;#39;re going to
+5m42s: cover compositions today when I say
+5m45s: cover I was like woring all week like oh
+5m48s: will we fit everything into the to the
+5m50s: one uh one episode about compe
+5m53s: compositions um I think we&amp;#39;ll do the
+5m55s: basics certainly in in this episode but
+5m57s: there are compositions are so important
+5m59s: and there they&amp;#39;re so
+6m1s: wonderful uh that we may have to extend
+6m3s: into another episode but anyway let&amp;#39;s
+6m5s: get going DJ stop talking anel says hi
+6m7s: this is annal from Mumbai welcome to you
+6m10s: annal and welcome to you Jennifer in
+6m12s: India and Mark good morning in to you in
+6m15s: ke hope to see you about comt and recap
+6m17s: yes I&amp;#39;ll be there at code connect uh in
+6m20s: June early June uh good morning DJ uh
+6m23s: good morning to you NES as well
+6m24s: fantastic let me let me move to the main
+6m27s: screen so I can start sharing stuff so
+6m29s: we&amp;#39;re going to be looking at
+6m30s: compositions today we&amp;#39;re going to be
+6m32s: using the the cap B2B repo that we&amp;#39;ve
+6m36s: been working on you know nice simple
+6m37s: repo we
+6m39s: moving uh moving from what we&amp;#39;ve got so
+6m41s: far which is just books and authors with
+6m43s: an association which is sort of related
+6m45s: to compositions but not quite the same
+6m48s: we&amp;#39;ll talk about that in a
+6m50s: minute and we&amp;#39;ll sort of
+6m53s: try
+6m54s: transmogrify that stuff into uh
+6m57s: something we can start thinking about
+6m59s: composition compositions with um and it
+7m3s: also says here let&amp;#39;s just jump in for a
+7m5s: second cat run times provide these
+7m7s: special treatments to compositions out
+7m9s: of the box so we&amp;#39;re going to be seeing
+7m11s: if we can see these treatments
+7m15s: experience The Wonder of these
+7m17s: particular these three treatments deep
+7m19s: insert update cascaded delete and auto
+7m21s: Exposition Auto Exposition is that the
+7m24s: right word Auto exposure Exposition Auto
+7m27s: exposure of uh composition targ what
+7m30s: even does that mean we&amp;#39;re going to find
+7m31s: out today uh hopefully uh so anyway
+7m33s: before we get on um uh oh by the way so
+7m38s: before I used to sort of you know pre
+7m40s: preload the chat buffer here with all
+7m42s: these URLs so of course then you have to
+7m44s: go back to the chat and find out where
+7m46s: these things are what the heck is that
+7m48s: face doing there I don&amp;#39;t know what was
+7m49s: going anyway
+7m52s: um let me do that Bang there perfect uh
+7m55s: get rid of that stuff um so uh but I
+7m59s: thought of a better idea I have been
+8m1s: doing this in the past let me know in
+8m2s: the chat um we have uh in the sap events
+8m7s: in the events part of the new sap
+8m9s: Community platform we have sap Community
+8m12s: event I will share that link because
+8m14s: that&amp;#39;s really all you need I suppose uh
+8m16s: put that down there and then in each
+8m19s: each um what&amp;#39;s the word each week I will
+8m22s: put in if I remember an entry so people
+8m26s: can sort of subscribe to that and
+8m27s: everything and blah blah blah you know
+8m28s: you don&amp;#39;t have to do that but this is
+8m30s: also good because that is therefore also
+8m33s: where and you can go back and look in
+8m35s: the calendar go back to
+8m37s: previous uh you know there&amp;#39;s there&amp;#39;s um
+8m40s: uh where is it go back to April and have
+8m43s: a look there you can see uh back to
+8m45s: basic back to basic back to so there&amp;#39;s
+8m48s: one we did on the 8th of March for
+8m50s: example and you can go back there and
+8m52s: look at all the links to all the
+8m56s: resources we talked about and so instead
+8m58s: of putting all the URLs to all these
+9m0s: different things I&amp;#39;m going to show you
+9m2s: I&amp;#39;m going to put them in I&amp;#39;ve just
+9m3s: started started typing them in while I
+9m5s: was waiting for 8:00 to start and
+9m7s: everything so I&amp;#39;ll put them in here if
+9m8s: that&amp;#39;s okay let me know if that will be
+9m11s: uh a better option for you okay so all
+9m14s: these things in here are all these tabs
+9m16s: here you can go back later on have a
+9m18s: coffee after the live stream finished
+9m19s: and get all the links from here oh by
+9m22s: the way hello and welcome to um anel are
+9m25s: we doing sap analytics Cloud oh uh no
+9m28s: we&amp;#39;re not um so my very good friend and
+9m32s: colleague Vitali um is is uh is the
+9m36s: person to talk to there about sap
+9m38s: analytics Cloud this is sap Cloud
+9m40s: application programming naming what&amp;#39;s
+9m43s: that what&amp;#39;s that adage uh in computer
+9m45s: science there are two hard
+9m47s: problems uh cash invalidation naming
+9m51s: things and off by one errors see what I
+9m53s: did there see what the joke did there
+9m54s: anyway so yeah the names can be
+9m56s: sometimes confusing this is the cloud
+9m58s: application programming model um and
+10m0s: it&amp;#39;s about you know um a programming
+10m2s: model that allows us to build Services
+10m5s: backend Services primarily for our Cloud
+10m8s: applications it&amp;#39;s amazing um so Antonio
+10m11s: good night good good night from Mexico
+10m13s: good good yes good early morning uh and
+10m16s: welcome and thank you for joining at
+10m17s: asok thank you for joining uh in uh to
+10m19s: you in Belgium amazing so uh we have the
+10m22s: SB developer news there it came out last
+10m24s: night there&amp;#39;s Antonio talking about Sab
+10m26s: Co jams talking about sa Co jams here&amp;#39;s
+10m29s: all the sap code jams upcoming and again
+10m31s: you can get all the links in here um Tom
+10m34s: and Rich our illustrious uh pair of
+10m37s: abers uh in the developer Advocates team
+10m40s: we of course got Miki as well um but
+10m42s: they they have moved over they traveled
+10m44s: over this week and they&amp;#39;re in uh where
+10m46s: are they in uh in in in in in Amsterdam
+10m50s: so they&amp;#39;re doing a CO Jam they&amp;#39;re
+10m51s: starting a CO Jam right now so there&amp;#39;s
+10m52s: another uh what&amp;#39;s it what&amp;#39;s the word uh
+10m55s: Road road trip Cod Jam so check out all
+10m58s: the Cod jams there
+11m0s: the developer challenge being run by uh
+11m2s: Daniel we&amp;#39;re in the the next week and
+11m6s: it&amp;#39;s all about formula so check out the
+11m7s: developer Challenge on sap build apps
+11m10s: it&amp;#39;s amazing so Ian uh Ian th put a news
+11m13s: item in the news this week about that um
+11m16s: and I when I was sort of thinking about
+11m18s: the compositions there&amp;#39;s a couple of uh
+11m21s: like oh yeah I&amp;#39;ll write about this
+11m22s: because it&amp;#39;s you know maybe some
+11m23s: somebody might be interested so have a
+11m26s: look at this so there&amp;#39;s a blog post here
+11m27s: that I wrote um about basically
+11m30s: sometimes um if you&amp;#39;re maintaining some
+11m32s: Json data in a in in the project
+11m35s: directory in a cap project directory and
+11m37s: of course you you maintain that for
+11m38s: whatever reason you want to use that as
+11m40s: a payload in a curer request in a post
+11m41s: request for example you might not want
+11m44s: the cap server to restart and if you&amp;#39;re
+11m45s: running it in CDs watch mode it will
+11m47s: restart because that&amp;#39;s usually what you
+11m48s: want so here&amp;#39;s a little bit of a hack as
+11m50s: to how you can stop it automatically
+11m54s: restarting as in stopping how we can
+11m56s: stop the normal void the normal behavior
+11m58s: so check out that blog post there the
+12m0s: link again is in this thing here um and
+12m4s: also yesterday uh what I&amp;#39;m doing now is
+12m8s: uh and what we will be doing is you know
+12m10s: having lots of terminals as normal and
+12m12s: you know you know having all sorts of
+12m14s: things on our vs code and sometimes uh
+12m17s: or previously uh we had the the uh The
+12m20s: Prompt ending here so I started sort of
+12m22s: typing here and it wasn&amp;#39;t very long to
+12m25s: type I like typing on a nice clean line
+12m27s: so this blog post here um it just is a
+12m31s: bit of a little bit of a hack on the
+12m34s: PS1 um uh environment variable and a
+12m37s: nice sort of light SED hack to say ah I
+12m40s: want to move the dollar sign round to
+12m42s: the next line in fact I personally
+12m45s: prefer a semicolon because you know I&amp;#39;m
+12m46s: cool or I like to be I like to think I&amp;#39;m
+12m48s: cool I&amp;#39;m not I&amp;#39;m an idiot but there we
+12m50s: go there&amp;#39;s the thing so that&amp;#39;s that&amp;#39;s
+12m52s: why we&amp;#39;re now starting typing on a new
+12m53s: line and if you want to know how I did
+12m55s: that basically uh tail
+12m59s: I did that by doing that right and that
+13m2s: is explained in this blog post so
+13m5s: there&amp;#39;s a blog post there and finally
+13m7s: the final sort of announcement before we
+13m9s: get started um as you know we&amp;#39;re in sort
+13m12s: of the test drive period for sap build
+13m14s: code which is amazing and um we&amp;#39;re going
+13m17s: to do Tom uh Tom young and I are going
+13m19s: to do a live stream oh look who&amp;#39;s I
+13m21s: idiot uh Tom going to a live stream at
+13m23s: the end of the test drive period which
+13m24s: is going to be Friday April the
+13m26s: 26th and then uh I good friend Steve
+13m30s: pointed out DJ you idiot um there you
+13m32s: know you&amp;#39;re doing a test drive doing a
+13m34s: test drive live stream but that doesn&amp;#39;t
+13m36s: really cover uh the
+13m38s: Americas uh for this special event so
+13m40s: we&amp;#39;ve added a new uh second live stream
+13m45s: you know know have to go to one of them
+13m47s: doing very similar things in both live
+13m49s: streams but on the same day um 12 1200
+13m52s: EDT I think is 5:00 p.m. UK uh I in 1700
+13m57s: UK 1800
+13m59s: EST so we got an extra live stream there
+14m2s: so there we
+14m3s: go uh now what&amp;#39;s going on here are we
+14m6s: still connected yes we&amp;#39;re still
+14m7s: connected let&amp;#39;s go let&amp;#39;s go let&amp;#39;s go
+14m9s: okay clear don&amp;#39;t clear that one because
+14m11s: I want to I want to keep adding things
+14m12s: to that clear that one there we go so
+14m16s: compositions somebody put in your chat
+14m19s: just to start us off um what you think
+14m22s: compositions are good for uh and while I
+14m25s: give you a chance to put that in the
+14m27s: chat uh let let&amp;#39;s go back and see
+14m30s: remember where we are let&amp;#39;s get rid of
+14m32s: that as well remember where we are um in
+14m34s: our back to basic sort of um repo and as
+14m37s: as you know you can probably find if
+14m39s: you&amp;#39;re not aware you can find the cap
+14m41s: B2B B repo here I should add that to uh
+14m46s: there we go um let&amp;#39;s put it at the top
+14m48s: there oh no let&amp;#39;s put that there
+14m49s: actually let&amp;#39;s put it as we go um Cap B
+14m54s: Tob re
+14m56s: working
+14m57s: repository there there there we go
+15m0s: perfect uh in that
+15m2s: repo we have and we&amp;#39;ve been doing it
+15m5s: deliberately simple we&amp;#39;ve got a
+15m7s: single CDs file services. CDs in the
+15m10s: sort of the project route uh we&amp;#39;ve got
+15m13s: some data as well in a data directory in
+15m15s: the project route okay um and in that in
+15m19s: that CDs file we&amp;#39;ve got um a service and
+15m23s: inside that service directly we sort of
+15m26s: on the Fly Define two entities a book&amp;#39;s
+15m29s: entity and an author&amp;#39;s entity and we
+15m31s: have a relationship
+15m33s: between uh those two entities with this
+15m36s: Association now somebody put something
+15m38s: in the chat please just to make sure the
+15m40s: chat I&amp;#39;m not sure my chat is updating so
+15m44s: or maybe I could put something in the
+15m45s: chat hello from
+15m48s: myself will that will that appear in the
+15m50s: chat oh there there it is there you&amp;#39;re
+15m51s: just all very quiet am I am I um am I
+15m54s: boring you to death
+15m57s: already somebody put what you think um
+16m0s: what you think compositions are good for
+16m2s: and we&amp;#39;ll get around to it um so there
+16m4s: we go so um so we have this now before
+16m8s: we get into compositions and before we
+16m9s: start to modify this to move not move
+16m13s: away from associations we can see that
+16m15s: associations
+16m16s: here are about expressing relationships
+16m19s: between what essentially a I can I&amp;#39;ve
+16m22s: already sort of seen the pattern of text
+16m24s: I&amp;#39;ve not read the text from Henrik but I
+16m26s: think Henrik is absolutely beautifully
+16m29s: spot on and and I was hoping that we
+16m32s: would allow ourselves to get to exactly
+16m34s: that um so Daniel says classical header
+16m37s: items coming up wink exactly exactly
+16m41s: exactly exactly now so in contrast to
+16m46s: that which we&amp;#39;ll de into in a second
+16m48s: books are independent things authors are
+16m51s: independent things you know a book
+16m53s: exists as a as a thing an author a human
+16m56s: exists as a thing and they can be indep
+16m58s: dependent right once you once an
+17m0s: author&amp;#39;s written a book that book still
+17m2s: exists so that&amp;#39;s why um there&amp;#39;s no sort
+17m6s: of otherwise inherent dependency between
+17m9s: those two and the relationship in this
+17m12s: case then we express with an association
+17m15s: an author is associated with a book A
+17m17s: book is associated with an author right
+17m19s: however however however however has as
+17m22s: Henrik Henrik uh says absolutely
+17m25s: beautiful and refers to it as classical
+17m28s: why is the word classical use here by
+17m30s: Henrik because we&amp;#39;re thinking back
+17m32s: to I don&amp;#39;t mean back as in you old
+17m34s: fashioned I mean just thinking
+17m36s: about the classic the the
+17m40s: normal unit of of of of work almost in
+17m45s: sap R2 and R3 systems S4 H Hana
+17m48s: documents a document header and document
+17m51s: items or positions okay and that&amp;#39;s and
+17m55s: that is really the in my in my small
+17m59s: brain the main raise onra of the
+18m3s: composition type of relationship it&amp;#39;s
+18m6s: where you have a relationship between a
+18m8s: parent and children that are dependent
+18m12s: upon that parent and and yes while while
+18m16s: p parent child in the human in the human
+18m18s: context is still you know they&amp;#39;re still
+18m19s: independent things but it it makes it
+18m23s: makes more sense to think about
+18m25s: positions of document items of a
+18m27s: document and as not really having that
+18m31s: much meaning outside the context of that
+18m33s: document
+18m35s: okay so where you have a dependent
+18m37s: relationship does it say that in the
+18m39s: thing let&amp;#39;s have a look um uh yes
+18m42s: contained in there we go comp
+18m44s: compositions represent contained in
+18m46s: relationships okay so when we want to
+18m49s: express a classic thing like a doc a
+18m51s: purchase order with a header and items
+18m54s: or for example I know a a Goods receipt
+18m56s: document or a whatever invoice header
+19m0s: items this whole sap Enterprise you know
+19m4s: basic unit of work is a document right
+19m7s: so um Daniel Scher hello world hello
+19m10s: world Daniel nice have you Daniel on the
+19m13s: on the on the on the on the stream Sunny
+19m15s: hello everyone and DJ Adams good
+19m16s: afternoon from Mumbai good afternoon to
+19m18s: you in Mumbai as well and zahed
+19m20s: compositions are good to create document
+19m22s: structures fantastic so zahed and Henrik
+19m26s: are absolutely spot on so and we can see
+19m29s: here here&amp;#39;s an example right modeling
+19m31s: document structures the clues in the
+19m33s: name right the clues in the title entity
+19m36s: orders orders has this thing called
+19m39s: items notice the capital I right we&amp;#39;re
+19m41s: moving away in or away but in this
+19m43s: particular case where we&amp;#39;re
+19m45s: expressing uh or defining an element
+19m48s: which is is being defined when when
+19m51s: we&amp;#39;re defining an element which is being
+19m53s: described as being of type composition
+19m57s: you can see here that the con ition is
+19m59s: to actually capitalize the first letter
+20m1s: of that element name items okay and it&amp;#39;s
+20m4s: a composition of many order
+20m6s: items and then we have this this on
+20m9s: condition we&amp;#39;ll come to that later and
+20m11s: these order items here is another entity
+20m14s: right okay so we&amp;#39;ve still got two
+20m16s: entities maybe next week we&amp;#39;ll have to
+20m18s: do this next week but we can use aspects
+20m21s: to have sort of
+20m22s: inline uh contained entities down there
+20m27s: for example how beautiful is that right
+20m29s: but we&amp;#39;ll do that maybe next week let&amp;#39;s
+20m31s: get Basics out the way the basics Basics
+20m36s: so
+20m37s: associations independent entities
+20m41s: compositions contained in relationships
+20m44s: but before we do anything else I think
+20m46s: 819 I think what we should do is um sun
+20m49s: says this is my first time watching DJ
+20m50s: Adams in capitals video live I always
+20m52s: use recorded videos well welcome sunny
+20m54s: and thanks thanks for joining live I
+20m56s: hope you um take advantage of and enjoy
+20m58s: enjoy the chat which you are doing which
+21m0s: is fantastic you make you you&amp;#39;re um
+21m2s: you&amp;#39;re a good example and a good role
+21m3s: model for uh for everyone here who joins
+21m6s: live chat chat chat give me your opinion
+21m8s: give me your questions as many as you
+21m9s: want um I can&amp;#39;t answer any of them maybe
+21m11s: I don&amp;#39;t know but anyway let&amp;#39;s let&amp;#39;s keep
+21m13s: going so what we&amp;#39;re going to do is we
+21m16s: going to move away from this sort of
+21m18s: simple single Services only and data and
+21m21s: then move back to where we started from
+21m24s: right at the start when we do a CDs in
+21m27s: fact let&amp;#39;s go over here uh CDs init uh
+21m31s: temp uh temp
+21m35s: project if we go to Temp project
+21m38s: now and have that we have we get three
+21m41s: directories as we all know this now
+21m44s: because we&amp;#39;ve done we know we looked at
+21m45s: the other previous episodes here we get
+21m46s: an app director a DB director and server
+21m48s: we&amp;#39;re going to go back to that now so
+21m50s: let&amp;#39;s go back there from RF temp from
+21m53s: temp project and let&amp;#39;s make deer uh
+21m56s: let&amp;#39;s make a DB directory and also a
+21m58s: serve
+22m0s: directory okay um and in those
+22m3s: directories ahim hello sap myap friends
+22m7s: uh my sap friends that&amp;#39;s a good Emoji uh
+22m10s: that&amp;#39;s a good name as well actually um
+22m13s: uh so if we do that oh Sunny has my
+22m15s: question which is good environmental cap
+22m17s: mass or Visual Studio Cod either are
+22m19s: great either have the same um that&amp;#39;s a
+22m23s: good question either have have the same
+22m25s: uh what&amp;#39;s it called where is it called
+22m26s: where is it ah Dev it&amp;#39;s in the dev
+22m29s: container don&amp;#39;t locally installed um the
+22m31s: same sap CDs Lang language
+22m34s: support extension which makes developing
+22m38s: cap stuff magic it&amp;#39;s fantastic so if you
+22m40s: want you know a cloud-based um uh
+22m44s: approach then the business application
+22m45s: studio if you want uh you know a local
+22m47s: approach use vs code but actually
+22m49s: they&amp;#39;re the same thing you know business
+22m50s: application studi these days based on
+22m52s: code OSS which is the open source
+22m53s: portion of vs code and there&amp;#39;s all sorts
+22m56s: of relationships between them you can
+22m57s: sort of you know go from vs code and you
+22m59s: can attach to a Dev space in B and all
+23m2s: sorts of different things so it&amp;#39;s the
+23m4s: same thing so great question though uh I
+23m6s: think some of the previous uh episodes
+23m8s: we talked a little bit about that okay
+23m11s: so now what I&amp;#39;m going to do I&amp;#39;m going to
+23m12s: move uh or let me copy first of I&amp;#39;ll
+23m14s: copy Services into uh DB let&amp;#39;s call it
+23m19s: schema. CDs okay uh and then open that
+23m23s: uh uh code schema CDs uh Services
+23m28s: services on that one there there we go
+23m30s: uh there let&amp;#39;s move that there now I&amp;#39;ve
+23m34s: now split off let&amp;#39;s go back to the um
+23m37s: thingy here I&amp;#39;ve now split off uh I want
+23m40s: to split off here so we got to get rid
+23m42s: of services and get rid of that and
+23m44s: format that i&amp;#39; I&amp;#39;ve worked out why I
+23m47s: can&amp;#39;t do this keyboard shortcut because
+23m49s: I&amp;#39;m already using that keyboard shortcut
+23m50s: for amethyst my window manager so there
+23m52s: we go so there we go let&amp;#39;s let&amp;#39;s have
+23m54s: some some sort of beautiful formatting
+23m56s: so now we&amp;#39;ve moved from defining having
+23m59s: these entities defined inside a service
+24m1s: inside a services. CDS file in the
+24m3s: project route to defining these just the
+24m5s: schema layer so you know in the DB
+24m7s: directory more like persistence things
+24m9s: okay so got books okay and and and
+24m12s: authors and now we&amp;#39;re also going I&amp;#39;m
+24m15s: also going to copy the services into uh
+24m18s: serve and call it main. CDs for example
+24m21s: right um and code serve main.
+24m26s: CDs and now we get get rid of that and
+24m29s: we want to bring oh actually want the
+24m31s: services but now we want to bring in
+24m34s: something in there okay let me move that
+24m36s: across to
+24m38s: here uh there I&amp;#39;m put my head down the
+24m40s: bottom okay do that okay so this is
+24m43s: where we start to think
+24m45s: about not separation of concerns but
+24m48s: using the beauty of the CDs language
+24m51s: itself in how it enables us and
+24m53s: encourages us really to think about
+24m56s: cleanly and
+24m58s: separately defining the things that make
+25m1s: it a little bit more maintainable and
+25m3s: clean and beautiful so over here what we
+25m8s: want to do is give it give give these
+25m11s: entities a name space we don&amp;#39;t have to
+25m13s: but it makes our lives easier and also
+25m16s: of course when you start working in
+25m17s: larger projects larger than just one
+25m19s: person you know it makes it a little bit
+25m22s: more
+25m24s: um explicit in what you&amp;#39;re changing what
+25m27s: you&amp;#39;re importing and so on so I&amp;#39;m going
+25m29s: to say uh Nam space um or. macro think
+25m35s: of my um think it might sort of what&amp;#39;s
+25m37s: it called k.org domain name right
+25m39s: that&amp;#39;ll do right so in this file we&amp;#39;ve
+25m43s: now got the same entities and this
+25m45s: aspect I could I could import the aspect
+25m47s: from sap CDs comma but leave that there
+25m49s: for now let&amp;#39;s not go down that route 824
+25m52s: DJ come on I&amp;#39;m sort of panicking um and
+25m56s: now we can go into here and say using
+26m1s: org
+26m3s: from DB
+26m5s: schema Deb what&amp;#39;s going on here schema
+26m9s: we don&amp;#39;t need the CDs um what&amp;#39;s it
+26m11s: called the CDs extension because that&amp;#39;s
+26m13s: automatic using or schema there we go
+26m16s: and we get that squidly underline
+26m17s: because of course it&amp;#39;s saying DJ you
+26m18s: haven&amp;#39;t used or but we&amp;#39;re going to do
+26m20s: that now so so now we can sort of bring
+26m22s: in those two entities into our service
+26m25s: and have exactly the same as what we had
+26m26s: before in that same
+26m29s: in in that single services. CDs file
+26m31s: which had both in right so we&amp;#39;ve now
+26m33s: separated out the service definition
+26m36s: from the schema level definition entity
+26m40s: books as
+26m43s: projection on
+26m46s: org. Q look at that see see so going
+26m49s: back to your question Sunny whether you
+26m50s: use uh business application Studio or
+26m52s: whether you use vs code with this
+26m54s: extension you get this
+26m56s: beauty cacro do books
+26m58s: and then just have that there
+27m1s: authors and there let&amp;#39;s have that save
+27m4s: that why don&amp;#39;t we also do a CDS watch
+27m7s: okay uh so uh huno welcome huno says and
+27m12s: I like the chat between you as well uh
+27m14s: both passes based on the open source
+27m15s: version of V code exactly exactly you
+27m17s: know thank you for that uh do what uh do
+27m21s: a definition of artifact Bookshop in
+27m23s: Services Bookshop uh what&amp;#39;s going on oh
+27m26s: ah why why do we get that why do get
+27m28s: that because I&amp;#39;ve still got well check
+27m30s: it out actually um CDs watch um it&amp;#39;s
+27m33s: bringing
+27m35s: in uh list in fact
+27m38s: find uh max depth 2 just send one
+27m42s: directory here in One Directory name
+27m45s: star. CDs what have we got we&amp;#39;ve still
+27m48s: got services. CDs remove services. CDs
+27m51s: CDs
+27m53s: watch there we go now okay so now we&amp;#39;ve
+27m57s: oh H says on the other hand on your
+27m59s: local machine you will have to take care
+28m0s: of everything by yourself yes true very
+28m4s: true yeah so some people like that some
+28m6s: people like it to be you know managed
+28m8s: for them best of both
+28m10s: ones so basically now we&amp;#39;re almost back
+28m13s: but I would like to
+28m16s: also move the data directory into the DB
+28m21s: directory because the data Direction at
+28m22s: the moment is in our project route but
+28m25s: now really we should sort move it I&amp;#39;m
+28m27s: not going to drag I&amp;#39;m going to say move
+28m29s: data into DB DB and there we go uh CD
+28m34s: data
+28m36s: and really now Bookshop let&amp;#39;s let&amp;#39;s
+28m39s: clean that one up as well we we did that
+28m41s: just to prove a point that it&amp;#39;s Dash or
+28m42s: dot so let&amp;#39;s say move Bookshop dot uh uh
+28m46s: there&amp;#39;s a bookshops Das um
+28m50s: authors. CSV uh sorry I&amp;#39;m going do it
+28m54s: books. CSV there we go CDs watch
+28m58s: oh I&amp;#39;m in the wrong directory CDs and
+29m1s: wrong directory again CDs watch there we
+29m4s: go Lauren laurren good morning to you
+29m7s: from the Netherland struggling with
+29m8s: Cloud so happy to finally join a light
+29m9s: Breeze with cap a light Breeze with cap
+29m12s: maybe I should rename the series a light
+29m13s: Breeze with cap brilliant um there we
+29m18s: go so we&amp;#39;ve now got same as we have
+29m21s: before um let&amp;#39;s bring in a um another
+29m25s: bring that to there another little
+29m26s: thingy here and start going to um
+29m31s: 404 this is what we had before bookshops
+29m33s: authors there we go same thing right we
+29m35s: got everything there that we we&amp;#39;ve had
+29m37s: before we got the metadata looks nice
+29m40s: there beautiful we got our enti type
+29m42s: books enti type authors and we&amp;#39;ve got
+29m45s: the books and authors exposed and we can
+29m47s: look at the data there we got the player
+29m48s: of games s i guide and mostly harmless
+29m50s: and we&amp;#39;ve also got that okay so we&amp;#39;re no
+29m53s: further on than we than we were before
+29m55s: but now we&amp;#39;ve got a a lot more in my in
+29m59s: my opinion um
+30m2s: beautiful clean separation between the
+30m5s: persistance layer DB schema. CDs where
+30m7s: we got the entities defined in in a name
+30m9s: space and the service definition so we
+30m10s: could have multiple service files and
+30m12s: different Services looking at different
+30m14s: at different sort of views
+30m15s: on different combinations of these
+30m17s: things so now um we can start to think
+30m20s: about compositions and why don&amp;#39;t we go
+30m24s: here and um grab the I&amp;#39;m I&amp;#39;m pointing
+30m27s: this screen you can&amp;#39;t see my finger can
+30m28s: you grab this code here and start with
+30m31s: that oh I see a question from sunny
+30m33s: sunny your qu your your uh question few
+30m36s: is very strong today brilliant could you
+30m37s: please share the use cases when we need
+30m39s: to use a cap based framework or a r
+30m40s: based framework assuming using Cloud for
+30m42s: both cap and R I said that&amp;#39;s the classic
+30m44s: question and I will answer it very
+30m46s: briefly um by saying if you know if you
+30m49s: have if you have AB developers if you&amp;#39;re
+30m50s: an AB
+30m51s: developer and have a lot invested in
+30m53s: that uh area which of course is you know
+30m56s: uh very likely CU it&amp;#39;s awesome and and
+30m58s: you know very likely because of uh um
+31m1s: history then it makes a lot of sense to
+31m4s: keep investing in that area about cloud
+31m6s: and rap but if you are you know if
+31m10s: you&amp;#39;re got a different organization and
+31m12s: you you have developers that are not
+31m14s: vers in abat then cap is the perfect cor
+31m16s: coroller is that the right word I don&amp;#39;t
+31m18s: know I just came to me the perfect sort
+31m21s: of alternative okay so if you&amp;#39;ve got
+31m24s: Java developers or JavaScript or
+31m25s: typescript developers then
+31m28s: cap is um is an appropriate framework to
+31m32s: use so you know that&amp;#39;s one very very
+31m36s: basic way of thinking about it but it&amp;#39;s
+31m38s: also something that makes sense to me
+31m39s: you know use the developers that you
+31m41s: have and therefore use the languages
+31m44s: that they&amp;#39;re proficient in and
+31m45s: comfortable in and so on uh so oh uh
+31m48s: Henrik says perhaps a session on the
+31m50s: magic of CDs watch could name it who
+31m52s: watches the Watchers quis custodiat IPOs
+31m56s: custodios is that the
+31m59s: pheis
+32m2s: codet yes oh c yes we go chis custo not
+32m7s: custodes custodes Latin I&amp;#39;ve not done
+32m10s: Latin for a long time um but there we go
+32m12s: who guards the guards who guards those
+32m14s: guards that&amp;#39;s where the original phrase
+32m16s: is from in fact I should put that in the
+32m18s: thing as well shouldn&amp;#39;t I there we go um
+32m21s: put that in um there uh quis
+32m25s: custodiet ipsos
+32m28s: those
+32m29s: custo that&amp;#39;s accusative plural isn&amp;#39;t it
+32m32s: but it&amp;#39;s like third or fourth declension
+32m34s: I don&amp;#39;t know I can&amp;#39;t
+32m36s: remember um we I think we did some on
+32m39s: the magic of CDs watch didn&amp;#39;t we on
+32m41s: previous uh on a previous episode in
+32m43s: this series I think we did uh Lorenzo
+32m46s: says hi DJ the convention for mock DB
+32m48s: data should be namespace entity
+32m50s: shouldn&amp;#39;t it how is it loading anyway
+32m52s: datas with Nam oh without uh you know
+32m57s: what I was hoping somebody would spot
+32m59s: that um that&amp;#39;s a great question can I
+33m2s: come to that question a little bit later
+33m4s: um because it it it is very very subtle
+33m8s: it will load it um so basically as you
+33m11s: can see here uh well no let&amp;#39;s answer
+33m13s: that question now sounds like question
+33m14s: because it&amp;#39;s a great question and a
+33m16s: thousand points for observing that what
+33m19s: we have in here um did oh yeah here we
+33m22s: go we removed it right DB data Bookshop
+33m25s: authors Bookshop uh uh books let&amp;#39;s think
+33m29s: about that for a
+33m31s: second okay the um in fact we can think
+33m35s: about it with the help of where is it
+33m37s: where is it where is it with the help of
+33m41s: I think uh the metadata let&amp;#39;s bring that
+33m43s: back there let&amp;#39;s look at the metadata oh
+33m45s: I&amp;#39;m not running CDs watch CDs
+33m47s: watch metadata come on come on come on
+33m49s: come on
+33m50s: metadata oh come on come on come
+33m54s: on there metat go right we have
+33m59s: here we can
+34m1s: see that we have this namespace Bookshop
+34m5s: where is that namespace coming from it&amp;#39;s
+34m7s: coming from the service sort of
+34m12s: context in which these two entities are
+34m15s: defined okay and the the automatic CSV
+34m20s: data loading mechanism is actually quite
+34m22s: cool in that it will
+34m25s: recognize that you&amp;#39;ve got files that are
+34m30s: named after the entity in that context
+34m33s: there but also I think also let&amp;#39;s just
+34m37s: do this um oh tell you what let&amp;#39;s do it
+34m39s: here let&amp;#39;s do it here let&amp;#39;s CDs watch
+34m42s: and also let&amp;#39;s have that there let&amp;#39;s go
+34m44s: to books and also let&amp;#39;s go to um
+34m51s: authors there&amp;#39;s the authors let&amp;#39;s rename
+34m55s: this Bookshop Let&amp;#39;s do let&amp;#39;s do Q macro
+34m57s: no or. qro or.
+35m1s: macro there we go and also um there or.
+35m6s: Q
+35m8s: macro can you see it&amp;#39;s still doing the
+35m11s: initialization in it from DB data or Q
+35m13s: macro and if we refresh
+35m16s: that it&amp;#39;s still there so it&amp;#39;s very I
+35m19s: mean one of the things one of the things
+35m21s: you got to think about in cap and in
+35m24s: specifically to do with uh what Henrik
+35m26s: was saying about you know the magic of
+35m28s: CDs
+35m29s: watch there&amp;#39;s a there&amp;#39;s a there&amp;#39;s
+35m33s: a a br I think we&amp;#39;ve talked about this
+35m36s: before a long time ago there&amp;#39;s a an
+35m38s: adage uh a motto
+35m41s: um uh DM it&amp;#39;s not it&amp;#39;s not the
+35m45s: distribution I want it dim do what I
+35m47s: mean do what I mean dim pill there we go
+35m52s: there we go writing pear programs do
+35m53s: what I mean and I would I would argue
+35m57s: that the CDs design time facilities the
+36m3s: tools follow the dwim philosophy I.E
+36m7s: just do it do what I mean you know I
+36m9s: don&amp;#39;t have toel it out to you just you
+36m11s: know you know what I mean just do what I
+36m13s: want you to
+36m14s: do okay and this is an example I think
+36m18s: of cap doing that um so it will say well
+36m21s: well you know you&amp;#39;ve got these files
+36m23s: here defined for an entity in this name
+36m27s: space recognize that namespace but
+36m28s: basically but basically also where is
+36m32s: it let&amp;#39;s put that there also that acts
+36m35s: as a sort of name space so it&amp;#39;s taking
+36m37s: it from it will take it from either or
+36m39s: both and even if we move let&amp;#39;s let&amp;#39;s do
+36m42s: this let&amp;#39;s open up another terminal um
+36m45s: uh there we go how do I do that oh yes
+36m48s: there what&amp;#39;s going on I thought I knew
+36m50s: the keyboard shortcut for opening oh
+36m52s: there right there we go it&amp;#39;s uh command
+36m55s: backslash uh if we say for example move
+36m59s: DB data to
+37m3s: serve move that okay it&amp;#39;s not going to
+37m5s: restart because it&amp;#39;s not watching for
+37m7s: that sort of thing but if we do CDs
+37m8s: watch now we still it&amp;#39;ll still find
+37m13s: those data files 836 okay I&amp;#39;m panicking
+37m16s: it&amp;#39;ll still find those data files those
+37m19s: CSV data files but in the serve because
+37m21s: it&amp;#39;s got this this this hierarchy of
+37m23s: roots remember we talked about this
+37m25s: before cdsn roots
+37m28s: that it will look in not only for CDs
+37m31s: files for the overall CDs model but also
+37m35s: for data okay so in the same way it will
+37m38s: also you know be very lenient in terms
+37m41s: of well yeah okay you know books within
+37m43s: the oq macro or books within the book
+37m45s: shop have it let&amp;#39;s have it does that
+37m48s: make sense that was a really long answer
+37m49s: I apologize that was okay though um some
+37m52s: more yes there we go um so Lorenzo I
+37m56s: hope that sort of uh I don&amp;#39;t know
+37m59s: answers your question addresses your
+38m0s: question talks about your question uh
+38m2s: but these questions are great so let&amp;#39;s
+38m3s: answer the questions um whoo says cap no
+38m6s: JS Java versus rap ab app normally if
+38m8s: you want to do real scalable apps you
+38m9s: would go with cap in the other hand if
+38m11s: you developers you would go oh that&amp;#39;s a
+38m14s: that&amp;#39;s fighting talk I would have to
+38m16s: disagree with part of that I think one
+38m19s: of the most scalable
+38m21s: platforms um and languages is the abat
+38m24s: platform and the abat language
+38m25s: especially with rap okay so it&amp;#39;s not
+38m27s: about whether you need to have something
+38m30s: scalable I think it&amp;#39;s um you know the
+38m32s: way that these uh these Services you
+38m35s: know some of the largest
+38m38s: Enterprise um Enterprise systems in the
+38m41s: world are up based systems on the based
+38m44s: on the R3 architecture you know s S4
+38m46s: Hann is still on the R3 architecture
+38m47s: which is a beautiful architecture and
+38m49s: that scales beautifully so it&amp;#39;s not I
+38m52s: don&amp;#39;t think it&amp;#39;s about
+38m53s: scalability um I think for me it&amp;#39;s more
+38m55s: about language uh if you forgive me for
+38m57s: saying that who know um put in the chat
+39m0s: if you disagree that&amp;#39;s Al also cool sun
+39m2s: says addition to question in terms of
+39m3s: client client will prefer which
+39m5s: framework yes exact that&amp;#39;s very true
+39m7s: that&amp;#39;s very true you know you go to a
+39m9s: client I worked in a long time decades
+39m10s: in the sort of Consulting World in sap
+39m12s: and you know different clients different
+39m14s: customers have different different ways
+39m16s: they like to do things so yeah it&amp;#39;s also
+39m19s: client driven uh nit hello and helmet uh
+39m22s: huno uh oh helmet is is going with you
+39m25s: huno that&amp;#39;s helmet that&amp;#39;s that&amp;#39;s that&amp;#39;s
+39m27s: that&amp;#39;s that&amp;#39;s a good opinion to have uh
+39m29s: strong opinions uh loosely held I think
+39m31s: that&amp;#39;s another phrase strong opinions
+39m33s: loosely held uh I&amp;#39;ll put the oh did I
+39m35s: put the do what I mean in there H what
+39m37s: we talk about um there we go let put in
+39m41s: let me put that in there as well ah
+39m43s: Pearl and dwim there and
+39m48s: strong strong opinions
+39m51s: loose held who said that Lucy held um
+39m55s: this is the go beong strong opinions Luc
+39m57s: held
+39m59s: [Music]
+40m1s: uh anyway let me just put that um
+40m6s: search in there because they&amp;#39;ll remind
+40m8s: you to look it up there we go strong
+40m10s: opinions loosely held strong opinions
+40m13s: Loosely it&amp;#39;s a good it&amp;#39;s a good
+40m15s: philosophy interesting philosophy held
+40m18s: held there right go right okay brilliant
+40m22s: brilliant brilliant so youo says
+40m24s: probably the only one probably the only
+40m25s: one which cost less for him for the
+40m26s: client so his business people do not
+40m27s: care about the technical stuff that&amp;#39;s
+40m29s: true sadly true uh in the sap world most
+40m31s: of customers would have saved with ECC
+40m32s: if they would not be forced to upgrade
+40m33s: ss4 I&amp;#39;m not going to get into that who
+40m35s: know uh it&amp;#39;s uh it&amp;#39;s a big it&amp;#39;s a big
+40m39s: it&amp;#39;s a big discussion so Renzo and so
+40m41s: that is the reason why we can mock even
+40m42s: data from external services with the
+40m43s: same convention right exactly yeah if
+40m45s: you have a look at if you have a look at
+40m48s: um H what&amp;#39;s it called uh service
+40m52s: integration code jum in
+40m55s: here service
+40m58s: integration with cap code Jam there if
+41m2s: you have a look at that you will see in
+41m4s: one of the exercises where we bring in
+41m6s: an external service and we would Define
+41m7s: some data locally for that to be served
+41m11s: in the mocking of that external service
+41m13s: exactly the point Lorenzo so helmet says
+41m15s: unfortunately I know helmet&amp;#39;s always got
+41m17s: great opinions unfortunately or there&amp;#39;s
+41m18s: not any real it strategy at customer
+41m20s: side Sab customers wait for what sap
+41m22s: leads to and decid to take the route
+41m23s: that cost
+41m24s: less yes exactly but this is all about
+41m27s: cap so let&amp;#39;s talk about cap um so we&amp;#39;ve
+41m29s: got this fantastic this is brilliant
+41m31s: though I love it I love it I love it
+41m33s: let&amp;#39;s get to the first part let&amp;#39;s see if
+41m34s: we can get get a composition going in so
+41m36s: get rid of that there we go so I think
+41m38s: we&amp;#39;ll leave the data there uh should we
+41m40s: leave yeah let&amp;#39;s leave the data there it
+41m41s: doesn&amp;#39;t matter so we got the data in
+41m42s: there LS LR tree serve there we&amp;#39;ve got
+41m47s: yes okay that&amp;#39;s put oh no actually
+41m49s: because it&amp;#39;s got or. caker it makes more
+41m51s: sense to me to move uh serve data back
+41m54s: to DB because that&amp;#39;s where the orq macro
+41m57s: is right so tree DB we got that there
+41m59s: tree serve we got that there fine okay
+42m3s: now have I still got that in my um
+42m6s: buffer no let&amp;#39;s copy that and let&amp;#39;s
+42m8s: bring that in okay let&amp;#39;s get rid of that
+42m9s: we don&amp;#39;t need that for now um do we need
+42m11s: that no and no let&amp;#39;s go down here and
+42m15s: add those
+42m17s: things let&amp;#39;s now start to a it&amp;#39;s taking
+42m20s: me 41 minutes to type in a composition
+42m23s: but let&amp;#39;s get rid of that because that&amp;#39;s
+42m25s: just you know uh from the from the from
+42m27s: the example uh there uh there but let&amp;#39;s
+42m31s: let&amp;#39;s subtly leave this commen in to be
+42m34s: accessed through orders only what does
+42m35s: that mean what do you think to be
+42m37s: accessed through orders only means it&amp;#39;s
+42m39s: one of these three um three what&amp;#39;s it
+42m42s: called uh three treatments special
+42m45s: treatments okay have a look at that I
+42m47s: keep going to my uh screen one um okay
+42m50s: thank you
+42m51s: Lorenzo so what have we got entity
+42m54s: orders let&amp;#39;s define an entity orders
+42m56s: let&amp;#39;s have another called so we can see
+42m59s: which ones which cuz goids are really
+43m1s: hard to look at with my eyes so comment
+43m4s: let&amp;#39;s have a comment in the order you
+43m5s: know this order is placed by whatever
+43m7s: string right okay and T do T do so what
+43m13s: have we got here what have we got we&amp;#39;ve
+43m15s: got an orders
+43m17s: entity and we&amp;#39;ve got this composition of
+43m20s: many order items very similar to
+43m22s: Association of too many um something
+43m27s: things remember we have the books the
+43m28s: author&amp;#39;s Association the backlink
+43m30s: association where we said for example
+43m32s: here oh there it is there it is
+43m34s: Association too many books on books to
+43m36s: author equals Dollar Self we&amp;#39;ve got a
+43m40s: similar too many Association too many
+43m44s: relationship but this time it&amp;#39;s a
+43m46s: composition and also note this I just
+43m48s: love the subtle
+43m50s: um the subtle difference between the
+43m53s: preposition here two Association two
+43m57s: okay which implies a sort
+44m0s: of
+44m2s: equal existential existentially equal uh
+44m6s: relationship between the books and
+44m8s: authors both of which can uh exist
+44m10s: independent of each other whereas here
+44m13s: notice that the preposition used is of
+44m17s: so that sort of implies also this thing
+44m20s: here where it says what is it um
+44m22s: where uh contained in see that contained
+44m27s: in so composition of that should give
+44m30s: you a clue and start your brain thinking
+44m31s: about this header items relationship
+44m35s: that uh Henrik uh Henrik uh
+44m39s: mentioned many order items we still
+44m42s: because it&amp;#39;s to many we still need to
+44m45s: have this sort of condition okay but
+44m47s: basically it it follows the same idea we
+44m49s: have how do you define the condition the
+44m52s: first part of the of the left hand of
+44m55s: the of the equals for example left hand
+44m56s: of the the um equality uh condition says
+45m1s: items what is that referring to that is
+45m2s: referring to the name of this element
+45m5s: and then this element points to
+45m6s: something okay it points to the order
+45m8s: items so the the right hand part of the
+45m11s: or let&amp;#39;s say this part of the uh left
+45m14s: hand side of the equals after the dot is
+45m17s: an element in the pointed two thing so
+45m20s: it&amp;#39;s there pair even highlights it for
+45m22s: us right so
+45m25s: basically Dollar Self is effectively the
+45m28s: key of this entity is me right Dollar
+45m31s: Self me this order right this this
+45m34s: instance of the order as entity has to
+45m37s: be the same as the key of this because
+45m39s: remember oh also we need um we need to
+45m42s: have don&amp;#39;t we don&amp;#39;t we have the CU ID
+45m45s: right let&amp;#39;s put the CU ID in there
+45m47s: comment items orders uh should we have
+45m50s: the C see we&amp;#39;ll see what happens if we
+45m53s: just take that um we probably need a CU
+45m55s: ID don&amp;#39;t we anyway or some ID so let&amp;#39;s
+45m59s: start let&amp;#39;s start that up and have a
+46m0s: look what we get okay first of all let&amp;#39;s
+46m2s: save that let&amp;#39;s go and open here CDs
+46m7s: watch and now let&amp;#39;s bring in let&amp;#39;s bring
+46m9s: that back in again we don&amp;#39;t need that
+46m11s: one um let&amp;#39;s go back here back there
+46m14s: back there what&amp;#39;s going on here oh ah
+46m17s: why aren&amp;#39;t we getting that because we
+46m18s: haven&amp;#39;t exposed it idiot DJ so let&amp;#39;s
+46m20s: bring that in and open up um what&amp;#39;s it
+46m22s: called main. CDs and let&amp;#39;s just expose
+46m26s: and let&amp;#39;s just sort of think about what
+46m29s: we&amp;#39;re doing here we want to
+46m32s: expose
+46m33s: um just our orders because we have
+46m36s: composition targets are exposed Auto
+46m39s: exposed in service interfaces let&amp;#39;s
+46m41s: start taking
+46m43s: a A Towing in the water approach to
+46m46s: thinking about what the heck that might
+46m48s: mean so we want to say here for example
+46m51s: uh let&amp;#39;s do that orders as and as there
+46m55s: okay let&amp;#39;s do that
+46m58s: uh come on restart please thank you very
+47m0s: much there we go now there we get
+47m4s: orders okay no orders in fact let&amp;#39;s add
+47m7s: some orders let&amp;#39;s add some a couple of
+47m8s: orders let&amp;#39;s go and get um yeah let&amp;#39;s
+47m12s: have a let&amp;#39;s well let&amp;#39;s have look at the
+47m13s: metadata first of all in the
+47m16s: orders there orders entity type there&amp;#39;s
+47m20s: the entity type
+47m21s: definition have you noticed what&amp;#39;s
+47m23s: missing there right what&amp;#39;s missing there
+47m25s: is something like this where we have a
+47m28s: key property defined property o data
+47m31s: term element CDs term right so this of
+47m36s: course is just a you know this is just a
+47m39s: the important bits of an entity
+47m41s: definition so we do need a Cy of course
+47m43s: obviously need a key so let&amp;#39;s go back to
+47m46s: um schema. CDs and add in here uh
+47m50s: willing fatless let&amp;#39;s annotate it with
+47m52s: annotate it is that the word no let&amp;#39;s
+47m55s: decorate it with the CI aspect okay oh
+47m58s: LAX say good morning good afternoon to
+48m1s: you could you also show how the DB table
+48m3s: gets created the DB table gets created
+48m6s: um what do you mean specifically there I
+48m10s: think I might know what you mean or I&amp;#39;m
+48m11s: going to take a guess as to what you
+48m12s: mean which is the SQL light thing here
+48m17s: um or do you mean for example um do you
+48m20s: mean let&amp;#39;s just get do this for example
+48m22s: this thing here so we can look at SQL
+48m24s: previous squel Daniel SCH pointed us
+48m26s: this week brand new in March 2024
+48m28s: release of cap we can see the SQL so
+48m31s: this is how um the schema. CDs
+48m36s: translates into SQL so we have ddl
+48m40s: statements here um that are based upon
+48m42s: the definitions in here so we have the
+48m44s: create table org qro orders so the the
+48m47s: the name space gets translated as it
+48m50s: were into a
+48m51s: prefix for the table in the persistence
+48m54s: lay in the ddl okay and here for example
+48m57s: orders the
+48m59s: cuid which is basically the CU you can
+49m1s: see the cuid key ID which adds basically
+49m5s: adds an an element called ID which is a
+49m8s: key element of Type U
+49m11s: ID that gets translated into ID narr 36
+49m15s: why is it 36 because a u ID is 36
+49m18s: characters long it&amp;#39;s sort of like a
+49m19s: string but not a string it&amp;#39;s like an
+49m20s: opaque
+49m22s: string yeah opaque you do not look at it
+49m24s: do not interpret it do not pass go do
+49m26s: not collect to
+49m27s: 00 have a comment and and then we get
+49m30s: the primary key ID it&amp;#39;s the primary key
+49m31s: is the ID so is that what you mean or we
+49m33s: can also do a deploy to the SQL light
+49m36s: database and have a look at that as well
+49m37s: let me know let me know in the chat if I
+49m39s: probably not answer any question um so
+49m42s: now let&amp;#39;s let&amp;#39;s have a look here and
+49m44s: refresh that and now we get what we&amp;#39;re
+49m47s: looking for here which is something that
+49m49s: is sort of capable of maintaining a
+49m52s: contained in relationship where the
+49m54s: children can point back go to their
+49m57s: parent Association to orders look and
+50m0s: that because this is an managed
+50m2s: Association composition doesn&amp;#39;t
+50m4s: necessarily mean that you know two
+50m7s: contained in relationship doesn&amp;#39;t mean
+50m9s: that you only use compositions you use a
+50m12s: composition to express the you know the
+50m14s: pointing to the the contained in thing
+50m18s: but that contained in thing can point
+50m20s: back to its parent through a managed
+50m23s: Association ah okay perfect thank you
+50m25s: very much uh laxa um so now we can see
+50m29s: here the order items has two key uh
+50m33s: properties the parent ID where is that
+50m36s: coming from that&amp;#39;s coming from the manag
+50m38s: association remember the manag
+50m39s: association takes the the from part the
+50m42s: parent and the two part that it&amp;#39;s
+50m44s: referring to which is the ID in orders
+50m47s: there ID and squ them together with an
+50m51s: underscore okay and generates that as as
+50m54s: let&amp;#39;s do that again uh in the main CDs
+50m57s: oh no let&amp;#39;s do it here I&amp;#39;ll do in in
+50m59s: there what what what uh no don&amp;#39;t that
+51m3s: what&amp;#39;s it what&amp;#39;s going on SQL there um
+51m6s: in there parent ID okay
+51m11s: right 850 we&amp;#39;ll have to do a second
+51m14s: episode in this because there&amp;#39;s so much
+51m16s: to explore in competitions we&amp;#39; only just
+51m18s: got started right um so let&amp;#39;s add some
+51m21s: data let&amp;#39;s add some
+51m22s: data um because because because because
+51m26s: because
+51m27s: because um we don&amp;#39;t have any data let&amp;#39;s
+51m29s: add some data and let&amp;#39;s go here and say
+51m31s: let&amp;#39;s have a uu
+51m33s: ID in fact let&amp;#39;s have two orders U ID um
+51m36s: U ID let&amp;#39;s copy those that&amp;#39;ll do
+51m40s: uh and let&amp;#39;s bring that into there and
+51m42s: let&amp;#39;s now open let&amp;#39;s just that there
+51m44s: again and let&amp;#39;s open up um let&amp;#39;s have
+51m48s: another file let&amp;#39;s have another file um
+51m51s: data new file oh doc can you hear my
+51m55s: stomach rumbling I&amp;#39;m starving
+51m57s: orders. CSV oh no DJ what are you doing
+52m0s: we can we can be lazy can&amp;#39;t we lazy one
+52m3s: of the three main features of a of a
+52m6s: great programmer be lazy any can anybody
+52m9s: put in the chat what I&amp;#39;m referring to uh
+52m12s: that the famous Larry wall uh adage the
+52m16s: three the three um aspects of a great
+52m19s: programmer laziness something and
+52m22s: something so I&amp;#39;m going to say CDs add
+52m25s: data what&amp;#39;s going to happen here what is
+52m27s: going to happen
+52m29s: here I&amp;#39;ve got it to give me to create in
+52m33s: the data directory in DB data the files
+52m36s: are missing we&amp;#39;ve still got the authors
+52m38s: we&amp;#39;ve still got the books but now we&amp;#39;ve
+52m40s: got those two files there I don&amp;#39;t have
+52m42s: to create them with the names and also
+52m44s: it&amp;#39;s got the things here so ID let&amp;#39;s put
+52m46s: that in there and comment first order uh
+52m49s: second order second order there we go
+52m52s: and let&amp;#39;s add the items as well right so
+52m54s: we got the items we got um parent ID
+52m57s: let&amp;#39;s have uh position one position one
+53m1s: and quantity 10 and quantity 10 let&amp;#39;s
+53m3s: have in the second order let&amp;#39;s
+53m5s: have uh sorry in the second position
+53m8s: second line item we&amp;#39;ll have sorry in the
+53m11s: second order will&amp;#39;ll have two positions
+53m14s: two items item one and item two where
+53m17s: the quantity is 10 in the first one and
+53m19s: you you know what I mean right okay ah
+53m22s: there so let&amp;#39;s just have a look at that
+53m24s: together let&amp;#39;s put that over there so
+53m26s: they go we got our order ac5 there&amp;#39;s AC
+53m29s: 5&amp;#39;s item single item with 10 quantity
+53m32s: and Order 609 there we got two order
+53m34s: items one with 10 and one with 20 fine
+53m37s: okay so now CDs
+53m39s: watch let&amp;#39;s bring that back again and
+53m42s: refresh there we go but the really so
+53m46s: we&amp;#39;re going to we&amp;#39;re going to be able to
+53m47s: capture or start to have a look at and
+53m49s: stare
+53m52s: at
+53m53s: one just one for now let&amp;#39;s
+53m57s: are you okay put in the chat somebody
+53m58s: who&amp;#39;s somebody who&amp;#39;s put in the chat
+54m0s: already put some more in the chat if
+54m1s: you&amp;#39;re okay in us doing a second episode
+54m3s: I think we need to do a second episode
+54m5s: on compositions put in the chat you know
+54m7s: tell us it&amp;#39;s all right to do a second
+54m9s: episode on compositions so we can we can
+54m11s: do it
+54m12s: justice um notice what I haven&amp;#39;t put in
+54m18s: let&amp;#39;s put that over there a bit uh let&amp;#39;s
+54m20s: go here get rid of that get rid of that
+54m22s: get rid of that in our main CDs in serve
+54m26s: Main CD you can see serve that&amp;#39;s quite
+54m28s: nice there the breadcrumbs serve main
+54m29s: CDs in Bookshop right I&amp;#39;ve
+54m33s: defined I&amp;#39;m exposing an entity called
+54m35s: orders and it&amp;#39;s a projection on the org
+54m37s: qro orders which I&amp;#39;ve imported from the
+54m39s: schema level thank you visas thank you
+54m41s: thank you so much right
+54m44s: okay but I&amp;#39;ve not
+54m46s: exposed order
+54m48s: items because it says here composition
+54m51s: targets DJ are Auto exposed in service
+54m54s: interfaces
+54m56s: so let&amp;#39;s have a look what that means
+54m58s: first of
+54m59s: all we&amp;#39;ve already seen partly what put
+55m1s: my head at the top again we&amp;#39;ve already
+55m3s: seen partly what that means look down
+55m6s: here we&amp;#39;ve got our books entity type
+55m11s: we&amp;#39;ve got our author&amp;#39;s entity type and
+55m12s: we&amp;#39;ve got our sorry authors entity type
+55m16s: we&amp;#39;ve got our orders entity type we
+55m19s: haven&amp;#39;t said anything about order items
+55m21s: but it&amp;#39;s in the metadata why is it in
+55m23s: the metadata because it needs to be in
+55m25s: the metadata in order in order to have
+55m27s: this relationship expressed in the
+55m29s: service and that&amp;#39;s what this is
+55m33s: partly referring to Auto exposed in fact
+55m37s: in
+55m38s: fact if we have a look here get rid of
+55m42s: that for a second if we have a look at
+55m45s: the let&amp;#39;s look at the
+55m48s: yaml if we collapse this is basically
+55m51s: the yaml encoding the yaml language
+55m54s: encoding rather than Jon encoding of the
+55m57s: core schema notation the sort of machine
+55m59s: readable version of this of main right
+56m3s: but we&amp;#39;ll we&amp;#39;ll dig into that a little
+56m5s: bit more this you know this is a back to
+56m6s: Bases we&amp;#39;re not going to look at this
+56m7s: too much but looking at this stuff tells
+56m10s: us a ton of stuff so org Q macro orders
+56m14s: org Q look at this don&amp;#39;t look at that
+56m16s: bottom bit yet look at that there we&amp;#39;ve
+56m20s: got where is
+56m22s: it oh damn move oh miss oh yeah oh it&amp;#39;s
+56m26s: because I&amp;#39;m I&amp;#39;m not used to VSS code
+56m28s: let&amp;#39;s do that again and double click so
+56m29s: it stays there right let&amp;#39;s just go down
+56m32s: there uh or cacro orders no orq macro
+56m36s: order items that reflects exactly this
+56m39s: thing here Order items right order items
+56m41s: it&amp;#39;s an entity it&amp;#39;s got these elements
+56m43s: parent pause and
+56m44s: quantity but the Bookshop order items so
+56m48s: going back to your question uh Lorenzo
+56m50s: this is why this the C the cap Server
+56m54s: doesn&amp;#39;t really well distinguish es of
+56m56s: course it distinguishes but it has both
+56m58s: it&amp;#39;s thinking already about both
+57m1s: prefixed things order items in the OR
+57m3s: qro context and Order items context
+57m6s: again is an overloaded word in the OR
+57m8s: cacro Arena and Order items in the
+57m10s: Bookshop Arena Bookshop service or qro
+57m13s: namespace these are separate things but
+57m15s: they both exist and look at that CDs
+57m18s: Auto exposed with a d you may have
+57m22s: already seen the CDs Auto
+57m24s: expose without a D annotation we&amp;#39;ll get
+57m28s: to that so zahed and Ravi says thank you
+57m31s: yes thank you very much for responding
+57m32s: in the chat chat is great uh so
+57m35s: that has been generated when it&amp;#39;s when
+57m39s: this schema. CDs is converted and the
+57m41s: main CDs converted of course as well you
+57m43s: know the whole when the model is
+57m44s: built it&amp;#39;s this it&amp;#39;s a season that
+57m47s: matters and what we get in the generated
+57m49s: season is this CDs Auto exposed true
+57m53s: that means you know in my brain the fact
+57m55s: that it&amp;#39;s a past participle Auto exposed
+57m58s: with a d means that it&amp;#39;s done for us
+58m0s: right and that relates exactly to Auto
+58m3s: expose even says there Auto expose you
+58m5s: know clues in the name type thing what
+58m7s: does that mean that means that we get it
+58m10s: there but what that also means
+58m14s: is across there a minute what that also
+58m17s: means is when we go to
+58m19s: orders we can say can we say can we say
+58m23s: can we say will this work
+58m26s: expand equals what&amp;#39;s it going to be
+58m30s: items items because let&amp;#39;s get rid that
+58m32s: for a second that get that there because
+58m36s: this is the the relationship the
+58m38s: navigation property in od data terms
+58m41s: that we&amp;#39;ve defined because of this
+58m43s: composition that we&amp;#39;re using items
+58m45s: capital I expand equals items will this
+58m48s: work
+58m49s: yes yes yes and more yes what I want to
+58m53s: leave you with though is a really
+58m55s: straight
+58m57s: thing um oh no actually no that&amp;#39;ll do
+59m0s: for now that&amp;#39;ll do for
+59m1s: now so let&amp;#39;s just recap in the in the
+59m4s: final
+59m5s: minute we have defined let&amp;#39;s get rid of
+59m9s: that there we&amp;#39;ve
+59m11s: defined a new entity orders and a new
+59m14s: entity order items two separate entities
+59m16s: next week hopefully we&amp;#39;ll get round to
+59m18s: looking at where we don&amp;#39;t have to
+59m20s: define a separate entity which is you
+59m23s: know is sort of very subtly slightly
+59m27s: not cumbersome but you know flat footed
+59m29s: you know we I don&amp;#39;t know it it would be
+59m33s: nice to define something like this sort
+59m35s: of in line so that&amp;#39;s what we&amp;#39;ll look at
+59m37s: as well but we&amp;#39;ll also look
+59m40s: at more on the auto
+59m44s: exposure right and the difference
+59m46s: between oh tell you what tell you what
+59m48s: really subtle 858 and the difference
+59m50s: between Auto exposed let&amp;#39;s do that let&amp;#39;s
+59m53s: do that um and Auto if I say CDs Auto
+60m0s: expose without a D Auto exose as in I&amp;#39;m
+60m3s: doing it as a human annotating that I do
+60m6s: that that will restart if we now go
+60m10s: here refresh it&amp;#39;s there right there&amp;#39;s a
+60m15s: subtle difference between Auto Expos and
+60m17s: auto exposed Auto exposed is sort of
+60m19s: internal implicit and auto expose now we
+60m22s: can look at the order items right before
+60m24s: we couldn&amp;#39;t and in fact the final thing
+60m26s: if we get rid of the auto Expos oh my
+60m28s: goodness me get rid of that and save
+60m29s: that uh did I get rid of that
+60m32s: no come on down there down there down
+60m34s: there delete save restart oh go there
+60m38s: and go back there again but if we re
+60m40s: refresh that it&amp;#39;ll say entity bookshops
+60m42s: order items is not explicitly exposed as
+60m46s: part of the service bombshell to leave
+60m48s: on so we&amp;#39;ll look at what the heck that
+60m51s: means what that means in terms of the
+60m54s: composition targets Auto expose
+60m56s: we&amp;#39;re going to do cascaded deletes next
+60m58s: week which is like
+60m59s: beautyful and then we&amp;#39;re going to do
+61m1s: some deep inserts as well so basically
+61m3s: this is a classic sort of again going
+61m5s: back to what Henrik said right at the
+61m6s: start this is the classic document
+61m8s: structure header items often you want to
+61m11s: create a whole document with the header
+61m12s: and the items together bam compositions
+61m15s: are what are beautiful for that okay
+61m17s: that&amp;#39;s it for now thanks for joining
+61m18s: have a great weekend and see you next
+61m20s: time
+61m20s: [Music]
+61m24s: bye e

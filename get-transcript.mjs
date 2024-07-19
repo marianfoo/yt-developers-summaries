@@ -43,6 +43,13 @@ async function fetchVideoIdsFromPlaylist(playlistId) {
   return videoIds;
 }
 
+// Function to convert offset to timestamp format "XmYs"
+function convertOffsetToTimestamp(offset) {
+  const minutes = Math.floor(offset / 60);
+  const seconds = Math.floor(offset % 60);
+  return `${minutes}m${seconds}s`;
+}
+
 // Function to fetch and save transcript
 async function fetchAndSaveTranscript(youtubeId) {
   const url = `https://www.youtube.com/watch?v=${youtubeId}`;
@@ -60,7 +67,7 @@ async function fetchAndSaveTranscript(youtubeId) {
     }
 
     const transcript = await YoutubeTranscript.fetchTranscript(url);
-    const transcriptText = transcript.map(entry => entry.text).join('\n');
+    const transcriptText = transcript.map(entry => `${convertOffsetToTimestamp(entry.offset)}: ${entry.text}`).join('\n');
 
     // Ensure the transcripts folder exists
     if (!fs.existsSync(folderPath)) {

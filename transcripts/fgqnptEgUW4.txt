@@ -1,1385 +1,1385 @@
-[Music]
-[Music]
-a
-[Music]
-good morning good afternoon good evening
-welcome to hands on sap Dev with me DJ
-cacro here again Friday oh my goodness
-me so uh I&amp;#39;ve got to say I um I was
-panicking a bit because I was like
-working away
-and what&amp;#39;s going on here and blah blah
-blah and I was talking to my good friend
-uh darid CT earlier this morning um
-around sort of uh know 6:30 my time this
-morning um I had I had a bit of a brain
-freeze and he helped me out it was
-awesome anyway um and all of a sudden it
-was like 7:30 it&amp;#39;s like what um you know
-half an hour before this show starts and
-I was panicking because had had a shower
-yet it&amp;#39;s like ah shower coffee oh so
-here we are and welcome everybody thank
-you all so much for joining uh who we
-got on good morning to visas in Thailand
-welcome back visas and good morning
-Nico and Lucas good morning to you in
-Poland and good afternoon AJ nice to see
-you again glad you&amp;#39;re feeling better and
-LU good morning it&amp;#39;s a pleasure to be
-here another Friday de session and a
-heart excellent Good Start yell is it
-jell or yell um tell me let me know in
-the comments if I I should pronounce the
-J as a hard J or a soft J good morning
-to you in Kenya uh aunu D Diaz and Shir
-hello Al Alon Kiran hello yes hello to
-you too as well and Daniel Scher in the
-house my goodness me Ash shock good
-morning to you in Belgium again and
-let&amp;#39;s go DJ says Tom good morning
-everyone okay let&amp;#39;s go DJ perfect
-perfect perfect so yeah let&amp;#39;s get
-started I I generally sort of talk a
-little bit too much at the start but you
-know yes it&amp;#39;s okay we&amp;#39;re all family here
-um so yeah let me switch to the main
-scene uh because I&amp;#39;ve got um a couple of
-things to share of course as always I
-have my coffee in my um I had the right
-way around at the start hands on SB Dev
-mug a at 8: a.m.
-excellent second coffee of the day
-really
-but so we got sap developer news this
-week uh all news all all the news is fit
-to print now I don&amp;#39;t want to paste it in
-there I want to paste into there thank
-you very much uh control C that very
-good H MTS good morning and Kristoff
-good morning to you and good morning to
-everybody so there&amp;#39;s the latest sap
-developer news and one of the items in
-sap developer news is a pointer to this
-month if you didn&amp;#39;t know it already uh
-February developer challenge being run
-this time by our feess leader Tom young
-and we&amp;#39;re already in week two so check
-out oh my goodness I clicked on one of
-those links with marketing stuff in can
-get rid of that before I share it um uh
-so we&amp;#39;ve got here uh the link to week
-two and the developer challenge this
-week is all about cap and specifically
-cap plugins so check it not what am I
-doing not in there there Stefano
-B uh welcome and and yes welcome and
-we&amp;#39;ll be um probably looking at the Capa
-documentation uh maybe a little B later
-let&amp;#39;s clear the screen because that&amp;#39;s
-really annoying me now uh there we go
-fine in fact let&amp;#39;s put the time on there
-we go good so that&amp;#39;s that uh this is
-really cool this this week the plug-in
-uh challenge is all about exploring the
-graphql
-plugin very controversial and
-interesting and
-wonderful by the way that reminds me um
-if you want to catch up with uh all
-these different uh back episodes back
-episodes back issues I don&amp;#39;t know even
-the word is uh you can check out the
-playlist good morning Kate in Wales oh
-my goodness me in Wales whereabout tell
-me whereabouts in Wales roughly uh are
-you um I&amp;#39;ve got some family in Wales uh
-and friends in yeah and yeah and I may
-be going uh later on this year down the
-slang goland uh canal and harendra good
-morning to you as well um so that
-reminds me as well uh we had a comment I
-had a comment I saw that yesterday I
-only saw it yesterday so sorry Ram ready
-there was a comment uh blah blah blah
-blah blah I was executing these
-exercises in business application Studio
-but some commands let me just make that
-a little bit bigger but some commands
-like tree code are not recognized do I
-need to add any package for your
-information I already have design time
-and run time at sacds Star package
-installed now that was a great question
-um while uh I just want to cover this
-very briefly while uh the business
-application Studio Dev spaces and vs
-code are very similar in that they are
-both based upon the same sort of you
-know core code OSS which is you the open
-source version of vs code um there are
-some obviously uh subtle differences so
-what I was doing here I&amp;#39;d open let&amp;#39;s say
-I want to open I&amp;#39;m in the terminal
-because I like the terminal um and I
-want to open a file um maybe the package
-Json so I can say code package.json and
-it will open it in that current column
-there which is really cool that&amp;#39;s what I
-did one of the previous videos and RAM
-ready was asking um you know why doesn&amp;#39;t
-this work in bass basically um because
-you know Bas is a slightly different
-imple implementation of uh vs code and
-there isn&amp;#39;t anything uh there isn&amp;#39;t the
-the code command however there is
-something which I&amp;#39;ll show you shortly
-but also um I think folks have uh seen
-me use the um tree uh tree command just
-to show a nice sort of uh you know
-graphical graphical depiction of the
-files and folders files and directories
-where I am right now for example which
-is a great command standard Unix command
-but it&amp;#39;s not available everywhere
-including the I think the default type
-of Dev spaces in bass so I wrote a blog
-post uh yesterday because why not uh yes
-let&amp;#39;s leave there and this blog post
-basically let me share that as well oh
-my goodness me uh oh you&amp;#39;re oh you&amp;#39;re
-near Breen Mountain Railway in Mera
-tville excellent well welcome everybody
-Sid welcome D welcome good afternoon to
-you in India uh Stefano says great
-because I&amp;#39;m here to cap I don&amp;#39;t know why
-I do that with my hands I don&amp;#39;t know
-harendra good morning um so there we go
-there&amp;#39;s a blog post and basically have a
-look at that later but it&amp;#39;ll show you
-this code thing and there is in the
-business application Studio A A baz CT
-baz control and you can open files now
-um I can&amp;#39;t work out why opens files in
-like a it opens up a new column here so
-I&amp;#39;ve got an
-internal not ticket you know an internal
-sort of question open uh at sap to find
-out why that happens is there anything
-we can do about it um I was looking uh
-last night too too late last night at
-the different um VSS code commands the
-vs code to open and how to sort of
-invoke that through the bass ct--
-command haven&amp;#39;t quite got there yet but
-anyway but also I also wrote as to how I
-got tree working in the business
-application Studio death spaces um it
-involves sort of spinning up a container
-and grabbing the tree binary because
-it&amp;#39;s sort of self-contained and putting
-so have a look have a look okay so
-that&amp;#39;s that that&amp;#39;s that that&amp;#39;s that
-that&amp;#39;s that and there we go okay so
-let&amp;#39;s get started this is where we ended
-up um at the end of last
-week and I think we just started diving
-in to um
-the uh one of the things let&amp;#39;s use the
-word thing first of all one of the
-things oh hold on why I I&amp;#39;ve got see I&amp;#39;m
-supposed to be monitoring live chat but
-on my on my thing here on my what&amp;#39;s it
-called tablet but there&amp;#39;s nothing coming
-through the live chat I don&amp;#39;t know
-what&amp;#39;s going on um why is it not coming
-through I don&amp;#39;t know so um I&amp;#39;ll have to
-keep uh flipping back I don&amp;#39;t know why
-it&amp;#39;s not working let me just put
-something in there blah blah blah uh
-test
-enter uh oh top chat oh top chat what
-about uh live chat um so somebody please
-type something in now to the live chat
-oh I&amp;#39;m obviously in the wrong I&amp;#39;m in the
-wrong um yeah it&amp;#39;s not working I&amp;#39;m in
-the
-wrong broadcasting on YouTube okay so
-I&amp;#39;ll have to keep flipping back to here
-so remind me to keep flipping back
-anyway oh well let&amp;#39;s just close this
-tablet for now it&amp;#39;s useless there we go
-let&amp;#39;s just turn that off
-there uh right okay so um in fact what I
-will do I will go because I need to I
-need to monitor this don&amp;#39;t I so because
-the chat is the most important OT are
-the most important so let me go to
-YouTube
-um let me go to hands onb Dev
-live and I can monitor that chat
-hopefully live chat live chat top
-messages no I don&amp;#39;t want top messages I
-want all messages there we go so I can
-monitor it there hopefully this phone
-will stay live now and I&amp;#39;ll have to sort
-of put that on silence so I don&amp;#39;t hear
-myself there we go I&amp;#39;ve got it right in
-front of me there so somebody please um
-am I still broadcasting by the way um
-yes I am okay fine somebody please put
-something in the chat to tell me I&amp;#39;m
-still here um and until so I can see it
-on there as well hello hello what is
-going on my goodness me yes there we go
-I can see myself at least so
-anyway so where we left off we started
-looking at a
-thing inside oh thank you Vis say thank
-you this is just a test message it&amp;#39;s not
-just a test message it is collaboration
-thank you very much indeed Vis say the
-hands onb Dev posy strikes again
-brilliant good morning mart martin in
-beon brilliant so we started looking at
-I think what we had before was this sort
-of key ID integer in each of
-these entity definitions and we thought
-well that&amp;#39;s nice but there you know
-we&amp;#39;re going to be probably having s of a
-you know a mechanical key mechanical is
-not quite the right word but doesn&amp;#39;t
-matter we&amp;#39;re going to have a you know a
-key good morning we&amp;#39;re going to have a
-key um for each of our entities normally
-now um and what I think what I did yes
-okay and what I did is I removed that
-key and decorated each of the entities
-with this look at that there look at the
-popup with with an aspect aspect for
-entities with canonical Universal IDs
-what the heck does that mean why don&amp;#39;t
-we actually follow the link to the
-documentation let&amp;#39;s put that on page
-Let&amp;#39;s Get r that there this aspect
-managed aspect cuid now if you look in
-the um let me just put that without the
-document fragment URL there good morning
-morning suede or is that DS uh d uh
-everything is fine thank you everything
-is working fine says suede thank you
-very much indeed greetings to you in
-Germany so if you check out the Capia
-documentation Capia
-documentation you will
-see lots of information which not going
-to go through in detail now but lots of
-information
-on sap CDs common there are aspects and
-there are types there are also Cod list
-as well localized data play around with
-that a little bit maybe in a future
-episode but
-basically this gives us the ability to
-to use reusable common you know cluing
-the name um types as in you know rather
-than string or integer we can have more
-precise types and also aspects that do
-more than just Define what a particular
-property
-is and the way you use aspects is that
-you sort of decorate this again this is
-my word I can&amp;#39;t think what the word is
-you you decorate an entity type uh at
-the sort of Declaration part with a
-colon and then you use that aspect and
-we saw didn&amp;#39;t we in fact let&amp;#39;s go back
-to here we what we saw if we have a look
-at the metadata let&amp;#39;s start CDs watch
-our our favorite at the moment uh CDs
-command if we have a look at the
-metadata we will see that even though we
-haven&amp;#39;t defined an ID property for
-either of the books or author&amp;#39;s entity
-types we have in our entity container
-the two entity sets and then we got the
-entity type
-definitions and we can see we&amp;#39;ve got
-this let me just highlight it from there
-and go upwards like that there we have
-that
-bit and we also have of course similar
-sort of thing for authors we have that
-bit and if you have you just let&amp;#39;s just
-stare at that for a second I that one
-bigger stare at that for a second
-what we have is a property sort of
-automatically in there for us the name
-by default is ID makes sense right the
-type is a guid type okay there&amp;#39;s a
-standard OD data V4 guid type EDM entity
-data model that&amp;#39;s part of O dat V4 guid
-type which is like this 16 character
-thing which we&amp;#39;ll look at in a
-minute nullable equals false and
-everything um uh and
-what we also have is this key definition
-to say these are this is or these are
-the keys um of this entity type and it&amp;#39;s
-ref referring to the ID property right
-and the same there okay so what we&amp;#39;ve
-done is we&amp;#39;ve gone from being explicit
-and being not very dry when we talked
-about dry last week to something a
-little bit neater right now um let&amp;#39;s
-just explore a little bit more what else
-there is okay I mean maybe we&amp;#39;ll take
-these away again but there&amp;#39;s a another
-really common again keyword common um
-requirement to have for any given record
-for any given entity type information
-about you know when it was created when
-it was changed who created it who
-changed it and rather than for every
-single entity that you want to have this
-definition for rather than specify like
-four two pairs of
-properties crazy that crazy by modified
-that Modified
-by you can just decorate The Entity with
-this aspect that&amp;#39;s called managed
-managed is also
-inside the um Sab CDs common library of
-things oh yell says I&amp;#39;ve encountered a
-challenge with using units of measure
-are they included in sap CDs common
-package measure they&amp;#39;re not I don&amp;#39;t
-think unless unless Daniel can um chip
-in here uh that I don&amp;#39;t think
-oops unit uh units yeah I don&amp;#39;t think
-they are countries current oh we got
-here country currency language um but
-they&amp;#39;re not provided in the in the
-common thing I think some people have
-defined their own libraries for units of
-measure but they&amp;#39;re not in the sap CDs
-common okay is that
-okay Daniel if there are any other
-insights that you can share anybody
-anybody&amp;#39;s using units of manager put it
-in the chat we&amp;#39;re all here to learn from
-each
-other okay so why don&amp;#39;t we have a look
-that why don&amp;#39;t we have a look at what
-this does first of all if we let&amp;#39;s just
-let&amp;#39;s just decorate um just the books
-one so uh
-managed now of course I&amp;#39;m going to get
-an error on the line there what does it
-say there uh no artifact has been found
-with the name managed again what we said
-last week was you know there are so many
-errors that we encounter but all the
-errors are beautiful because they just
-help us progress and learn right uh okay
-Daniel thank you for confirming there&amp;#39;s
-no units of measure um maybe that&amp;#39;s uh I
-don&amp;#39;t know maybe that&amp;#39;s sort of going
-down a path that is just slightly too
-involved too complex too
-potentially UNG Global what a crazy word
-to use um I don&amp;#39;t know I don&amp;#39;t know so I
-can&amp;#39;t find what manage is but of course
-it&amp;#39;s in here so all we have to
-do is oh I wonder actually I wonder if
-um hold on let&amp;#39;s do that managed uh oh
-no quick fixes okay I was I was
-wondering whether it could have inserted
-this already for us B managed there are
-some cool things that you can do so if
-we now import not only CU ID but also
-managed now what happens when we save
-this okay server restarts of course but
-now check out Let me refresh the
-metadata
-URL
-well we got a bit of an explosion of
-beauty check it out of course we don&amp;#39;t
-have um uh where&amp;#39;s the where&amp;#39;s the oh
-there&amp;#39;s the authors there&amp;#39;s the author&amp;#39;s
-entity type there tiny little thing now
-you know nice and
-innocent but now we have the Bookshop uh
-sorry the books entity type which is a
-little bit fatter now because we&amp;#39;ve got
-these four extra properties for free
-alongside the other extra ID property
-that came for
-free all defined for us not only that
-but I think I&amp;#39;m wonder if it&amp;#39;s in the
-documentation um or aspects yes yes yes
-wait a minute um where is it managed
-here look at this we have also a so the
-definition of um the this managed
-aspects in fact let&amp;#39;s have a look let&amp;#39;s
-have a what this looks like let&amp;#39;s click
-on that and look for managed check it
-out let&amp;#39;s get rid of that thing for a
-second check it out look at that so it&amp;#39;s
-like turtles all the way down CDs all
-the way down so we&amp;#39;re we&amp;#39;re decorating
-our entity type books with an aspect
-called managed which is defined as an
-aspect using the CDs language and it&amp;#39;s
-got properties right created created by
-blah blah blah blah blah and it&amp;#39;s got
-types time stamp yep um and then we are
-annotating not decorating annotating
-these properties with special cap CDs
-annotations we&amp;#39;ve also got and i&amp;#39; I also
-saw this in the
-documentation
-um now now I&amp;#39;m sure I saw it somewhere
-um I&amp;#39;m sure you can find it somewhere
-but what&amp;#39;s important here is this green
-bit modified and Modified by our set
-whenever the respective row was is
-modified that means also during create
-operations okay so it&amp;#39;s just fantastic
-it&amp;#39;s just like so rich so um let&amp;#39;s let&amp;#39;s
-let&amp;#39;s go back here right right so we can
-understand now that oh yeah that&amp;#39;s right
-that&amp;#39;s what I going to show you metadata
-that&amp;#39;s why we get also these annotations
-right um we you know these These are
-sort of
-annotated elsewhere as well but we get
-these that&amp;#39;s what these annot that&amp;#39;s
-what where these annotations are coming
-from this is a computed default value
-there for example it&amp;#39;s a hidden filter
-it&amp;#39;s immutable it&amp;#39;s computed it&amp;#39;s got
-description Etc oh that&amp;#39;s the created by
-yeah okay so these all come from you
-know down the down the turtle
-whole um anyway so we could we could
-descend it there however what I want to
-show you is let&amp;#39;s go back
-here when we look at authors we get the
-data that we you know we we put in
-before there&amp;#39;s our bookshops authors
-right let&amp;#39;s get rid of that for a second
-but when we look at we got the books
-here and all we&amp;#39;ve got so far
-is um ID and Title One Two Three okay
-which one we&amp;#39;ll have to change may have
-to change shortly for reasons that will
-come to
-shortly but if we have a look at this
-what are we going to get for books let
-me know let me know in the chat what you
-think in fact don&amp;#39;t let me know yeah you
-can let me know of course but I&amp;#39;m going
-to click it now anyway so I just need to
-give you more time don&amp;#39;t I
-books look at that look at that so we
-get the properties that we&amp;#39;ve created
-explicitly and defined explicitly but we
-also get
-this ID property which maps of course to
-the ID from the CSV file right and we
-also get the created at and the modified
-at and the created by and then Modified
-by of course the moment because I&amp;#39;ve not
-specified anything else the data is
-being loaded and it&amp;#39;s not not being
-loaded in the context of Any Given user
-therefore the created buy and the
-modified buy remember lot green things
-says is has the same value now what we
-did last week by the way how&amp;#39;s the um
-how&amp;#39;s the thing going there we go yeah
-okay I&amp;#39;m still online I&amp;#39;m just I&amp;#39;m just
-really I just got this feeling my
-internet connection last night was
-really bad with the storms so I just got
-the feeling that um you know I&amp;#39;m just
-talking to the avoid um so what um what
-I was going to say uh oh yeah what we
-did at the end of last time yeah what we
-did was halfway
-through moving from an explicit key ID
-to this CU ID let&amp;#39;s just get rid of
-let&amp;#39;s get rid of um well actually we&amp;#39;ll
-we&amp;#39;ll leave those there
-um let&amp;#39;s get rid of that okay and when
-we saved that right we
-got an error didn&amp;#39;t we let&amp;#39;s just have a
-look at that in in Greater detail we&amp;#39;ve
-got an error that&amp;#39;s what we got at the
-end of last week and I said let&amp;#39;s have a
-look into that what is going
-on okay can anybody tell me how I have
-to think what&amp;#39;s going on while I take a
-let take a breath and uh slow down DJ
-and have a
-coffee let me know in the chat what&amp;#39;s
-going
-on while we have a look what&amp;#39;s going on
-let&amp;#39;s just move that over
-there to
-see again what we learn from cap is that
-it tells us everything we need to know
-when things go wrong so SQL light error
-so obviously something to do with
-loading data and remember we are in the
-context CDs watch
-d-el we are in the context
-of um CDs serve all with mock in memory
-so if we say CDs
-serve help in memory automatically adds
-a transient inmemory database
-bootstrapped on each restart in the same
-way that CDs deploy would do okay
-requires a SQL like driver to be
-installed whatever okay fine now uh and
-also here we go add add a question mark
-to apply a more defensive variant which
-respects the configured database if
-there is any okay so if you do have a
-SQL like database like you know banana.
-DB file it&amp;#39;ll use that but if not it
-will use an inmemory database so this is
-this error is
-occurring in relation to SQL
-light and basically when we start up
-it&amp;#39;ll do a a CDS deploy of whatever
-files it finds look here it&amp;#39;s found this
-init from data Bookshop books. CSV it
-hasn&amp;#39;t even got to the oh I found a data
-Bookshop author CSV yet it goes I&amp;#39;m
-going to start loading this data bang
-because and again this is obvious but
-let&amp;#39;s just think about this for a second
-because it says table Bookshop
-books Bookshop books we&amp;#39;ll have a look
-what that is in a minute has no column
-named ID in this SQL that I&amp;#39;m trying to
-execute insert into Bookshop books ID
-title okay and this is this bit here is
-going to get the data from the CSV
-right so what I want to have a look with
-you at
-is what what Bookshop underscore
-books now we know we can sort of figure
-out
-why the two components exist you know
-Bookshop is this sort of name space or
-service context within which we have the
-books entity type right Bookshop books
-and we&amp;#39;ve we can see that in Bookshop
-Das books. CSV or in fact I
-think uh we can we can also have I think
-we did this last week didn&amp;#39;t we Bookshop
-uh move data Bookshop books to data
-Bookshop do books. CSV that&amp;#39;s also with
-I think within the um bounds of
-convention okay so it&amp;#39;s found it look in
-it for from Bookshop DOT book so we can
-have DOT book instead of you know
-dashbox so let&amp;#39;s leave that because
-we&amp;#39;re you know feeling random
-here um um so let&amp;#39;s have a look where
-this table name is can anybody give me
-an idea of where that might be you&amp;#39;re
-all very quiet on the chat today is it
-me am I am I going on the in the wrong
-direction am I you know are you still
-there are we still connected oh my
-goodness me that&amp;#39;s really it&amp;#39;s such a
-it&amp;#39;s a such a weird thing to be
-talking away into the camera hello um
-but there&amp;#39;s no
-chat yes I&amp;#39;m going to pause for a second
-um and put put in the chat what you
-think put in the chat where how we might
-find out how we might
-see the table name Bookshop
-books um and while while you think about
-that let me just have a look here um to
-see if I could find this dollar now
-somewhere else now dollar now now now
-now now I&amp;#39;m sure oh there we go was it
-um I&amp;#39;m sure there was somewhere else I
-found the dollar now but anyway okay oh
-look at that there um oh there is there
-is is there czy now
-okay all right well I&amp;#39;m going to I&amp;#39;m
-going to press
-on I&amp;#39;m going to press on um with sort of
-re not revealing but revealing to
-ourselves where we might see this with a
-new
-cap
-command let&amp;#39;s see
-CDs okay we can do all these different
-things we&amp;#39;ve played around with CDs in
-it with ad and with serve and with
-watch um
-also implicitly indirectly we&amp;#39;re doing
-some mocking as well um Dash Dash with
-mocks you know we&amp;#39;re actually not
-mocking anything because there&amp;#39;s nothing
-to mock however you know we come to that
-um we&amp;#39;ve looked at CDs EnV
-but what about CDs compile compile CDs
-model to different outputs now CDs
-compile that&amp;#39;s you must specify a model
-to compile okay so let&amp;#39;s have a look at
-that some help d-el or Dash question
-mark check out all of the details here
-oh my goodness me CDs compiler is so
-important and so rich in um in
-capability oh Kiara hi all sorry for
-delay don&amp;#39;t worry kiar welcome you are
-always welcome anytime everybody&amp;#39;s
-always welcome so like I said to Phil
-last week you know a late arrival is a
-bit you know stylish you know I&amp;#39;m just
-just arriving here everybody thank you
-very much I see thank you for saying hi
-as well kir and welcome so if we say CDs
-compile we saw that we said well we need
-to give me a you know a model and a
-model is basically you know something so
-let&amp;#39;s give it services. CDs okay and
-what what do we get we get this
-weird Json like thing I mean in fact
-again I think we mentioned this in a
-previous episode I I reckon I don&amp;#39;t know
-but I reckon if we pipe that into JQ JQ
-will format it nicely JQ will recognize
-it and correctly pause it or be able to
-pause it as real Jason because it is
-real Json if you pipe it into something
-but if you&amp;#39;re displaying it and looking
-at at it in the terminal as a human it
-will give us a
-slightly less
-noisy Jason is Flavor good morning John
-worry in the house uh Daniel weird
-beautiful uh did I say weird um I can&amp;#39;t
-remember what I said weird about but I
-when I say weird I do mean
-beautiful so no I I see maybe maybe did
-I refer to this as weird this is this is
-season okay this is this is beautiful
-right and it&amp;#39;s the machine readable it&amp;#39;s
-almost like is it fair to say that this
-we could think of this as like the ab
-abstract syntax tree for our models okay
-this is the ass the ab in fact let&amp;#39;s go
-here abstract
-syntax tree let&amp;#39;s just have a look
-abstract syntax tree is a data structure
-used in computer science to represent
-the structure of a program or Co snip it
-abstract syntax tree in the house there
-we go let&amp;#39;s put that there in the chat
-because ests are amazing um anyway um oh
-that was me uh I was the chat there but
-it&amp;#39;s from
-me however what we want to do
-is say CDs
-compile CDs compile to Something in fact
-let&amp;#39;s just do that help again and see
-what we can compile to there we go um
-you know what this is my favorite cap
-this is so cap this is so quirky I think
-you know the short hand for --2 which is
-pretty sure is Dash number two I mean
-chef&amp;#39;s kiss for the the
-the guts to do something as cool and odd
-as that I just love it okay um I think
-it&amp;#39;s very cap I love it uh so you can
-also compile to different Target formats
-to Jason to edmx check it out if we do
-this CDs compile to edmx services. J
-CDs check it out check it out now oh my
-goodness so we I I think I said in the
-in the description we&amp;#39;re going to start
-looking at associations today we might
-even get to associations but let me know
-if it&amp;#39;s okay to just continue exploring
-this and also what I wanted to show you
-as well because one of the things I&amp;#39;ve
-been doing in the last four episodes is
-just in the browser you know going you
-know Local Host 404 this that the other
-bang bang bang bang bang now in the
-browser what I&amp;#39;ve been doing are apart
-from when I request the impa let&amp;#39;s do it
-now now um when I if I do this uh let&amp;#39;s
-go here you know we got this little you
-know little oh I&amp;#39;m not reading CDs CDs
-watch there um oh can&amp;#39;t see there what
-but in the browser basically because
-it&amp;#39;s in the browser I&amp;#39;ve just been
-looking at the metadata I&amp;#39;ve been
-looking at the service document and I&amp;#39;ve
-been looking at entity sets so I&amp;#39;ve been
-making odata query operations that&amp;#39;s all
-I&amp;#39;ve been doing and the HTTP method I&amp;#39;ve
-been using for each of these implicit in
-you know putting something in a browser
-Tab and pressing enter is get what I
-want to show you before we move on is
-that this is not like a onetick pony
-what we are getting here with the
-minimum work required is a fully fledged
-odata V4 service that supports out of
-the box with us doing nothing at all get
-put post delete in other words OD dat
-query read create update and delete
-operations so let&amp;#39;s maybe do a bit of
-that shall we do a bit that let me know
-in the chat let me know in the the chat
-but here we go so what what did I do
-there I can&amp;#39;t remember oh yes here we go
-so CDs compile to
-edmx so already recognize this it&amp;#39;s
-giving us the metadata the edmx metadata
-for the model lowercase M that&amp;#39;s in
-services. Json but also beautifully
-right now look at the warnings down
-there services. CDs line four column 10
-can we uh yeah click on that look at
-that there click on that and go straight
-to the word books it&amp;#39;s pretty cool um I
-guess
-because the output from cap is an error
-message that has a a format that is file
-Name colon line colon
-column that will be nicely and sort of
-in a in a really collaborative way
-interpreted here by vs code to allow me
-to jump straight to there so it&amp;#39;s
-telling you is in this books entity
-definition I the CDs compiler expected
-The Entity to have a primary key same
-thing for the author&amp;#39;s entity because at
-the moment we don&amp;#39;t have any we&amp;#39;ve
-removed the aspect decoration cuid and
-we&amp;#39;ve also removed the key ID so it
-hasn&amp;#39;t got primary
-key so this is also part of the clue as
-to why we got that error
-now if we were let&amp;#39;s do that instead um
-actually
-no tell you what let me move how do I do
-it move that there uh move that there
-terminal can move the terminal up there
-yes I can then get rid of that oh look
-at
-that uh there we go
-so there
-now um I&amp;#39;ll leave my head up there for
-now let me know if it gets in the way
-CDs
-compile
-to
-squl now let me know in the chat you&amp;#39;re
-all very quiet in the chat I&amp;#39;m I&amp;#39;m going
-to pick on John Murray because he&amp;#39;s he
-joined a little bit late which is
-there&amp;#39;s nothing wrong with that but John
-Murray good old friend John Murray and
-we were talking on LinkedIn after that
-episode about the culture series from
-enm Banks so John put in the
-chat why um why this is Super Why do you
-think this is super cool uh compiling to
-sequel what is relevant here
-now what do we
-get we get ddl data definition language
-is that what it stand for ddl data
-definition language I think it is let&amp;#39;s
-a look
-ddl data definition language right there
-we go oh look at that classic IBM
-reference there let&amp;#39;s put that there
-data definition language in the chat
-perfect
-now when we deploy remember which CDs
-watch remember when we do a CDS watch
-it&amp;#39;s in the sort of deploy
-stage that this issue comes
-up so it&amp;#39;s trying to
-deploy to a database and given that
-while
-cap um is generally as protocol agnostic
-as possible and database or persistence
-agnostic as possible supporting you know
-SQL light and
-postgress and Hanah and all all the
-different possibilities
-right at the end of the day we&amp;#39;re going
-to be using SQL uh SQL light
-specifically so it&amp;#39;s going to compile to
-SQL so that&amp;#39;s so internally effectively
-hi Reuben and welcome effectively it&amp;#39;s
-going to compile to SQL and this is what
-it gets in the compilation CDs compile
-to SQL so that&amp;#39;s what&amp;#39;s happening
-eternally and look at the ddl create
-table Bookshop uncore books
-and there&amp;#39;s only one property in there
-title narar 255 that comes straight from
-their title string so when we run CDs
-watch well in fact that&amp;#39;s just scroll up
-there CDs watch insert into bookshops ID
-title there&amp;#39;s no ID there because you
-know if let&amp;#39;s put that back um key ID
-integer for example let&amp;#39;s save that and
-then run CDs watch again
-now we get further it doesn&amp;#39;t look like
-it but we get further because we have
-the data Bookshop books but then it says
-okay I&amp;#39;ve loaded the book book shop book
-but now then it goes to the authors to
-go bang same thing so let&amp;#39;s just add
-that there as well put that back in save
-that reload and we&amp;#39;re all fine it&amp;#39;s it&amp;#39;s
-it&amp;#39;s doing the CDs deploy does that make
-sense let me know in the chat if that
-makes sense
-now actually while we&amp;#39;re here while
-we&amp;#39;re here let&amp;#39;s just just talk what
-time is it
-8:30 why don&amp;#39;t we talk about the fact
-that actually we get a full-fledged
-fully
-fledged OD dat service before we move
-on right
-um yes there we go so let&amp;#39;s go back and
-refresh so we have books and we have
-authors it&amp;#39;s all good but those what
-I&amp;#39;ve been doing there is a series of OD
-dat query operations
-okay I can also for example oh John John
-thank you John I think it&amp;#39;s awesome that
-we can see easily what it&amp;#39;s creating
-under the hood apologies if I&amp;#39;ve missed
-the mark on your question you have hit
-the mark right in the Bull&amp;#39;s Eye on the
-question thank you John uh exactly
-everything is and it&amp;#39;s a really good
-point that you make everything is there
-for us to look at what is going on
-behind the curtain yeah CD says if we
-change the SE I can&amp;#39;t there&amp;#39;s a there&amp;#39;s
-a heart in the way I don&amp;#39;t know what the
-heart&amp;#39;s doing there if we change the
-sequence oh let me read it there uh of
-field in data file then will it work
-without giving the key
-so you know what you know what the
-answer is let&amp;#39;s try it so let&amp;#39;s get rid
-of that again uh let&amp;#39;s go here so are
-you saying for example here move that to
-there is that what you&amp;#39;re saying for
-example or are you saying something else
-at is um so
-basically it doesn&amp;#39;t really matter let&amp;#39;s
-let&amp;#39;s do a CDS compile to
-SQL because of
-the in I suppose in the same
-way if we compile to
-edmx right we get the just because why
-not the entity type
-definitions there&amp;#39;s books and then
-there&amp;#39;s
-authors right books we&amp;#39;ve got title
-first then the ID and then authors we
-got ID then name and and we can see that
-reflected here you know and you know why
-wouldn&amp;#39;t it be right we have ID and name
-and sort of independent sort of
-abstracted from that we get a definition
-somewhere else and and normally in edmx
-it comes um at the top of an entity type
-definition the key element and then the
-one or more properties that are the Key
-Properties you know highlighted here key
-are referenced here property ref not
-property but property
-ref so it doesn&amp;#39;t matter and in the same
-way here books for example look at that
-we get title then ID title then ID but
-it doesn&amp;#39;t matter because again the
-specification of which property or
-properties of the key is the
-key is sort of independent of this list
-of properties so there so we get key
-property so it doesn&amp;#39;t matter you know
-it&amp;#39;s it&amp;#39;s sort of it&amp;#39;s all spread out
-over the floor but with enough metadata
-to work does that make sense but also if
-we have a look at the SQL equivalent of
-that it&amp;#39;s the same thing right look at
-that create table Bookshop books we got
-title first then ID title first then ID
-and then independently of those two
-properties we get
-the ddl statement that says oi the
-primary key for this table is the
-property called ID and in the same way
-we get here for the authors where we get
-ID defined first and then name we get ID
-first then name and then oi the primary
-key is ID does that make sense is that
-have I completely missed your Mis
-misunderstood your question sish let me
-know um oh without giving the key oh
-let&amp;#39;s have a look let&amp;#39;s have a look
-let&amp;#39;s do the without giving a key as
-well um let&amp;#39;s do one without giving the
-key let&amp;#39;s see what happens there CS
-compile SQL Services of course we get
-the same thing but without this primary
-key primary key brackets ID there right
-and if we do it to edmx let&amp;#39;s have a
-look we get entity type books right name
-title ID there we go but what we do
-get is this warning expected entity to
-have a primary key so basically the fact
-that we don&amp;#39;t have any properties with
-the prefix key with the prefix keyword
-key prepended gives us this warning okay
-so JY says uh unrelated cap by most used
-vs code keyboard shortcut is options up
-and down to move the current line up or
-down without having to copy paste ah yes
-Alo if you&amp;#39;re using the vi shortcuts
-extension that might be overriding yes I
-am John you know me well I&amp;#39;m using one
-of my favorite um the things that thing
-the extension that makes vs code usable
-for me is um where is it uh no it&amp;#39;s not
-in the dev container it&amp;#39;s uh I don&amp;#39;t
-know VI Vim Vim Vim Vim emulation yeah
-so in fact I can go DD or undo whatever
-you know
-F capital G GG up to the top down to the
-bottom capital G Etc whatever um but
-yeah that&amp;#39;s really cool
-so sish let me know if that sort of
-answers or harsh answers your question
-but these are great questions because we
-we get to explore and we get to
-experiment and see what
-happens
-now it&amp;#39;s 8:43
-um let&amp;#39;s put this let&amp;#39;s let&amp;#39;s let&amp;#39;s
-let&amp;#39;s let&amp;#39;s let&amp;#39;s undo that and let&amp;#39;s
-undo that and put that there right
-perfect um so now yes okay what we want
-to do is let&amp;#39;s just compile to SQL now
-we understand where that comes from and
-if we were to deploy we&amp;#39;re going to do
-the deploying into an actual SQL light
-database you know in a in a subsequent
-episode when I stop
-talking that&amp;#39;s the
-thing that is used to instantiate to
-create the artifacts in the persistence
-layer this is the this is the ddl right
-mtas so the columns ordering is not
-important in DB data while mocking the
-data it should load the data if we have
-the same column name as we have in our
-entity yes see this is brilliant this is
-brilliant
-ints
-um we&amp;#39;re you know we&amp;#39;re doing something
-that&amp;#39;s so simple but we&amp;#39;re also
-discovering things together perfect yes
-so AP in just love good morning AP be by
-the way we experienced that changing the
-field sequence has no effect on
-generated I can&amp;#39;t read that how do you
-get rid of this heart thing in the
-bottom right hand corner of the chat I
-don&amp;#39;t know uh we experienced that
-changeing the field sequence has no
-effect on generated table on Hanah side
-however the chain field sequen is
-effected on the generated hand of view
-yes now we&amp;#39;re going to get to views
-that&amp;#39;s a great Co that&amp;#39;s a great coin
-we&amp;#39;re going to get to views later on um
-I well in fact here&amp;#39;s a question for you
-here&amp;#39;s a question for you to think about
-and answer in the chat or answer next
-time at the
-moment at the moment
-deliberately we have this really nice
-service beautifully self-contained with
-two entities in that service books and
-authors and eventually we&amp;#39;ll
-also build a relationship between the
-books and the authors with an
-association
-okay however if we wanted to define a
-second service
-service banana right and then refer to
-you know maybe expose to a different
-consumer with different authorization
-requirements or
-whatever but we also wanted to include
-one or both of the entities that were in
-the Bookshop it gets a little bit sort
-of complicated
-because we&amp;#39;ve we&amp;#39;ve sort of bound
-up the definition of these two entities
-within this Bookshop service and so
-they&amp;#39;re sort of Trapped in
-there so how might
-we resolve
-that what would be a better this is you
-know this is the simplest thing that
-could possibly work but let me know in
-the chat what you think a better
-practice is and the clue is in the
-directories that I deliberately deleted
-let me know in the chat so um visas said
-is ID a magic F name I found that cap be
-able to generate a running number for me
-even though I didn&amp;#39;t provide it in the
-CSV data file now then that okay that
-prompt that&amp;#39;s a great
-question if we H let&amp;#39;s have a look let&amp;#39;s
-have a look let&amp;#39;s let&amp;#39;s let&amp;#39;s learn by
-doing and let&amp;#39;s find this out um oh okay
-so John has sort of oh by the way I
-manually specify key ID in The Entity
-instead of using a c aspect yeah you&amp;#39;re
-free to do that if you want you know I I
-don&amp;#39;t
-think you know that&amp;#39;s a bad thing at all
-cuid is a great um helper CID is a great
-um
-facility but there&amp;#39;s no rule that you
-have to use it
-cuid um which will yeah we&amp;#39;ll discover
-cuid
-maybe I every time I have so much
-planned to show you and go through and I
-never get to any of it um uu IDs but
-anyway okay yeah so John Murray says we
-uh if you use the CID aspect then behind
-the scenes it generates a uid for you
-yes now let&amp;#39;s let&amp;#39;s let&amp;#39;s do something
-let&amp;#39;s do something what let&amp;#39;s get rid of
-this extensions thing uh okay perfect
-now what we&amp;#39;ll do why do we why do we
-take our time let&amp;#39;s get rid of that
-service banana save that and start CDs
-watch okay and go back to here where
-we&amp;#39;ve
-got let&amp;#39;s put that back down there again
-is that okay is that that&amp;#39;s that&amp;#39;s fine
-isn&amp;#39;t it well I won&amp;#39;t try and put that
-down there again now let me put my head
-down the
-bottom we can refresh and we
-get
-the entity set so that&amp;#39;s OD data query
-operation we know it works we can also
-specify
-or we can also make perform an odata
-read operation where we ask for one
-particular entity with its key now this
-is the new but slightly limited Way new
-I said new it&amp;#39;s already to be4 slightly
-limited way of specifying a key with a
-slash and then the key name it but
-that&amp;#39;s only good if you have a single
-key and it&amp;#39;s simple right so we can say
-but look actually before I do that
-before I press enter on this URL look
-what we get we get you know within the
-cont within this context which is with
-this object we get the value of the
-response which is an array of objects
-and each object is an entity right
-that&amp;#39;s an entity set right there&amp;#39;s the
-set look there if we say books SL1 for
-example what do we get we don&amp;#39;t get a
-value with with for which
-the value is an array and set we get an
-entity so that was a read right um so uh
-so oh more conversation brilliant not
-specifically the St ID aspect I think
-this happens with any key of type
-integer with test data it can be called
-different than ID exactly exactly but
-we&amp;#39;re going to come on to that hopefully
-so Kiara says do we have some sort of
-restriction if we use ID rather than you
-no no restriction um what was there any
-particular restriction you were thinking
-about Kiara um let me know uh where are
-we where are we here we go so there&amp;#39;s
-there&amp;#39;s an O re uh read operation why
-don&amp;#39;t we try why don&amp;#39;t we try um where
-should we try
-it uh let&amp;#39;s go back to the entity set
-tell you what tell you what I do have I
-do have and I hate doing this but
-because of time I do have this
-thing um which I sort of
-Saved um come to the scratch directory
-and copy test. HTP into uh c btb main BB
-M there now um I&amp;#39;ve got this
-thing called test now if you have a look
-in cap B2B in
-the um Dev container definition which
-has also changed slightly thanks to a
-contribution from um Christian Lesner um
-you know I&amp;#39;m I&amp;#39;m still not quite sure
-whether I like just having a Dev
-container Jason and using the features
-to insult stuff or whether I prefer
-having things in a Docker file but we&amp;#39;ll
-talk about that maybe an all later thing
-in here um we&amp;#39;ve got this rest client
-okay so that is an extension that&amp;#39;s been
-installed into the dev container and if
-you create a file with a HTTP ending it
-will give us the ability let me I got to
-put that down there
-again what do I do tell you what let&amp;#39;s
-kill that let&amp;#39;s get rid of that there we
-go and let&amp;#39;s go to the um terminal there
-oh how do I move the terminal down
-there oh there maybe there there we go
-there we go
-perfect
-um it will give us the ability to make
-calls so let&amp;#39;s just do
-that there we go uh there right so CDs
-watch now what this is and by the way if
-you&amp;#39;re looking for an example of this I
-grabbed from one of our code jams uh cap
-service integration service integration
-code Jam I&amp;#39;ve got um some arrest client
-example in X size 11 this is this is
-where I got it from and modified it this
-morning um down here that beauty that
-asky art oh my goodness me um here so in
-exercise 11 let&amp;#39;s put that in the chat
-not in the there in the chat DJ what are
-you
-doing uh there we go fine um we have
-this sort of syntax that you can put in
-a simple text file and then the rest
-client in um vs code will interpret that
-for you and recognize things so we can
-click on this send request so send
-request I didn&amp;#39;t type in the word send
-request that is automatically there
-because of the rest client so I can say
-send request click that and it will make
-the request to the service because it&amp;#39;s
-to local 404 just like I was in the
-browser and it will give us the answer
-now if we want to get rid of that if we
-wanted to show and prove to ourselves
-that cap gives us a fully fledged
-odata um uh service supporting all
-operations um oh here we go sorry uh I&amp;#39;m
-thinking about lean drafts um oh that&amp;#39;s
-a good question um I&amp;#39;ve read something a
-long time May
-misinterpreted I don&amp;#39;t know off the top
-of my head I can&amp;#39;t swap out this
-information in my brain to think about
-that my brain&amp;#39;s too small um I will look
-into that and we&amp;#39;ll talk about that in a
-future episode we going to hopefully be
-looking at lean drafts and draft in
-general um but
-that&amp;#39;s let me know in the chat I&amp;#39;m
-thinking at the rubbish Pace that I&amp;#39;m
-going right learning by doing exploring
-everything this series might extend well
-into the summer let me know if you&amp;#39;re
-okay with that you know just one hour on
-a Friday every week or many as many
-weeks as if possible uh because of
-sometimes I&amp;#39;m away doing Co jams or
-whatever but let me know if
-oh thank you Daniel Daniel says with
-Fury apps and draft mode uu ID is easier
-than ID if you create a new entity you
-will get a popup to provide the key if
-it&amp;#39;s not a u ID using uu ID you don&amp;#39;t
-need to care about the key so I&amp;#39;m I&amp;#39;m
-hoping if I stop talking we&amp;#39;ll get to
-see what happens when we specify a post
-without an ID in fact here it is here it
-is right here we go look post so this is
-going to be an OD data
-um uh create operation okay with a post
-check it out so for OD to create
-operation we need to uh use the post
-HTTP method the noun the ver the verb is
-post the noun is the entity set URL
-books okay so in fact if we get the um
-slash
-books uh go
-here books if if we Let&amp;#39;s do an entity
-set get there we go there&amp;#39;s one two
-three now if we make a post request to
-that same entity set URL we have to
-specify being good internet citizens uh
-web citizens sorry DJ um the content
-type of the payload that we are
-transferring which is here after the
-empty line you can specify payload
-there&amp;#39;s the payload now what&amp;#39;s missing
-in that payload the ID let&amp;#39;s see what
-happens let&amp;#39;s see what happens send
-request um what did I do post the
-restaurant at the end of the universe uh
-20 2011 created
-now if we go back here send
-request for how do I click on
-that there we go check it out we get a
-new entity in the entity set and look
-what&amp;#39;s happened it&amp;#39;s given us a new ID I
-didn&amp;#39;t specify ID for right the
-restaurant the endie there we go so um
-so oh yes please yes please please do
-yes please yes please yes please I
-forgot what the question was was it
-shall I just keep going on this will
-just go forever not forever but into the
-Summer perfect harendra where is these
-posts what uh let me thing where is
-these post and get methods defined um
-when you say where are they defined I
-mean I&amp;#39;m defining them in this test 8 so
-this is the equivalent let me let me
-open up another terminal so let&amp;#39;s make
-sure we all understand let me open up a
-new split terminal
-bash have we got yeah got curl of course
-we got curl I&amp;#39;ve installed curl because
-curl right there we go um curl app get
-there we go
-um
-curl you can you can explicitly specify
-the method with X but effect effectively
-if we do verose we can see what method
-it uses
-verose Local Host
-404 there what
-curos uh oh there we go yeah no look
-that was correct that is is that is the
-test page that is our um DJ you&amp;#39;re an
-idiot that is our welcome to sacs server
-there we go um this is an autom
-generated page you can replace it with a
-custom M blah blah blah blah blah blah
-blah blah blah and that was there you
-can replace it with a order there so so
-the and we go um V4 o data data V4 put
-head up there again
-V4
-Bookshop
-books it&amp;#39;s making
-it&amp;#39;s using the HTP get method because i&amp;#39;
-I&amp;#39;ve not specified it to send any data
-so c will by default use get but get
-combined with a URL that represents an
-entity set is a o data query operation
-we can see that response there so these
-are just standard HTTP methods one of
-the beautiful things about o
-data um is that it is
-restful and that means amongst many
-other things that it doesn&amp;#39;t
-abuse the underlying application
-protocol that is HTTP which is a a
-protocol that has you know a limited
-number a deliberately limited number of
-um verbs get put postly patch
-Etc and head and an infinite number of
-nouns and OD operations map onto these
-verbs and that&amp;#39;s why when we&amp;#39;re actually
-wanting to make OD dat operations this
-is an htb client a rest client so so it
-doesn&amp;#39;t understand you know and it
-doesn&amp;#39;t need to understand anything
-specific about OD data operations create
-read update delete and query it we just
-use the the htb methods that these
-different o dat operations map onto does
-that make sense harendra um I hope I&amp;#39;ve
-answered that question but let&amp;#39;s go back
-to here check it out we&amp;#39;ve spec we&amp;#39;ve
-actually made an OD data create
-operation with an htb post specifying a
-payload where the payload is Json and we
-specified a a propert a value restaurant
-of the universe for the title property
-but we haven&amp;#39;t specified the key
-property we could do if we wanted to but
-now there we go let&amp;#39;s have a let&amp;#39;s have
-a delete operation um if we go and get
-the get the data there and I&amp;#39;m also
-using references you can actually pull
-out data from the responses the rest CL
-is pretty good you know I still love
-curl and Cur curl before anything but
-the rest client is pretty good so have
-look at the rest client uh because you
-can say for example here um I want to
-get an ID of a book okay ID 1 two three
-or four right let me go and refer to the
-book&amp;#39;s query which is the name I gave to
-this query so the response we got from
-this query is accessible via books
-query. response in the body and the
-value there value first element zero
-there the ID so basically I&amp;#39;m asking for
-the value of this ID the the zero
-element in this array of the body of the
-response to this request so basically
-book ID is then one in fact why don&amp;#39;t I
-say value here two right so this is the
-third B obviously starting counting from
-zero this is this one the player of
-games so why don&amp;#39;t we get that now um
-there oh sorry what was what was going
-[Music]
-on oh I pressed the wrong thing why
-don&amp;#39;t we send send a request the player
-of games so we&amp;#39;ve we&amp;#39;ve now asked
-for we&amp;#39;ve made an OD data read operation
-oh it&amp;#39;s
-9:00 what what um and finally finally
-finally finally we can also delete it
-let&amp;#39;s do that send request delete bang
-we get 204 no content beautiful h2b is
-beautiful now if we go and get the books
-we don&amp;#39;t have the player of games
-anymore okay I can&amp;#39;t believe that&amp;#39;s 9:00
-already let&amp;#39;s finish here and let&amp;#39;s
-continue with uh diving in and learning
-and poking and asking questions please
-more questions more questions more
-questions I&amp;#39;ll see you all soon bye for
-now
+0m23s: [Music]
+1m15s: [Music]
+1m28s: a
+1m32s: [Music]
+2m6s: good morning good afternoon good evening
+2m7s: welcome to hands on sap Dev with me DJ
+2m10s: cacro here again Friday oh my goodness
+2m13s: me so uh I&amp;#39;ve got to say I um I was
+2m16s: panicking a bit because I was like
+2m19s: working away
+2m20s: and what&amp;#39;s going on here and blah blah
+2m23s: blah and I was talking to my good friend
+2m25s: uh darid CT earlier this morning um
+2m28s: around sort of uh know 6:30 my time this
+2m31s: morning um I had I had a bit of a brain
+2m33s: freeze and he helped me out it was
+2m35s: awesome anyway um and all of a sudden it
+2m37s: was like 7:30 it&amp;#39;s like what um you know
+2m41s: half an hour before this show starts and
+2m44s: I was panicking because had had a shower
+2m47s: yet it&amp;#39;s like ah shower coffee oh so
+2m50s: here we are and welcome everybody thank
+2m52s: you all so much for joining uh who we
+2m54s: got on good morning to visas in Thailand
+2m57s: welcome back visas and good morning
+3m0s: Nico and Lucas good morning to you in
+3m4s: Poland and good afternoon AJ nice to see
+3m7s: you again glad you&amp;#39;re feeling better and
+3m10s: LU good morning it&amp;#39;s a pleasure to be
+3m11s: here another Friday de session and a
+3m13s: heart excellent Good Start yell is it
+3m16s: jell or yell um tell me let me know in
+3m19s: the comments if I I should pronounce the
+3m21s: J as a hard J or a soft J good morning
+3m24s: to you in Kenya uh aunu D Diaz and Shir
+3m30s: hello Al Alon Kiran hello yes hello to
+3m33s: you too as well and Daniel Scher in the
+3m36s: house my goodness me Ash shock good
+3m39s: morning to you in Belgium again and
+3m42s: let&amp;#39;s go DJ says Tom good morning
+3m44s: everyone okay let&amp;#39;s go DJ perfect
+3m47s: perfect perfect so yeah let&amp;#39;s get
+3m50s: started I I generally sort of talk a
+3m52s: little bit too much at the start but you
+3m53s: know yes it&amp;#39;s okay we&amp;#39;re all family here
+3m57s: um so yeah let me switch to the main
+4m0s: scene uh because I&amp;#39;ve got um a couple of
+4m3s: things to share of course as always I
+4m6s: have my coffee in my um I had the right
+4m9s: way around at the start hands on SB Dev
+4m11s: mug a at 8: a.m.
+4m14s: excellent second coffee of the day
+4m16s: really
+4m17s: but so we got sap developer news this
+4m20s: week uh all news all all the news is fit
+4m22s: to print now I don&amp;#39;t want to paste it in
+4m23s: there I want to paste into there thank
+4m24s: you very much uh control C that very
+4m27s: good H MTS good morning and Kristoff
+4m30s: good morning to you and good morning to
+4m32s: everybody so there&amp;#39;s the latest sap
+4m34s: developer news and one of the items in
+4m36s: sap developer news is a pointer to this
+4m40s: month if you didn&amp;#39;t know it already uh
+4m41s: February developer challenge being run
+4m45s: this time by our feess leader Tom young
+4m48s: and we&amp;#39;re already in week two so check
+4m50s: out oh my goodness I clicked on one of
+4m52s: those links with marketing stuff in can
+4m55s: get rid of that before I share it um uh
+4m59s: so we&amp;#39;ve got here uh the link to week
+5m3s: two and the developer challenge this
+5m6s: week is all about cap and specifically
+5m9s: cap plugins so check it not what am I
+5m12s: doing not in there there Stefano
+5m16s: B uh welcome and and yes welcome and
+5m19s: we&amp;#39;ll be um probably looking at the Capa
+5m22s: documentation uh maybe a little B later
+5m24s: let&amp;#39;s clear the screen because that&amp;#39;s
+5m25s: really annoying me now uh there we go
+5m26s: fine in fact let&amp;#39;s put the time on there
+5m28s: we go good so that&amp;#39;s that uh this is
+5m31s: really cool this this week the plug-in
+5m33s: uh challenge is all about exploring the
+5m36s: graphql
+5m37s: plugin very controversial and
+5m39s: interesting and
+5m41s: wonderful by the way that reminds me um
+5m44s: if you want to catch up with uh all
+5m48s: these different uh back episodes back
+5m51s: episodes back issues I don&amp;#39;t know even
+5m52s: the word is uh you can check out the
+5m54s: playlist good morning Kate in Wales oh
+5m57s: my goodness me in Wales whereabout tell
+5m59s: me whereabouts in Wales roughly uh are
+6m2s: you um I&amp;#39;ve got some family in Wales uh
+6m6s: and friends in yeah and yeah and I may
+6m8s: be going uh later on this year down the
+6m11s: slang goland uh canal and harendra good
+6m15s: morning to you as well um so that
+6m18s: reminds me as well uh we had a comment I
+6m21s: had a comment I saw that yesterday I
+6m22s: only saw it yesterday so sorry Ram ready
+6m24s: there was a comment uh blah blah blah
+6m26s: blah blah I was executing these
+6m28s: exercises in business application Studio
+6m30s: but some commands let me just make that
+6m32s: a little bit bigger but some commands
+6m33s: like tree code are not recognized do I
+6m36s: need to add any package for your
+6m37s: information I already have design time
+6m39s: and run time at sacds Star package
+6m42s: installed now that was a great question
+6m45s: um while uh I just want to cover this
+6m48s: very briefly while uh the business
+6m50s: application Studio Dev spaces and vs
+6m53s: code are very similar in that they are
+6m54s: both based upon the same sort of you
+6m56s: know core code OSS which is you the open
+6m59s: source version of vs code um there are
+7m3s: some obviously uh subtle differences so
+7m6s: what I was doing here I&amp;#39;d open let&amp;#39;s say
+7m9s: I want to open I&amp;#39;m in the terminal
+7m10s: because I like the terminal um and I
+7m12s: want to open a file um maybe the package
+7m15s: Json so I can say code package.json and
+7m18s: it will open it in that current column
+7m20s: there which is really cool that&amp;#39;s what I
+7m21s: did one of the previous videos and RAM
+7m24s: ready was asking um you know why doesn&amp;#39;t
+7m26s: this work in bass basically um because
+7m29s: you know Bas is a slightly different
+7m31s: imple implementation of uh vs code and
+7m33s: there isn&amp;#39;t anything uh there isn&amp;#39;t the
+7m36s: the code command however there is
+7m38s: something which I&amp;#39;ll show you shortly
+7m40s: but also um I think folks have uh seen
+7m44s: me use the um tree uh tree command just
+7m49s: to show a nice sort of uh you know
+7m52s: graphical graphical depiction of the
+7m54s: files and folders files and directories
+7m56s: where I am right now for example which
+7m58s: is a great command standard Unix command
+8m0s: but it&amp;#39;s not available everywhere
+8m1s: including the I think the default type
+8m4s: of Dev spaces in bass so I wrote a blog
+8m7s: post uh yesterday because why not uh yes
+8m10s: let&amp;#39;s leave there and this blog post
+8m12s: basically let me share that as well oh
+8m13s: my goodness me uh oh you&amp;#39;re oh you&amp;#39;re
+8m17s: near Breen Mountain Railway in Mera
+8m18s: tville excellent well welcome everybody
+8m21s: Sid welcome D welcome good afternoon to
+8m24s: you in India uh Stefano says great
+8m27s: because I&amp;#39;m here to cap I don&amp;#39;t know why
+8m29s: I do that with my hands I don&amp;#39;t know
+8m31s: harendra good morning um so there we go
+8m33s: there&amp;#39;s a blog post and basically have a
+8m35s: look at that later but it&amp;#39;ll show you
+8m37s: this code thing and there is in the
+8m38s: business application Studio A A baz CT
+8m41s: baz control and you can open files now
+8m44s: um I can&amp;#39;t work out why opens files in
+8m47s: like a it opens up a new column here so
+8m49s: I&amp;#39;ve got an
+8m50s: internal not ticket you know an internal
+8m52s: sort of question open uh at sap to find
+8m55s: out why that happens is there anything
+8m57s: we can do about it um I was looking uh
+8m59s: last night too too late last night at
+9m2s: the different um VSS code commands the
+9m4s: vs code to open and how to sort of
+9m6s: invoke that through the bass ct--
+9m8s: command haven&amp;#39;t quite got there yet but
+9m10s: anyway but also I also wrote as to how I
+9m13s: got tree working in the business
+9m14s: application Studio death spaces um it
+9m17s: involves sort of spinning up a container
+9m18s: and grabbing the tree binary because
+9m19s: it&amp;#39;s sort of self-contained and putting
+9m22s: so have a look have a look okay so
+9m24s: that&amp;#39;s that that&amp;#39;s that that&amp;#39;s that
+9m27s: that&amp;#39;s that and there we go okay so
+9m30s: let&amp;#39;s get started this is where we ended
+9m32s: up um at the end of last
+9m36s: week and I think we just started diving
+9m42s: in to um
+9m46s: the uh one of the things let&amp;#39;s use the
+9m50s: word thing first of all one of the
+9m52s: things oh hold on why I I&amp;#39;ve got see I&amp;#39;m
+9m56s: supposed to be monitoring live chat but
+9m59s: on my on my thing here on my what&amp;#39;s it
+10m3s: called tablet but there&amp;#39;s nothing coming
+10m5s: through the live chat I don&amp;#39;t know
+10m6s: what&amp;#39;s going on um why is it not coming
+10m9s: through I don&amp;#39;t know so um I&amp;#39;ll have to
+10m11s: keep uh flipping back I don&amp;#39;t know why
+10m13s: it&amp;#39;s not working let me just put
+10m15s: something in there blah blah blah uh
+10m17s: test
+10m19s: enter uh oh top chat oh top chat what
+10m22s: about uh live chat um so somebody please
+10m26s: type something in now to the live chat
+10m29s: oh I&amp;#39;m obviously in the wrong I&amp;#39;m in the
+10m32s: wrong um yeah it&amp;#39;s not working I&amp;#39;m in
+10m34s: the
+10m36s: wrong broadcasting on YouTube okay so
+10m38s: I&amp;#39;ll have to keep flipping back to here
+10m40s: so remind me to keep flipping back
+10m41s: anyway oh well let&amp;#39;s just close this
+10m43s: tablet for now it&amp;#39;s useless there we go
+10m44s: let&amp;#39;s just turn that off
+10m47s: there uh right okay so um in fact what I
+10m51s: will do I will go because I need to I
+10m53s: need to monitor this don&amp;#39;t I so because
+10m55s: the chat is the most important OT are
+10m56s: the most important so let me go to
+10m58s: YouTube
+11m0s: um let me go to hands onb Dev
+11m2s: live and I can monitor that chat
+11m4s: hopefully live chat live chat top
+11m7s: messages no I don&amp;#39;t want top messages I
+11m9s: want all messages there we go so I can
+11m11s: monitor it there hopefully this phone
+11m12s: will stay live now and I&amp;#39;ll have to sort
+11m14s: of put that on silence so I don&amp;#39;t hear
+11m16s: myself there we go I&amp;#39;ve got it right in
+11m18s: front of me there so somebody please um
+11m20s: am I still broadcasting by the way um
+11m23s: yes I am okay fine somebody please put
+11m25s: something in the chat to tell me I&amp;#39;m
+11m27s: still here um and until so I can see it
+11m29s: on there as well hello hello what is
+11m32s: going on my goodness me yes there we go
+11m34s: I can see myself at least so
+11m37s: anyway so where we left off we started
+11m39s: looking at a
+11m42s: thing inside oh thank you Vis say thank
+11m45s: you this is just a test message it&amp;#39;s not
+11m47s: just a test message it is collaboration
+11m50s: thank you very much indeed Vis say the
+11m52s: hands onb Dev posy strikes again
+11m54s: brilliant good morning mart martin in
+11m56s: beon brilliant so we started looking at
+11m59s: I think what we had before was this sort
+12m1s: of key ID integer in each of
+12m4s: these entity definitions and we thought
+12m7s: well that&amp;#39;s nice but there you know
+12m11s: we&amp;#39;re going to be probably having s of a
+12m13s: you know a mechanical key mechanical is
+12m16s: not quite the right word but doesn&amp;#39;t
+12m17s: matter we&amp;#39;re going to have a you know a
+12m18s: key good morning we&amp;#39;re going to have a
+12m21s: key um for each of our entities normally
+12m25s: now um and what I think what I did yes
+12m28s: okay and what I did is I removed that
+12m31s: key and decorated each of the entities
+12m34s: with this look at that there look at the
+12m36s: popup with with an aspect aspect for
+12m38s: entities with canonical Universal IDs
+12m41s: what the heck does that mean why don&amp;#39;t
+12m43s: we actually follow the link to the
+12m44s: documentation let&amp;#39;s put that on page
+12m47s: Let&amp;#39;s Get r that there this aspect
+12m50s: managed aspect cuid now if you look in
+12m52s: the um let me just put that without the
+12m56s: document fragment URL there good morning
+12m58s: morning suede or is that DS uh d uh
+13m3s: everything is fine thank you everything
+13m4s: is working fine says suede thank you
+13m7s: very much indeed greetings to you in
+13m8s: Germany so if you check out the Capia
+13m10s: documentation Capia
+13m12s: documentation you will
+13m15s: see lots of information which not going
+13m17s: to go through in detail now but lots of
+13m19s: information
+13m20s: on sap CDs common there are aspects and
+13m25s: there are types there are also Cod list
+13m26s: as well localized data play around with
+13m29s: that a little bit maybe in a future
+13m30s: episode but
+13m32s: basically this gives us the ability to
+13m35s: to use reusable common you know cluing
+13m40s: the name um types as in you know rather
+13m44s: than string or integer we can have more
+13m46s: precise types and also aspects that do
+13m49s: more than just Define what a particular
+13m52s: property
+13m53s: is and the way you use aspects is that
+13m57s: you sort of decorate this again this is
+13m59s: my word I can&amp;#39;t think what the word is
+14m0s: you you decorate an entity type uh at
+14m4s: the sort of Declaration part with a
+14m7s: colon and then you use that aspect and
+14m10s: we saw didn&amp;#39;t we in fact let&amp;#39;s go back
+14m12s: to here we what we saw if we have a look
+14m14s: at the metadata let&amp;#39;s start CDs watch
+14m17s: our our favorite at the moment uh CDs
+14m20s: command if we have a look at the
+14m25s: metadata we will see that even though we
+14m29s: haven&amp;#39;t defined an ID property for
+14m32s: either of the books or author&amp;#39;s entity
+14m35s: types we have in our entity container
+14m37s: the two entity sets and then we got the
+14m38s: entity type
+14m39s: definitions and we can see we&amp;#39;ve got
+14m41s: this let me just highlight it from there
+14m43s: and go upwards like that there we have
+14m46s: that
+14m47s: bit and we also have of course similar
+14m50s: sort of thing for authors we have that
+14m53s: bit and if you have you just let&amp;#39;s just
+14m54s: stare at that for a second I that one
+14m56s: bigger stare at that for a second
+14m59s: what we have is a property sort of
+15m2s: automatically in there for us the name
+15m6s: by default is ID makes sense right the
+15m10s: type is a guid type okay there&amp;#39;s a
+15m13s: standard OD data V4 guid type EDM entity
+15m16s: data model that&amp;#39;s part of O dat V4 guid
+15m19s: type which is like this 16 character
+15m21s: thing which we&amp;#39;ll look at in a
+15m22s: minute nullable equals false and
+15m25s: everything um uh and
+15m29s: what we also have is this key definition
+15m31s: to say these are this is or these are
+15m34s: the keys um of this entity type and it&amp;#39;s
+15m38s: ref referring to the ID property right
+15m41s: and the same there okay so what we&amp;#39;ve
+15m45s: done is we&amp;#39;ve gone from being explicit
+15m47s: and being not very dry when we talked
+15m49s: about dry last week to something a
+15m52s: little bit neater right now um let&amp;#39;s
+15m55s: just explore a little bit more what else
+15m58s: there is okay I mean maybe we&amp;#39;ll take
+16m0s: these away again but there&amp;#39;s a another
+16m2s: really common again keyword common um
+16m6s: requirement to have for any given record
+16m11s: for any given entity type information
+16m14s: about you know when it was created when
+16m16s: it was changed who created it who
+16m17s: changed it and rather than for every
+16m21s: single entity that you want to have this
+16m23s: definition for rather than specify like
+16m26s: four two pairs of
+16m29s: properties crazy that crazy by modified
+16m31s: that Modified
+16m33s: by you can just decorate The Entity with
+16m38s: this aspect that&amp;#39;s called managed
+16m40s: managed is also
+16m42s: inside the um Sab CDs common library of
+16m47s: things oh yell says I&amp;#39;ve encountered a
+16m49s: challenge with using units of measure
+16m51s: are they included in sap CDs common
+16m54s: package measure they&amp;#39;re not I don&amp;#39;t
+16m57s: think unless unless Daniel can um chip
+17m1s: in here uh that I don&amp;#39;t think
+17m4s: oops unit uh units yeah I don&amp;#39;t think
+17m8s: they are countries current oh we got
+17m9s: here country currency language um but
+17m12s: they&amp;#39;re not provided in the in the
+17m14s: common thing I think some people have
+17m16s: defined their own libraries for units of
+17m19s: measure but they&amp;#39;re not in the sap CDs
+17m21s: common okay is that
+17m24s: okay Daniel if there are any other
+17m27s: insights that you can share anybody
+17m28s: anybody&amp;#39;s using units of manager put it
+17m30s: in the chat we&amp;#39;re all here to learn from
+17m32s: each
+17m32s: other okay so why don&amp;#39;t we have a look
+17m36s: that why don&amp;#39;t we have a look at what
+17m38s: this does first of all if we let&amp;#39;s just
+17m40s: let&amp;#39;s just decorate um just the books
+17m44s: one so uh
+17m46s: managed now of course I&amp;#39;m going to get
+17m48s: an error on the line there what does it
+17m50s: say there uh no artifact has been found
+17m52s: with the name managed again what we said
+17m54s: last week was you know there are so many
+17m56s: errors that we encounter but all the
+17m57s: errors are beautiful because they just
+18m0s: help us progress and learn right uh okay
+18m3s: Daniel thank you for confirming there&amp;#39;s
+18m4s: no units of measure um maybe that&amp;#39;s uh I
+18m8s: don&amp;#39;t know maybe that&amp;#39;s sort of going
+18m9s: down a path that is just slightly too
+18m12s: involved too complex too
+18m16s: potentially UNG Global what a crazy word
+18m19s: to use um I don&amp;#39;t know I don&amp;#39;t know so I
+18m24s: can&amp;#39;t find what manage is but of course
+18m26s: it&amp;#39;s in here so all we have to
+18m29s: do is oh I wonder actually I wonder if
+18m32s: um hold on let&amp;#39;s do that managed uh oh
+18m35s: no quick fixes okay I was I was
+18m37s: wondering whether it could have inserted
+18m38s: this already for us B managed there are
+18m41s: some cool things that you can do so if
+18m42s: we now import not only CU ID but also
+18m45s: managed now what happens when we save
+18m48s: this okay server restarts of course but
+18m52s: now check out Let me refresh the
+18m55s: metadata
+18m57s: URL
+18m59s: well we got a bit of an explosion of
+19m1s: beauty check it out of course we don&amp;#39;t
+19m4s: have um uh where&amp;#39;s the where&amp;#39;s the oh
+19m7s: there&amp;#39;s the authors there&amp;#39;s the author&amp;#39;s
+19m8s: entity type there tiny little thing now
+19m11s: you know nice and
+19m13s: innocent but now we have the Bookshop uh
+19m17s: sorry the books entity type which is a
+19m19s: little bit fatter now because we&amp;#39;ve got
+19m21s: these four extra properties for free
+19m23s: alongside the other extra ID property
+19m25s: that came for
+19m27s: free all defined for us not only that
+19m31s: but I think I&amp;#39;m wonder if it&amp;#39;s in the
+19m33s: documentation um or aspects yes yes yes
+19m37s: wait a minute um where is it managed
+19m39s: here look at this we have also a so the
+19m44s: definition of um the this managed
+19m47s: aspects in fact let&amp;#39;s have a look let&amp;#39;s
+19m49s: have a what this looks like let&amp;#39;s click
+19m51s: on that and look for managed check it
+19m55s: out let&amp;#39;s get rid of that thing for a
+19m56s: second check it out look at that so it&amp;#39;s
+19m59s: like turtles all the way down CDs all
+20m1s: the way down so we&amp;#39;re we&amp;#39;re decorating
+20m3s: our entity type books with an aspect
+20m7s: called managed which is defined as an
+20m9s: aspect using the CDs language and it&amp;#39;s
+20m11s: got properties right created created by
+20m13s: blah blah blah blah blah and it&amp;#39;s got
+20m14s: types time stamp yep um and then we are
+20m19s: annotating not decorating annotating
+20m21s: these properties with special cap CDs
+20m27s: annotations we&amp;#39;ve also got and i&amp;#39; I also
+20m29s: saw this in the
+20m32s: documentation
+20m34s: um now now I&amp;#39;m sure I saw it somewhere
+20m38s: um I&amp;#39;m sure you can find it somewhere
+20m41s: but what&amp;#39;s important here is this green
+20m43s: bit modified and Modified by our set
+20m45s: whenever the respective row was is
+20m47s: modified that means also during create
+20m48s: operations okay so it&amp;#39;s just fantastic
+20m51s: it&amp;#39;s just like so rich so um let&amp;#39;s let&amp;#39;s
+20m57s: let&amp;#39;s go back here right right so we can
+20m59s: understand now that oh yeah that&amp;#39;s right
+21m1s: that&amp;#39;s what I going to show you metadata
+21m2s: that&amp;#39;s why we get also these annotations
+21m7s: right um we you know these These are
+21m8s: sort of
+21m9s: annotated elsewhere as well but we get
+21m12s: these that&amp;#39;s what these annot that&amp;#39;s
+21m13s: what where these annotations are coming
+21m15s: from this is a computed default value
+21m17s: there for example it&amp;#39;s a hidden filter
+21m19s: it&amp;#39;s immutable it&amp;#39;s computed it&amp;#39;s got
+21m20s: description Etc oh that&amp;#39;s the created by
+21m23s: yeah okay so these all come from you
+21m26s: know down the down the turtle
+21m28s: whole um anyway so we could we could
+21m32s: descend it there however what I want to
+21m34s: show you is let&amp;#39;s go back
+21m37s: here when we look at authors we get the
+21m40s: data that we you know we we put in
+21m43s: before there&amp;#39;s our bookshops authors
+21m45s: right let&amp;#39;s get rid of that for a second
+21m46s: but when we look at we got the books
+21m48s: here and all we&amp;#39;ve got so far
+21m52s: is um ID and Title One Two Three okay
+21m56s: which one we&amp;#39;ll have to change may have
+21m58s: to change shortly for reasons that will
+22m1s: come to
+22m4s: shortly but if we have a look at this
+22m7s: what are we going to get for books let
+22m8s: me know let me know in the chat what you
+22m10s: think in fact don&amp;#39;t let me know yeah you
+22m11s: can let me know of course but I&amp;#39;m going
+22m13s: to click it now anyway so I just need to
+22m14s: give you more time don&amp;#39;t I
+22m16s: books look at that look at that so we
+22m21s: get the properties that we&amp;#39;ve created
+22m24s: explicitly and defined explicitly but we
+22m26s: also get
+22m32s: this ID property which maps of course to
+22m34s: the ID from the CSV file right and we
+22m38s: also get the created at and the modified
+22m40s: at and the created by and then Modified
+22m42s: by of course the moment because I&amp;#39;ve not
+22m46s: specified anything else the data is
+22m47s: being loaded and it&amp;#39;s not not being
+22m49s: loaded in the context of Any Given user
+22m51s: therefore the created buy and the
+22m53s: modified buy remember lot green things
+22m55s: says is has the same value now what we
+22m59s: did last week by the way how&amp;#39;s the um
+23m2s: how&amp;#39;s the thing going there we go yeah
+23m4s: okay I&amp;#39;m still online I&amp;#39;m just I&amp;#39;m just
+23m6s: really I just got this feeling my
+23m8s: internet connection last night was
+23m9s: really bad with the storms so I just got
+23m11s: the feeling that um you know I&amp;#39;m just
+23m12s: talking to the avoid um so what um what
+23m17s: I was going to say uh oh yeah what we
+23m19s: did at the end of last time yeah what we
+23m22s: did was halfway
+23m25s: through moving from an explicit key ID
+23m28s: to this CU ID let&amp;#39;s just get rid of
+23m30s: let&amp;#39;s get rid of um well actually we&amp;#39;ll
+23m32s: we&amp;#39;ll leave those there
+23m34s: um let&amp;#39;s get rid of that okay and when
+23m38s: we saved that right we
+23m42s: got an error didn&amp;#39;t we let&amp;#39;s just have a
+23m44s: look at that in in Greater detail we&amp;#39;ve
+23m45s: got an error that&amp;#39;s what we got at the
+23m47s: end of last week and I said let&amp;#39;s have a
+23m48s: look into that what is going
+23m51s: on okay can anybody tell me how I have
+23m54s: to think what&amp;#39;s going on while I take a
+23m56s: let take a breath and uh slow down DJ
+23m59s: and have a
+24m2s: coffee let me know in the chat what&amp;#39;s
+24m5s: going
+24m6s: on while we have a look what&amp;#39;s going on
+24m9s: let&amp;#39;s just move that over
+24m11s: there to
+24m15s: see again what we learn from cap is that
+24m20s: it tells us everything we need to know
+24m22s: when things go wrong so SQL light error
+24m25s: so obviously something to do with
+24m26s: loading data and remember we are in the
+24m30s: context CDs watch
+24m33s: d-el we are in the context
+24m36s: of um CDs serve all with mock in memory
+24m42s: so if we say CDs
+24m45s: serve help in memory automatically adds
+24m49s: a transient inmemory database
+24m51s: bootstrapped on each restart in the same
+24m54s: way that CDs deploy would do okay
+24m57s: requires a SQL like driver to be
+24m58s: installed whatever okay fine now uh and
+25m1s: also here we go add add a question mark
+25m3s: to apply a more defensive variant which
+25m5s: respects the configured database if
+25m6s: there is any okay so if you do have a
+25m8s: SQL like database like you know banana.
+25m9s: DB file it&amp;#39;ll use that but if not it
+25m13s: will use an inmemory database so this is
+25m16s: this error is
+25m18s: occurring in relation to SQL
+25m21s: light and basically when we start up
+25m24s: it&amp;#39;ll do a a CDS deploy of whatever
+25m28s: files it finds look here it&amp;#39;s found this
+25m31s: init from data Bookshop books. CSV it
+25m34s: hasn&amp;#39;t even got to the oh I found a data
+25m37s: Bookshop author CSV yet it goes I&amp;#39;m
+25m40s: going to start loading this data bang
+25m42s: because and again this is obvious but
+25m44s: let&amp;#39;s just think about this for a second
+25m46s: because it says table Bookshop
+25m49s: books Bookshop books we&amp;#39;ll have a look
+25m53s: what that is in a minute has no column
+25m55s: named ID in this SQL that I&amp;#39;m trying to
+25m59s: execute insert into Bookshop books ID
+26m2s: title okay and this is this bit here is
+26m4s: going to get the data from the CSV
+26m8s: right so what I want to have a look with
+26m12s: you at
+26m15s: is what what Bookshop underscore
+26m19s: books now we know we can sort of figure
+26m21s: out
+26m22s: why the two components exist you know
+26m25s: Bookshop is this sort of name space or
+26m27s: service context within which we have the
+26m30s: books entity type right Bookshop books
+26m34s: and we&amp;#39;ve we can see that in Bookshop
+26m36s: Das books. CSV or in fact I
+26m40s: think uh we can we can also have I think
+26m42s: we did this last week didn&amp;#39;t we Bookshop
+26m45s: uh move data Bookshop books to data
+26m48s: Bookshop do books. CSV that&amp;#39;s also with
+26m52s: I think within the um bounds of
+26m55s: convention okay so it&amp;#39;s found it look in
+26m57s: it for from Bookshop DOT book so we can
+26m58s: have DOT book instead of you know
+27m0s: dashbox so let&amp;#39;s leave that because
+27m2s: we&amp;#39;re you know feeling random
+27m3s: here um um so let&amp;#39;s have a look where
+27m9s: this table name is can anybody give me
+27m12s: an idea of where that might be you&amp;#39;re
+27m15s: all very quiet on the chat today is it
+27m17s: me am I am I going on the in the wrong
+27m19s: direction am I you know are you still
+27m21s: there are we still connected oh my
+27m23s: goodness me that&amp;#39;s really it&amp;#39;s such a
+27m25s: it&amp;#39;s a such a weird thing to be
+27m28s: talking away into the camera hello um
+27m31s: but there&amp;#39;s no
+27m32s: chat yes I&amp;#39;m going to pause for a second
+27m35s: um and put put in the chat what you
+27m37s: think put in the chat where how we might
+27m40s: find out how we might
+27m43s: see the table name Bookshop
+27m48s: books um and while while you think about
+27m51s: that let me just have a look here um to
+27m54s: see if I could find this dollar now
+27m56s: somewhere else now dollar now now now
+27m58s: now now I&amp;#39;m sure oh there we go was it
+28m1s: um I&amp;#39;m sure there was somewhere else I
+28m3s: found the dollar now but anyway okay oh
+28m7s: look at that there um oh there is there
+28m9s: is is there czy now
+28m13s: okay all right well I&amp;#39;m going to I&amp;#39;m
+28m16s: going to press
+28m17s: on I&amp;#39;m going to press on um with sort of
+28m22s: re not revealing but revealing to
+28m24s: ourselves where we might see this with a
+28m26s: new
+28m28s: cap
+28m29s: command let&amp;#39;s see
+28m31s: CDs okay we can do all these different
+28m34s: things we&amp;#39;ve played around with CDs in
+28m36s: it with ad and with serve and with
+28m40s: watch um
+28m42s: also implicitly indirectly we&amp;#39;re doing
+28m46s: some mocking as well um Dash Dash with
+28m49s: mocks you know we&amp;#39;re actually not
+28m50s: mocking anything because there&amp;#39;s nothing
+28m52s: to mock however you know we come to that
+28m55s: um we&amp;#39;ve looked at CDs EnV
+28m58s: but what about CDs compile compile CDs
+29m2s: model to different outputs now CDs
+29m6s: compile that&amp;#39;s you must specify a model
+29m9s: to compile okay so let&amp;#39;s have a look at
+29m11s: that some help d-el or Dash question
+29m15s: mark check out all of the details here
+29m18s: oh my goodness me CDs compiler is so
+29m20s: important and so rich in um in
+29m23s: capability oh Kiara hi all sorry for
+29m26s: delay don&amp;#39;t worry kiar welcome you are
+29m29s: always welcome anytime everybody&amp;#39;s
+29m30s: always welcome so like I said to Phil
+29m33s: last week you know a late arrival is a
+29m34s: bit you know stylish you know I&amp;#39;m just
+29m36s: just arriving here everybody thank you
+29m38s: very much I see thank you for saying hi
+29m41s: as well kir and welcome so if we say CDs
+29m45s: compile we saw that we said well we need
+29m47s: to give me a you know a model and a
+29m49s: model is basically you know something so
+29m51s: let&amp;#39;s give it services. CDs okay and
+29m55s: what what do we get we get this
+29m58s: weird Json like thing I mean in fact
+30m2s: again I think we mentioned this in a
+30m3s: previous episode I I reckon I don&amp;#39;t know
+30m6s: but I reckon if we pipe that into JQ JQ
+30m9s: will format it nicely JQ will recognize
+30m12s: it and correctly pause it or be able to
+30m14s: pause it as real Jason because it is
+30m16s: real Json if you pipe it into something
+30m18s: but if you&amp;#39;re displaying it and looking
+30m20s: at at it in the terminal as a human it
+30m22s: will give us a
+30m24s: slightly less
+30m26s: noisy Jason is Flavor good morning John
+30m30s: worry in the house uh Daniel weird
+30m33s: beautiful uh did I say weird um I can&amp;#39;t
+30m37s: remember what I said weird about but I
+30m39s: when I say weird I do mean
+30m41s: beautiful so no I I see maybe maybe did
+30m44s: I refer to this as weird this is this is
+30m46s: season okay this is this is beautiful
+30m48s: right and it&amp;#39;s the machine readable it&amp;#39;s
+30m51s: almost like is it fair to say that this
+30m54s: we could think of this as like the ab
+30m56s: abstract syntax tree for our models okay
+31m0s: this is the ass the ab in fact let&amp;#39;s go
+31m2s: here abstract
+31m5s: syntax tree let&amp;#39;s just have a look
+31m7s: abstract syntax tree is a data structure
+31m9s: used in computer science to represent
+31m10s: the structure of a program or Co snip it
+31m12s: abstract syntax tree in the house there
+31m14s: we go let&amp;#39;s put that there in the chat
+31m17s: because ests are amazing um anyway um oh
+31m22s: that was me uh I was the chat there but
+31m24s: it&amp;#39;s from
+31m24s: me however what we want to do
+31m28s: is say CDs
+31m30s: compile CDs compile to Something in fact
+31m35s: let&amp;#39;s just do that help again and see
+31m37s: what we can compile to there we go um
+31m41s: you know what this is my favorite cap
+31m44s: this is so cap this is so quirky I think
+31m48s: you know the short hand for --2 which is
+31m51s: pretty sure is Dash number two I mean
+31m54s: chef&amp;#39;s kiss for the the
+32m0s: the guts to do something as cool and odd
+32m3s: as that I just love it okay um I think
+32m5s: it&amp;#39;s very cap I love it uh so you can
+32m7s: also compile to different Target formats
+32m11s: to Jason to edmx check it out if we do
+32m13s: this CDs compile to edmx services. J
+32m19s: CDs check it out check it out now oh my
+32m23s: goodness so we I I think I said in the
+32m25s: in the description we&amp;#39;re going to start
+32m28s: looking at associations today we might
+32m29s: even get to associations but let me know
+32m32s: if it&amp;#39;s okay to just continue exploring
+32m34s: this and also what I wanted to show you
+32m39s: as well because one of the things I&amp;#39;ve
+32m40s: been doing in the last four episodes is
+32m43s: just in the browser you know going you
+32m46s: know Local Host 404 this that the other
+32m48s: bang bang bang bang bang now in the
+32m51s: browser what I&amp;#39;ve been doing are apart
+32m54s: from when I request the impa let&amp;#39;s do it
+32m56s: now now um when I if I do this uh let&amp;#39;s
+33m0s: go here you know we got this little you
+33m2s: know little oh I&amp;#39;m not reading CDs CDs
+33m5s: watch there um oh can&amp;#39;t see there what
+33m9s: but in the browser basically because
+33m11s: it&amp;#39;s in the browser I&amp;#39;ve just been
+33m13s: looking at the metadata I&amp;#39;ve been
+33m14s: looking at the service document and I&amp;#39;ve
+33m16s: been looking at entity sets so I&amp;#39;ve been
+33m19s: making odata query operations that&amp;#39;s all
+33m21s: I&amp;#39;ve been doing and the HTTP method I&amp;#39;ve
+33m23s: been using for each of these implicit in
+33m25s: you know putting something in a browser
+33m26s: Tab and pressing enter is get what I
+33m29s: want to show you before we move on is
+33m31s: that this is not like a onetick pony
+33m34s: what we are getting here with the
+33m36s: minimum work required is a fully fledged
+33m41s: odata V4 service that supports out of
+33m43s: the box with us doing nothing at all get
+33m47s: put post delete in other words OD dat
+33m50s: query read create update and delete
+33m52s: operations so let&amp;#39;s maybe do a bit of
+33m54s: that shall we do a bit that let me know
+33m55s: in the chat let me know in the the chat
+33m57s: but here we go so what what did I do
+34m0s: there I can&amp;#39;t remember oh yes here we go
+34m1s: so CDs compile to
+34m3s: edmx so already recognize this it&amp;#39;s
+34m7s: giving us the metadata the edmx metadata
+34m11s: for the model lowercase M that&amp;#39;s in
+34m15s: services. Json but also beautifully
+34m18s: right now look at the warnings down
+34m21s: there services. CDs line four column 10
+34m25s: can we uh yeah click on that look at
+34m27s: that there click on that and go straight
+34m29s: to the word books it&amp;#39;s pretty cool um I
+34m33s: guess
+34m35s: because the output from cap is an error
+34m38s: message that has a a format that is file
+34m42s: Name colon line colon
+34m46s: column that will be nicely and sort of
+34m49s: in a in a really collaborative way
+34m52s: interpreted here by vs code to allow me
+34m54s: to jump straight to there so it&amp;#39;s
+34m56s: telling you is in this books entity
+34m59s: definition I the CDs compiler expected
+35m3s: The Entity to have a primary key same
+35m5s: thing for the author&amp;#39;s entity because at
+35m8s: the moment we don&amp;#39;t have any we&amp;#39;ve
+35m9s: removed the aspect decoration cuid and
+35m13s: we&amp;#39;ve also removed the key ID so it
+35m15s: hasn&amp;#39;t got primary
+35m17s: key so this is also part of the clue as
+35m20s: to why we got that error
+35m22s: now if we were let&amp;#39;s do that instead um
+35m26s: actually
+35m28s: no tell you what let me move how do I do
+35m29s: it move that there uh move that there
+35m32s: terminal can move the terminal up there
+35m34s: yes I can then get rid of that oh look
+35m36s: at
+35m38s: that uh there we go
+35m40s: so there
+35m43s: now um I&amp;#39;ll leave my head up there for
+35m45s: now let me know if it gets in the way
+35m48s: CDs
+35m49s: compile
+35m51s: to
+35m55s: squl now let me know in the chat you&amp;#39;re
+35m58s: all very quiet in the chat I&amp;#39;m I&amp;#39;m going
+36m1s: to pick on John Murray because he&amp;#39;s he
+36m3s: joined a little bit late which is
+36m5s: there&amp;#39;s nothing wrong with that but John
+36m6s: Murray good old friend John Murray and
+36m8s: we were talking on LinkedIn after that
+36m10s: episode about the culture series from
+36m13s: enm Banks so John put in the
+36m16s: chat why um why this is Super Why do you
+36m21s: think this is super cool uh compiling to
+36m23s: sequel what is relevant here
+36m27s: now what do we
+36m29s: get we get ddl data definition language
+36m34s: is that what it stand for ddl data
+36m35s: definition language I think it is let&amp;#39;s
+36m37s: a look
+36m38s: ddl data definition language right there
+36m41s: we go oh look at that classic IBM
+36m43s: reference there let&amp;#39;s put that there
+36m45s: data definition language in the chat
+36m48s: perfect
+36m53s: now when we deploy remember which CDs
+36m57s: watch remember when we do a CDS watch
+37m0s: it&amp;#39;s in the sort of deploy
+37m4s: stage that this issue comes
+37m7s: up so it&amp;#39;s trying to
+37m9s: deploy to a database and given that
+37m14s: while
+37m15s: cap um is generally as protocol agnostic
+37m20s: as possible and database or persistence
+37m23s: agnostic as possible supporting you know
+37m24s: SQL light and
+37m27s: postgress and Hanah and all all the
+37m30s: different possibilities
+37m32s: right at the end of the day we&amp;#39;re going
+37m35s: to be using SQL uh SQL light
+37m38s: specifically so it&amp;#39;s going to compile to
+37m40s: SQL so that&amp;#39;s so internally effectively
+37m43s: hi Reuben and welcome effectively it&amp;#39;s
+37m46s: going to compile to SQL and this is what
+37m48s: it gets in the compilation CDs compile
+37m50s: to SQL so that&amp;#39;s what&amp;#39;s happening
+37m52s: eternally and look at the ddl create
+37m54s: table Bookshop uncore books
+37m58s: and there&amp;#39;s only one property in there
+38m2s: title narar 255 that comes straight from
+38m6s: their title string so when we run CDs
+38m9s: watch well in fact that&amp;#39;s just scroll up
+38m11s: there CDs watch insert into bookshops ID
+38m14s: title there&amp;#39;s no ID there because you
+38m17s: know if let&amp;#39;s put that back um key ID
+38m21s: integer for example let&amp;#39;s save that and
+38m23s: then run CDs watch again
+38m29s: now we get further it doesn&amp;#39;t look like
+38m31s: it but we get further because we have
+38m32s: the data Bookshop books but then it says
+38m36s: okay I&amp;#39;ve loaded the book book shop book
+38m37s: but now then it goes to the authors to
+38m39s: go bang same thing so let&amp;#39;s just add
+38m40s: that there as well put that back in save
+38m43s: that reload and we&amp;#39;re all fine it&amp;#39;s it&amp;#39;s
+38m46s: it&amp;#39;s doing the CDs deploy does that make
+38m49s: sense let me know in the chat if that
+38m50s: makes sense
+38m52s: now actually while we&amp;#39;re here while
+38m54s: we&amp;#39;re here let&amp;#39;s just just talk what
+38m57s: time is it
+38m58s: 8:30 why don&amp;#39;t we talk about the fact
+39m0s: that actually we get a full-fledged
+39m3s: fully
+39m4s: fledged OD dat service before we move
+39m8s: on right
+39m14s: um yes there we go so let&amp;#39;s go back and
+39m18s: refresh so we have books and we have
+39m21s: authors it&amp;#39;s all good but those what
+39m24s: I&amp;#39;ve been doing there is a series of OD
+39m27s: dat query operations
+39m30s: okay I can also for example oh John John
+39m33s: thank you John I think it&amp;#39;s awesome that
+39m34s: we can see easily what it&amp;#39;s creating
+39m36s: under the hood apologies if I&amp;#39;ve missed
+39m37s: the mark on your question you have hit
+39m39s: the mark right in the Bull&amp;#39;s Eye on the
+39m40s: question thank you John uh exactly
+39m44s: everything is and it&amp;#39;s a really good
+39m45s: point that you make everything is there
+39m47s: for us to look at what is going on
+39m51s: behind the curtain yeah CD says if we
+39m54s: change the SE I can&amp;#39;t there&amp;#39;s a there&amp;#39;s
+39m57s: a heart in the way I don&amp;#39;t know what the
+39m58s: heart&amp;#39;s doing there if we change the
+39m59s: sequence oh let me read it there uh of
+40m2s: field in data file then will it work
+40m4s: without giving the key
+40m6s: so you know what you know what the
+40m8s: answer is let&amp;#39;s try it so let&amp;#39;s get rid
+40m11s: of that again uh let&amp;#39;s go here so are
+40m13s: you saying for example here move that to
+40m17s: there is that what you&amp;#39;re saying for
+40m21s: example or are you saying something else
+40m23s: at is um so
+40m24s: basically it doesn&amp;#39;t really matter let&amp;#39;s
+40m26s: let&amp;#39;s do a CDS compile to
+40m30s: SQL because of
+40m34s: the in I suppose in the same
+40m38s: way if we compile to
+40m41s: edmx right we get the just because why
+40m47s: not the entity type
+40m50s: definitions there&amp;#39;s books and then
+40m52s: there&amp;#39;s
+40m54s: authors right books we&amp;#39;ve got title
+40m56s: first then the ID and then authors we
+40m58s: got ID then name and and we can see that
+41m0s: reflected here you know and you know why
+41m3s: wouldn&amp;#39;t it be right we have ID and name
+41m7s: and sort of independent sort of
+41m10s: abstracted from that we get a definition
+41m14s: somewhere else and and normally in edmx
+41m17s: it comes um at the top of an entity type
+41m20s: definition the key element and then the
+41m23s: one or more properties that are the Key
+41m26s: Properties you know highlighted here key
+41m29s: are referenced here property ref not
+41m30s: property but property
+41m32s: ref so it doesn&amp;#39;t matter and in the same
+41m35s: way here books for example look at that
+41m38s: we get title then ID title then ID but
+41m42s: it doesn&amp;#39;t matter because again the
+41m45s: specification of which property or
+41m47s: properties of the key is the
+41m50s: key is sort of independent of this list
+41m52s: of properties so there so we get key
+41m55s: property so it doesn&amp;#39;t matter you know
+41m57s: it&amp;#39;s it&amp;#39;s sort of it&amp;#39;s all spread out
+41m59s: over the floor but with enough metadata
+42m3s: to work does that make sense but also if
+42m5s: we have a look at the SQL equivalent of
+42m11s: that it&amp;#39;s the same thing right look at
+42m14s: that create table Bookshop books we got
+42m16s: title first then ID title first then ID
+42m20s: and then independently of those two
+42m24s: properties we get
+42m26s: the ddl statement that says oi the
+42m29s: primary key for this table is the
+42m33s: property called ID and in the same way
+42m36s: we get here for the authors where we get
+42m38s: ID defined first and then name we get ID
+42m40s: first then name and then oi the primary
+42m42s: key is ID does that make sense is that
+42m45s: have I completely missed your Mis
+42m47s: misunderstood your question sish let me
+42m49s: know um oh without giving the key oh
+42m52s: let&amp;#39;s have a look let&amp;#39;s have a look
+42m54s: let&amp;#39;s do the without giving a key as
+42m55s: well um let&amp;#39;s do one without giving the
+42m57s: key let&amp;#39;s see what happens there CS
+43m0s: compile SQL Services of course we get
+43m2s: the same thing but without this primary
+43m3s: key primary key brackets ID there right
+43m6s: and if we do it to edmx let&amp;#39;s have a
+43m7s: look we get entity type books right name
+43m12s: title ID there we go but what we do
+43m15s: get is this warning expected entity to
+43m18s: have a primary key so basically the fact
+43m21s: that we don&amp;#39;t have any properties with
+43m24s: the prefix key with the prefix keyword
+43m27s: key prepended gives us this warning okay
+43m33s: so JY says uh unrelated cap by most used
+43m36s: vs code keyboard shortcut is options up
+43m38s: and down to move the current line up or
+43m40s: down without having to copy paste ah yes
+43m43s: Alo if you&amp;#39;re using the vi shortcuts
+43m46s: extension that might be overriding yes I
+43m47s: am John you know me well I&amp;#39;m using one
+43m49s: of my favorite um the things that thing
+43m52s: the extension that makes vs code usable
+43m56s: for me is um where is it uh no it&amp;#39;s not
+44m0s: in the dev container it&amp;#39;s uh I don&amp;#39;t
+44m3s: know VI Vim Vim Vim Vim emulation yeah
+44m7s: so in fact I can go DD or undo whatever
+44m11s: you know
+44m13s: F capital G GG up to the top down to the
+44m16s: bottom capital G Etc whatever um but
+44m19s: yeah that&amp;#39;s really cool
+44m21s: so sish let me know if that sort of
+44m25s: answers or harsh answers your question
+44m27s: but these are great questions because we
+44m28s: we get to explore and we get to
+44m29s: experiment and see what
+44m32s: happens
+44m34s: now it&amp;#39;s 8:43
+44m37s: um let&amp;#39;s put this let&amp;#39;s let&amp;#39;s let&amp;#39;s
+44m41s: let&amp;#39;s let&amp;#39;s let&amp;#39;s undo that and let&amp;#39;s
+44m43s: undo that and put that there right
+44m45s: perfect um so now yes okay what we want
+44m49s: to do is let&amp;#39;s just compile to SQL now
+44m52s: we understand where that comes from and
+44m54s: if we were to deploy we&amp;#39;re going to do
+44m56s: the deploying into an actual SQL light
+44m58s: database you know in a in a subsequent
+45m1s: episode when I stop
+45m3s: talking that&amp;#39;s the
+45m5s: thing that is used to instantiate to
+45m10s: create the artifacts in the persistence
+45m13s: layer this is the this is the ddl right
+45m17s: mtas so the columns ordering is not
+45m19s: important in DB data while mocking the
+45m21s: data it should load the data if we have
+45m22s: the same column name as we have in our
+45m24s: entity yes see this is brilliant this is
+45m27s: brilliant
+45m28s: ints
+45m29s: um we&amp;#39;re you know we&amp;#39;re doing something
+45m32s: that&amp;#39;s so simple but we&amp;#39;re also
+45m34s: discovering things together perfect yes
+45m36s: so AP in just love good morning AP be by
+45m38s: the way we experienced that changing the
+45m39s: field sequence has no effect on
+45m41s: generated I can&amp;#39;t read that how do you
+45m43s: get rid of this heart thing in the
+45m44s: bottom right hand corner of the chat I
+45m46s: don&amp;#39;t know uh we experienced that
+45m48s: changeing the field sequence has no
+45m50s: effect on generated table on Hanah side
+45m52s: however the chain field sequen is
+45m53s: effected on the generated hand of view
+45m55s: yes now we&amp;#39;re going to get to views
+45m56s: that&amp;#39;s a great Co that&amp;#39;s a great coin
+45m58s: we&amp;#39;re going to get to views later on um
+46m1s: I well in fact here&amp;#39;s a question for you
+46m5s: here&amp;#39;s a question for you to think about
+46m6s: and answer in the chat or answer next
+46m8s: time at the
+46m10s: moment at the moment
+46m13s: deliberately we have this really nice
+46m15s: service beautifully self-contained with
+46m18s: two entities in that service books and
+46m22s: authors and eventually we&amp;#39;ll
+46m23s: also build a relationship between the
+46m26s: books and the authors with an
+46m27s: association
+46m29s: okay however if we wanted to define a
+46m33s: second service
+46m35s: service banana right and then refer to
+46m40s: you know maybe expose to a different
+46m42s: consumer with different authorization
+46m45s: requirements or
+46m47s: whatever but we also wanted to include
+46m50s: one or both of the entities that were in
+46m52s: the Bookshop it gets a little bit sort
+46m53s: of complicated
+46m57s: because we&amp;#39;ve we&amp;#39;ve sort of bound
+47m0s: up the definition of these two entities
+47m3s: within this Bookshop service and so
+47m5s: they&amp;#39;re sort of Trapped in
+47m7s: there so how might
+47m10s: we resolve
+47m14s: that what would be a better this is you
+47m16s: know this is the simplest thing that
+47m18s: could possibly work but let me know in
+47m20s: the chat what you think a better
+47m22s: practice is and the clue is in the
+47m24s: directories that I deliberately deleted
+47m28s: let me know in the chat so um visas said
+47m31s: is ID a magic F name I found that cap be
+47m33s: able to generate a running number for me
+47m35s: even though I didn&amp;#39;t provide it in the
+47m36s: CSV data file now then that okay that
+47m40s: prompt that&amp;#39;s a great
+47m43s: question if we H let&amp;#39;s have a look let&amp;#39;s
+47m46s: have a look let&amp;#39;s let&amp;#39;s let&amp;#39;s learn by
+47m48s: doing and let&amp;#39;s find this out um oh okay
+47m51s: so John has sort of oh by the way I
+47m53s: manually specify key ID in The Entity
+47m55s: instead of using a c aspect yeah you&amp;#39;re
+47m58s: free to do that if you want you know I I
+47m59s: don&amp;#39;t
+48m1s: think you know that&amp;#39;s a bad thing at all
+48m4s: cuid is a great um helper CID is a great
+48m9s: um
+48m10s: facility but there&amp;#39;s no rule that you
+48m13s: have to use it
+48m15s: cuid um which will yeah we&amp;#39;ll discover
+48m18s: cuid
+48m20s: maybe I every time I have so much
+48m23s: planned to show you and go through and I
+48m25s: never get to any of it um uu IDs but
+48m30s: anyway okay yeah so John Murray says we
+48m34s: uh if you use the CID aspect then behind
+48m36s: the scenes it generates a uid for you
+48m38s: yes now let&amp;#39;s let&amp;#39;s let&amp;#39;s do something
+48m42s: let&amp;#39;s do something what let&amp;#39;s get rid of
+48m44s: this extensions thing uh okay perfect
+48m47s: now what we&amp;#39;ll do why do we why do we
+48m50s: take our time let&amp;#39;s get rid of that
+48m51s: service banana save that and start CDs
+48m57s: watch okay and go back to here where
+48m59s: we&amp;#39;ve
+49m0s: got let&amp;#39;s put that back down there again
+49m3s: is that okay is that that&amp;#39;s that&amp;#39;s fine
+49m5s: isn&amp;#39;t it well I won&amp;#39;t try and put that
+49m7s: down there again now let me put my head
+49m9s: down the
+49m11s: bottom we can refresh and we
+49m15s: get
+49m17s: the entity set so that&amp;#39;s OD data query
+49m22s: operation we know it works we can also
+49m24s: specify
+49m27s: or we can also make perform an odata
+49m29s: read operation where we ask for one
+49m32s: particular entity with its key now this
+49m35s: is the new but slightly limited Way new
+49m38s: I said new it&amp;#39;s already to be4 slightly
+49m40s: limited way of specifying a key with a
+49m41s: slash and then the key name it but
+49m43s: that&amp;#39;s only good if you have a single
+49m46s: key and it&amp;#39;s simple right so we can say
+49m48s: but look actually before I do that
+49m50s: before I press enter on this URL look
+49m52s: what we get we get you know within the
+49m54s: cont within this context which is with
+49m56s: this object we get the value of the
+49m58s: response which is an array of objects
+50m2s: and each object is an entity right
+50m5s: that&amp;#39;s an entity set right there&amp;#39;s the
+50m6s: set look there if we say books SL1 for
+50m10s: example what do we get we don&amp;#39;t get a
+50m13s: value with with for which
+50m16s: the value is an array and set we get an
+50m20s: entity so that was a read right um so uh
+50m25s: so oh more conversation brilliant not
+50m26s: specifically the St ID aspect I think
+50m28s: this happens with any key of type
+50m29s: integer with test data it can be called
+50m31s: different than ID exactly exactly but
+50m32s: we&amp;#39;re going to come on to that hopefully
+50m34s: so Kiara says do we have some sort of
+50m37s: restriction if we use ID rather than you
+50m39s: no no restriction um what was there any
+50m42s: particular restriction you were thinking
+50m43s: about Kiara um let me know uh where are
+50m47s: we where are we here we go so there&amp;#39;s
+50m49s: there&amp;#39;s an O re uh read operation why
+50m52s: don&amp;#39;t we try why don&amp;#39;t we try um where
+50m55s: should we try
+50m56s: it uh let&amp;#39;s go back to the entity set
+51m1s: tell you what tell you what I do have I
+51m2s: do have and I hate doing this but
+51m4s: because of time I do have this
+51m6s: thing um which I sort of
+51m10s: Saved um come to the scratch directory
+51m13s: and copy test. HTP into uh c btb main BB
+51m20s: M there now um I&amp;#39;ve got this
+51m24s: thing called test now if you have a look
+51m28s: in cap B2B in
+51m31s: the um Dev container definition which
+51m34s: has also changed slightly thanks to a
+51m36s: contribution from um Christian Lesner um
+51m39s: you know I&amp;#39;m I&amp;#39;m still not quite sure
+51m41s: whether I like just having a Dev
+51m43s: container Jason and using the features
+51m46s: to insult stuff or whether I prefer
+51m49s: having things in a Docker file but we&amp;#39;ll
+51m50s: talk about that maybe an all later thing
+51m53s: in here um we&amp;#39;ve got this rest client
+51m57s: okay so that is an extension that&amp;#39;s been
+51m59s: installed into the dev container and if
+52m3s: you create a file with a HTTP ending it
+52m6s: will give us the ability let me I got to
+52m8s: put that down there
+52m10s: again what do I do tell you what let&amp;#39;s
+52m14s: kill that let&amp;#39;s get rid of that there we
+52m15s: go and let&amp;#39;s go to the um terminal there
+52m18s: oh how do I move the terminal down
+52m21s: there oh there maybe there there we go
+52m24s: there we go
+52m25s: perfect
+52m27s: um it will give us the ability to make
+52m31s: calls so let&amp;#39;s just do
+52m33s: that there we go uh there right so CDs
+52m39s: watch now what this is and by the way if
+52m42s: you&amp;#39;re looking for an example of this I
+52m45s: grabbed from one of our code jams uh cap
+52m48s: service integration service integration
+52m50s: code Jam I&amp;#39;ve got um some arrest client
+52m54s: example in X size 11 this is this is
+52m57s: where I got it from and modified it this
+52m58s: morning um down here that beauty that
+53m1s: asky art oh my goodness me um here so in
+53m6s: exercise 11 let&amp;#39;s put that in the chat
+53m9s: not in the there in the chat DJ what are
+53m11s: you
+53m12s: doing uh there we go fine um we have
+53m17s: this sort of syntax that you can put in
+53m19s: a simple text file and then the rest
+53m23s: client in um vs code will interpret that
+53m27s: for you and recognize things so we can
+53m30s: click on this send request so send
+53m32s: request I didn&amp;#39;t type in the word send
+53m33s: request that is automatically there
+53m36s: because of the rest client so I can say
+53m37s: send request click that and it will make
+53m40s: the request to the service because it&amp;#39;s
+53m42s: to local 404 just like I was in the
+53m43s: browser and it will give us the answer
+53m47s: now if we want to get rid of that if we
+53m49s: wanted to show and prove to ourselves
+53m53s: that cap gives us a fully fledged
+53m57s: odata um uh service supporting all
+54m2s: operations um oh here we go sorry uh I&amp;#39;m
+54m5s: thinking about lean drafts um oh that&amp;#39;s
+54m8s: a good question um I&amp;#39;ve read something a
+54m10s: long time May
+54m13s: misinterpreted I don&amp;#39;t know off the top
+54m15s: of my head I can&amp;#39;t swap out this
+54m17s: information in my brain to think about
+54m18s: that my brain&amp;#39;s too small um I will look
+54m21s: into that and we&amp;#39;ll talk about that in a
+54m23s: future episode we going to hopefully be
+54m25s: looking at lean drafts and draft in
+54m26s: general um but
+54m28s: that&amp;#39;s let me know in the chat I&amp;#39;m
+54m31s: thinking at the rubbish Pace that I&amp;#39;m
+54m34s: going right learning by doing exploring
+54m38s: everything this series might extend well
+54m41s: into the summer let me know if you&amp;#39;re
+54m44s: okay with that you know just one hour on
+54m46s: a Friday every week or many as many
+54m48s: weeks as if possible uh because of
+54m51s: sometimes I&amp;#39;m away doing Co jams or
+54m52s: whatever but let me know if
+54m56s: oh thank you Daniel Daniel says with
+54m57s: Fury apps and draft mode uu ID is easier
+54m59s: than ID if you create a new entity you
+55m1s: will get a popup to provide the key if
+55m2s: it&amp;#39;s not a u ID using uu ID you don&amp;#39;t
+55m4s: need to care about the key so I&amp;#39;m I&amp;#39;m
+55m6s: hoping if I stop talking we&amp;#39;ll get to
+55m8s: see what happens when we specify a post
+55m12s: without an ID in fact here it is here it
+55m14s: is right here we go look post so this is
+55m16s: going to be an OD data
+55m19s: um uh create operation okay with a post
+55m23s: check it out so for OD to create
+55m25s: operation we need to uh use the post
+55m29s: HTTP method the noun the ver the verb is
+55m32s: post the noun is the entity set URL
+55m37s: books okay so in fact if we get the um
+55m41s: slash
+55m43s: books uh go
+55m46s: here books if if we Let&amp;#39;s do an entity
+55m50s: set get there we go there&amp;#39;s one two
+55m51s: three now if we make a post request to
+55m55s: that same entity set URL we have to
+55m58s: specify being good internet citizens uh
+56m1s: web citizens sorry DJ um the content
+56m4s: type of the payload that we are
+56m6s: transferring which is here after the
+56m9s: empty line you can specify payload
+56m11s: there&amp;#39;s the payload now what&amp;#39;s missing
+56m13s: in that payload the ID let&amp;#39;s see what
+56m16s: happens let&amp;#39;s see what happens send
+56m19s: request um what did I do post the
+56m21s: restaurant at the end of the universe uh
+56m23s: 20 2011 created
+56m26s: now if we go back here send
+56m29s: request for how do I click on
+56m32s: that there we go check it out we get a
+56m37s: new entity in the entity set and look
+56m40s: what&amp;#39;s happened it&amp;#39;s given us a new ID I
+56m43s: didn&amp;#39;t specify ID for right the
+56m44s: restaurant the endie there we go so um
+56m48s: so oh yes please yes please please do
+56m50s: yes please yes please yes please I
+56m52s: forgot what the question was was it
+56m53s: shall I just keep going on this will
+56m55s: just go forever not forever but into the
+56m57s: Summer perfect harendra where is these
+56m59s: posts what uh let me thing where is
+57m2s: these post and get methods defined um
+57m6s: when you say where are they defined I
+57m8s: mean I&amp;#39;m defining them in this test 8 so
+57m11s: this is the equivalent let me let me
+57m13s: open up another terminal so let&amp;#39;s make
+57m15s: sure we all understand let me open up a
+57m17s: new split terminal
+57m20s: bash have we got yeah got curl of course
+57m22s: we got curl I&amp;#39;ve installed curl because
+57m25s: curl right there we go um curl app get
+57m28s: there we go
+57m31s: um
+57m33s: curl you can you can explicitly specify
+57m36s: the method with X but effect effectively
+57m40s: if we do verose we can see what method
+57m41s: it uses
+57m43s: verose Local Host
+57m46s: 404 there what
+57m51s: curos uh oh there we go yeah no look
+57m53s: that was correct that is is that is the
+57m55s: test page that is our um DJ you&amp;#39;re an
+57m58s: idiot that is our welcome to sacs server
+58m1s: there we go um this is an autom
+58m3s: generated page you can replace it with a
+58m4s: custom M blah blah blah blah blah blah
+58m5s: blah blah blah and that was there you
+58m8s: can replace it with a order there so so
+58m11s: the and we go um V4 o data data V4 put
+58m16s: head up there again
+58m18s: V4
+58m21s: Bookshop
+58m23s: books it&amp;#39;s making
+58m28s: it&amp;#39;s using the HTP get method because i&amp;#39;
+58m31s: I&amp;#39;ve not specified it to send any data
+58m33s: so c will by default use get but get
+58m36s: combined with a URL that represents an
+58m38s: entity set is a o data query operation
+58m42s: we can see that response there so these
+58m45s: are just standard HTTP methods one of
+58m47s: the beautiful things about o
+58m48s: data um is that it is
+58m53s: restful and that means amongst many
+58m55s: other things that it doesn&amp;#39;t
+58m57s: abuse the underlying application
+59m0s: protocol that is HTTP which is a a
+59m3s: protocol that has you know a limited
+59m5s: number a deliberately limited number of
+59m7s: um verbs get put postly patch
+59m12s: Etc and head and an infinite number of
+59m15s: nouns and OD operations map onto these
+59m19s: verbs and that&amp;#39;s why when we&amp;#39;re actually
+59m20s: wanting to make OD dat operations this
+59m22s: is an htb client a rest client so so it
+59m25s: doesn&amp;#39;t understand you know and it
+59m26s: doesn&amp;#39;t need to understand anything
+59m27s: specific about OD data operations create
+59m29s: read update delete and query it we just
+59m32s: use the the htb methods that these
+59m36s: different o dat operations map onto does
+59m39s: that make sense harendra um I hope I&amp;#39;ve
+59m42s: answered that question but let&amp;#39;s go back
+59m43s: to here check it out we&amp;#39;ve spec we&amp;#39;ve
+59m45s: actually made an OD data create
+59m48s: operation with an htb post specifying a
+59m51s: payload where the payload is Json and we
+59m54s: specified a a propert a value restaurant
+59m57s: of the universe for the title property
+59m59s: but we haven&amp;#39;t specified the key
+60m1s: property we could do if we wanted to but
+60m3s: now there we go let&amp;#39;s have a let&amp;#39;s have
+60m4s: a delete operation um if we go and get
+60m8s: the get the data there and I&amp;#39;m also
+60m10s: using references you can actually pull
+60m11s: out data from the responses the rest CL
+60m14s: is pretty good you know I still love
+60m15s: curl and Cur curl before anything but
+60m18s: the rest client is pretty good so have
+60m19s: look at the rest client uh because you
+60m20s: can say for example here um I want to
+60m24s: get an ID of a book okay ID 1 two three
+60m27s: or four right let me go and refer to the
+60m30s: book&amp;#39;s query which is the name I gave to
+60m33s: this query so the response we got from
+60m35s: this query is accessible via books
+60m38s: query. response in the body and the
+60m42s: value there value first element zero
+60m46s: there the ID so basically I&amp;#39;m asking for
+60m51s: the value of this ID the the zero
+60m54s: element in this array of the body of the
+60m57s: response to this request so basically
+60m59s: book ID is then one in fact why don&amp;#39;t I
+61m1s: say value here two right so this is the
+61m5s: third B obviously starting counting from
+61m7s: zero this is this one the player of
+61m10s: games so why don&amp;#39;t we get that now um
+61m13s: there oh sorry what was what was going
+61m16s: [Music]
+61m17s: on oh I pressed the wrong thing why
+61m19s: don&amp;#39;t we send send a request the player
+61m23s: of games so we&amp;#39;ve we&amp;#39;ve now asked
+61m26s: for we&amp;#39;ve made an OD data read operation
+61m30s: oh it&amp;#39;s
+61m31s: 9:00 what what um and finally finally
+61m35s: finally finally we can also delete it
+61m37s: let&amp;#39;s do that send request delete bang
+61m39s: we get 204 no content beautiful h2b is
+61m42s: beautiful now if we go and get the books
+61m43s: we don&amp;#39;t have the player of games
+61m45s: anymore okay I can&amp;#39;t believe that&amp;#39;s 9:00
+61m48s: already let&amp;#39;s finish here and let&amp;#39;s
+61m50s: continue with uh diving in and learning
+61m53s: and poking and asking questions please
+61m55s: more questions more questions more
+61m56s: questions I&amp;#39;ll see you all soon bye for
+62m19s: now

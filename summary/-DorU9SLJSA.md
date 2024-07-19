@@ -1,21 +1,21 @@
-# Live Coding Session Summary
+# Back to basics with SAP Cloud Application Programming Model (CAP) - part 17
 
-In the seventeenth part of his series on SAP Cloud Application Programming Model (CAP), DJ Adams dives into core concepts and interactive coding challenges, providing viewers an engaging overview of CAP's capabilities and nuances. 
+In this session of "Back to basics with SAP Cloud Application Programming Model (CAP) - part 17," DJ Adams dives into various aspects of SAP CAP, providing viewers with insights on how to implement coding practices and interact with the SAP ecosystem. The stream contains live coding sessions, discussions on OData, and Q&A from the chat, making it a comprehensive learning experience.
 
-- Learn about:
-  - OData and SAP CAP fundamentals
-  - Usage of JavaScript in the context of SAP services
-  - The significance of CQL (CAP Query Language)
-  - Comparing entity references and projections
+**Main Topics Covered:**
+- [1m58s](https://www.youtube.com/watch?v=-DorU9SLJSA&t=1m58s): Introduction to the session
+- [5m0s](https://www.youtube.com/watch?v=-DorU9SLJSA&t=5m0s): Overview of SAP CAP functionalities
+- [24m21s](https://www.youtube.com/watch?v=-DorU9SLJSA&t=24m21s): Exploring SQL and CQL syntax within the context of CAP
+- [52m57s](https://www.youtube.com/watch?v=-DorU9SLJSA&t=52m57s): Discussion about implementing unbound and bound functions
 
-## SAP CAP and Technical Discussions
+## Content
 
-During the session, DJ explores various features of SAP CAP, with a focus on building OData services. He explains the usage of `cds.entities`, parameter passing, and the implications of using specific service names, like "Bookshop." He also engages in practical coding exercises, demonstrating how to retrieve data from a CAP model through the use of CQL. DJ goes over how to sum stock quantities using queries and iterate through the data to create both unbound and bound functions. He acknowledges the flexibility of CAP while also cautioning about potential complexities that can arise due to its vast capabilities.
+During the stream, DJ investigates the key features of SAP CAP, with an emphasis on OData services, coding practices, and the nuances of CQN (CAP Query Language). He conducts live coding to demonstrate constructing queries and working with various data types within the SAP environment. DJ elaborates on the differences between bound and unbound functions and encourages the audience to engage with their queries in the chat, promoting a collaborative learning atmosphere.
 
-## Personal Life Insights
+## DJ's private life
 
-DJ shares with viewers that he is experiencing severe hay fever, humorously noting his efforts to manage it with medication during the stream.
+In addition to technical discussions, DJ shares his struggles with hay fever, humorously noting he has prepared his medications to ensure it doesn't interfere with his live coding session. He also showcases his collection of stickers from SAP events, demonstrating his enthusiasm for community engagement.
 
-## Viewer Interactions
+## Chat
 
-Throughout the session, viewers actively participate by sharing comments, asking questions, and making suggestions, which DJ incorporates into the discussion, enhancing the collaborative atmosphere and encouraging a community of learning.
+The live chat feature adds a dynamic layer to the session, with viewers contributing questions and insights. Many participants express appreciation for the clarity of DJ's explanations, and there are ongoing discussions about specific coding practices and useful resources. DJ engages actively with the chat, making it easy for viewers to follow along and feel part of the conversation. This engagement enhances the learning experience, fostering a sense of community among SAP developers.

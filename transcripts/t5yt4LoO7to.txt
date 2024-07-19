@@ -1,1289 +1,1289 @@
-e
-e e
-[Music]
-[Applause]
-[Music]
-n
-[Music]
-[Music]
-[Music]
-[Applause]
-[Music]
-good morning good afternoon good evening
-welcome to Hands-On sap Dev with me
-again DJ cacro so I&amp;#39;ve got to start out
-with uh oh I&amp;#39;ve just noticed my window
-I&amp;#39;ve got my blinds open um I&amp;#39;ve got to
-start out with an
-apology uh to all those people who
-joined uh and got ready to join the live
-stream yesterday uh it was completely my
-fault I&amp;#39;m just an idiot have no idea
-what I&amp;#39;m doing and I just got the day
-wrong I put the fourth of April instead
-of the 5ifth of April just and in fact
-I&amp;#39;ve got I came to the um I Was
-preparing this morning and I saw the I
-went to the YouTube live stream page and
-I S I thought what&amp;#39;s all this chat and
-um I saw uh a chat from uh lauron uh is
-how you pronounce your name Lauren
-Lauren Lauren uh tell me tell me uh I
-canot remember uh and from ulri and from
-SVO and from aroon and from Tom and
-arif&amp;#39;s learning lab um so yeah so
-complete confusion caused by me it
-wasn&amp;#39;t really daylight saving it was my
-small brain so uh so there we go so good
-morning and thank you for coming back I
-I do like what was it that um uh or said
-uh think it&amp;#39;s a dead oh no it was Lauren
-Lauren said uh I think it&amp;#39;s a daylight
-saving time no worries time for coffee
-anyone else so that&amp;#39;s a lovely attitude
-so thank you uh thank you for being uh
-being good about it to understanding
-about it you probably guessed it was me
-because I&amp;#39;m just an idiot uh so we&amp;#39;re
-here so we have our two weeks off um the
-week before last I was in Germany doing
-some code jams and last week it was uh
-you know the holiday extended Easter
-related weekend so good morning one and
-all Kiara no and ulri good morning and
-helmet good morning and Janine good
-morning to you in the Netherlands and
-Matias good morning to you in mesca and
-Antonio good morning to you Matias uh in
-yes in Germany from meca Germany yes of
-course and Daniel schl in the house and
-Raphael good morning to you in in the
-schitz in Switzerland amazing uh it&amp;#39;s
-great great to to uh see you all again
-I&amp;#39;m going to take my jumper off partly
-because um well it&amp;#39;s not that warm yet
-but
-uh branding branding you know not not
-supposed to have any Brands and I don&amp;#39;t
-know whether this has got any brand on
-but you know take it off anyway there we
-go you&amp;#39;re allowed to have this brand I&amp;#39;m
-allowed to have this brand on anyway
-anyway so yes two weeks off um so yeah
-lots to talk about I hope you&amp;#39;re all
-well um I&amp;#39;ve got some things to share
-let&amp;#39;s dig straight in what I want to do
-today is just sort of recap on we what
-we finished off last week we just just
-started going into the whole um
-associations and we&amp;#39;re going to do a bit
-more associations
-today so I&amp;#39;m just keep doing this
-because I&amp;#39;m conscious that you can just
-like that got half a logo there and you
-can see the steam from my coffee I&amp;#39;ve
-just made um so there we go anyway so um
-as as uh I&amp;#39;m sure many of you know this
-is uh hands onb Dev live stream show is
-about us not me so it&amp;#39;s about you so uh
-more the more chat the better the more
-comments you know just random stuff it
-doesn&amp;#39;t matter you know questions
-opinions it&amp;#39;s all
-good so I&amp;#39;m going to
-start I&amp;#39;m going to start off um by uh
-let&amp;#39;s flip to the main uh scene where
-are we yes but by just talking about a
-couple of things that we we collectively
-discovered um slight weirdnesses there
-was one I don&amp;#39;t know whether uh uh there
-are folks on here I&amp;#39;m sure there are
-folks on here uh do remember this
-Yogananda good morning to you in Munich
-in
-menion welcome one and all um so yeah um
-one of the one of the weird things that
-we saw and we sort of got used to seeing
-um was if you look if you stare at the
-bottom um of the VSS code edited the
-status bar I guess you call it and then
-at certain times we would see I&amp;#39;m just
-say sa that there there we would say
-error during type generation C CDs
-output Channel um and so we we&amp;#39;ve seen
-that quite a few times and I think there
-was somebody on the chat that spotted it
-first of all um oh Raphael says I really
-liked your interview on Neo oh Raphael
-thank you for reminding me I&amp;#39;ll share
-that in fact I&amp;#39;ve jumped straight in and
-and I wanted to share other things as
-well relating to videos and things so
-yes let&amp;#39;s let&amp;#39;s jump there first before
-diving into this
-um so where are we uh here we go oh yes
-um all sorts of stuff first of all uh
-let&amp;#39;s let&amp;#39;s do that now uh sap
-devs uh so we got where Ian Ian th here
-we go Ian th has been maintaining a list
-of uh co- talks uh so Ian th uh has been
-the long standing face of Co talk Co
-talk Co talk Co talk um but uh we sort
-of re muted it and we now um get more
-opportunity you&amp;#39;re going to get more
-opportuni to listen to more people
-interviewed by more hosts from the
-developer Advocates team uh including me
-for example uh and I had the absolute
-honor and privilege of chatting to David
- Dr David I called him Dr
-David because he is a doctor but
-he never calls himself a doctor he&amp;#39;s so
-humble anyway here it is um what a minut
-as sap c talk click stop ah stop um and
-uh let me just share that in the old
-chatar Ronis there we go helmet helmet
-says David is I&amp;#39;m saying David because
-that&amp;#39;s how he says his name uh David is
-amazing he is amazing and Raphael uh yes
-exactly so there if you haven&amp;#39;t seen it
-check out uh the interview because it&amp;#39;s
-all about the way David uses uh neovim
-and all the really cool stuff so for
-example you know um neovim has a
-built-in language server client for the
-language server protocol and um it they
-can uh we can use that and I use this as
-well to connect to the language
-server for the cap from cap so the
-language servers a CDS
-LSP yeah let&amp;#39;s let&amp;#39;s oh yeah here we go
-so
-um uh npm search
-uh sap CDs
-LSP so as you know nodejs the node.js
-flavor of
-cap comes in the form of a collection of
-npm packages modules whatever you want
-to call them libraries and um one of
-those which is not really part of the
-core even the core development kit I
-don&amp;#39;t think I don&amp;#39;t know maybe maybe it
-is maybe it isn&amp;#39;t I don&amp;#39;t know H um is
-the CDs language server protocol package
-the CDs language server implements the
-language server protocol for Sap&amp;#39;s core
-data services it can be used in many
-popularities like Visual Studio code or
-eclipse or any editor that has a
-language server either built in like
-neovim or you know attachable via a
-plug-in like Vim right so uh David&amp;#39;s
-interview we talk about that and how he
-and I for example and helmet for example
-helmet um yeah you also have a repo uh
-where is it is it in your um uh let me
-go to hacky DM let me search for helmet
-helmet helmet helmet
-what what&amp;#39;s going on helmet search
-results helmet tamon here we go um here
-we go is it here is it here did he put
-it here somewhere helmet uh oh yes there
-we go there we go Docker lazy envm
-that&amp;#39;s what we want that&amp;#39;s from helmet
-there so this is all about you folks as
-much as me right let&amp;#39;s get rid of that
-and that and that so anyway yeah this
-talks about and it also talks about uh D
-also talks about the debug adapter
-protocol uh which is another sort of
-language server protocol like thing for
-attaching debuggers to editors it&amp;#39;s just
-amazing so yeah I really enjoy the
-interview and I&amp;#39;m very honored uh to be
-able to chat to him so that was that
-thanks for the reminder Raphael um so
-while we&amp;#39;re here uh sap developer news
-the latest as in it came out last night
-I always I I still think sap developer
-news is like a Friday thing but you know
-we publish it now in the Thursday
-evening um so there&amp;#39;s the sap developer
-news and in the the developer news
-we have lots of different things
-including it&amp;#39;s April so we&amp;#39;ve got the
-developers challenge developers check
-the developer challenge let&amp;#39;s give you
-that link without that marketing stuff
-on the end get rid of that um there&amp;#39;s
-the developer challenge uh being run
-this week this week this month by uh our
-good friend and colleague Daniel Robi uh
-which is awesome it&amp;#39;s all about sap
-build apps and everything that&amp;#39;s really
-cool so that&amp;#39;s that by the way uh the
-news item that I recorded the two news
-items I recorded that one there for
-example uh here I thought you know I
-went for a run a day before yesterday I
-thought oh yeah here&amp;#39;ll be a good place
-to uh record the news so there is uh one
-side of the balance beam of the lock
-gate and then I for the other for the I
-think I was recording something on
-terraform and the the terraform provider
-sbtp and then I thought you know
-different view I turned around went on
-the other side of the lockgate balance
-beam and recorded so that&amp;#39;s basically
-literally the other side and where that
-is I thought I&amp;#39;d show you I&amp;#39;m actually
-more here at the moment in a place
-called burka um and this is the Le and
-Liverpool Canal down here and that goes
-to Wigan and that way goes to Liverpool
-but there&amp;#39;s a junction here with the the
-rufford branch and the canal goes up
-there and that Junction there I was
-standing basically there when I recorded
-it so yeah there we go that&amp;#39;s a little
-bit of background
-information anyway anyway anyway um get
-rid of the sap developer news and that
-one there there is the March release
-piece of cap that just came out that&amp;#39;s
-also covered by Kevin uh Reimer in um in
-the news yesterday so yeah check out the
-March release of cap all releases all
-the time amazing and now so let&amp;#39;s get
-back to where I was where I was if I
-again if I save this we get error during
-type generation CDs output so I talk to
-the wonderful big brain people in the
-cap team and they told me or specific
-person told me yeah this is to do with
-an experimental sort of beta type thing
-to do with types so this is this is up
-your street helmet I think anybody else
-helmet uh let tell us a little bit in
-the chat about uh typescript and cap and
-what you do good morning Henry good
-morning and
-welcome um so what was I talking about
-oh yes so this error
-occurs because of a certain
-setting that&amp;#39;s in the extension the the
-um sap CDs language B extension for vs
-code and it&amp;#39;s still be us so they&amp;#39;re
-still trying to work out the best way of
-sort of approaching this but basically
-in order to stop this happening if you
-want to stop this happening save you
-know we don&amp;#39;t want these Errors By the
-way the output Channel output I never
-knew what an output channel was in vs
-code CDs where is it CDs there we got
-all these errors look installs cap JS
-CDs typer as dependency of a project to
-enable type generator in this project
-that is where the error is coming from
-why is this happening it&amp;#39;s trying to
-generate types because in the in the
-default settings um in the uh
-CDs
-types type generator is enabled okay
-let&amp;#39;s close that minute the tent so if
-you turn that
-off okay and then I&amp;#39;ll I&amp;#39;ll try and
-recreate this error right if I save that
-now we don&amp;#39;t get the error so there we
-go a little bit a background but also a
-bit more of a
-background one of the other things that
-we
-saw um and we&amp;#39;ve s again somebody
-spotted it remember when we had um let&amp;#39;s
-go to here and we had for example um
-place of
-birth uh country and we wanted to use
-the
-country country can I do that there we
-go so that
-now um generates uh where are we what we
-doing what we doing what we doing uh
-that
-generates CDs
-compile to to
-edmx services. CDs that now
-generates um where somewhere in
-countries so we get the countries type
-from sap CDs Comon right we&amp;#39;ve seen that
-before we don&amp;#39;t need to go in again uh
-helmet yes this helps reducing Boer
-plate code for cap projects exactly
-thank you elmet thank you
-elmet but we always got this weird
-imported artifact country is not used in
-this source file and we were shouting
-yes it is there it is right uh good
-morning Joseph and welcome to you good
-morning
-everybody and um so I raised an issue uh
-internally
-and just to just to show you that what
-we do here on this channel is important
-um the uh whole person
-uh um uh what&amp;#39;s his
-name Christian of course Christian he
-said oh yeah oh blah blah blah I&amp;#39;ll fix
-it so basically we&amp;#39;re going to get a fix
-because we on the hands onb Dev live
-stream the live stream posy saw it so
-and I was looking at the fix here and I
-I like what the heck is that I&amp;#39;ve seen
-that before and I remember now has
-anybody seen this right this is
-called was it called the
-the the the nullish coalescing
-assignment or something let&amp;#39;s just look
-it up
-nullish
-coing assignment let&amp;#39;s look at it on
-looking on the classic mdn the Milla
-documentation something or other here we
-go another nullish coalescing assignment
-also known as a logical nullish
-assignment operator only evaluates the
-right hand operand and assigns it to the
-left if the left hand up if the left op
-hand is nullish so this basically here
-oh I&amp;#39;ve got rid of it this basically
-where is it h oh no it&amp;#39;s there we still
-got
-it basically says um let&amp;#39;s do that there
-see uh known as the logic only evaluates
-the right hand up Rand and assigns to
-the left if the left is so basically if
-that&amp;#39;s null there it will evaluate that
-and assign it otherwise it won&amp;#39;t anyway
-thought it&amp;#39;s always nice to dig in and
-if you dig into the uh sap CDs extension
-for vs
-code CS language support you can
-download the vsix file we go where&amp;#39;s the
-where&amp;#39;s the thing where is it where is
-it there we go you can actually
-download this is how I S dug into it
-download the extension and it&amp;#39;s a vsix
-file but basically a vsx file is
-just there&amp;#39;s a vsx file if it&amp;#39;s just a
-zip file unzip minus L sap SE vsx look
-there it is and it&amp;#39;s all in there so
-have a look at that and be good morning
-as well so it&amp;#39;s always it always pays to
-be curious and also call out things what
-you don&amp;#39;t understand so that&amp;#39;s being
-fixed and that fix will work its way
-towards towards us anyway anyway God
-it&amp;#39;s 20 17 minutes past 8 already um
-what I wanted to do is just to sort of
-let&amp;#39;s get rid of that again um let&amp;#39;s go
-here and no no that one Ono undo undo
-there we go that&amp;#39;ll do
-right let&amp;#39;s dig into associations a
-little bit more who remembers who
-remembers way back when two weeks ago
-when we did dis
-Association we&amp;#39;ve got some data in here
-get scod thing we&amp;#39;ve got some data in
-here bookshops authors and Bookshop
-books and we
-added the author
-ID column into the CSV now what I wanted
-to
-just focus a little bit more on today is
-the language in kaay that talks about
-these associations so in
-Capa
-capir so apologies to Kiara and anybody
-else from um Italy um I&amp;#39;ll probably say
-capaya where of course I should really
-be saying capir but anyway so there some
-apologies oh I&amp;#39;ve got something to share
-about that as well um get rid of that
-get rid of that if we have a look in in
-fact we know where it is right we&amp;#39;ve
-seen it before in the cookbook domain
-modeling probably one of the most
-important places you need to sort of be
-sort of focusing on here let&amp;#39;s put that
-in there as well
-in the domain modeling um this is what
-we&amp;#39;re looking at one of the Core
-Concepts
-associations so associations capture and
-Def and you know allow us to Define
-relationships between entities we know
-that and what we added in fact why do we
-do this let&amp;#39;s put that there and then
-put that there make that a couple
-smaller there we go is that is that um
-is that too small maybe one bigger we
-don&amp;#39;t need that bit either okay fine so
-managed 21 associations so we&amp;#39;ve got at
-the moment all we&amp;#39;ve got is this 21
-Association and it&amp;#39;s a managed
-Association I wanted to dig in a little
-bit to what that meant when we when we
-Define this
-Association what happened is that we
-suddenly got in our
-sequel an extra field and in fact we can
-we can play around with this a little
-bit and we can see because this this
-this sort of exploration allows us or
-encourages us to use other cap
-tools to get to know them a little bit
-better right um so is this making sense
-let me know if it&amp;#39;s making sense so we
-can say CDs
-compile uh and I was playing around with
-this um earlier this week uh and I&amp;#39;ll
-show you what I mean by playing around
-with CDs
-compile d-el or Dash question mark let&amp;#39;s
-just make that full screen for a second
-this allows us to
-compile or
-translate models as in CDs stuff like we
-have in
-here right two different um output
-formats Now by
-default it will compile compile to CSN
-or season so CSN and again I&amp;#39;m going to
-apologize in advance
-this this is the way I
-learn and I&amp;#39;m um little smile a from K
-thank you k for understanding this is
-the way I learn and I&amp;#39;m hoping let me
-know in the chat I&amp;#39;m hoping this is the
-way that you like to learn too by
-staring at digging in going
-deep as well as you know along so CDs
-compile we know or you may have heard
-that CS n or season is the sort of the
-internal representation of the models
-that we
-Define now I wonder
-if I wonder if yes okay um let&amp;#39;s put
-that back over on display three for a
-second and what I will do actually is
-bring
-in my terminal because I can do more
-things in the terminal you can do it
-here as well but the terminal might be
-might be nice to use let&amp;#39;s put that on
-that side as
-well um and let me go to let me go to
-um B2B there right
-and yeah okay perfect
-now what I will do is say CDs
-compile to season now
-actually let&amp;#39;s let&amp;#39;s do it one one one
-thing at a time one step at a time it
-will tell us you must specify a model to
-compile okay let&amp;#39;s and what does that
-mean well we&amp;#39;ve got here let&amp;#39;s get rid
-of that again we&amp;#39;ve got here our model
-in a file called services. CDs so let&amp;#39;s
-do do that CDs compile to CSN services.
-CDs and we get a ton of stuff right
-let&amp;#39;s have a quick
-stare at that there&amp;#39;s loads of it there
-loads of it now
-um why is the load know this is super
-short
-here but here we&amp;#39;ve got an absolutely
-ginormous converted internal
-representation of that
-okay why because actually what it&amp;#39;s
-doing is it&amp;#39;s
-compiling all of the stuff in here as
-well because we&amp;#39;re sort of importing
-this right
-so in order let me let me just um go
-across to Here let make that really
-small a bit smaller anyway so we you
-know this is sort of masking us being
-able to sort of get our brains around
-what we really want to look at which is
-you know what&amp;#39;s in the the Bookshop
-service so what we could
-do is we could in because we&amp;#39;re only
-importing sap CDs common so that we can
-have the cui ID but if we have a look in
-sap CDs common we know and we we can
-remember can&amp;#39;t we do CU ID this is an
-aspect so basically we can we can Define
-our own cuid aspect and sort of get rid
-of just for the purposes of keeping
-things keeping the compile version short
-why don&amp;#39;t we do that um tell you what we
-yes um yes okay why don&amp;#39;t we um let&amp;#39;s do
-this as well so we&amp;#39;ll say um list
-services. CDs which is just list it just
-list the file name and we use the
-amazing enter function ENT which will
-watch for those files listed and run a
-script or run something every time that
-changes right so we can say enter minus
-C which means clear screen
-um CDs compile to edmx services. Json uh
-service. CDs so and it will run it for
-the first time the first time you do it
-okay so let&amp;#39;s just there we go let&amp;#39;s
-have that small so we can sort of see it
-see the whole thing you know we don&amp;#39;t
-need to read it but you can see the
-shape of things let me know Helmont
-you&amp;#39;re always good at let me know how
-big and small fonts are let me know if
-that&amp;#39;s still sort of okay just as a as a
-picture of what&amp;#39;s going
-on because what we can what we should be
-able to see here is we have um in our
-books entity and our author&amp;#39;s entity an
-ID element called key which is a key we
-can see it here um I&amp;#39;ll do it here as
-well uh CDs compile to
-edmx services. Json uh we can see here
-um uh property name there we go there
-there we got that one in books and we
-get that one in uh authors okay that&amp;#39;s
-what we want so Kiara says so Garfield
-says um why does it not import CID only
-and not the whole common that&amp;#39;s a good
-question now I I suspect I suspect and
-maybe Daniel uh s might be able to
-answer this might not be able to answer
-this my go feel and and this is I I did
-wonder about this as well Garfield I was
-thinking I wonder if people will ask
-this because I I&amp;#39;m asking this as well
-in my own
-brain I
-suppose in order for the compiler to
-work it needs to bring in everything
-because cuid May rely on other things
-inside that
-file okay so for example if we brought
-in if we bring in
-country for
-example and you see also refresh if we
-bring in country if we have a look at
-what country is it&amp;#39;s a type but the
-definition of that country thing that
-type in this
-case relies upon other stuff in this
-same file Association to sap common
-countries and sap common countries is
-inside this sap common
-context and that itself is defined as an
-entity which is decorated with an
-aspect called Cod list which is also in
-this file okay so my small brain thinks
-that the answer to the question that
-you&amp;#39;re asking Garfield which is a super
-super question is because
-importing just one thing as in importing
-just cuid in many ways make sense to us
-humans but in other ways can&amp;#39;t
-necessarily be sort of resolvable
-because you know how much what does that
-one thing mean you know you&amp;#39;d have to
-sort of dig into all the sort of
-descendant um requirements to to make
-that a thing to to to to sort of the to
-rify
-that
-cuid import does that make sense I I
-think that&amp;#39;s what the answer probably is
-um I can&amp;#39;t think of any other way of
-doing bringing things in from a from a a
-library like sap CDs common without
-bringing in the whole thing because
-you&amp;#39;re going to need lots of other bits
-and pieces in there does that make sense
-Vis good morning uh sorry you you um I&amp;#39;m
-apolog I apologize for confusing you
-about this uh live schedule
-it&amp;#39;s my fault um I just got the day
-wrong when I scheduled it for some
-reason I thought Friday was the 4th of
-April and I didn&amp;#39;t check because I&amp;#39;m an
-idiot so uh it&amp;#39;s it&amp;#39;s not your fault and
-there&amp;#39;s no reason for you to be confused
-apart from the fact that it&amp;#39;s me that
-confused you and everybody else so sorry
-about that so uh Garfield put in the
-chat whether that makes sense uh or
-whether you have a different idea um all
-ideas are welcome of course let&amp;#39;s get
-rid of that again there
-so at the moment let me do that again
-let me bring that there and we&amp;#39;ll do
-that as well list services do enter
-minus c c this compile there we go so we
-get all of that and in
-fact in fact in fact in
-fact Ah that&amp;#39;s a what a beautifully
-succinct way of saying it yes it would
-need the entire type hierarchy see this
-is why this show is all about you folks
-as much as it is about me we&amp;#39;re together
-on this so perfect in here what&amp;#39;s the
-sort of the second level thing
-um definitions definitions so if we say
-here see JQ definitions
-definitions make that bigger again
-definitions uh Keys what have we got
-there we go oh okay that&amp;#39;ll do that&amp;#39;ll
-do okay so we&amp;#39;ll do that right so we&amp;#39;ll
-say here
-um put that in a in put that in
-quotes oh what&amp;#39;s going on quotes and
-then
-say um list services. CDs
-ENT uh minus C and then we&amp;#39;ll have bash
-minus C and pass that whole thing to
-bash there we go so now we&amp;#39;ve got a a
-slightly
-better there we go there we go we can
-sort of
-see um let&amp;#39;s do that again I&amp;#39;m just
-trying to make it work with
-is that okay so we can see everything on
-the same
-screen uh Garfield says oh Daniel Scher
-says to my knowledge using from will
-always bring in the full content even if
-you only use Parts yes and I think
-Daniel thank you for confirming that and
-I think that the reason that we discuss
-that that Garfield also stated here I
-think that&amp;#39;s that&amp;#39;s a very sensible
-reason you know logically I couldn&amp;#39;t see
-that uh working otherwise um get rid of
-that line there there we go so now
-there we go there we go we can see all
-of the
-entities in the season that are
-being emitted in the compilation to CSN
-in
-CSN uh did you spot the little preview
-as icon that appeared on the edit of CDs
-files no where whereabouts Daniel uh oh
-uh previe what you mean inv vs code what
-is going on uh let&amp;#39;s have a look um
-little icon help me out here uh preview
-as preview as what little icon not open
-with
-uh what preview where where do you mean
-Daniel you&amp;#39;re you&amp;#39;re you&amp;#39;re making us uh
-very excited here but what what did you
-spot the little preview as icon that
-appeared on the editor for CDs files
-um there maybe I don&amp;#39;t know I don&amp;#39;t know
-what you mean I don&amp;#39;t know what you mean
-I&amp;#39;m being too
-stupid uh put it in words that small
-words that I would understand and have
-look at it Perfect Right uper Corner oh
-right uper
-corner is that it
-preview oh see I&amp;#39;ve never seen that icon
-before preview as
-oh my godness M you saw it here first
-folks previe us well previe Oda prev
-odata od. CSO n interesting let&amp;#39;s do
-that again oh my goodness see preview as
-edmx
-X V4 there we go do we get the same
-thing yes we oh my goodness so does that
-mean does that mean that if we check if
-we add something I don&amp;#39;t know uh title
-let&amp;#39;s call it fruit
-string
-it it changes there look
-amazing Daniel where dides that come
-from how long has that been there this
-is amazing okay this is amazing right so
-maybe we&amp;#39;ll use that next time
-uh we could use that now couldn&amp;#39;t we uh
-well well I&amp;#39;m all halfway down the track
-now let&amp;#39;s carry on with using this but
-Daniel tell us in the chat is that a new
-thing is that is that did that come in
-the March release I&amp;#39;ve not even looked
-at the March release I not had time to
-look at the March release yet um but
-here we go vs code rocks Garfield says
-vs code rocks it does indeed it does
-indeed but sometimes you know some some
-nerds like me and helmet you know I&amp;#39;m
-sure sure helmet doesn&amp;#39;t mind me
-classting him in the same group as nerd
-group we like build our own tools from
-small tools is amazing but vs code does
-Rock it&amp;#39;s pretty cool
-so so we&amp;#39;re getting all these
-different see one of the beautiful
-things about using tools ourselves is
-that we can then PA the output of CSN
-for example and you know get it down to
-the list of things we want to see March
-release ah okay perfect well let&amp;#39;s have
-a look at it uh Mar 24 March release oh
-my goodness me preview
-there it is folks there it is come on
-come on DJ keep up put that in there
-amazing
-amazing right so anyway where were we uh
-let&amp;#39;s dig into that a little bit more
-next week shall
-we if you want to dig into that next
-week put it in the chat um
-so I want to cut down this thing it&amp;#39;s
-already 8:34 What DJ what are you doing
-so we&amp;#39;re going to say instead
-aspect
-Cy and we&amp;#39;ll Define our own aspect now
-of course we&amp;#39;re going to get this sort
-of error saying duplicate definition of
-top of course yes okay we&amp;#39;re going to
-get rid this in in fact let&amp;#39;s do that
-now let&amp;#39;s get rid of that line there and
-that line there and we&amp;#39;ll have key
-ID um and it&amp;#39;s a uu ID right let&amp;#39;s
-format that as well because format
-format
-document what&amp;#39;s that option shift option
-F so can I do that for some reason it
-doesn&amp;#39;t yeah I tried that it doesn&amp;#39;t
-work I don&amp;#39;t know why format document
-anyway there we go now as soon as I save
-that this should remain the same as in
-you know it should be regenerated but we
-shouldn&amp;#39;t see any
-different and this should should contain
-a lot fewer entities
-goup there we go okay so now we sort of
-cut down so we can start to sort of have
-a better view of
-that that worked as well have a better
-view of compile the CSN there um in fact
-let&amp;#39;s pass it into JQ right um J JQ we
-can have a look at it so we can see here
-we&amp;#39;ve got our definitions we got Cyd we
-got Bookshop which is a service we got
-Bookshop do books which is an entity I
-mean I don&amp;#39;t know about you but
-this this to me was always a bit of not
-a bit of a mystery but it was always
-like always a lot of Json there and it
-looks complicated and oh my goodness me
-but actually in understanding exactly
-how
-associations not work but are defined
-underneath and what the what the result
-of us writing stuff in here
-is actually having a look under the
-covers behind the curtain really really
-helps us learn about the basics right so
-we got all these different things and we
-can see also
-how how I suppose in one way how the cap
-team how the developers
-see this stuff see the the services. CDs
-content see the stuff that we Define we
-as developers defining CDs or
-CDL very interesting uh debate going on
-at the moment in my small brain about
-whether we should this is really CDL
-core definition language which is part
-of the CDs family of languages and this
-is CSN for schema
-notation remind me somebody before the
-before the hour is over to uh share a
-blog post with you which I uh published
-this morning in fact um so we can see
-that there&amp;#39;s a service kind there&amp;#39;s an
-entity and look the the way that the
-entity is sort of expressed it&amp;#39;s
-expressed with its fully qualified name
-the sort of the name this is where sort
-of name spaces and service service
-rappers and context all sort of coales
-into essentially what this what is the
-same thing right so helmet says there
-are two reasons I don&amp;#39;t use vs code it&amp;#39;s
-getting really slow if you install lots
-of plugins at least in large projects
-two you have to use the mouse very often
-yes uh that&amp;#39;s also the reason I mean vs
-code is pretty awesome as far as
-graphical Mouse driven editors go and
-keyboard shortcuts on vs code are pretty
-good as well right uh but for example
-you know keyboard shortcuts here don&amp;#39;t
-work now it&amp;#39;s probably me overriding a
-keyboard shortcut with something else in
-Mac OS don&amp;#39;t know but yeah um but you
-know as far as that sort of things go
-vso is pretty nice um so yes I&amp;#39;m I use
-neovim as well but I&amp;#39;m not using neovim
-on this live stream for this Back to
-Basics because I don&amp;#39;t expect people to
-everybody to use neim I would like to
-but there we
-go um so oh number three you can&amp;#39;t use
-Vim shortcuts the plugins that help here
-do not work very well yes I&amp;#39;ve got the
-Vim plugin um what&amp;#39;s it called uh
-locally installed uh Vim emulation which
-allows me to move around much better
-than I would do oops um you know uh
-otherwise so I do like I do like that
-this it&amp;#39;s okay it&amp;#39;s good enough let&amp;#39;s
-get rid that again but yes I I get what
-you mean so um in here in Bookshop books
-we have elements and we have author and
-we can
-see there Bookshop there&amp;#39;s Bookshop
-books author and it&amp;#39;s we&amp;#39;ve defined it
-as an association to authors what does
-that mean internally okay let&amp;#39;s have a
-look at that what that means
-internally um we can see it means it&amp;#39;s
-an
-association it&amp;#39;s of type I curious that
-this is this is the word kind here and
-this is the word type I don&amp;#39;t know why
-kind we don&amp;#39;t use the the kind property
-key instead of Tye I I&amp;#39;m sure there&amp;#39;s a
-reason for it but anyway Target Bookshop
-authors Keys reference ID so that&amp;#39;s a
-really simple that&amp;#39;s a really simple
-definition that comes about because we
-used a managed
-Association okay so what I did this is
-before I forget to do this now what I
-did is I wrote a blog post on this as
-well let&amp;#39;s put that in there um and I
-wanted to just dig out from all this
-stuff just those
-elements of any entity the elements that
-are of type CDs Association so I can
-more easily it so I&amp;#39;ve got a little and
-I&amp;#39;ve added that to our cap B2B thing so
-in fact if you look here cap B2B I&amp;#39;ve
-just pushed it this morning it&amp;#39;s there
-associations. JQ so I&amp;#39;m going to run
-this little JQ thing here and you can
-too so let&amp;#39;s do that um
-associations it will just spit out it&amp;#39;ll
-spit out all of
-the entities and within the entities it
-will spit out
-any element that&amp;#39;s an associate that&amp;#39;s
-of type CDs Association so now we can
-say here um there we go s that J we can
-say here.
-associations. JQ instead so we can now
-start to watch for things that change
-okay so now let&amp;#39;s do that that that was
-a very long way round but
-hopefully we&amp;#39;re now set up and we&amp;#39;ve
-learned a little bit on the way as well
-hopefully we&amp;#39;re now set up to start to
-dig
-into um where is it
-um the
-contrasting because I think it&amp;#39;s really
-important to understand um what this
-section is really telling us so we got
-this thing here use associations to
-capture relationships
-fine and it talks about a 21 Association
-and a managed two1 Association and the
-succinctness the the the brevity of how
-this is expressed I
-can&amp;#39;t
-State strongly enough how beautiful that
-is but also how it helps us as
-developers keep things as clean as
-possible um what&amp;#39;s that statistic I&amp;#39;m
-sure I&amp;#39;m sure there&amp;#39;s a statistic about
-you know developing and you know you&amp;#39;re
-reading
-code 90% of the time and your writing
-code 10% of the time so to make CDs
-definitions readable maintainable un
-comprehensible the shorter and the more
-succinct the better
-right so it says here in contrast to in
-contrast to that we could also use an
-unmanaged association with all foreign
-keys and on conditions specified
-manually now what does that mean that
-means that actually if we have a look
-for example let&amp;#39;s go across to here um
-and do the same thing but instead of
-compiling to edmx we&amp;#39;ll compile to
-SQL oh Services sorry yeah services. CDs
-there&amp;#39;s our SQ well in fact talking of
-talking of building stuff um bash uh
-minus C let&amp;#39;s but add that and then pipe
-that into bat
-um source is SQL I think is
-that maybe just B maybe I just need bat
-actually ah no hold on um Source
-SQL and plane oh no language SQL
-language SQL and
-plane I mean how you
-know who needs an IDE just got my my
-terminal is my ID anyway so we can see
-that without us specifying a foreign key
-field we get with this managed
-Association this thing here and that&amp;#39;s
-why when we did that um let&amp;#39;s do it oops
-let&amp;#39;s do it here uh clear let&amp;#39;s make
-that smaller again when we did CDs add
-data we&amp;#39;re going to get a directory
-called DB dat CDs add data right there
-it is DB because that&amp;#39;s a convention DB
-data and data is a convention with a DB
-we get the Bookshop books
-with the fields ready for us to put in
-some CSV we&amp;#39;ve seen that before
-right we don&amp;#39;t want
-DB and that&amp;#39;s why we&amp;#39;ve got in the books
-we&amp;#39;ve got our ID title author ID and
-then the IDS of the authors right
-there&amp;#39;s the authors come on come on put
-it down there there there&amp;#39;s the
-authors so we get this for free and we
-did Cover this very briefly last time
-it&amp;#39;s like why is it called author uncore
-ID well if a field is going to be
-generated for us an element as in in CDs
-terms it&amp;#39;s an element if an element is
-going to be generated for
-us implicitly it&amp;#39;s got to be you know
-constructed automatically so it it gets
-constructed from the combination of the
-from and the two the source and the
-target so author is the first part and
-it&amp;#39;s referring to it&amp;#39;s an association to
-authors and what is the element that&amp;#39;s
-the key of authors it&amp;#39;s implicit here
-it&amp;#39;s cuid there look ID uh ID there uh
-sorry it&amp;#39;s it&amp;#39;s it&amp;#39;s given to us by the
-cuid
-aspect and so it&amp;#39;s this one here so it&amp;#39;s
-author uncore ID does that make sense am
-I making
-sense reminds me of uh Talking Heads
-stop making sense the best albums of all
-time
-anyway um
-so so so so if we were to not use a
-managed Association as it sort of
-describes us
-here what we&amp;#39;d have to do
-first let&amp;#39;s do it sort of let&amp;#39;s try and
-do it manually so we can sort of feel
-our way right let&amp;#39;s just separate that
-with a line there we
-go first of all
-we&amp;#39;d need some sort of foreign key field
-uh and why
-author
-foreign
-key right so already we&amp;#39;re sort of
-deviating from you know and and you know
-somebody else in my team might have a
-different way in their brain of thinking
-about the name for this
-element what type um we can see here we
-can use this type of type of see when I
-was be this is this is a really good
-reason to read capire as well because we
-get to learn from the examples I&amp;#39;ve
-never seen type of until last week type
-of who knew type of there type of uh
-type of anyway let&amp;#39;s not type
-definitions Define type Define type uh
-anyway let&amp;#39;s not go the way down there
-type of and we so we can refer to type
-of authors
-ID okay so basically but but even even
-here for me in my small brain I&amp;#39;m
-thinking well yes I know it&amp;#39;s you know
-author&amp;#39;s
-colon and we can do a control space to
-get auto complete through the CDs
-plug-in the CDs extension for cap right
-which knows about the structure because
-it&amp;#39;s PA it and everything so it knows
-that the two elements in this thing here
-that referring to our ID and name but if
-I was right you know if I didn&amp;#39;t have
-auto complete or I wasn&amp;#39;t using or
-whatever you know it&amp;#39;s not obvious to me
-that ID is the thing because ID is sort
-of subsumed in this cuid aspect but
-anyway ID so there&amp;#39;s the first sort of
-little
-Challenge and then we go across here and
-we still got to obviously
-Define this so Association
-to um sorry where are we
-uh
-Association so
-author uh Association to authors on and
-now we&amp;#39;ve got to manually
-construct um on on on on on on uh what&amp;#39;s
-it say here let&amp;#39;s do
-that author ID yes there we go author
-author do
-ID equals to author forign key right now
-does that still work let&amp;#39;s see let&amp;#39;s see
-does that still work save
-that now well we&amp;#39;ve now got a field in
-here in the SQL called author foreign
-key which replaces what we had before
-called author underscore ID which then
-also means that in here if we start if
-we start CDs watch
-now we&amp;#39;re going to get an error I think
-are we we going to get an error yes we
-got an error error on serice SQL light
-in CS deploy table Bookshop books has no
-column named author ID because we&amp;#39;re now
-trying to import something where is it
-there there author ID so we got to
-change this to um author foreign key
-save
-that oh it&amp;#39;s now it&amp;#39;s work so now it&amp;#39;s
-working so we so we got to sort of make
-sure things sort of
-align there we go so and does that still
-work let&amp;#39;s go to here and open up Local
-Host 404 4,000 4 404 I can&amp;#39;t believe I
-got 404 bookshops authors oh yeah ah I
-have
-to does anybody else have a problem
-with
-SharePoint when I go to SharePoint which
-I have to
-do um internally at
-sap the resources that SharePoint send
-back to me which contain HTML are sent
-back in HTTP responses with the content
-application
-Json why and it means that when I have
-my Json viewer which will of
-course understanda be try you know any
-any content coming back that&amp;#39;s got
-content type application Jason it will
-try and prettyprint it and format it
-nicely which is what I want which is why
-I installed the Json viewer but because
-SharePoint sends HTML HTML back and says
-oh it&amp;#39;s application
-Json the Json viewer trips up and form
-that&amp;#39;s the SharePoint page and then it
-all breaks it&amp;#39;s like what is going on
-SharePoint
-anyway anyway so now we&amp;#39;ve got this and
-we can say Bookshop
-[Music]
-books and now we can say does that work
-expand equals author and that works okay
-but it
-works only because we&amp;#39;ve made a lot of
-effort
-here now does that make sense have I
-gone overboard but also also look at
-this
-we now have a different style of
-Association instead of let&amp;#39;s um I&amp;#39;ll
-tell you what let&amp;#39;s do something else
-let&amp;#39;s do say let&amp;#39;s say here um also
-author
-association association to
-authors let&amp;#39;s have that as
-well so
-now we get
-a different
-internally this managed Association here
-generates an internal representation
-that&amp;#39;s different there&amp;#39;s the also author
-Keys ref
-ID and this is our
-author author CDs Association but it&amp;#39;s
-an on and then it&amp;#39;s an it&amp;#39;s a it&amp;#39;s a
-triplet in an array we get ref auor ID
-should equal to ref author foreign key
-okay
-there we go so that for me is a easily a
-good enough reason for when we can when
-it&amp;#39;s a 21 Association using a managed
-to1 Association so let&amp;#39;s get rid
-of that that and let&amp;#39;s get rid of that
-and say
-author like
-that and now of course let&amp;#39;s put that
-back
-again undo save there right finally in
-the last few minutes in the last few
-minutes let&amp;#39;s just
-add
-what cap refers
-to as a to many Association Okay so
-we&amp;#39;ve got
-our two1 association going from books to
-authors and that also means that
-404 we can go from
-books to authors as well in an expand
-for example we can follow this
-navigation proc
-property but what happens if we want to
-go from
-authors back to
-books expand equals books of course we
-can&amp;#39;t do that because we haven&amp;#39;t defined
-a navigation property books so let&amp;#39;s do
-that okay and we can see we need of
-course a to many because um what we said
-right at the start is you know a book
-can be written only by one author in our
-super simple example but of course an
-author can write more than one book and
-that&amp;#39;s why we&amp;#39;ve got Douglas Adams
-writing two books in our
-data
-so here Association to many books but we
-also need another on condition with a
-with a too many we can&amp;#39;t
-have a manag Association because it
-actually says here um
-uh where is it says here uh too many
-associations are unmanaged by Nature as
-we always have to specify an on
-condition in order to find that way back
-from the which
-author back to the books as this author
-that book this author that book this
-author that book okay so we need this on
-condition so let&amp;#39;s do that now books
-Associated many
-books where are we um
-books to many books on
-now I&amp;#39;m sure you&amp;#39;ve seen this sort of
-what&amp;#39;s it called what what does cap I
-call it a
-um where is
-it uh back backlink back link
-Association okay we&amp;#39;re linking
-back right so for the backlink
-association you&amp;#39;ll see something like
-this on
-books. author equals doll
-self and it always it took me ages to
-get into my brain
-what this should be but in my brain I&amp;#39;ve
-now figured out that what we want let me
-do that there let just repeat that so we
-can just sort of repeat that
-on we start from the source as in
-here and what we&amp;#39;re using to
-refer or to what we&amp;#39;re using to name
-this back link Association IE books so
-copy that
-books and then then the dot the other
-why is it all black there why is it all
-black Anyway dot I mean we can see from
-the from the command completion the
-autocomplete here that we get the
-possibilities author ID and title which
-are from the books but
-basically it needs to refer to the
-element in the Target
-entity that is the
-reciprocal Association
-author
-there oops so I don&amp;#39;t know whether do
-that does that confuse anybody else at
-first and do self is a nice little sort
-of um convenience I guess it&amp;#39;s a nice
-little convenience thing that refers to
-me as in the um uh the value of the key
-field which is the ID field does that
-make sense so now with
-that we can now run that and it&amp;#39;ll work
-does that make
-sense well
-before we go let me because it&amp;#39;s already
-8:56 what is going on with
-time to have a quick look if you want a
-quick look
-at this
-little this little um uh what&amp;#39;s it
-called what&amp;#39;s it called
-associations here that blog post I put
-the link in the chat to is all about
-that okay so yeah have a look at JQ have
-a look at this tell me let me know now
-if if looking under the
-surface helps you I think we&amp;#39;re going to
-do a little bit more on associations
-next week but then also we&amp;#39;re going to
-look at the difference between
-associations
-and something else super important in
-associations which
-are compositions as in sorry something
-also super important in relationships
-so we have
-associations and compositions I&amp;#39;m going
-to look at the difference and what that
-means and how they work so let me know
-in the chat if that is okay for us doing
-that next week I think for the next few
-weeks at least I&amp;#39;m going to be around so
-definitely next week um so yeah thanks
-very much for joining I&amp;#39;ll see you uh
-next week we&amp;#39;ll do a bit more on
-associations and move on to compositions
-let me know as well have a play with um
-have a play with the associations JQ
-have a play with this catch up
-everything is in the repo cap B2B so if
-you want to catch up with where we are
-we&amp;#39;ve got this oh also I did I was also
-digging in a bit more to CDs compile and
-I was I wrote this little script to take
-a snapshot of some CDs Source or CDL
-source and compile it to CSN CDL SQL and
-edmx and store those in files so I could
-do
-diffs between them so I was sort of you
-know writing some CDs compiling it to
-all the things right changing that CDs
-compiling all the things again and then
-comparing them so that&amp;#39;s why that does
-okay well thanks for joining and I&amp;#39;ll
-see you next time
-bye e
+0m28s: e
+0m58s: e e
+1m27s: [Music]
+1m33s: [Applause]
+1m38s: [Music]
+2m0s: n
+2m5s: [Music]
+2m19s: [Music]
+2m33s: [Music]
+2m33s: [Applause]
+2m36s: [Music]
+3m10s: good morning good afternoon good evening
+3m12s: welcome to Hands-On sap Dev with me
+3m14s: again DJ cacro so I&amp;#39;ve got to start out
+3m17s: with uh oh I&amp;#39;ve just noticed my window
+3m19s: I&amp;#39;ve got my blinds open um I&amp;#39;ve got to
+3m22s: start out with an
+3m23s: apology uh to all those people who
+3m26s: joined uh and got ready to join the live
+3m28s: stream yesterday uh it was completely my
+3m31s: fault I&amp;#39;m just an idiot have no idea
+3m33s: what I&amp;#39;m doing and I just got the day
+3m34s: wrong I put the fourth of April instead
+3m36s: of the 5ifth of April just and in fact
+3m38s: I&amp;#39;ve got I came to the um I Was
+3m41s: preparing this morning and I saw the I
+3m44s: went to the YouTube live stream page and
+3m48s: I S I thought what&amp;#39;s all this chat and
+3m51s: um I saw uh a chat from uh lauron uh is
+3m55s: how you pronounce your name Lauren
+3m56s: Lauren Lauren uh tell me tell me uh I
+3m59s: canot remember uh and from ulri and from
+4m2s: SVO and from aroon and from Tom and
+4m5s: arif&amp;#39;s learning lab um so yeah so
+4m9s: complete confusion caused by me it
+4m11s: wasn&amp;#39;t really daylight saving it was my
+4m13s: small brain so uh so there we go so good
+4m16s: morning and thank you for coming back I
+4m18s: I do like what was it that um uh or said
+4m23s: uh think it&amp;#39;s a dead oh no it was Lauren
+4m26s: Lauren said uh I think it&amp;#39;s a daylight
+4m28s: saving time no worries time for coffee
+4m31s: anyone else so that&amp;#39;s a lovely attitude
+4m34s: so thank you uh thank you for being uh
+4m36s: being good about it to understanding
+4m37s: about it you probably guessed it was me
+4m39s: because I&amp;#39;m just an idiot uh so we&amp;#39;re
+4m42s: here so we have our two weeks off um the
+4m45s: week before last I was in Germany doing
+4m48s: some code jams and last week it was uh
+4m51s: you know the holiday extended Easter
+4m54s: related weekend so good morning one and
+4m57s: all Kiara no and ulri good morning and
+5m1s: helmet good morning and Janine good
+5m3s: morning to you in the Netherlands and
+5m5s: Matias good morning to you in mesca and
+5m9s: Antonio good morning to you Matias uh in
+5m12s: yes in Germany from meca Germany yes of
+5m14s: course and Daniel schl in the house and
+5m17s: Raphael good morning to you in in the
+5m19s: schitz in Switzerland amazing uh it&amp;#39;s
+5m22s: great great to to uh see you all again
+5m24s: I&amp;#39;m going to take my jumper off partly
+5m26s: because um well it&amp;#39;s not that warm yet
+5m28s: but
+5m31s: uh branding branding you know not not
+5m34s: supposed to have any Brands and I don&amp;#39;t
+5m35s: know whether this has got any brand on
+5m37s: but you know take it off anyway there we
+5m39s: go you&amp;#39;re allowed to have this brand I&amp;#39;m
+5m40s: allowed to have this brand on anyway
+5m42s: anyway so yes two weeks off um so yeah
+5m48s: lots to talk about I hope you&amp;#39;re all
+5m49s: well um I&amp;#39;ve got some things to share
+5m53s: let&amp;#39;s dig straight in what I want to do
+5m55s: today is just sort of recap on we what
+5m58s: we finished off last week we just just
+6m0s: started going into the whole um
+6m3s: associations and we&amp;#39;re going to do a bit
+6m4s: more associations
+6m6s: today so I&amp;#39;m just keep doing this
+6m8s: because I&amp;#39;m conscious that you can just
+6m10s: like that got half a logo there and you
+6m12s: can see the steam from my coffee I&amp;#39;ve
+6m14s: just made um so there we go anyway so um
+6m17s: as as uh I&amp;#39;m sure many of you know this
+6m20s: is uh hands onb Dev live stream show is
+6m23s: about us not me so it&amp;#39;s about you so uh
+6m28s: more the more chat the better the more
+6m30s: comments you know just random stuff it
+6m32s: doesn&amp;#39;t matter you know questions
+6m34s: opinions it&amp;#39;s all
+6m37s: good so I&amp;#39;m going to
+6m40s: start I&amp;#39;m going to start off um by uh
+6m44s: let&amp;#39;s flip to the main uh scene where
+6m47s: are we yes but by just talking about a
+6m49s: couple of things that we we collectively
+6m53s: discovered um slight weirdnesses there
+6m57s: was one I don&amp;#39;t know whether uh uh there
+7m0s: are folks on here I&amp;#39;m sure there are
+7m1s: folks on here uh do remember this
+7m4s: Yogananda good morning to you in Munich
+7m7s: in
+7m8s: menion welcome one and all um so yeah um
+7m12s: one of the one of the weird things that
+7m15s: we saw and we sort of got used to seeing
+7m18s: um was if you look if you stare at the
+7m21s: bottom um of the VSS code edited the
+7m24s: status bar I guess you call it and then
+7m26s: at certain times we would see I&amp;#39;m just
+7m29s: say sa that there there we would say
+7m30s: error during type generation C CDs
+7m33s: output Channel um and so we we&amp;#39;ve seen
+7m36s: that quite a few times and I think there
+7m39s: was somebody on the chat that spotted it
+7m41s: first of all um oh Raphael says I really
+7m44s: liked your interview on Neo oh Raphael
+7m47s: thank you for reminding me I&amp;#39;ll share
+7m49s: that in fact I&amp;#39;ve jumped straight in and
+7m52s: and I wanted to share other things as
+7m54s: well relating to videos and things so
+7m56s: yes let&amp;#39;s let&amp;#39;s jump there first before
+7m58s: diving into this
+8m1s: um so where are we uh here we go oh yes
+8m3s: um all sorts of stuff first of all uh
+8m5s: let&amp;#39;s let&amp;#39;s do that now uh sap
+8m8s: devs uh so we got where Ian Ian th here
+8m13s: we go Ian th has been maintaining a list
+8m15s: of uh co- talks uh so Ian th uh has been
+8m20s: the long standing face of Co talk Co
+8m25s: talk Co talk Co talk um but uh we sort
+8m29s: of re muted it and we now um get more
+8m33s: opportunity you&amp;#39;re going to get more
+8m35s: opportuni to listen to more people
+8m36s: interviewed by more hosts from the
+8m39s: developer Advocates team uh including me
+8m41s: for example uh and I had the absolute
+8m44s: honor and privilege of chatting to David
+8m48s:  Dr David I called him Dr
+8m50s: David because he is a doctor but
+8m52s: he never calls himself a doctor he&amp;#39;s so
+8m53s: humble anyway here it is um what a minut
+8m56s: as sap c talk click stop ah stop um and
+9m0s: uh let me just share that in the old
+9m2s: chatar Ronis there we go helmet helmet
+9m4s: says David is I&amp;#39;m saying David because
+9m6s: that&amp;#39;s how he says his name uh David is
+9m8s: amazing he is amazing and Raphael uh yes
+9m11s: exactly so there if you haven&amp;#39;t seen it
+9m13s: check out uh the interview because it&amp;#39;s
+9m16s: all about the way David uses uh neovim
+9m19s: and all the really cool stuff so for
+9m21s: example you know um neovim has a
+9m24s: built-in language server client for the
+9m27s: language server protocol and um it they
+9m29s: can uh we can use that and I use this as
+9m31s: well to connect to the language
+9m34s: server for the cap from cap so the
+9m37s: language servers a CDS
+9m40s: LSP yeah let&amp;#39;s let&amp;#39;s oh yeah here we go
+9m42s: so
+9m44s: um uh npm search
+9m48s: uh sap CDs
+9m51s: LSP so as you know nodejs the node.js
+9m55s: flavor of
+9m57s: cap comes in the form of a collection of
+10m0s: npm packages modules whatever you want
+10m2s: to call them libraries and um one of
+10m6s: those which is not really part of the
+10m8s: core even the core development kit I
+10m10s: don&amp;#39;t think I don&amp;#39;t know maybe maybe it
+10m11s: is maybe it isn&amp;#39;t I don&amp;#39;t know H um is
+10m16s: the CDs language server protocol package
+10m19s: the CDs language server implements the
+10m21s: language server protocol for Sap&amp;#39;s core
+10m22s: data services it can be used in many
+10m24s: popularities like Visual Studio code or
+10m26s: eclipse or any editor that has a
+10m30s: language server either built in like
+10m33s: neovim or you know attachable via a
+10m36s: plug-in like Vim right so uh David&amp;#39;s
+10m40s: interview we talk about that and how he
+10m42s: and I for example and helmet for example
+10m44s: helmet um yeah you also have a repo uh
+10m49s: where is it is it in your um uh let me
+10m54s: go to hacky DM let me search for helmet
+10m58s: helmet helmet helmet
+11m0s: what what&amp;#39;s going on helmet search
+11m2s: results helmet tamon here we go um here
+11m5s: we go is it here is it here did he put
+11m6s: it here somewhere helmet uh oh yes there
+11m10s: we go there we go Docker lazy envm
+11m14s: that&amp;#39;s what we want that&amp;#39;s from helmet
+11m16s: there so this is all about you folks as
+11m18s: much as me right let&amp;#39;s get rid of that
+11m21s: and that and that so anyway yeah this
+11m22s: talks about and it also talks about uh D
+11m25s: also talks about the debug adapter
+11m28s: protocol uh which is another sort of
+11m30s: language server protocol like thing for
+11m32s: attaching debuggers to editors it&amp;#39;s just
+11m35s: amazing so yeah I really enjoy the
+11m37s: interview and I&amp;#39;m very honored uh to be
+11m39s: able to chat to him so that was that
+11m40s: thanks for the reminder Raphael um so
+11m43s: while we&amp;#39;re here uh sap developer news
+11m45s: the latest as in it came out last night
+11m47s: I always I I still think sap developer
+11m49s: news is like a Friday thing but you know
+11m51s: we publish it now in the Thursday
+11m53s: evening um so there&amp;#39;s the sap developer
+11m56s: news and in the the developer news
+11m59s: we have lots of different things
+12m2s: including it&amp;#39;s April so we&amp;#39;ve got the
+12m5s: developers challenge developers check
+12m6s: the developer challenge let&amp;#39;s give you
+12m8s: that link without that marketing stuff
+12m10s: on the end get rid of that um there&amp;#39;s
+12m13s: the developer challenge uh being run
+12m15s: this week this week this month by uh our
+12m18s: good friend and colleague Daniel Robi uh
+12m21s: which is awesome it&amp;#39;s all about sap
+12m23s: build apps and everything that&amp;#39;s really
+12m24s: cool so that&amp;#39;s that by the way uh the
+12m26s: news item that I recorded the two news
+12m28s: items I recorded that one there for
+12m30s: example uh here I thought you know I
+12m32s: went for a run a day before yesterday I
+12m34s: thought oh yeah here&amp;#39;ll be a good place
+12m35s: to uh record the news so there is uh one
+12m39s: side of the balance beam of the lock
+12m41s: gate and then I for the other for the I
+12m43s: think I was recording something on
+12m44s: terraform and the the terraform provider
+12m46s: sbtp and then I thought you know
+12m49s: different view I turned around went on
+12m50s: the other side of the lockgate balance
+12m52s: beam and recorded so that&amp;#39;s basically
+12m54s: literally the other side and where that
+12m56s: is I thought I&amp;#39;d show you I&amp;#39;m actually
+12m58s: more here at the moment in a place
+13m1s: called burka um and this is the Le and
+13m4s: Liverpool Canal down here and that goes
+13m6s: to Wigan and that way goes to Liverpool
+13m8s: but there&amp;#39;s a junction here with the the
+13m10s: rufford branch and the canal goes up
+13m12s: there and that Junction there I was
+13m14s: standing basically there when I recorded
+13m16s: it so yeah there we go that&amp;#39;s a little
+13m18s: bit of background
+13m20s: information anyway anyway anyway um get
+13m23s: rid of the sap developer news and that
+13m26s: one there there is the March release
+13m29s: piece of cap that just came out that&amp;#39;s
+13m32s: also covered by Kevin uh Reimer in um in
+13m35s: the news yesterday so yeah check out the
+13m38s: March release of cap all releases all
+13m41s: the time amazing and now so let&amp;#39;s get
+13m43s: back to where I was where I was if I
+13m47s: again if I save this we get error during
+13m49s: type generation CDs output so I talk to
+13m51s: the wonderful big brain people in the
+13m53s: cap team and they told me or specific
+13m55s: person told me yeah this is to do with
+13m57s: an experimental sort of beta type thing
+13m59s: to do with types so this is this is up
+14m2s: your street helmet I think anybody else
+14m5s: helmet uh let tell us a little bit in
+14m7s: the chat about uh typescript and cap and
+14m11s: what you do good morning Henry good
+14m13s: morning and
+14m16s: welcome um so what was I talking about
+14m19s: oh yes so this error
+14m21s: occurs because of a certain
+14m24s: setting that&amp;#39;s in the extension the the
+14m29s: um sap CDs language B extension for vs
+14m32s: code and it&amp;#39;s still be us so they&amp;#39;re
+14m34s: still trying to work out the best way of
+14m36s: sort of approaching this but basically
+14m39s: in order to stop this happening if you
+14m41s: want to stop this happening save you
+14m43s: know we don&amp;#39;t want these Errors By the
+14m45s: way the output Channel output I never
+14m47s: knew what an output channel was in vs
+14m49s: code CDs where is it CDs there we got
+14m51s: all these errors look installs cap JS
+14m54s: CDs typer as dependency of a project to
+14m56s: enable type generator in this project
+14m58s: that is where the error is coming from
+15m0s: why is this happening it&amp;#39;s trying to
+15m3s: generate types because in the in the
+15m6s: default settings um in the uh
+15m11s: CDs
+15m12s: types type generator is enabled okay
+15m16s: let&amp;#39;s close that minute the tent so if
+15m18s: you turn that
+15m19s: off okay and then I&amp;#39;ll I&amp;#39;ll try and
+15m22s: recreate this error right if I save that
+15m26s: now we don&amp;#39;t get the error so there we
+15m28s: go a little bit a background but also a
+15m30s: bit more of a
+15m33s: background one of the other things that
+15m35s: we
+15m37s: saw um and we&amp;#39;ve s again somebody
+15m40s: spotted it remember when we had um let&amp;#39;s
+15m43s: go to here and we had for example um
+15m46s: place of
+15m48s: birth uh country and we wanted to use
+15m51s: the
+15m55s: country country can I do that there we
+15m58s: go so that
+16m0s: now um generates uh where are we what we
+16m4s: doing what we doing what we doing uh
+16m6s: that
+16m7s: generates CDs
+16m9s: compile to to
+16m12s: edmx services. CDs that now
+16m17s: generates um where somewhere in
+16m20s: countries so we get the countries type
+16m23s: from sap CDs Comon right we&amp;#39;ve seen that
+16m25s: before we don&amp;#39;t need to go in again uh
+16m27s: helmet yes this helps reducing Boer
+16m29s: plate code for cap projects exactly
+16m31s: thank you elmet thank you
+16m33s: elmet but we always got this weird
+16m35s: imported artifact country is not used in
+16m37s: this source file and we were shouting
+16m39s: yes it is there it is right uh good
+16m42s: morning Joseph and welcome to you good
+16m44s: morning
+16m46s: everybody and um so I raised an issue uh
+16m50s: internally
+16m52s: and just to just to show you that what
+16m54s: we do here on this channel is important
+16m57s: um the uh whole person
+17m1s: uh um uh what&amp;#39;s his
+17m4s: name Christian of course Christian he
+17m6s: said oh yeah oh blah blah blah I&amp;#39;ll fix
+17m8s: it so basically we&amp;#39;re going to get a fix
+17m11s: because we on the hands onb Dev live
+17m13s: stream the live stream posy saw it so
+17m16s: and I was looking at the fix here and I
+17m18s: I like what the heck is that I&amp;#39;ve seen
+17m20s: that before and I remember now has
+17m23s: anybody seen this right this is
+17m26s: called was it called the
+17m29s: the the the nullish coalescing
+17m31s: assignment or something let&amp;#39;s just look
+17m33s: it up
+17m35s: nullish
+17m37s: coing assignment let&amp;#39;s look at it on
+17m40s: looking on the classic mdn the Milla
+17m42s: documentation something or other here we
+17m44s: go another nullish coalescing assignment
+17m47s: also known as a logical nullish
+17m49s: assignment operator only evaluates the
+17m51s: right hand operand and assigns it to the
+17m53s: left if the left hand up if the left op
+17m55s: hand is nullish so this basically here
+17m57s: oh I&amp;#39;ve got rid of it this basically
+17m59s: where is it h oh no it&amp;#39;s there we still
+18m2s: got
+18m3s: it basically says um let&amp;#39;s do that there
+18m7s: see uh known as the logic only evaluates
+18m10s: the right hand up Rand and assigns to
+18m11s: the left if the left is so basically if
+18m13s: that&amp;#39;s null there it will evaluate that
+18m17s: and assign it otherwise it won&amp;#39;t anyway
+18m19s: thought it&amp;#39;s always nice to dig in and
+18m21s: if you dig into the uh sap CDs extension
+18m26s: for vs
+18m27s: code CS language support you can
+18m30s: download the vsix file we go where&amp;#39;s the
+18m32s: where&amp;#39;s the thing where is it where is
+18m34s: it there we go you can actually
+18m37s: download this is how I S dug into it
+18m39s: download the extension and it&amp;#39;s a vsix
+18m41s: file but basically a vsx file is
+18m45s: just there&amp;#39;s a vsx file if it&amp;#39;s just a
+18m47s: zip file unzip minus L sap SE vsx look
+18m52s: there it is and it&amp;#39;s all in there so
+18m54s: have a look at that and be good morning
+18m55s: as well so it&amp;#39;s always it always pays to
+18m57s: be curious and also call out things what
+18m59s: you don&amp;#39;t understand so that&amp;#39;s being
+19m1s: fixed and that fix will work its way
+19m2s: towards towards us anyway anyway God
+19m4s: it&amp;#39;s 20 17 minutes past 8 already um
+19m9s: what I wanted to do is just to sort of
+19m12s: let&amp;#39;s get rid of that again um let&amp;#39;s go
+19m14s: here and no no that one Ono undo undo
+19m18s: there we go that&amp;#39;ll do
+19m21s: right let&amp;#39;s dig into associations a
+19m24s: little bit more who remembers who
+19m26s: remembers way back when two weeks ago
+19m28s: when we did dis
+19m30s: Association we&amp;#39;ve got some data in here
+19m33s: get scod thing we&amp;#39;ve got some data in
+19m35s: here bookshops authors and Bookshop
+19m38s: books and we
+19m40s: added the author
+19m43s: ID column into the CSV now what I wanted
+19m47s: to
+19m49s: just focus a little bit more on today is
+19m54s: the language in kaay that talks about
+19m57s: these associations so in
+19m59s: Capa
+20m1s: capir so apologies to Kiara and anybody
+20m4s: else from um Italy um I&amp;#39;ll probably say
+20m7s: capaya where of course I should really
+20m9s: be saying capir but anyway so there some
+20m12s: apologies oh I&amp;#39;ve got something to share
+20m13s: about that as well um get rid of that
+20m15s: get rid of that if we have a look in in
+20m18s: fact we know where it is right we&amp;#39;ve
+20m19s: seen it before in the cookbook domain
+20m22s: modeling probably one of the most
+20m24s: important places you need to sort of be
+20m26s: sort of focusing on here let&amp;#39;s put that
+20m27s: in there as well
+20m29s: in the domain modeling um this is what
+20m32s: we&amp;#39;re looking at one of the Core
+20m33s: Concepts
+20m34s: associations so associations capture and
+20m37s: Def and you know allow us to Define
+20m39s: relationships between entities we know
+20m41s: that and what we added in fact why do we
+20m44s: do this let&amp;#39;s put that there and then
+20m46s: put that there make that a couple
+20m49s: smaller there we go is that is that um
+20m52s: is that too small maybe one bigger we
+20m54s: don&amp;#39;t need that bit either okay fine so
+21m0s: managed 21 associations so we&amp;#39;ve got at
+21m2s: the moment all we&amp;#39;ve got is this 21
+21m5s: Association and it&amp;#39;s a managed
+21m7s: Association I wanted to dig in a little
+21m9s: bit to what that meant when we when we
+21m13s: Define this
+21m15s: Association what happened is that we
+21m17s: suddenly got in our
+21m22s: sequel an extra field and in fact we can
+21m26s: we can play around with this a little
+21m27s: bit and we can see because this this
+21m29s: this sort of exploration allows us or
+21m31s: encourages us to use other cap
+21m35s: tools to get to know them a little bit
+21m37s: better right um so is this making sense
+21m39s: let me know if it&amp;#39;s making sense so we
+21m40s: can say CDs
+21m42s: compile uh and I was playing around with
+21m44s: this um earlier this week uh and I&amp;#39;ll
+21m48s: show you what I mean by playing around
+21m50s: with CDs
+21m52s: compile d-el or Dash question mark let&amp;#39;s
+21m55s: just make that full screen for a second
+21m57s: this allows us to
+21m59s: compile or
+22m2s: translate models as in CDs stuff like we
+22m8s: have in
+22m10s: here right two different um output
+22m16s: formats Now by
+22m19s: default it will compile compile to CSN
+22m23s: or season so CSN and again I&amp;#39;m going to
+22m28s: apologize in advance
+22m30s: this this is the way I
+22m33s: learn and I&amp;#39;m um little smile a from K
+22m37s: thank you k for understanding this is
+22m39s: the way I learn and I&amp;#39;m hoping let me
+22m42s: know in the chat I&amp;#39;m hoping this is the
+22m43s: way that you like to learn too by
+22m46s: staring at digging in going
+22m49s: deep as well as you know along so CDs
+22m55s: compile we know or you may have heard
+22m57s: that CS n or season is the sort of the
+23m0s: internal representation of the models
+23m4s: that we
+23m6s: Define now I wonder
+23m10s: if I wonder if yes okay um let&amp;#39;s put
+23m13s: that back over on display three for a
+23m17s: second and what I will do actually is
+23m20s: bring
+23m21s: in my terminal because I can do more
+23m24s: things in the terminal you can do it
+23m26s: here as well but the terminal might be
+23m27s: might be nice to use let&amp;#39;s put that on
+23m29s: that side as
+23m31s: well um and let me go to let me go to
+23m39s: um B2B there right
+23m42s: and yeah okay perfect
+23m47s: now what I will do is say CDs
+23m52s: compile to season now
+23m56s: actually let&amp;#39;s let&amp;#39;s do it one one one
+23m58s: thing at a time one step at a time it
+24m0s: will tell us you must specify a model to
+24m4s: compile okay let&amp;#39;s and what does that
+24m6s: mean well we&amp;#39;ve got here let&amp;#39;s get rid
+24m8s: of that again we&amp;#39;ve got here our model
+24m11s: in a file called services. CDs so let&amp;#39;s
+24m14s: do do that CDs compile to CSN services.
+24m19s: CDs and we get a ton of stuff right
+24m22s: let&amp;#39;s have a quick
+24m24s: stare at that there&amp;#39;s loads of it there
+24m28s: loads of it now
+24m31s: um why is the load know this is super
+24m34s: short
+24m35s: here but here we&amp;#39;ve got an absolutely
+24m41s: ginormous converted internal
+24m44s: representation of that
+24m48s: okay why because actually what it&amp;#39;s
+24m51s: doing is it&amp;#39;s
+24m53s: compiling all of the stuff in here as
+24m55s: well because we&amp;#39;re sort of importing
+24m57s: this right
+25m0s: so in order let me let me just um go
+25m2s: across to Here let make that really
+25m4s: small a bit smaller anyway so we you
+25m7s: know this is sort of masking us being
+25m9s: able to sort of get our brains around
+25m12s: what we really want to look at which is
+25m14s: you know what&amp;#39;s in the the Bookshop
+25m18s: service so what we could
+25m20s: do is we could in because we&amp;#39;re only
+25m24s: importing sap CDs common so that we can
+25m27s: have the cui ID but if we have a look in
+25m29s: sap CDs common we know and we we can
+25m32s: remember can&amp;#39;t we do CU ID this is an
+25m35s: aspect so basically we can we can Define
+25m38s: our own cuid aspect and sort of get rid
+25m41s: of just for the purposes of keeping
+25m43s: things keeping the compile version short
+25m46s: why don&amp;#39;t we do that um tell you what we
+25m49s: yes um yes okay why don&amp;#39;t we um let&amp;#39;s do
+25m55s: this as well so we&amp;#39;ll say um list
+25m59s: services. CDs which is just list it just
+26m2s: list the file name and we use the
+26m4s: amazing enter function ENT which will
+26m9s: watch for those files listed and run a
+26m11s: script or run something every time that
+26m13s: changes right so we can say enter minus
+26m15s: C which means clear screen
+26m18s: um CDs compile to edmx services. Json uh
+26m25s: service. CDs so and it will run it for
+26m28s: the first time the first time you do it
+26m29s: okay so let&amp;#39;s just there we go let&amp;#39;s
+26m32s: have that small so we can sort of see it
+26m33s: see the whole thing you know we don&amp;#39;t
+26m35s: need to read it but you can see the
+26m37s: shape of things let me know Helmont
+26m39s: you&amp;#39;re always good at let me know how
+26m40s: big and small fonts are let me know if
+26m43s: that&amp;#39;s still sort of okay just as a as a
+26m45s: picture of what&amp;#39;s going
+26m47s: on because what we can what we should be
+26m49s: able to see here is we have um in our
+26m54s: books entity and our author&amp;#39;s entity an
+26m58s: ID element called key which is a key we
+27m1s: can see it here um I&amp;#39;ll do it here as
+27m4s: well uh CDs compile to
+27m7s: edmx services. Json uh we can see here
+27m13s: um uh property name there we go there
+27m16s: there we got that one in books and we
+27m19s: get that one in uh authors okay that&amp;#39;s
+27m22s: what we want so Kiara says so Garfield
+27m24s: says um why does it not import CID only
+27m28s: and not the whole common that&amp;#39;s a good
+27m31s: question now I I suspect I suspect and
+27m35s: maybe Daniel uh s might be able to
+27m37s: answer this might not be able to answer
+27m39s: this my go feel and and this is I I did
+27m41s: wonder about this as well Garfield I was
+27m43s: thinking I wonder if people will ask
+27m44s: this because I I&amp;#39;m asking this as well
+27m46s: in my own
+27m48s: brain I
+27m50s: suppose in order for the compiler to
+27m53s: work it needs to bring in everything
+27m56s: because cuid May rely on other things
+27m59s: inside that
+28m0s: file okay so for example if we brought
+28m3s: in if we bring in
+28m5s: country for
+28m9s: example and you see also refresh if we
+28m11s: bring in country if we have a look at
+28m14s: what country is it&amp;#39;s a type but the
+28m18s: definition of that country thing that
+28m21s: type in this
+28m23s: case relies upon other stuff in this
+28m27s: same file Association to sap common
+28m29s: countries and sap common countries is
+28m31s: inside this sap common
+28m34s: context and that itself is defined as an
+28m38s: entity which is decorated with an
+28m42s: aspect called Cod list which is also in
+28m45s: this file okay so my small brain thinks
+28m50s: that the answer to the question that
+28m52s: you&amp;#39;re asking Garfield which is a super
+28m54s: super question is because
+29m0s: importing just one thing as in importing
+29m4s: just cuid in many ways make sense to us
+29m8s: humans but in other ways can&amp;#39;t
+29m11s: necessarily be sort of resolvable
+29m14s: because you know how much what does that
+29m17s: one thing mean you know you&amp;#39;d have to
+29m19s: sort of dig into all the sort of
+29m22s: descendant um requirements to to make
+29m25s: that a thing to to to to sort of the to
+29m27s: rify
+29m28s: that
+29m29s: cuid import does that make sense I I
+29m32s: think that&amp;#39;s what the answer probably is
+29m36s: um I can&amp;#39;t think of any other way of
+29m40s: doing bringing things in from a from a a
+29m43s: library like sap CDs common without
+29m45s: bringing in the whole thing because
+29m46s: you&amp;#39;re going to need lots of other bits
+29m47s: and pieces in there does that make sense
+29m48s: Vis good morning uh sorry you you um I&amp;#39;m
+29m53s: apolog I apologize for confusing you
+29m56s: about this uh live schedule
+29m58s: it&amp;#39;s my fault um I just got the day
+30m0s: wrong when I scheduled it for some
+30m3s: reason I thought Friday was the 4th of
+30m4s: April and I didn&amp;#39;t check because I&amp;#39;m an
+30m6s: idiot so uh it&amp;#39;s it&amp;#39;s not your fault and
+30m9s: there&amp;#39;s no reason for you to be confused
+30m10s: apart from the fact that it&amp;#39;s me that
+30m12s: confused you and everybody else so sorry
+30m14s: about that so uh Garfield put in the
+30m16s: chat whether that makes sense uh or
+30m18s: whether you have a different idea um all
+30m20s: ideas are welcome of course let&amp;#39;s get
+30m22s: rid of that again there
+30m24s: so at the moment let me do that again
+30m27s: let me bring that there and we&amp;#39;ll do
+30m29s: that as well list services do enter
+30m33s: minus c c this compile there we go so we
+30m35s: get all of that and in
+30m38s: fact in fact in fact in
+30m43s: fact Ah that&amp;#39;s a what a beautifully
+30m46s: succinct way of saying it yes it would
+30m47s: need the entire type hierarchy see this
+30m50s: is why this show is all about you folks
+30m53s: as much as it is about me we&amp;#39;re together
+30m56s: on this so perfect in here what&amp;#39;s the
+30m58s: sort of the second level thing
+31m1s: um definitions definitions so if we say
+31m5s: here see JQ definitions
+31m11s: definitions make that bigger again
+31m15s: definitions uh Keys what have we got
+31m19s: there we go oh okay that&amp;#39;ll do that&amp;#39;ll
+31m21s: do okay so we&amp;#39;ll do that right so we&amp;#39;ll
+31m23s: say here
+31m26s: um put that in a in put that in
+31m30s: quotes oh what&amp;#39;s going on quotes and
+31m33s: then
+31m34s: say um list services. CDs
+31m38s: ENT uh minus C and then we&amp;#39;ll have bash
+31m41s: minus C and pass that whole thing to
+31m43s: bash there we go so now we&amp;#39;ve got a a
+31m47s: slightly
+31m48s: better there we go there we go we can
+31m50s: sort of
+31m51s: see um let&amp;#39;s do that again I&amp;#39;m just
+31m53s: trying to make it work with
+31m59s: is that okay so we can see everything on
+32m1s: the same
+32m2s: screen uh Garfield says oh Daniel Scher
+32m4s: says to my knowledge using from will
+32m6s: always bring in the full content even if
+32m8s: you only use Parts yes and I think
+32m10s: Daniel thank you for confirming that and
+32m12s: I think that the reason that we discuss
+32m14s: that that Garfield also stated here I
+32m17s: think that&amp;#39;s that&amp;#39;s a very sensible
+32m19s: reason you know logically I couldn&amp;#39;t see
+32m21s: that uh working otherwise um get rid of
+32m25s: that line there there we go so now
+32m28s: there we go there we go we can see all
+32m30s: of the
+32m31s: entities in the season that are
+32m35s: being emitted in the compilation to CSN
+32m39s: in
+32m40s: CSN uh did you spot the little preview
+32m43s: as icon that appeared on the edit of CDs
+32m45s: files no where whereabouts Daniel uh oh
+32m49s: uh previe what you mean inv vs code what
+32m52s: is going on uh let&amp;#39;s have a look um
+32m55s: little icon help me out here uh preview
+32m58s: as preview as what little icon not open
+33m3s: with
+33m5s: uh what preview where where do you mean
+33m8s: Daniel you&amp;#39;re you&amp;#39;re you&amp;#39;re making us uh
+33m10s: very excited here but what what did you
+33m13s: spot the little preview as icon that
+33m14s: appeared on the editor for CDs files
+33m17s: um there maybe I don&amp;#39;t know I don&amp;#39;t know
+33m20s: what you mean I don&amp;#39;t know what you mean
+33m21s: I&amp;#39;m being too
+33m22s: stupid uh put it in words that small
+33m25s: words that I would understand and have
+33m27s: look at it Perfect Right uper Corner oh
+33m29s: right uper
+33m31s: corner is that it
+33m33s: preview oh see I&amp;#39;ve never seen that icon
+33m36s: before preview as
+33m39s: oh my godness M you saw it here first
+33m43s: folks previe us well previe Oda prev
+33m49s: odata od. CSO n interesting let&amp;#39;s do
+33m55s: that again oh my goodness see preview as
+33m57s: edmx
+33m58s: X V4 there we go do we get the same
+33m59s: thing yes we oh my goodness so does that
+34m3s: mean does that mean that if we check if
+34m5s: we add something I don&amp;#39;t know uh title
+34m7s: let&amp;#39;s call it fruit
+34m10s: string
+34m12s: it it changes there look
+34m18s: amazing Daniel where dides that come
+34m20s: from how long has that been there this
+34m23s: is amazing okay this is amazing right so
+34m26s: maybe we&amp;#39;ll use that next time
+34m28s: uh we could use that now couldn&amp;#39;t we uh
+34m30s: well well I&amp;#39;m all halfway down the track
+34m32s: now let&amp;#39;s carry on with using this but
+34m33s: Daniel tell us in the chat is that a new
+34m36s: thing is that is that did that come in
+34m38s: the March release I&amp;#39;ve not even looked
+34m40s: at the March release I not had time to
+34m41s: look at the March release yet um but
+34m44s: here we go vs code rocks Garfield says
+34m47s: vs code rocks it does indeed it does
+34m49s: indeed but sometimes you know some some
+34m50s: nerds like me and helmet you know I&amp;#39;m
+34m53s: sure sure helmet doesn&amp;#39;t mind me
+34m54s: classting him in the same group as nerd
+34m56s: group we like build our own tools from
+34m58s: small tools is amazing but vs code does
+35m0s: Rock it&amp;#39;s pretty cool
+35m3s: so so we&amp;#39;re getting all these
+35m6s: different see one of the beautiful
+35m8s: things about using tools ourselves is
+35m10s: that we can then PA the output of CSN
+35m12s: for example and you know get it down to
+35m14s: the list of things we want to see March
+35m16s: release ah okay perfect well let&amp;#39;s have
+35m19s: a look at it uh Mar 24 March release oh
+35m23s: my goodness me preview
+35m30s: there it is folks there it is come on
+35m33s: come on DJ keep up put that in there
+35m38s: amazing
+35m41s: amazing right so anyway where were we uh
+35m45s: let&amp;#39;s dig into that a little bit more
+35m46s: next week shall
+35m48s: we if you want to dig into that next
+35m50s: week put it in the chat um
+35m53s: so I want to cut down this thing it&amp;#39;s
+35m56s: already 8:34 What DJ what are you doing
+35m59s: so we&amp;#39;re going to say instead
+36m2s: aspect
+36m4s: Cy and we&amp;#39;ll Define our own aspect now
+36m6s: of course we&amp;#39;re going to get this sort
+36m7s: of error saying duplicate definition of
+36m9s: top of course yes okay we&amp;#39;re going to
+36m10s: get rid this in in fact let&amp;#39;s do that
+36m12s: now let&amp;#39;s get rid of that line there and
+36m14s: that line there and we&amp;#39;ll have key
+36m17s: ID um and it&amp;#39;s a uu ID right let&amp;#39;s
+36m20s: format that as well because format
+36m22s: format
+36m23s: document what&amp;#39;s that option shift option
+36m26s: F so can I do that for some reason it
+36m28s: doesn&amp;#39;t yeah I tried that it doesn&amp;#39;t
+36m29s: work I don&amp;#39;t know why format document
+36m31s: anyway there we go now as soon as I save
+36m35s: that this should remain the same as in
+36m38s: you know it should be regenerated but we
+36m40s: shouldn&amp;#39;t see any
+36m41s: different and this should should contain
+36m44s: a lot fewer entities
+36m48s: goup there we go okay so now we sort of
+36m52s: cut down so we can start to sort of have
+36m54s: a better view of
+36m57s: that that worked as well have a better
+36m59s: view of compile the CSN there um in fact
+37m3s: let&amp;#39;s pass it into JQ right um J JQ we
+37m8s: can have a look at it so we can see here
+37m10s: we&amp;#39;ve got our definitions we got Cyd we
+37m13s: got Bookshop which is a service we got
+37m15s: Bookshop do books which is an entity I
+37m17s: mean I don&amp;#39;t know about you but
+37m21s: this this to me was always a bit of not
+37m25s: a bit of a mystery but it was always
+37m26s: like always a lot of Json there and it
+37m28s: looks complicated and oh my goodness me
+37m31s: but actually in understanding exactly
+37m35s: how
+37m36s: associations not work but are defined
+37m39s: underneath and what the what the result
+37m42s: of us writing stuff in here
+37m48s: is actually having a look under the
+37m51s: covers behind the curtain really really
+37m53s: helps us learn about the basics right so
+37m56s: we got all these different things and we
+37m57s: can see also
+38m0s: how how I suppose in one way how the cap
+38m4s: team how the developers
+38m7s: see this stuff see the the services. CDs
+38m10s: content see the stuff that we Define we
+38m12s: as developers defining CDs or
+38m15s: CDL very interesting uh debate going on
+38m18s: at the moment in my small brain about
+38m20s: whether we should this is really CDL
+38m22s: core definition language which is part
+38m24s: of the CDs family of languages and this
+38m26s: is CSN for schema
+38m28s: notation remind me somebody before the
+38m31s: before the hour is over to uh share a
+38m33s: blog post with you which I uh published
+38m36s: this morning in fact um so we can see
+38m39s: that there&amp;#39;s a service kind there&amp;#39;s an
+38m43s: entity and look the the way that the
+38m45s: entity is sort of expressed it&amp;#39;s
+38m48s: expressed with its fully qualified name
+38m51s: the sort of the name this is where sort
+38m52s: of name spaces and service service
+38m56s: rappers and context all sort of coales
+38m59s: into essentially what this what is the
+39m1s: same thing right so helmet says there
+39m4s: are two reasons I don&amp;#39;t use vs code it&amp;#39;s
+39m5s: getting really slow if you install lots
+39m6s: of plugins at least in large projects
+39m8s: two you have to use the mouse very often
+39m10s: yes uh that&amp;#39;s also the reason I mean vs
+39m13s: code is pretty awesome as far as
+39m15s: graphical Mouse driven editors go and
+39m17s: keyboard shortcuts on vs code are pretty
+39m19s: good as well right uh but for example
+39m21s: you know keyboard shortcuts here don&amp;#39;t
+39m22s: work now it&amp;#39;s probably me overriding a
+39m25s: keyboard shortcut with something else in
+39m26s: Mac OS don&amp;#39;t know but yeah um but you
+39m29s: know as far as that sort of things go
+39m31s: vso is pretty nice um so yes I&amp;#39;m I use
+39m34s: neovim as well but I&amp;#39;m not using neovim
+39m36s: on this live stream for this Back to
+39m37s: Basics because I don&amp;#39;t expect people to
+39m40s: everybody to use neim I would like to
+39m41s: but there we
+39m43s: go um so oh number three you can&amp;#39;t use
+39m46s: Vim shortcuts the plugins that help here
+39m47s: do not work very well yes I&amp;#39;ve got the
+39m49s: Vim plugin um what&amp;#39;s it called uh
+39m53s: locally installed uh Vim emulation which
+39m56s: allows me to move around much better
+39m59s: than I would do oops um you know uh
+40m2s: otherwise so I do like I do like that
+40m4s: this it&amp;#39;s okay it&amp;#39;s good enough let&amp;#39;s
+40m7s: get rid that again but yes I I get what
+40m8s: you mean so um in here in Bookshop books
+40m13s: we have elements and we have author and
+40m15s: we can
+40m16s: see there Bookshop there&amp;#39;s Bookshop
+40m19s: books author and it&amp;#39;s we&amp;#39;ve defined it
+40m22s: as an association to authors what does
+40m24s: that mean internally okay let&amp;#39;s have a
+40m27s: look at that what that means
+40m28s: internally um we can see it means it&amp;#39;s
+40m31s: an
+40m32s: association it&amp;#39;s of type I curious that
+40m35s: this is this is the word kind here and
+40m37s: this is the word type I don&amp;#39;t know why
+40m39s: kind we don&amp;#39;t use the the kind property
+40m42s: key instead of Tye I I&amp;#39;m sure there&amp;#39;s a
+40m46s: reason for it but anyway Target Bookshop
+40m48s: authors Keys reference ID so that&amp;#39;s a
+40m51s: really simple that&amp;#39;s a really simple
+40m54s: definition that comes about because we
+40m56s: used a managed
+40m59s: Association okay so what I did this is
+41m2s: before I forget to do this now what I
+41m5s: did is I wrote a blog post on this as
+41m9s: well let&amp;#39;s put that in there um and I
+41m12s: wanted to just dig out from all this
+41m16s: stuff just those
+41m19s: elements of any entity the elements that
+41m23s: are of type CDs Association so I can
+41m26s: more easily it so I&amp;#39;ve got a little and
+41m28s: I&amp;#39;ve added that to our cap B2B thing so
+41m32s: in fact if you look here cap B2B I&amp;#39;ve
+41m35s: just pushed it this morning it&amp;#39;s there
+41m37s: associations. JQ so I&amp;#39;m going to run
+41m39s: this little JQ thing here and you can
+41m42s: too so let&amp;#39;s do that um
+41m47s: associations it will just spit out it&amp;#39;ll
+41m50s: spit out all of
+41m52s: the entities and within the entities it
+41m56s: will spit out
+41m57s: any element that&amp;#39;s an associate that&amp;#39;s
+42m0s: of type CDs Association so now we can
+42m2s: say here um there we go s that J we can
+42m5s: say here.
+42m8s: associations. JQ instead so we can now
+42m12s: start to watch for things that change
+42m15s: okay so now let&amp;#39;s do that that that was
+42m18s: a very long way round but
+42m21s: hopefully we&amp;#39;re now set up and we&amp;#39;ve
+42m24s: learned a little bit on the way as well
+42m25s: hopefully we&amp;#39;re now set up to start to
+42m28s: dig
+42m32s: into um where is it
+42m35s: um the
+42m39s: contrasting because I think it&amp;#39;s really
+42m40s: important to understand um what this
+42m44s: section is really telling us so we got
+42m47s: this thing here use associations to
+42m48s: capture relationships
+42m52s: fine and it talks about a 21 Association
+42m55s: and a managed two1 Association and the
+42m57s: succinctness the the the brevity of how
+43m1s: this is expressed I
+43m4s: can&amp;#39;t
+43m6s: State strongly enough how beautiful that
+43m9s: is but also how it helps us as
+43m14s: developers keep things as clean as
+43m17s: possible um what&amp;#39;s that statistic I&amp;#39;m
+43m21s: sure I&amp;#39;m sure there&amp;#39;s a statistic about
+43m23s: you know developing and you know you&amp;#39;re
+43m26s: reading
+43m28s: code 90% of the time and your writing
+43m31s: code 10% of the time so to make CDs
+43m34s: definitions readable maintainable un
+43m39s: comprehensible the shorter and the more
+43m41s: succinct the better
+43m45s: right so it says here in contrast to in
+43m48s: contrast to that we could also use an
+43m50s: unmanaged association with all foreign
+43m52s: keys and on conditions specified
+43m54s: manually now what does that mean that
+43m57s: means that actually if we have a look
+43m59s: for example let&amp;#39;s go across to here um
+44m2s: and do the same thing but instead of
+44m5s: compiling to edmx we&amp;#39;ll compile to
+44m8s: SQL oh Services sorry yeah services. CDs
+44m12s: there&amp;#39;s our SQ well in fact talking of
+44m15s: talking of building stuff um bash uh
+44m19s: minus C let&amp;#39;s but add that and then pipe
+44m21s: that into bat
+44m24s: um source is SQL I think is
+44m29s: that maybe just B maybe I just need bat
+44m32s: actually ah no hold on um Source
+44m37s: SQL and plane oh no language SQL
+44m40s: language SQL and
+44m43s: plane I mean how you
+44m46s: know who needs an IDE just got my my
+44m49s: terminal is my ID anyway so we can see
+44m54s: that without us specifying a foreign key
+44m57s: field we get with this managed
+45m1s: Association this thing here and that&amp;#39;s
+45m4s: why when we did that um let&amp;#39;s do it oops
+45m7s: let&amp;#39;s do it here uh clear let&amp;#39;s make
+45m11s: that smaller again when we did CDs add
+45m15s: data we&amp;#39;re going to get a directory
+45m18s: called DB dat CDs add data right there
+45m21s: it is DB because that&amp;#39;s a convention DB
+45m23s: data and data is a convention with a DB
+45m26s: we get the Bookshop books
+45m28s: with the fields ready for us to put in
+45m31s: some CSV we&amp;#39;ve seen that before
+45m35s: right we don&amp;#39;t want
+45m38s: DB and that&amp;#39;s why we&amp;#39;ve got in the books
+45m41s: we&amp;#39;ve got our ID title author ID and
+45m43s: then the IDS of the authors right
+45m46s: there&amp;#39;s the authors come on come on put
+45m49s: it down there there there&amp;#39;s the
+45m52s: authors so we get this for free and we
+45m56s: did Cover this very briefly last time
+45m58s: it&amp;#39;s like why is it called author uncore
+46m2s: ID well if a field is going to be
+46m5s: generated for us an element as in in CDs
+46m7s: terms it&amp;#39;s an element if an element is
+46m8s: going to be generated for
+46m11s: us implicitly it&amp;#39;s got to be you know
+46m15s: constructed automatically so it it gets
+46m18s: constructed from the combination of the
+46m22s: from and the two the source and the
+46m23s: target so author is the first part and
+46m26s: it&amp;#39;s referring to it&amp;#39;s an association to
+46m28s: authors and what is the element that&amp;#39;s
+46m30s: the key of authors it&amp;#39;s implicit here
+46m32s: it&amp;#39;s cuid there look ID uh ID there uh
+46m37s: sorry it&amp;#39;s it&amp;#39;s it&amp;#39;s given to us by the
+46m40s: cuid
+46m42s: aspect and so it&amp;#39;s this one here so it&amp;#39;s
+46m44s: author uncore ID does that make sense am
+46m48s: I making
+46m50s: sense reminds me of uh Talking Heads
+46m53s: stop making sense the best albums of all
+46m55s: time
+46m59s: anyway um
+47m2s: so so so so if we were to not use a
+47m7s: managed Association as it sort of
+47m9s: describes us
+47m12s: here what we&amp;#39;d have to do
+47m15s: first let&amp;#39;s do it sort of let&amp;#39;s try and
+47m17s: do it manually so we can sort of feel
+47m20s: our way right let&amp;#39;s just separate that
+47m22s: with a line there we
+47m23s: go first of all
+47m27s: we&amp;#39;d need some sort of foreign key field
+47m30s: uh and why
+47m32s: author
+47m34s: foreign
+47m36s: key right so already we&amp;#39;re sort of
+47m39s: deviating from you know and and you know
+47m43s: somebody else in my team might have a
+47m45s: different way in their brain of thinking
+47m48s: about the name for this
+47m51s: element what type um we can see here we
+47m56s: can use this type of type of see when I
+47m58s: was be this is this is a really good
+48m1s: reason to read capire as well because we
+48m4s: get to learn from the examples I&amp;#39;ve
+48m6s: never seen type of until last week type
+48m9s: of who knew type of there type of uh
+48m14s: type of anyway let&amp;#39;s not type
+48m15s: definitions Define type Define type uh
+48m18s: anyway let&amp;#39;s not go the way down there
+48m21s: type of and we so we can refer to type
+48m24s: of authors
+48m28s: ID okay so basically but but even even
+48m32s: here for me in my small brain I&amp;#39;m
+48m35s: thinking well yes I know it&amp;#39;s you know
+48m38s: author&amp;#39;s
+48m40s: colon and we can do a control space to
+48m42s: get auto complete through the CDs
+48m46s: plug-in the CDs extension for cap right
+48m49s: which knows about the structure because
+48m50s: it&amp;#39;s PA it and everything so it knows
+48m52s: that the two elements in this thing here
+48m56s: that referring to our ID and name but if
+48m59s: I was right you know if I didn&amp;#39;t have
+49m0s: auto complete or I wasn&amp;#39;t using or
+49m2s: whatever you know it&amp;#39;s not obvious to me
+49m4s: that ID is the thing because ID is sort
+49m6s: of subsumed in this cuid aspect but
+49m9s: anyway ID so there&amp;#39;s the first sort of
+49m12s: little
+49m13s: Challenge and then we go across here and
+49m16s: we still got to obviously
+49m18s: Define this so Association
+49m23s: to um sorry where are we
+49m27s: uh
+49m28s: Association so
+49m31s: author uh Association to authors on and
+49m36s: now we&amp;#39;ve got to manually
+49m40s: construct um on on on on on on uh what&amp;#39;s
+49m44s: it say here let&amp;#39;s do
+49m46s: that author ID yes there we go author
+49m50s: author do
+49m53s: ID equals to author forign key right now
+49m59s: does that still work let&amp;#39;s see let&amp;#39;s see
+50m1s: does that still work save
+50m5s: that now well we&amp;#39;ve now got a field in
+50m10s: here in the SQL called author foreign
+50m12s: key which replaces what we had before
+50m14s: called author underscore ID which then
+50m16s: also means that in here if we start if
+50m18s: we start CDs watch
+50m20s: now we&amp;#39;re going to get an error I think
+50m22s: are we we going to get an error yes we
+50m24s: got an error error on serice SQL light
+50m28s: in CS deploy table Bookshop books has no
+50m30s: column named author ID because we&amp;#39;re now
+50m33s: trying to import something where is it
+50m34s: there there author ID so we got to
+50m36s: change this to um author foreign key
+50m41s: save
+50m42s: that oh it&amp;#39;s now it&amp;#39;s work so now it&amp;#39;s
+50m44s: working so we so we got to sort of make
+50m46s: sure things sort of
+50m49s: align there we go so and does that still
+50m52s: work let&amp;#39;s go to here and open up Local
+50m54s: Host 404 4,000 4 404 I can&amp;#39;t believe I
+50m59s: got 404 bookshops authors oh yeah ah I
+51m3s: have
+51m4s: to does anybody else have a problem
+51m8s: with
+51m10s: SharePoint when I go to SharePoint which
+51m12s: I have to
+51m13s: do um internally at
+51m17s: sap the resources that SharePoint send
+51m20s: back to me which contain HTML are sent
+51m23s: back in HTTP responses with the content
+51m26s: application
+51m28s: Json why and it means that when I have
+51m33s: my Json viewer which will of
+51m35s: course understanda be try you know any
+51m37s: any content coming back that&amp;#39;s got
+51m40s: content type application Jason it will
+51m42s: try and prettyprint it and format it
+51m43s: nicely which is what I want which is why
+51m45s: I installed the Json viewer but because
+51m47s: SharePoint sends HTML HTML back and says
+51m51s: oh it&amp;#39;s application
+51m53s: Json the Json viewer trips up and form
+51m56s: that&amp;#39;s the SharePoint page and then it
+51m59s: all breaks it&amp;#39;s like what is going on
+52m1s: SharePoint
+52m3s: anyway anyway so now we&amp;#39;ve got this and
+52m6s: we can say Bookshop
+52m7s: [Music]
+52m9s: books and now we can say does that work
+52m12s: expand equals author and that works okay
+52m15s: but it
+52m16s: works only because we&amp;#39;ve made a lot of
+52m19s: effort
+52m21s: here now does that make sense have I
+52m24s: gone overboard but also also look at
+52m26s: this
+52m27s: we now have a different style of
+52m30s: Association instead of let&amp;#39;s um I&amp;#39;ll
+52m34s: tell you what let&amp;#39;s do something else
+52m35s: let&amp;#39;s do say let&amp;#39;s say here um also
+52m40s: author
+52m42s: association association to
+52m46s: authors let&amp;#39;s have that as
+52m50s: well so
+52m55s: now we get
+52m56s: a different
+52m58s: internally this managed Association here
+53m1s: generates an internal representation
+53m4s: that&amp;#39;s different there&amp;#39;s the also author
+53m6s: Keys ref
+53m8s: ID and this is our
+53m11s: author author CDs Association but it&amp;#39;s
+53m14s: an on and then it&amp;#39;s an it&amp;#39;s a it&amp;#39;s a
+53m17s: triplet in an array we get ref auor ID
+53m21s: should equal to ref author foreign key
+53m23s: okay
+53m26s: there we go so that for me is a easily a
+53m31s: good enough reason for when we can when
+53m33s: it&amp;#39;s a 21 Association using a managed
+53m37s: to1 Association so let&amp;#39;s get rid
+53m40s: of that that and let&amp;#39;s get rid of that
+53m44s: and say
+53m46s: author like
+53m48s: that and now of course let&amp;#39;s put that
+53m50s: back
+53m51s: again undo save there right finally in
+53m55s: the last few minutes in the last few
+53m58s: minutes let&amp;#39;s just
+54m0s: add
+54m2s: what cap refers
+54m5s: to as a to many Association Okay so
+54m9s: we&amp;#39;ve got
+54m11s: our two1 association going from books to
+54m14s: authors and that also means that
+54m18s: 404 we can go from
+54m21s: books to authors as well in an expand
+54m24s: for example we can follow this
+54m25s: navigation proc
+54m27s: property but what happens if we want to
+54m29s: go from
+54m32s: authors back to
+54m34s: books expand equals books of course we
+54m37s: can&amp;#39;t do that because we haven&amp;#39;t defined
+54m39s: a navigation property books so let&amp;#39;s do
+54m42s: that okay and we can see we need of
+54m45s: course a to many because um what we said
+54m48s: right at the start is you know a book
+54m50s: can be written only by one author in our
+54m53s: super simple example but of course an
+54m54s: author can write more than one book and
+54m55s: that&amp;#39;s why we&amp;#39;ve got Douglas Adams
+54m57s: writing two books in our
+55m0s: data
+55m1s: so here Association to many books but we
+55m6s: also need another on condition with a
+55m9s: with a too many we can&amp;#39;t
+55m12s: have a manag Association because it
+55m15s: actually says here um
+55m18s: uh where is it says here uh too many
+55m21s: associations are unmanaged by Nature as
+55m23s: we always have to specify an on
+55m25s: condition in order to find that way back
+55m28s: from the which
+55m31s: author back to the books as this author
+55m34s: that book this author that book this
+55m36s: author that book okay so we need this on
+55m39s: condition so let&amp;#39;s do that now books
+55m41s: Associated many
+55m42s: books where are we um
+55m47s: books to many books on
+55m54s: now I&amp;#39;m sure you&amp;#39;ve seen this sort of
+55m57s: what&amp;#39;s it called what what does cap I
+55m59s: call it a
+56m2s: um where is
+56m5s: it uh back backlink back link
+56m8s: Association okay we&amp;#39;re linking
+56m12s: back right so for the backlink
+56m15s: association you&amp;#39;ll see something like
+56m16s: this on
+56m17s: books. author equals doll
+56m21s: self and it always it took me ages to
+56m24s: get into my brain
+56m26s: what this should be but in my brain I&amp;#39;ve
+56m31s: now figured out that what we want let me
+56m33s: do that there let just repeat that so we
+56m35s: can just sort of repeat that
+56m38s: on we start from the source as in
+56m42s: here and what we&amp;#39;re using to
+56m46s: refer or to what we&amp;#39;re using to name
+56m49s: this back link Association IE books so
+56m53s: copy that
+56m54s: books and then then the dot the other
+56m58s: why is it all black there why is it all
+56m59s: black Anyway dot I mean we can see from
+57m2s: the from the command completion the
+57m4s: autocomplete here that we get the
+57m5s: possibilities author ID and title which
+57m7s: are from the books but
+57m11s: basically it needs to refer to the
+57m14s: element in the Target
+57m16s: entity that is the
+57m19s: reciprocal Association
+57m22s: author
+57m24s: there oops so I don&amp;#39;t know whether do
+57m27s: that does that confuse anybody else at
+57m30s: first and do self is a nice little sort
+57m32s: of um convenience I guess it&amp;#39;s a nice
+57m35s: little convenience thing that refers to
+57m37s: me as in the um uh the value of the key
+57m42s: field which is the ID field does that
+57m44s: make sense so now with
+57m47s: that we can now run that and it&amp;#39;ll work
+57m52s: does that make
+57m54s: sense well
+57m56s: before we go let me because it&amp;#39;s already
+57m59s: 8:56 what is going on with
+58m2s: time to have a quick look if you want a
+58m5s: quick look
+58m6s: at this
+58m9s: little this little um uh what&amp;#39;s it
+58m12s: called what&amp;#39;s it called
+58m15s: associations here that blog post I put
+58m17s: the link in the chat to is all about
+58m20s: that okay so yeah have a look at JQ have
+58m25s: a look at this tell me let me know now
+58m27s: if if looking under the
+58m30s: surface helps you I think we&amp;#39;re going to
+58m33s: do a little bit more on associations
+58m35s: next week but then also we&amp;#39;re going to
+58m39s: look at the difference between
+58m40s: associations
+58m43s: and something else super important in
+58m48s: associations which
+58m50s: are compositions as in sorry something
+58m53s: also super important in relationships
+58m57s: so we have
+58m58s: associations and compositions I&amp;#39;m going
+59m0s: to look at the difference and what that
+59m2s: means and how they work so let me know
+59m4s: in the chat if that is okay for us doing
+59m7s: that next week I think for the next few
+59m10s: weeks at least I&amp;#39;m going to be around so
+59m13s: definitely next week um so yeah thanks
+59m16s: very much for joining I&amp;#39;ll see you uh
+59m18s: next week we&amp;#39;ll do a bit more on
+59m20s: associations and move on to compositions
+59m23s: let me know as well have a play with um
+59m25s: have a play with the associations JQ
+59m27s: have a play with this catch up
+59m29s: everything is in the repo cap B2B so if
+59m33s: you want to catch up with where we are
+59m35s: we&amp;#39;ve got this oh also I did I was also
+59m39s: digging in a bit more to CDs compile and
+59m41s: I was I wrote this little script to take
+59m43s: a snapshot of some CDs Source or CDL
+59m46s: source and compile it to CSN CDL SQL and
+59m51s: edmx and store those in files so I could
+59m53s: do
+59m54s: diffs between them so I was sort of you
+59m58s: know writing some CDs compiling it to
+60m1s: all the things right changing that CDs
+60m4s: compiling all the things again and then
+60m5s: comparing them so that&amp;#39;s why that does
+60m8s: okay well thanks for joining and I&amp;#39;ll
+60m10s: see you next time
+60m24s: bye e

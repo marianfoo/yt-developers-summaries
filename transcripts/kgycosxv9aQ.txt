@@ -1,1360 +1,1360 @@
-[Music]
-[Applause]
-[Music]
-[Music]
-[Music]
-[Applause]
-[Music]
-n
-[Music]
-good morning good afternoon good evening
-welcome to handson Sab Dev with me DJ
-qro now I&amp;#39;ve just put in the chat uh
-that um I&amp;#39;ve got my my ISP vone um is
-having some issues in this area at the
-moment so um I&amp;#39;m not sure whether we&amp;#39;ll
-make it all the way through this episode
-but we&amp;#39;ll have it give it a good go let
-me know in the chat if you see anything
-untoward if you see some
-buffering um my the
-latency um according to speed
-test.net is ridiculous it&amp;#39;s like a
-second I&amp;#39;ve got you know over a thousand
-millisecs latency at the moment good
-morning to visas in Bangkok Thailand
-good morning to Kiara uh good morning to
-Daniel and good morning to our friend
-and uh my fellow colleague um Kevin
-Kevin musig your you&amp;#39;ve got your old
-surname there on on the old chat there
-uh Kevin Rimer uh air maliga Kevin musig
-and um yeah welcome welcome welcome and
-welcome to Hector as well good morning
-and saludos to you in Argentina what
-time is it over there my goodness me
-thank you very much for joining and Tor
-and King B servos to you in Mion uh down
-there in Bayern uh so yeah let&amp;#39;s get on
-with it before before the interwebs
-completely fail around here uh so yeah
-like I say let me know in the chat if
-you see any sort of buffering or if the
-quality of the stream goes down I&amp;#39;m just
-going to switch to see to see what&amp;#39;s
-going on here I&amp;#39;m getting like you know
-warning error warning good poor um etc
-etc error YouTube is not receiving
-enough video to maintain smooth
-streaming blah blah blah blah blah
-anyway we&amp;#39;ll see we will see let me um
-let me jump to the um uh let&amp;#39;s just dive
-straight in um with a few uh little not
-announcements but you know just what we
-do at the start of this thing right uh
-so kaston good morning to you in
-stutgart uh goodbye now uh all goodbye
-now uh AI oh we got an AI in the uh in
-the chat brilliant uh we are in the
-future uh Matias good morning to you in
-uh mesca in Germany and Stefano bno
-here&amp;#39;s to capier exactly here is to
-understanding all about cap and the
-Fantastic the Fantastic framework that
-it is and uh okay the stream is a bit
-lagging but fine thank you visas for
-letting me know okay I&amp;#39;ll carry on so um
-just a few things um two or three weeks
-ago it was the International Day of
-women and girls in science and we had a
-round table with the uh the girls and
-women on the sap developer team that&amp;#39;s
-Nora and Michelle and Sheena and raika
-and Shila it was awesome and today um
-it&amp;#39;s actually International women&amp;#39;s day
-more generally so uh yeah go
-International women&amp;#39;s day
-congratulations and everything um and uh
-let us know uh on the chat what you
-think about that that&amp;#39;s brilliant uh
-Kristoff greetings everybody Donnie dark
-Donnie Darko uh with one n Donnie uh
-that&amp;#39;s interesting good morning to you
-in Offenburg uh okay brilliant so the
-other thing is that I I realized that
-I&amp;#39;d been working you know away with you
-if I go you know if I go here for
-example on the
-uh vs code um I i&amp;#39; sort of done a zip
-code download of the repo for I can&amp;#39;t
-remember why I did that um uh but I
-thought so yesterday I just sort of
-updated it a little bit as you can see
-17 hours 18 hours ago um so if you do
-want to sort of get to where we are
-right now you can clone the repo and
-start going from there so for example in
-the services. CDs right now uh you can
-see like just takes ages what&amp;#39;s going on
-uh good morning AP to you in Dorf
-wow that is completely slow um good
-morning to you rafhael in in the schit
-in Switzerland fantastic so we can see
-there that what we got where we got to
-last week is all up to date now in the
-repo um be one more thing uh we got the
-sap latest sap developer news um let me
-just put the link in the chat there
-without the sort of the time time Jump
-there where&amp;#39;s my chat thing there it is
-put that in there you can see all the
-errors as I look here warning error
-warning oh my goodness me DJ what are
-you doing um and particularly I you know
-just happened to pause on this
-particular News segment of this week&amp;#39;s
-sap developer news and there&amp;#39;s our
-lovely friend and colleague Antonio all
-our sap developers Etc um telling us
-about um new Sab btb solution diagrams
-but also about March&amp;#39;s developer
-challenge so February developer
-challenge that Tom young ran was all
-about cap plugins CDs plugins Daniel let
-us know in the chat whether we&amp;#39;re
-supposed to say cap plugins or CDs
-plugins you know cap and CDs are sort of
-sort of but not quite
-synonymous um but yeah what is the
-official term I think it&amp;#39;s cap plugins
-you um because it&amp;#39;s more about you know
-it&amp;#39;s more than just about you know um
-extending the features and capabilities
-of CDs the language itself anyway so
-this month&amp;#39;s challenge the March
-challenge is all about Cloud events um
-and in fact there
-let me just share that in the chat as
-well good morning uh good morning
-Garfield in Cape Town fantastic and good
-morning Florian in foggy Lubec amazing
-um I think maybe I don&amp;#39;t know what I
-think um the ISP is having problems but
-it&amp;#39;s very foggy here as well not foggy
-but yeah overcast anyway DJ stop
-rambling so this is week one of March&amp;#39;s
-our new developer challenge for March so
-there we go dive in dive in dive in uh
-you&amp;#39;d say so Daniel so you&amp;#39;d say cap yes
-cap uh cap plugins fantastic and good
-morning to you in Philadelphia what is
-going on we got people from Argentina
-Philadelphia bang uh Bangkok Thailand um
-Cape Town places in Germany oh my
-goodness me uh Switzerland fantastic
-thank you for joining right so let us go
-now what I wanted to do today with you
-all and that key thing is with you all
-so remember to chat chat chat put things
-in the chat put your thoughts put your
-comments put your questions say DJ
-you&amp;#39;re an idiot you&amp;#39;re doing it wrong or
-whatever Leo van hangle in the house
-welcome Leo and Ally good morning to you
-in Istanbul fantastic fantastic to have
-you all I love you all um where we left
-off last time which was last was it last
-week I can&amp;#39;t remember last week um was
-we had right at the very end and I sort
-of did this as a sort of a cliffhanger
-um I added a new element to the author&amp;#39;s
-entity type or entity definition right
-good morning Ian good morning fellow
-straa Runner Ian fantastic um I am very
-proud to stand sort of not quite
-shoulder Tosh shoulder with you because
-you&amp;#39;re an amazing Runner but yeah straa
-fantastic Daniel Scher says cap plugins
-are implemented using the CDs plugin
-technique oh just a confuse us thank you
-very much Daniel that&amp;#39;s brilliant by the
-way folks um I had a great chat with
-Daniel uh For an upcoming sap code talk
-episode on Cat plugins so uh watch this
-space um yeah watch this space so uh
-where are we yes so here is where we
-left off it&amp;#39;s still super super simple
-and where I want to get to whether it&amp;#39;s
-this week or whether it&amp;#39;s next week is
-to start thinking about relating the
-book&amp;#39;s entity with the author&amp;#39;s entity
-right because you know these are sort of
-separate entities right now there&amp;#39;s no
-no relationship between them in fact
-let&amp;#39;s just uh start the CDs watch um
-remember if you remember you&amp;#39;ll um
-you&amp;#39;ll see we actually now have
-implemented implemented you know
-deployed to an actual file based uh SQL
-light persistence layer you can see
-there connect to DB sqlite URL is
-Bookshop do sqlite which is that file
-there um so that it&amp;#39;s all in the file
-and um now if we go to uh Local Host 404
-we can see those things there we can see
-the books and remember we&amp;#39;ve got the the
-guids right the guids because the cuid
-aspect right aspect for entities with
-canonical Universal IDs um is as
-decorated that&amp;#39;s not the right word but
-anyway I&amp;#39;m going to use it decorated
-this entity or both entities with an ID
-element which is a key element as well
-which is that one there and remember we
-put the IDS we generated those uu IDs
-and put them into our sort of C CSV
-files uh cheyan I love you too cheyan
-thank you very much indeed a uh one
-about the great things about the
-weekends is a DJ session oh fantastic so
-I&amp;#39;ve got my um hands on SCB Dev mug a
-wol at 8: a.m. can every any anybody on
-anybody like an old timer from the hands
-onb Dev days when this phrase came
-up Ian subbs can&amp;#39;t beat the early
-morning runs a DJ must be amazing Along
-The Canal at the moment with the Mist
-yes it is it&amp;#39;s fantastic sometimes in
-the winter it was quite dangerous
-because it was Pitch Black and it was
-muddy as well and you know there&amp;#39;s a few
-times when I almost went into the drink
-into the canal into the drink but anyway
-um so we got that and we got the books
-there we got the authors we&amp;#39;ve also got
-this thing in the so right okay so let&amp;#39;s
-start thinking slowly because yeah I
-want to get to where we start
-associating oh I&amp;#39;ve given the game away
-there with the key word we want to start
-building a relationship between the
-books and the authors obviously right
-but I want to take a roundabout
-root so imagine I was thinking about
-this this morning right imagine um oh
-hello Hector again I recently discovered
-this series about cap and rushed the
-previous videos the last two days I love
-this series that&amp;#39;s why I&amp;#39;m awake at 5:00
-a.m.
-Hector lovely lovely to hear fantastic
-thank you so imagine um you&amp;#39;re going to
-do something and you need a tool and
-there&amp;#39;s a big Warehouse of tools with
-lots of things built and you know you&amp;#39;re
-walking past the warehouse and you could
-just put your head in the door and just
-grab the tool and come out and go and do
-the thing right but we&amp;#39;re not going to
-do that I don&amp;#39;t want to do that I want
-to take us all for a little journey into
-the warehouse to discover what else
-there is in there and what tools are
-connected and maybe what tools are made
-by what other tools and are used by
-other tools and everything so we&amp;#39;re
-going to take a bit of a a long route to
-get to an understanding of how we might
-relate the books to the authors let&amp;#39;s go
-back here I&amp;#39;m talking about that right
-books and
-authors and that roundabout route starts
-with this this country of birth random
-element you know let&amp;#39;s just make
-something up an author is born somewhere
-right so let&amp;#39;s have a country of birth
-and this type country right
-so um let&amp;#39;s let&amp;#39;s pick apart what this
-has done because it tells us loads and
-loads and
-loads so what is this this is a type
-this you know this is part of the vs
-code extension for cap right so I&amp;#39;ve got
-the vs code extension if you remember um
-in the dev container uh extensions why
-is it taking so long I think I think
-basically any internet activity is going
-to take ages so I wait for that to come
-back um but basically this is oh there
-we go um come on come on come on sap CDs
-language support so basically that
-extension is giving me all this goodness
-right so you know hover over there and
-we get that little thing there
-so this is a type now we can also CU in
-order to use this type what I did of
-course is I imported it
-using what I just did then was I dived
-into common CDs okay so just go there
-again in fact I put that down there can
-I put that down there yeah there we go
-there we go there we go right
-so in my services. CDs which is here
-this is basically my CDs DJ CDs our CDs
-definition we&amp;#39;ve got an element that is
-described by this thing called country
-that we&amp;#39;ve imported from here right now
-in sap CDs com it used to be in the
-olden days in the good old days correct
-me if I&amp;#39;m wrong uh Daniel but it used to
-be a file that was delivered but now
-it&amp;#39;s actually been made into an npm
-package okay so you can as you can see
-here that&amp;#39;s not a file descriptor that&amp;#39;s
-not you know a file path that&amp;#39;s an at
-thing so that tells as it&amp;#39;s an mpm
-package right in
-fact if we have a look it&amp;#39;s not in there
-it&amp;#39;s sort of implicit right anyway
-anyway anyway
-anyway so we can sort of specify files
-or npm packages inside the npm package
-which is basically in here node modules
-sap CDs so it&amp;#39;s there node modules sap
-CDs common where is it common. CDs which
-is basically that one there
-we&amp;#39;ve got a ton of definitions go right
-to the top so we start we got type
-language type currency type country so
-let&amp;#39;s stop there thank you Kevin
-fantastic thank you Kevin for oh you&amp;#39;ve
-changed your name as well brilliant
-um we&amp;#39;ve got this type definition now
-remember if we look at
-cuid CU ID that is defined in here as
-well but that&amp;#39;s defined as an aspect and
-an aspect is something that you sort of
-stick here you decorate an entire entity
-with an aspect but if we want to define
-an element and have something that&amp;#39;s
-other than the built-in types like
-string and integer and Boolean and you
-know whatever U
-ID we can Define our own types so here&amp;#39;s
-a type a common type that&amp;#39;s been defined
-for us let&amp;#39;s go back to country where is
-it go right to the top because notice at
-the top this is another thing we&amp;#39;re
-discovering here by digging into this I
-good morning to you in Frankfurt by
-digging into this at the top there&amp;#39;s no
-sort of name space or anything yet we
-know about name spaces right um or do we
-know about name spaces and name spaces
-you know think of java think of
-basically package names and everything
-we haven&amp;#39;t really covered name spaces
-yet but basically you can put a name
-space in somewhere I&amp;#39;m sure you&amp;#39;ve seen
-it in examples and then you know
-namespace um you know Bookshop do
-bananas okay and then you all the
-entities defined after that in the file
-have that namespace prefix okay it&amp;#39;s
-just a
-name and it&amp;#39;s namespaces are really
-important for lots of different things
-including you know making sure you don&amp;#39;t
-step on your your fellow developers Toes
-or your other te your other team&amp;#39;s toes
-uh you know when you define things
-anyway that&amp;#39;s coming shortly so type
-where is it type country but check out
-what type country is it&amp;#39;s not like a a
-Scala type it&amp;#39;s not like just a you know
-a string of 10 10 characters or
-something what is it it&amp;#39;s an association
-to sap common countries so all already
-we&amp;#39;re in the warehouse already we&amp;#39;re
-looking at the shelves of
-stuff that&amp;#39;s available to
-us in the CDs language
-World okay AI says it is breaking once
-in a while but does not cause any issue
-to follow you thank you very much for
-letting me know keep letting me know how
-this is
-right so um where was oh yeah so there&amp;#39;s
-a million things here so type this is
-how you define your own
-types you can find your own types right
-what is this type it&amp;#39;s an
-association I&amp;#39;m going to jump over
-Association somebody in the chat put
-what they think this association means
-and what it does okay while I ask you to
-put that in the chat what you think
-Association is let&amp;#39;s just have a look
-what this is to sap. common. countries
-so this is like a bit of a a name prefix
-right so where is that defined well if
-we hold down uh command again on Mac OS
-or control I suppose on
-Windows click on that code list for
-countries there&amp;#39;s another term code list
-because one of the let me know in the
-chat as well one of the things I find a
-the most fascinating but also B
-potentially quite overwhelming is the
-number of terms so let&amp;#39;s just let this
-wash over us and let&amp;#39;s just let it seep
-into our brains and stare at this stuff
-so that it becomes more familiar so this
-is a code list what is a code list we
-don&amp;#39;t know let&amp;#39;s find out what a code
-list is countries so let&amp;#39;s just command
-click there we jump down further into
-the file right notice this breadcrumb
-thing that VSS code gives us so it&amp;#39;s in
-a file in the node modules at sap CDs
-directory it&amp;#39;s in a file called common.
-CDs and it&amp;#39;s within a name space or a
-context
-called sap. common and this I suppose
-just gives us the um the last part of
-that namespace common common brackets
-package you can see it there on line 33
-sap. common okay um and then within
-sap.com within that context notice that
-it&amp;#39;s an Open Bracket we&amp;#39;ve got this this
-entity defined inside
-sap.com this is like a bit of a head
-explosion but you know we&amp;#39;s do it as
-slow as we we need
-to inside the sep.com we&amp;#39;ve got what
-this this countryes thing is so the fact
-that we&amp;#39;ve got entity countries the name
-of this entity really is sap. common do
-countries okay think of context as a
-sort of a as an infile some some
-namespace definition uh oh sorry a
-namespace declaration that you can have
-within a file it&amp;#39;s almost like you know
-um you know well yeah you can have
-multiple contexts defined I you can Nest
-them you can have them sort of you know
-as peers in a file and so on okay have
-some water actually so um AI says a
-reference to another table AK CDs sadish
-good morning to you chakia good morning
-you&amp;#39;re late to time but it&amp;#39;s okay you&amp;#39;re
-welcome so um so a so AI is Right a
-reference to another table well I say a
-refer cuz table is more of a persistence
-layer thing so let&amp;#39;s remain thinking
-let&amp;#39;s try and remain thinking at the CD
-s level so I&amp;#39;m going to say really
-vaguely it&amp;#39;s a it&amp;#39;s a reference to a
-relationship to another thing right
-let&amp;#39;s go back again actually um let&amp;#39;s go
-back up to here type where is it type
-country Association to sap common
-countries and we when we jump there we
-know it&amp;#39;s an
-entity okay so we&amp;#39;re going to we&amp;#39;re
-going
-to explore this this Warehouse of stuff
-very briefly then can sort of roll back
-up again so we got an entity defined for
-us called countries and that&amp;#39;s why also
-we see
-here that we&amp;#39;ve got in our service
-endpoints the list of entities that are
-available we can see countries okay and
-at the moment of course there&amp;#39;s nothing
-in countries in fact let me put my head
-down there so you can see the top
-there&amp;#39;s nothing in countries because we
-don&amp;#39;t we haven&amp;#39;t specified any sort of
-you know initial data we&amp;#39;ve got
-bookshops authors Bookshop
-books but we haven&amp;#39;t got anything
-for countries
-now put in the chat if we wanted to put
-to have some CSV data to sort of
-prepopulate the list of
-countries what would be the name of the
-file in this data directory would it be
-Bookshop do countries or would it be
-something else have have a thing and put
-it in the
-chat now if we have a look here for
-example um cap Cloud sap docs CDs common
-entity countries um let me just put that
-on um the third one there let while
-that&amp;#39;s
-loading let&amp;#39;s have a look has this
-entity countries only got one element a
-key element a code element so there
-there&amp;#39;s lots of things going on what
-we&amp;#39;re going to do is ignore for now
-these annotations we&amp;#39;re not going to
-talk about annotations because there&amp;#39;s
-only so much I think we should look at
-at the you know in one go so think about
-the entity
-definition we&amp;#39;ve got a single element
-the name of which is code is defined as
-a you know quite a simple scaler type A
-String three character string okay and
-we can sort of guess what that might be
-you know uh gbr for Great Britain or you
-know um deu for deutchland uh or de you
-know two characters three characters I
-think there&amp;#39;s an ISO standard 3166 I&amp;#39;m
-going to guess uh oh no sorry 42 3166
-was the U wasn&amp;#39;t it uh 4217 a threel
-alpha code right oh sorry that&amp;#39;s
-currencies um oh what where is it where
-is it where is it where is
-it countries oh it is 3166 3166 two
-letter Alpha codes as primary keys for
-example oh this really annoys me this
-really annoys me for example GB for the
-United Kingdom anybody any any folks in
-the chat from UK Hector Hector&amp;#39;s got it
-right SA p. common. countries and
-Raphael has got it right in a sort of a
-meta sense exactly name space entity
-name right so in fact let&amp;#39;s yeah let&amp;#39;s
-let&amp;#39;s digress let&amp;#39;s digress let&amp;#39;s
-control C
-remember
-here um Z for example Garfield Says Z
-for South Africa exactly um does does
-that come from the Africans sort of the
-Flemish the Dutch zud with a zed South
-Africa
-maybe maybe maybe there is a package
-maybe uh the community could create a
-package that you could import that would
-I don&amp;#39;t know I don&amp;#39;t know anyway that&amp;#39;s
-a that&amp;#39;s a great Point zud Africa
-exactly Garfield thank you very much for
-confirming that zud as in you know um
-the the Flemish for South so when I you
-know I travel to uh Europe I you know
-sometimes get the Euro star from London
-some panas to um Brussels midi or
-Brussels zud um anyway DJ stop
-digressing um what we&amp;#39;re going to do oh
-yes so CDs
-ad remember this CDs ad if we say CDs
-add
-d-el we can add CSV headers for modeled
-entities so what happens if we see CDs
-add-- data right let me close this up
-here oh CD oh sorry CDs add data adding
-feature data look at this and because of
-convention we are sort of defining
-convention at the moment by putting our
-CSV files in a data directory the sort
-of standard convention is to have the
-persistence layer uh CDs and
-accompanying sort of CSV
-files in a directory called DB remember
-early on in the series we looked at the
-three directories that are generated
-look watch this watch this watch this if
-we go to I I know um let&amp;#39;s do it here
-instead just in case uh CD temp CDs init
-that bigger CDs init uh test prod right
-CDs in it Test Pro creating new C
-project in Test Pro CD Test Pro tree
-there we go and what happens is it
-defines for us it creates for us when it
-initializes a project a simple package
-Json there right dead simple and it
-creates three empty director
-app for the front end stuff DB for the
-persistence layer stuff as in for where
-you define your entities and the
-relationships between your entities and
-serve for your sort of service level
-stuff remember we covered this before
-right so hey we don&amp;#39;t need that anymore
-um and what it&amp;#39;s done is it&amp;#39;s created
-the data directory inside the DB
-directory which didn&amp;#39;t exist so it&amp;#39;s you
-know sort of autocreated it it um what&amp;#39;s
-the what&amp;#39;s that Pearl word it um Auto
-Auto vivified it auto vivification it&amp;#39;s
-sort of creation of the the things along
-the way to create what you need to
-create type thing sort of Auto
-verification
-pearl auto
-vivification what is auto verification
-yes um Pearl programming language there
-we go automatic creation of new arrays
-and hashes as required every time an
-undefined value is dot dot dot CU my
-internet&amp;#39;s too
-slow DJ when your internet&amp;#39;s slow it&amp;#39;s
-even less of a reason to
-digress so what it&amp;#39;s now done as uh who
-was it as Raphael and Hector says look
-sa. com- countries namespace
-sap.com entity name right anyway that&amp;#39;s
-fine so let&amp;#39;s just uh go back down
-again what else have we got we know the
-code is
-key but also this
-entity is decorated with a another thing
-which is an aspect which defines a code
-list so it&amp;#39;s like you know I&amp;#39;ll let you
-watch this again and dig down yourself
-because this is definitely definitely
-definitely worth digging into so what is
-a code list aspect a Cod list aspect
-we&amp;#39;ve seen aspects before haven&amp;#39;t we
-there&amp;#39;s an aspect cuid that just adds in
-fact we if we go there the aspect cuid
-just adds a single element I called ID
-it defines it as a key element and it
-defines it of base type uuid we know
-that already right go back again do we
-go can we go back like that perfect
-brilliant um and we got this cont so now
-we&amp;#39;ve got this country aspect and the
-country aspect is an entity called
-countries which is also decorated itself
-with an aspect which adds two elements
-to it so name and description now this
-is a lot to think about okay this is a
-lot to think about so let&amp;#39;s have a
-look now we&amp;#39; sort of
-gently and skim the surface of this
-stuff here if we have a look at the
-countries it doesn&amp;#39;t oh I&amp;#39;m not reading
-thing CDs
-watch come on come on come on come on
-come
-on there if we uh look at the countries
-it doesn&amp;#39;t really tell us much but but
-if we have a look at the metadata let&amp;#39;s
-make that a little bit bigger where is
-it we&amp;#39;ve got um we&amp;#39;ll come back to the
-entity container in a second but we have
-here entity name I&amp;#39;ll just highlight the
-that bit there ignore the country&amp;#39;s text
-Cu that&amp;#39;s even more exciting
-right we all know and we&amp;#39;re all happy
-with I hope let me know if you&amp;#39;re not in
-the chat with OD data metadata documents
-and the XML and the what we&amp;#39;re defining
-here what we have defined here for
-example is the equivalent of what we&amp;#39;ve
-defined here entity authors with a Cy ID
-aspect so we&amp;#39;ve got the ID from the CU
-ID we&amp;#39;ve got the name property here from
-the name element here and we also have
-this country of birth but it&amp;#39;s a
-navigation property why is it a
-navigation property because can I go
-back here in the file as
-well uh yeah there we go look this
-navigation property where is
-it there let me highlight that
-so stare at that green bit and have a
-look over here country of birth is
-defined with a type country but that
-type country is an association
-so the answer to what is this
-Association it&amp;#39;s a relationship between
-two entities and that relationship in od
-data is
-expressed as a navigation property as
-you&amp;#39;d expect in od data so we have the
-navigation property country of birth
-where does that go to it goes to
-Bookshop do countries which is an entity
-type and of course you know because of
-the way the OD is defined and everything
-we have this entity set here entity set
-name countries of type Bookshop
-countries Let&amp;#39;s ignore the underscore
-text for a
-minute so if we now have a look at
-entity type name equals countries where
-is it there we can see
-the country&amp;#39;s entity type for which is&amp;#39;s
-an entity
-set comprises three properties name
-description and code it&amp;#39;s also got some
-navigation properties but we&amp;#39;ll again
-come on to those
-later name and description come exactly
-from the code list look name and
-description because the code list is
-used to decorate as an aspect the
-country&amp;#39;s entity which itself has a
-single element property code okay now
-one of the oh yeah that&amp;#39;s it one of the
-things that really annoys me um is that
-ISO ISO the organization it leaves a lot
-to be desired to be
-honest how can you get it ISO so wrong
-United Kingdom consists of Great Britain
-and Northern Ireland so why have GB as
-the representation for something that is
-greater than what GB is as in United
-Kingdom of Great Britain and Northern
-Ireland anyway rant over you know what
-do I know what do I know I&amp;#39;m just an
-idiot Raphael says is it okay to ask
-some off top ask some off topic
-questions or will there be a Q&amp;amp;A later
-Raphael ask away I may not be able to
-answer the question but this is what
-this is what the live stream is all
-about you know asking questions having
-chat with each other um asking me
-questions like I say I might not be able
-to answer there might be somebody else
-who can answer on the chat or I can find
-out and ask ask answer next time so yes
-please ask
-away by the way somebody put in the chat
-is this is this helpful am I confusing
-you more than I&amp;#39;m helping you let me
-know so countries why don&amp;#39;t we add why
-don&amp;#39;t we add into here just so we can
-sort of understand and let&amp;#39;s add it in
-this file here sap common countries
-there we go code name description so if
-we say code GB I hate it name United
-Kingdom
-of Great Britain and
-Northern Island um description
-brexitland there we go how about that
-we&amp;#39;ll have one more de um
-Germany uh home of the
-sap Mothership for example right there
-we go uh Gregorian hello to you so now
-we can see code name description code
-name description and also we&amp;#39;ve got in
-the country here we where is it
-code code and then we&amp;#39;ve got name and
-description now if we go back we can see
-countries oh ah now tell me why has why
-has that still not
-um uh still not appeared okay if we
-added before um if we had added data to
-a CSV file and the service
-restarts okay why don&amp;#39;t we see countries
-let&amp;#39;s pause there for a second because
-maybe I&amp;#39;m going too fast maybe I&amp;#39;m going
-too fast let&amp;#39;s pause there for a second
-and also to give Raphael a chance to ask
-the question are there any downsides to
-oh I see the word neovim coming up in
-the sentence here are there any
-downsides to using neovim instead of vs
-code for ui5 and cap development at the
-moment that&amp;#39;s a good question I
-think I mean part of me wants to say of
-course there&amp;#39;s no downsides I mean
-neovim is the best editor and you know
-combined with other tools is the
-IDE the best IDE in the
-world however I think the downside is
-that it will always
-be um a
-secondary Target at best for tools that
-come from sap and other organizations
-for doing this sort of stuff so for
-example
-of course we have for vs
-code like I mentioned
-before the sap CDs language support
-extension which is an amazing extension
-with all sorts of features and
-functionalities that is designed
-specifically to work with vs code and of
-course with the business applications
-you do Dev spaces
-right now that means that you know I
-can&amp;#39;t go ahead and just somehow
-magically easily plug this extension
-into neovim what I can do though um is
-use and Garfield&amp;#39;s saying the same thing
-right I can actually use the core of
-what the sap CDs language support is
-which is basically a language server for
-CDs somebody in the chat put what a
-language server is and what the language
-server protocol is it&amp;#39;s actually came
-from VSS code the language so yeah I&amp;#39;ll
-I&amp;#39;ll let you I&amp;#39;ll let you answer to that
-so there is
-a um a oh I can&amp;#39;t where I can&amp;#39;t remember
-where it is there&amp;#39;s a GitHub project by
-a colleague here at sap um that where
-they have CU I I very early on I created
-a wrapper around the parts of the
-library that was that were inside this
-extension you know uh so cap a cap
-library that was basically the language
-server for TDS I wrapped that in a bit
-of Vim script and used it in Vim there&amp;#39;s
-now for neovim a a plugin that does the
-same thing but better because mine was a
-bit rubbish with syntax highlighting as
-well using um using uh tree
-sitter and uh so you can actually in
-neovim work with CDs quite nicely not as
-nicely yet as what you can do in vs code
-but yeah so it will always lag a little
-bit behind and it will only catch up
-when people like you know us build extra
-bits to help neovim sort of benefit from
-the stuff that&amp;#39;s being built for other
-tools does that make
-sense um uh so Hector says yes it&amp;#39;s
-helpful I&amp;#39;m getting friendly with the
-metadata now yes fantastic get friendly
-with the metadata get friendly with the
-CDs with the cap server output um chakia
-um LSP not quite lisp lisp is a you know
-is a is a family of languages you know a
-functional uh family language like
-scheme is also a you know a lisp uh
-closure is a lisp but that&amp;#39;s not what
-we&amp;#39;re talking about here um is LSP
-language server protocol exactly so
-maybe it&amp;#39;s was just a typo yes exactly
-the protocol for language server so the
-idea of a language server is you&amp;#39;ll have
-a language like CDs like Java like go
-like
-lure um and different editors will want
-to have features for that language right
-in the in the editors so why write and
-rewrite for every single editor out
-there you know intellig net beans vs
-code whatever atom all you know and
-reinvent these things so instead have a
-language server which knows everything
-there is to know about and provides
-features for a certain language CDs for
-example and then have this protocol that
-the editor can connect to this language
-server and asks the server for help for
-that language that&amp;#39;s what sa the sap cap
-team have developed in the form of this
-sap CDs language support and you know
-that&amp;#39;s a bit more as well so yeah so the
-sap FY tools also have a lot of
-functionality for vs code and business
-application exactly so I understand how
-but I&amp;#39;m not sure the why we should
-prefer a country&amp;#39;s Association is is it
-to get the OD navigation functionality
-ah okay okay so let me just read that
-again I understand the how but I&amp;#39;m not
-sure about the why we should prefer a
-country&amp;#39;s
-Association um are you talking about why
-we have an association rather than just
-a
-type I think it&amp;#39;s and if that&amp;#39;s the case
-um it is partly to get the O dat
-navigation functionality but that for me
-is just a nice side effect of having
-sort of at the data level separation of
-concerns you know you define your
-countryes
-once refer to them as a with a
-code and then they can be
-maintained separately and
-independently from the records that
-point to or have references to countries
-so for example here let me just close
-that that&amp;#39;s a that&amp;#39;s a great question um
-let&amp;#39;s just leave that there for a minute
-uh go back to services
-so I could of course put country of
-birth and then have um type you know a
-three character string there and have D
-UK FR for France or whatever right um
-but we we might want to for example have
-different translations for different Nam
-for for example the French for the
-French this is this is So Meta the
-French for Germany is Alania right the
-the English for Germany is Germany the
-German for Germany is deut right so you
-you&amp;#39;d want different local variants of
-the long text versions of these these
-these sort of generic pieces of data so
-it makes makes a lot more sense for me
-to have this data in a separate entity
-where you can manage it and have extra
-information about it right for example
-for example um here now notice that the
-description home of the sap Mothership
-that&amp;#39;s in English but one of the things
-we saw
-here where&amp;#39;s my copy one of the things
-we saw when we&amp;#39;re
-exploring right
-is um where was it oh yeah here we go
-here we go when we look at the metadata
-we also
-noticed that for example if we have a
-look at the entity set name countries
-and so this this is great and this is
-exactly why we are sort of
-metaphorically walking around the
-warehouse of stuff that&amp;#39;s in sap CDs uh
-sap CDs common right is teaching us
-different things we&amp;#39;ve come across types
-and aspects we Cod the idea of a code
-list the idea of an association you know
-and this will do more associations
-later okay
-um but we also have
-seen in the generation of this that
-we&amp;#39;ve got this entity set countries with
-this mysterious navigation property
-binding texts within a target of yet
-another entity type countryes texts what
-the heck is that where has that come
-from and if you remember if we remember
-when we last week we said CDs um compile
-if we compile let&amp;#39;s have look at the
-services let&amp;#39;s at the services there
-right um
-ah yeah okay tell you what let&amp;#39;s save
-that let&amp;#39;s save it yeah this is I think
-this is worth thinking hard about so let
-me know in the chat if you&amp;#39;re okay in
-know slowing down and thinking hard
-about these questions and not rushing to
-get onto associations we can get onto
-associations how the how the type the
-country type is an association and then
-build that up to association between
-books and authors with the knowledge we
-gain next week so let me know if it&amp;#39;s
-okay to continue on this journey with
-all all these brilliant questions okay
-um so for example Garfield says country
-names changed Burma became Myanmar
-exactly exactly
-um
-so let&amp;#39;s just save this for a second
-note that in vs code that means it&amp;#39;s not
-saved so I&amp;#39;ll press control whatever you
-know old command s or col W because I&amp;#39;ve
-got the um I&amp;#39;ve got the uh Vim where is
-it uh in my not compile if we compile
-let&amp;#39;s get rid of that and that for a
-second CDs compile let&amp;#39;s compile this
-that&amp;#39;s all we&amp;#39;ve got we don&amp;#39;t need
-country anymore so let&amp;#39;s get rid of that
-just so visually so oh we don&amp;#39;t want to
-get rid of that uh there so
-that&amp;#39;s simple simple simple simple CDs
-compile to
-SQL Services right we&amp;#39;ve done this
-before but let&amp;#39;s do it again Ian says uh
-it&amp;#39;s fine by me it&amp;#39;s the deeper stuff
-that sets this apart from other sessions
-thank you okay good good good good let&amp;#39;s
-dig in so I&amp;#39;ve changed this country of
-birth element to be defined as a simple
-scaler type of of a three character
-string right three by
-string we&amp;#39;re back to something super
-simple country of birth nvarchar
-3 and that&amp;#39;s where to go back to um AI
-is great question you know we could get
-get away with that okay and Define and
-for every single author for every single
-record where we have you know for
-example the authors we&amp;#39;ve got no uh no
-Fielding what&amp;#39;s going uh Ian Banks and
-Douglas NL Adams right no field
-who um we Define different things but of
-course that means that there could be
-some
-inconsistencies you know we don&amp;#39;t want
-just uncontrolled data if we&amp;#39;re going to
-have a country of birth we don&amp;#39;t uh SEO
-for Scotland or uh UK whatever and
-that&amp;#39;s you know that&amp;#39;s not consistent so
-that&amp;#39;s another reason for having a
-separate entity with a code that is
-either correct or not correct I.E
-whether it is in that separate entity
-does that make sense um okay so why is
-that so simple because we&amp;#39;ve defined
-this but now if we change this back to
-Country there and we also need to of
-course
-um save that I&amp;#39;m not sure why that is
-telling me it&amp;#39;s not uh using this Source
-because it is using in this source so
-maybe it&amp;#39;s you know install this
-extension wrong or something but now if
-we do that
-again we this explosion of stuff and we
-we sort of now starting to get the feel
-as to why there&amp;#39;s such an explosion of
-stuff we haven&amp;#39;t got a feel for uh all
-of it so let&amp;#39;s just go through this now
-because it&amp;#39;s just a ton of stuff I mean
-going from all we had before was that
-those two tables and then the country of
-birth was defined as an narar 3 right
-however it was defined as country oh
-tell you what tell you what where is
-it let me do that again let me do that
-again let me go back
-here because it&amp;#39;s something super super
-interesting here if I change back bit to
-string three for example
-right can I just do another
-terminal let&amp;#39;s put that like that and do
-a side by side split
-terminal
-now this compilation
-output
-okay is from when we had the um country
-as as the type defining this ENT uh
-element I&amp;#39;ve now changed it back to
-string if I say CDs compile to SQL
-services. CDs and we get that simple
-thing we have
-basically wo sorry that was a bit what&amp;#39;s
-going on down we have
-basically almost but not quite the same
-thing can anybody
-spot what the difference
-is
-between this create table ddl statement
-sorry these two and these
-two put in the chat what the difference
-is where the difference is right and the
-answer is basically a massive
-clue when we want to start thinking
-about associ and managed associations
-I.E relationships between entities that
-we can Define really comfortably with
-CDs where CDs does the sort of heavy
-lifting of foreign keys for us
-right so while you think of that and put
-it in the chat what the difference is
-it&amp;#39;s only five characters difference I
-think tell me what the difference is so
-um so a says uh Hector&amp;#39;s got it Hector&amp;#39;s
-got it but um tell me what you think
-tell me what you think what where that&amp;#39;s
-coming from underscore code brilliant so
-actually say I thought just like how
-there are standard countries curent
-currency packs in sap when I refer myty
-a similar pack in the background
-somewhere is referred I mean that&amp;#39;s a
-great question um I&amp;#39;m sure this question
-came up a long time ago and I can&amp;#39;t
-remember what the answer was maybe
-Daniel can comment here um I&amp;#39;m not sure
-what what what what the real desire not
-what the real desire is but what the
-consensus was it&amp;#39;s a great question let
-me let me do some digging next week and
-find out what the consensus internally
-is about this about supplying data yeah
-so that&amp;#39;s a great question so um so a AI
-says amazing got it it&amp;#39;s all about
-maintenance maintenance maintenance as
-it always has been yes exactly and an
-says if associations like foreign key as
-generally dictionary objects why haven&amp;#39;t
-we specified the cality ah what a
-brilliant question and and what a
-brilliant question and we got to get on
-to
-cardinality but the answer just to sort
-of Jump Ahead a little bit the
-answer lies in this special keyword and
-the different variants of this keyword
-called
-association association
-to Association to one something
-Association to many something okay and
-with this super beautiful sort of high
-level abstract convenience layer I&amp;#39;m
-thinking about this in terms of building
-relationship ship between entities which
-we still haven&amp;#39;t done yet you know we&amp;#39;re
-going to get to this but let&amp;#39;s talk
-about it so when we do get to it it
-makes a bit more sense hopefully right
-we can use CDs to define a relationship
-and sort of
-implicitly without having to mess about
-with
-defining fields at the persistence layer
-that are foreign key
-Fields cap does that forers by turning
-those associations and the different
-variants of those associations into
-actual relationships at the persistence
-layer that have the right
-fields for the appropriate cardinality
-now I&amp;#39;ll just jump down to what Hector
-says um in the country of birth exactly
-there is the difference country of birth
-uncore code and Country of
-birth so when let me go get rid of that
-one there this one comes from
-from that variant okay so we got this
-country and we know that
-country is a type and we know that the
-country type is defined as an
-association so to answer your question
-an
-and right we
-are implicitly specifying the
-cardinality here of this country type in
-that it&amp;#39;s an association to
-one entry
-in the sap common countries thing which
-is itself an entity which of course then
-in odata terms for example when it&amp;#39;s
-compiled to OD data and served as OD
-data becomes an entity type of which is
-there is also then an entity set well I
-haven&amp;#39;t got I haven&amp;#39;t forgotten
-underscore texts we&amp;#39;ll have to look at
-that next time I think because that&amp;#39;s
-super super interesting as well I will
-just say now um
-I will just say now that when we dig in
-to the to the Cod list
-aspect which is what we used or what was
-used to
-decorate the country&amp;#39;s entity
-definition right the Cod list has these
-two elements name and description there
-where is it where is
-it there name and description right
-what&amp;#39;s this
-localized localized is another
-CDs language
-element that does a lot of heavy lifting
-and it&amp;#39;s this localized element that
-basically you know the the clues in the
-name it basically says this
-name I want this sorry I want this
-element called name and I want this
-element called description to be
-maintainable in different
-locals right one of the amazing aspects
-of ui5 one of the many amazing aspects
-of ui5 is that it is Enterprise ready
-and what the heck does that mean that&amp;#39;s
-just nonsense
-term what it means for example is that
-multilingual
-support proper multilingual support
-including right to left and make is out
-the box cap does the same sort of thing
-gives us the same sort of Enterprise
-level magic that allows us to just go
-make this localized and the and the and
-the result of
-specifying prepending the type
-definition of an element with this
-localized
-keyword is that it generates for us
-a ton of stuff that we can sort of see
-here create view localized sap common
-countries and we&amp;#39;ve got here look book I
-sort of I was trying to
-not Point too much to this because it&amp;#39;s
-just like head explosion time not only
-do we get this country&amp;#39;s view which
-turns out to be this country&amp;#39;s entity
-set of course you know sort of equate
-views to entity set sort of in od
-data but we we also got and we saw this
-in passing we also got another entity
-typ let me collapse these things there&amp;#39;s
-entity type books there&amp;#39;s entity type
-authors entity type countries and da
-entity type countries text what the heck
-is that who said anything about entity
-type countries text we haven&amp;#39;t even even
-this is like implicit implicit and it&amp;#39;s
-implicit implicit because of this
-localized thing right does that make
-sense so I&amp;#39;m going to pause there
-because it&amp;#39;s so much in the chat is
-brilliant
-um looking at the T So Garfield says oh
-Garfield is talking to AI looking at the
-table definitions it seems it does get
-populated from cap sap common countries
-Ai and your book data CSV overrides so
-um there&amp;#39;s no I don&amp;#39;t think there&amp;#39;s any
-data that comes from sap CDs common no
-data but we&amp;#39;ve supplied some data by me
-typing something putting something in
-the sap.com and- countries. CSV so going
-back to this conversation about you know
-what might we collect want ideally is
-maybe um oh oh my goodness Me Maybe um a
-plugin a c plug-in that
-supplies countries data currency data
-language data because also remember
-remember
-remember that not only do we have let&amp;#39;s
-go into there not only do we have like a
-common country type but we&amp;#39;ve got some
-common currency type currency t uh t t C
-in sap R three
-um uh language type you know these are
-all common things that are the same the
-world over but with different text
-anyway so we could imagine that not only
-might we want a package or something a
-cat plugin I don&amp;#39;t know um to supply
-data for countries currencies time zones
-languages you know all these things so
-um ah so the the underscore code going
-back to where we digress from a
-digression underscore code here where is
-it country of birth underscore
-code that underscore code is at when
-when at the persistence layer the ddl
-the data definition language here this
-this stuff is generated for us by cap
-for the persistence layer um we want
-actually want to use right now which is
-SQL light in this case so it&amp;#39;s sort of
-you know regular
-SQL we get an narr 3 but it&amp;#39;s got this
-underscore code because it knows it
-needs to maintain this foreign key
-relationship between the Bookshop author
-table and the sap common countries table
-so this country of birth underscore code
-here sort of relates
-to the values that go in here here code
-uncore code if that if that name there
-was banana that would be country of
-birth uncore
-banana okay so code is not you know a
-magic word it&amp;#39;s basically underscore the
-name of the key field primary key code
-in the in the entity in the table to
-which it
-refers carfield or select from t00 5T
-brilliant brilliant t006 why am I
-thinking of t006 is that is that
-currencies no T C currencies it&amp;#39;s a long
-time since I&amp;#39;ve dug around in the ABAB
-stack t006 somebody put tell me what
-t006 is is driving me mad um do you see
-the flexible programing model says
-Raphael becoming more popular or even
-the best practice in the
-future what is the famous uh famous
-um Danish physicist Neils bore say
-prediction is difficult especially of
-the future so I don&amp;#39;t know I mean I
-think I think both um Fury elements
-based uh UI um tooling is going to be
-continue to be super popular but also
-the flexible programming model as a sort
-of a you know not an alternative but as
-a complimentary uh approach absolutely
-absolutely so um Anan says head
-explosion thanks uh or from I
-think I think we I think we should stop
-here I mean it&amp;#39;s a bit of a bit of a
-another cliffhanger
-let&amp;#39;s just let&amp;#39;s just think where we are
-got two more minutes left uh so chak
-chanaka any reason why the views are
-generates are generated any advantage
-behind those views implicitly well
-yes that&amp;#39;s a great question to end on
-and we&amp;#39;ll I&amp;#39;ll I&amp;#39;ll answer it very
-briefly okay if I were to say if I think
-I understand the question why so I&amp;#39;m
-going to interpret the question as why
-are there views as well as tables right
-think in general as of views as being
-the things that sort of translate into
-the entities
-types in od data and of course this is
-you know cap is more about oata but odor
-is you know the most common thing for us
-oh unit of measure thank you Anan unit
-of measure I knew it was a common thing
-and
-you if we were to say
-service banana right and then we also
-had entity something as
-projection on
-Bookshop do
-books um oh we got his title right uh
-title there now what
-happens here let me just move that down
-a bit there so all I&amp;#39;m doing is I&amp;#39;m
-defining a second service with an entity
-so if I say here CDs compile to SQL
-Services uh where is it now um
-create view uh Bookshop books Bookshop
-books common countries where is it where
-is it where is it where is it where is
-it where is it I should do a search
-really localize views localized de we
-look we&amp;#39;ll look at what
-this uh service tell you what CDs watch
-this might be easier to
-see CDs watch come on come on come
-on go
-back there something so this something
-oh there we go I&amp;#39;ve not deployed it
-right remember we have to deploy when we
-change the CDs that was that was also
-the answer why we didn&amp;#39;t get the data in
-the countries even what we put the book
-the data in the csvs so basically think
-of the views as the more natural way to
-express
-projections which are
-essentially the most common way of
-defining entities at the service level
-we&amp;#39;ll dig into that next time hopefully
-that sort of answers your question a
-little bit we&amp;#39;re over time now so thanks
-so much for watching I&amp;#39;m here around
-next week so we&amp;#39;ll see you next week and
-we&amp;#39;ll dig in more and hopefully then
-exit the warehouse and start to use the
-associations with implicit cardinality
-to define a relationship between books
-and authors thanks very much uh yeah
-okay brilliant head explosion hopefully
-that was okay let me know in the chat
-whether that was okay thank you very
-much bye for
-now
+0m25s: [Music]
+0m31s: [Applause]
+0m35s: [Music]
+1m2s: [Music]
+1m16s: [Music]
+1m31s: [Applause]
+1m33s: [Music]
+1m58s: n
+2m3s: [Music]
+2m8s: good morning good afternoon good evening
+2m10s: welcome to handson Sab Dev with me DJ
+2m13s: qro now I&amp;#39;ve just put in the chat uh
+2m16s: that um I&amp;#39;ve got my my ISP vone um is
+2m20s: having some issues in this area at the
+2m22s: moment so um I&amp;#39;m not sure whether we&amp;#39;ll
+2m26s: make it all the way through this episode
+2m27s: but we&amp;#39;ll have it give it a good go let
+2m29s: me know in the chat if you see anything
+2m32s: untoward if you see some
+2m34s: buffering um my the
+2m37s: latency um according to speed
+2m40s: test.net is ridiculous it&amp;#39;s like a
+2m42s: second I&amp;#39;ve got you know over a thousand
+2m45s: millisecs latency at the moment good
+2m48s: morning to visas in Bangkok Thailand
+2m50s: good morning to Kiara uh good morning to
+2m54s: Daniel and good morning to our friend
+2m58s: and uh my fellow colleague um Kevin
+3m2s: Kevin musig your you&amp;#39;ve got your old
+3m4s: surname there on on the old chat there
+3m8s: uh Kevin Rimer uh air maliga Kevin musig
+3m12s: and um yeah welcome welcome welcome and
+3m14s: welcome to Hector as well good morning
+3m17s: and saludos to you in Argentina what
+3m20s: time is it over there my goodness me
+3m22s: thank you very much for joining and Tor
+3m24s: and King B servos to you in Mion uh down
+3m28s: there in Bayern uh so yeah let&amp;#39;s get on
+3m31s: with it before before the interwebs
+3m33s: completely fail around here uh so yeah
+3m35s: like I say let me know in the chat if
+3m37s: you see any sort of buffering or if the
+3m40s: quality of the stream goes down I&amp;#39;m just
+3m42s: going to switch to see to see what&amp;#39;s
+3m44s: going on here I&amp;#39;m getting like you know
+3m46s: warning error warning good poor um etc
+3m50s: etc error YouTube is not receiving
+3m52s: enough video to maintain smooth
+3m53s: streaming blah blah blah blah blah
+3m55s: anyway we&amp;#39;ll see we will see let me um
+3m58s: let me jump to the um uh let&amp;#39;s just dive
+4m3s: straight in um with a few uh little not
+4m7s: announcements but you know just what we
+4m9s: do at the start of this thing right uh
+4m11s: so kaston good morning to you in
+4m12s: stutgart uh goodbye now uh all goodbye
+4m16s: now uh AI oh we got an AI in the uh in
+4m19s: the chat brilliant uh we are in the
+4m21s: future uh Matias good morning to you in
+4m24s: uh mesca in Germany and Stefano bno
+4m27s: here&amp;#39;s to capier exactly here is to
+4m30s: understanding all about cap and the
+4m32s: Fantastic the Fantastic framework that
+4m34s: it is and uh okay the stream is a bit
+4m37s: lagging but fine thank you visas for
+4m38s: letting me know okay I&amp;#39;ll carry on so um
+4m41s: just a few things um two or three weeks
+4m44s: ago it was the International Day of
+4m46s: women and girls in science and we had a
+4m49s: round table with the uh the girls and
+4m52s: women on the sap developer team that&amp;#39;s
+4m54s: Nora and Michelle and Sheena and raika
+4m57s: and Shila it was awesome and today um
+5m0s: it&amp;#39;s actually International women&amp;#39;s day
+5m3s: more generally so uh yeah go
+5m5s: International women&amp;#39;s day
+5m7s: congratulations and everything um and uh
+5m9s: let us know uh on the chat what you
+5m11s: think about that that&amp;#39;s brilliant uh
+5m12s: Kristoff greetings everybody Donnie dark
+5m14s: Donnie Darko uh with one n Donnie uh
+5m17s: that&amp;#39;s interesting good morning to you
+5m19s: in Offenburg uh okay brilliant so the
+5m22s: other thing is that I I realized that
+5m25s: I&amp;#39;d been working you know away with you
+5m27s: if I go you know if I go here for
+5m28s: example on the
+5m30s: uh vs code um I i&amp;#39; sort of done a zip
+5m34s: code download of the repo for I can&amp;#39;t
+5m36s: remember why I did that um uh but I
+5m39s: thought so yesterday I just sort of
+5m40s: updated it a little bit as you can see
+5m42s: 17 hours 18 hours ago um so if you do
+5m45s: want to sort of get to where we are
+5m47s: right now you can clone the repo and
+5m49s: start going from there so for example in
+5m51s: the services. CDs right now uh you can
+5m53s: see like just takes ages what&amp;#39;s going on
+5m56s: uh good morning AP to you in Dorf
+6m1s: wow that is completely slow um good
+6m4s: morning to you rafhael in in the schit
+6m6s: in Switzerland fantastic so we can see
+6m8s: there that what we got where we got to
+6m10s: last week is all up to date now in the
+6m12s: repo um be one more thing uh we got the
+6m16s: sap latest sap developer news um let me
+6m19s: just put the link in the chat there
+6m22s: without the sort of the time time Jump
+6m25s: there where&amp;#39;s my chat thing there it is
+6m27s: put that in there you can see all the
+6m28s: errors as I look here warning error
+6m30s: warning oh my goodness me DJ what are
+6m32s: you doing um and particularly I you know
+6m36s: just happened to pause on this
+6m38s: particular News segment of this week&amp;#39;s
+6m40s: sap developer news and there&amp;#39;s our
+6m42s: lovely friend and colleague Antonio all
+6m44s: our sap developers Etc um telling us
+6m47s: about um new Sab btb solution diagrams
+6m50s: but also about March&amp;#39;s developer
+6m53s: challenge so February developer
+6m55s: challenge that Tom young ran was all
+6m57s: about cap plugins CDs plugins Daniel let
+7m0s: us know in the chat whether we&amp;#39;re
+7m1s: supposed to say cap plugins or CDs
+7m2s: plugins you know cap and CDs are sort of
+7m5s: sort of but not quite
+7m7s: synonymous um but yeah what is the
+7m9s: official term I think it&amp;#39;s cap plugins
+7m11s: you um because it&amp;#39;s more about you know
+7m14s: it&amp;#39;s more than just about you know um
+7m17s: extending the features and capabilities
+7m19s: of CDs the language itself anyway so
+7m23s: this month&amp;#39;s challenge the March
+7m24s: challenge is all about Cloud events um
+7m27s: and in fact there
+7m30s: let me just share that in the chat as
+7m32s: well good morning uh good morning
+7m35s: Garfield in Cape Town fantastic and good
+7m37s: morning Florian in foggy Lubec amazing
+7m41s: um I think maybe I don&amp;#39;t know what I
+7m44s: think um the ISP is having problems but
+7m46s: it&amp;#39;s very foggy here as well not foggy
+7m48s: but yeah overcast anyway DJ stop
+7m50s: rambling so this is week one of March&amp;#39;s
+7m55s: our new developer challenge for March so
+7m57s: there we go dive in dive in dive in uh
+8m0s: you&amp;#39;d say so Daniel so you&amp;#39;d say cap yes
+8m2s: cap uh cap plugins fantastic and good
+8m5s: morning to you in Philadelphia what is
+8m7s: going on we got people from Argentina
+8m9s: Philadelphia bang uh Bangkok Thailand um
+8m13s: Cape Town places in Germany oh my
+8m15s: goodness me uh Switzerland fantastic
+8m18s: thank you for joining right so let us go
+8m21s: now what I wanted to do today with you
+8m23s: all and that key thing is with you all
+8m25s: so remember to chat chat chat put things
+8m28s: in the chat put your thoughts put your
+8m29s: comments put your questions say DJ
+8m31s: you&amp;#39;re an idiot you&amp;#39;re doing it wrong or
+8m35s: whatever Leo van hangle in the house
+8m38s: welcome Leo and Ally good morning to you
+8m40s: in Istanbul fantastic fantastic to have
+8m43s: you all I love you all um where we left
+8m46s: off last time which was last was it last
+8m48s: week I can&amp;#39;t remember last week um was
+8m52s: we had right at the very end and I sort
+8m56s: of did this as a sort of a cliffhanger
+8m58s: um I added a new element to the author&amp;#39;s
+9m4s: entity type or entity definition right
+9m8s: good morning Ian good morning fellow
+9m10s: straa Runner Ian fantastic um I am very
+9m14s: proud to stand sort of not quite
+9m15s: shoulder Tosh shoulder with you because
+9m16s: you&amp;#39;re an amazing Runner but yeah straa
+9m18s: fantastic Daniel Scher says cap plugins
+9m20s: are implemented using the CDs plugin
+9m22s: technique oh just a confuse us thank you
+9m24s: very much Daniel that&amp;#39;s brilliant by the
+9m26s: way folks um I had a great chat with
+9m29s: Daniel uh For an upcoming sap code talk
+9m33s: episode on Cat plugins so uh watch this
+9m37s: space um yeah watch this space so uh
+9m42s: where are we yes so here is where we
+9m44s: left off it&amp;#39;s still super super simple
+9m46s: and where I want to get to whether it&amp;#39;s
+9m48s: this week or whether it&amp;#39;s next week is
+9m51s: to start thinking about relating the
+9m54s: book&amp;#39;s entity with the author&amp;#39;s entity
+9m56s: right because you know these are sort of
+9m57s: separate entities right now there&amp;#39;s no
+9m59s: no relationship between them in fact
+10m0s: let&amp;#39;s just uh start the CDs watch um
+10m3s: remember if you remember you&amp;#39;ll um
+10m5s: you&amp;#39;ll see we actually now have
+10m8s: implemented implemented you know
+10m10s: deployed to an actual file based uh SQL
+10m14s: light persistence layer you can see
+10m15s: there connect to DB sqlite URL is
+10m17s: Bookshop do sqlite which is that file
+10m20s: there um so that it&amp;#39;s all in the file
+10m23s: and um now if we go to uh Local Host 404
+10m28s: we can see those things there we can see
+10m30s: the books and remember we&amp;#39;ve got the the
+10m32s: guids right the guids because the cuid
+10m36s: aspect right aspect for entities with
+10m39s: canonical Universal IDs um is as
+10m42s: decorated that&amp;#39;s not the right word but
+10m44s: anyway I&amp;#39;m going to use it decorated
+10m46s: this entity or both entities with an ID
+10m48s: element which is a key element as well
+10m50s: which is that one there and remember we
+10m52s: put the IDS we generated those uu IDs
+10m54s: and put them into our sort of C CSV
+10m58s: files uh cheyan I love you too cheyan
+11m1s: thank you very much indeed a uh one
+11m3s: about the great things about the
+11m4s: weekends is a DJ session oh fantastic so
+11m7s: I&amp;#39;ve got my um hands on SCB Dev mug a
+11m9s: wol at 8: a.m. can every any anybody on
+11m12s: anybody like an old timer from the hands
+11m14s: onb Dev days when this phrase came
+11m17s: up Ian subbs can&amp;#39;t beat the early
+11m19s: morning runs a DJ must be amazing Along
+11m21s: The Canal at the moment with the Mist
+11m22s: yes it is it&amp;#39;s fantastic sometimes in
+11m24s: the winter it was quite dangerous
+11m26s: because it was Pitch Black and it was
+11m28s: muddy as well and you know there&amp;#39;s a few
+11m30s: times when I almost went into the drink
+11m31s: into the canal into the drink but anyway
+11m35s: um so we got that and we got the books
+11m37s: there we got the authors we&amp;#39;ve also got
+11m41s: this thing in the so right okay so let&amp;#39;s
+11m43s: start thinking slowly because yeah I
+11m45s: want to get to where we start
+11m48s: associating oh I&amp;#39;ve given the game away
+11m50s: there with the key word we want to start
+11m53s: building a relationship between the
+11m54s: books and the authors obviously right
+11m58s: but I want to take a roundabout
+12m0s: root so imagine I was thinking about
+12m3s: this this morning right imagine um oh
+12m7s: hello Hector again I recently discovered
+12m9s: this series about cap and rushed the
+12m10s: previous videos the last two days I love
+12m12s: this series that&amp;#39;s why I&amp;#39;m awake at 5:00
+12m13s: a.m.
+12m15s: Hector lovely lovely to hear fantastic
+12m18s: thank you so imagine um you&amp;#39;re going to
+12m22s: do something and you need a tool and
+12m23s: there&amp;#39;s a big Warehouse of tools with
+12m25s: lots of things built and you know you&amp;#39;re
+12m26s: walking past the warehouse and you could
+12m28s: just put your head in the door and just
+12m30s: grab the tool and come out and go and do
+12m32s: the thing right but we&amp;#39;re not going to
+12m34s: do that I don&amp;#39;t want to do that I want
+12m35s: to take us all for a little journey into
+12m38s: the warehouse to discover what else
+12m40s: there is in there and what tools are
+12m42s: connected and maybe what tools are made
+12m44s: by what other tools and are used by
+12m46s: other tools and everything so we&amp;#39;re
+12m47s: going to take a bit of a a long route to
+12m51s: get to an understanding of how we might
+12m56s: relate the books to the authors let&amp;#39;s go
+12m58s: back here I&amp;#39;m talking about that right
+12m59s: books and
+13m1s: authors and that roundabout route starts
+13m5s: with this this country of birth random
+13m8s: element you know let&amp;#39;s just make
+13m10s: something up an author is born somewhere
+13m12s: right so let&amp;#39;s have a country of birth
+13m14s: and this type country right
+13m17s: so um let&amp;#39;s let&amp;#39;s pick apart what this
+13m20s: has done because it tells us loads and
+13m22s: loads and
+13m24s: loads so what is this this is a type
+13m28s: this you know this is part of the vs
+13m30s: code extension for cap right so I&amp;#39;ve got
+13m33s: the vs code extension if you remember um
+13m35s: in the dev container uh extensions why
+13m37s: is it taking so long I think I think
+13m39s: basically any internet activity is going
+13m42s: to take ages so I wait for that to come
+13m43s: back um but basically this is oh there
+13m47s: we go um come on come on come on sap CDs
+13m50s: language support so basically that
+13m53s: extension is giving me all this goodness
+13m56s: right so you know hover over there and
+13m58s: we get that little thing there
+14m0s: so this is a type now we can also CU in
+14m4s: order to use this type what I did of
+14m6s: course is I imported it
+14m9s: using what I just did then was I dived
+14m13s: into common CDs okay so just go there
+14m17s: again in fact I put that down there can
+14m19s: I put that down there yeah there we go
+14m20s: there we go there we go right
+14m23s: so in my services. CDs which is here
+14m27s: this is basically my CDs DJ CDs our CDs
+14m31s: definition we&amp;#39;ve got an element that is
+14m34s: described by this thing called country
+14m36s: that we&amp;#39;ve imported from here right now
+14m40s: in sap CDs com it used to be in the
+14m42s: olden days in the good old days correct
+14m44s: me if I&amp;#39;m wrong uh Daniel but it used to
+14m46s: be a file that was delivered but now
+14m48s: it&amp;#39;s actually been made into an npm
+14m50s: package okay so you can as you can see
+14m52s: here that&amp;#39;s not a file descriptor that&amp;#39;s
+14m55s: not you know a file path that&amp;#39;s an at
+14m57s: thing so that tells as it&amp;#39;s an mpm
+14m59s: package right in
+15m2s: fact if we have a look it&amp;#39;s not in there
+15m5s: it&amp;#39;s sort of implicit right anyway
+15m7s: anyway anyway
+15m9s: anyway so we can sort of specify files
+15m12s: or npm packages inside the npm package
+15m15s: which is basically in here node modules
+15m18s: sap CDs so it&amp;#39;s there node modules sap
+15m23s: CDs common where is it common. CDs which
+15m26s: is basically that one there
+15m29s: we&amp;#39;ve got a ton of definitions go right
+15m31s: to the top so we start we got type
+15m34s: language type currency type country so
+15m37s: let&amp;#39;s stop there thank you Kevin
+15m39s: fantastic thank you Kevin for oh you&amp;#39;ve
+15m41s: changed your name as well brilliant
+15m44s: um we&amp;#39;ve got this type definition now
+15m47s: remember if we look at
+15m49s: cuid CU ID that is defined in here as
+15m54s: well but that&amp;#39;s defined as an aspect and
+15m56s: an aspect is something that you sort of
+15m58s: stick here you decorate an entire entity
+16m2s: with an aspect but if we want to define
+16m7s: an element and have something that&amp;#39;s
+16m8s: other than the built-in types like
+16m10s: string and integer and Boolean and you
+16m13s: know whatever U
+16m15s: ID we can Define our own types so here&amp;#39;s
+16m19s: a type a common type that&amp;#39;s been defined
+16m21s: for us let&amp;#39;s go back to country where is
+16m23s: it go right to the top because notice at
+16m25s: the top this is another thing we&amp;#39;re
+16m27s: discovering here by digging into this I
+16m30s: good morning to you in Frankfurt by
+16m32s: digging into this at the top there&amp;#39;s no
+16m34s: sort of name space or anything yet we
+16m37s: know about name spaces right um or do we
+16m39s: know about name spaces and name spaces
+16m41s: you know think of java think of
+16m42s: basically package names and everything
+16m44s: we haven&amp;#39;t really covered name spaces
+16m46s: yet but basically you can put a name
+16m47s: space in somewhere I&amp;#39;m sure you&amp;#39;ve seen
+16m49s: it in examples and then you know
+16m53s: namespace um you know Bookshop do
+16m55s: bananas okay and then you all the
+16m57s: entities defined after that in the file
+16m59s: have that namespace prefix okay it&amp;#39;s
+17m1s: just a
+17m2s: name and it&amp;#39;s namespaces are really
+17m4s: important for lots of different things
+17m5s: including you know making sure you don&amp;#39;t
+17m7s: step on your your fellow developers Toes
+17m9s: or your other te your other team&amp;#39;s toes
+17m12s: uh you know when you define things
+17m14s: anyway that&amp;#39;s coming shortly so type
+17m17s: where is it type country but check out
+17m20s: what type country is it&amp;#39;s not like a a
+17m22s: Scala type it&amp;#39;s not like just a you know
+17m24s: a string of 10 10 characters or
+17m27s: something what is it it&amp;#39;s an association
+17m30s: to sap common countries so all already
+17m33s: we&amp;#39;re in the warehouse already we&amp;#39;re
+17m34s: looking at the shelves of
+17m36s: stuff that&amp;#39;s available to
+17m39s: us in the CDs language
+17m42s: World okay AI says it is breaking once
+17m45s: in a while but does not cause any issue
+17m46s: to follow you thank you very much for
+17m47s: letting me know keep letting me know how
+17m49s: this is
+17m50s: right so um where was oh yeah so there&amp;#39;s
+17m55s: a million things here so type this is
+17m57s: how you define your own
+17m59s: types you can find your own types right
+18m2s: what is this type it&amp;#39;s an
+18m4s: association I&amp;#39;m going to jump over
+18m7s: Association somebody in the chat put
+18m9s: what they think this association means
+18m12s: and what it does okay while I ask you to
+18m16s: put that in the chat what you think
+18m18s: Association is let&amp;#39;s just have a look
+18m21s: what this is to sap. common. countries
+18m25s: so this is like a bit of a a name prefix
+18m27s: right so where is that defined well if
+18m30s: we hold down uh command again on Mac OS
+18m32s: or control I suppose on
+18m34s: Windows click on that code list for
+18m37s: countries there&amp;#39;s another term code list
+18m39s: because one of the let me know in the
+18m41s: chat as well one of the things I find a
+18m45s: the most fascinating but also B
+18m48s: potentially quite overwhelming is the
+18m51s: number of terms so let&amp;#39;s just let this
+18m54s: wash over us and let&amp;#39;s just let it seep
+18m57s: into our brains and stare at this stuff
+18m59s: so that it becomes more familiar so this
+19m2s: is a code list what is a code list we
+19m5s: don&amp;#39;t know let&amp;#39;s find out what a code
+19m6s: list is countries so let&amp;#39;s just command
+19m9s: click there we jump down further into
+19m12s: the file right notice this breadcrumb
+19m16s: thing that VSS code gives us so it&amp;#39;s in
+19m18s: a file in the node modules at sap CDs
+19m21s: directory it&amp;#39;s in a file called common.
+19m23s: CDs and it&amp;#39;s within a name space or a
+19m27s: context
+19m28s: called sap. common and this I suppose
+19m31s: just gives us the um the last part of
+19m33s: that namespace common common brackets
+19m36s: package you can see it there on line 33
+19m38s: sap. common okay um and then within
+19m42s: sap.com within that context notice that
+19m44s: it&amp;#39;s an Open Bracket we&amp;#39;ve got this this
+19m46s: entity defined inside
+19m49s: sap.com this is like a bit of a head
+19m51s: explosion but you know we&amp;#39;s do it as
+19m52s: slow as we we need
+19m54s: to inside the sep.com we&amp;#39;ve got what
+19m58s: this this countryes thing is so the fact
+19m59s: that we&amp;#39;ve got entity countries the name
+20m3s: of this entity really is sap. common do
+20m7s: countries okay think of context as a
+20m10s: sort of a as an infile some some
+20m13s: namespace definition uh oh sorry a
+20m16s: namespace declaration that you can have
+20m20s: within a file it&amp;#39;s almost like you know
+20m22s: um you know well yeah you can have
+20m24s: multiple contexts defined I you can Nest
+20m28s: them you can have them sort of you know
+20m29s: as peers in a file and so on okay have
+20m32s: some water actually so um AI says a
+20m35s: reference to another table AK CDs sadish
+20m38s: good morning to you chakia good morning
+20m41s: you&amp;#39;re late to time but it&amp;#39;s okay you&amp;#39;re
+20m44s: welcome so um so a so AI is Right a
+20m49s: reference to another table well I say a
+20m51s: refer cuz table is more of a persistence
+20m54s: layer thing so let&amp;#39;s remain thinking
+20m56s: let&amp;#39;s try and remain thinking at the CD
+20m58s: s level so I&amp;#39;m going to say really
+21m0s: vaguely it&amp;#39;s a it&amp;#39;s a reference to a
+21m4s: relationship to another thing right
+21m6s: let&amp;#39;s go back again actually um let&amp;#39;s go
+21m8s: back up to here type where is it type
+21m11s: country Association to sap common
+21m14s: countries and we when we jump there we
+21m15s: know it&amp;#39;s an
+21m17s: entity okay so we&amp;#39;re going to we&amp;#39;re
+21m20s: going
+21m21s: to explore this this Warehouse of stuff
+21m24s: very briefly then can sort of roll back
+21m26s: up again so we got an entity defined for
+21m31s: us called countries and that&amp;#39;s why also
+21m34s: we see
+21m35s: here that we&amp;#39;ve got in our service
+21m39s: endpoints the list of entities that are
+21m41s: available we can see countries okay and
+21m43s: at the moment of course there&amp;#39;s nothing
+21m45s: in countries in fact let me put my head
+21m47s: down there so you can see the top
+21m48s: there&amp;#39;s nothing in countries because we
+21m51s: don&amp;#39;t we haven&amp;#39;t specified any sort of
+21m53s: you know initial data we&amp;#39;ve got
+21m54s: bookshops authors Bookshop
+21m56s: books but we haven&amp;#39;t got anything
+22m0s: for countries
+22m2s: now put in the chat if we wanted to put
+22m7s: to have some CSV data to sort of
+22m9s: prepopulate the list of
+22m13s: countries what would be the name of the
+22m16s: file in this data directory would it be
+22m18s: Bookshop do countries or would it be
+22m20s: something else have have a thing and put
+22m21s: it in the
+22m22s: chat now if we have a look here for
+22m26s: example um cap Cloud sap docs CDs common
+22m30s: entity countries um let me just put that
+22m33s: on um the third one there let while
+22m36s: that&amp;#39;s
+22m37s: loading let&amp;#39;s have a look has this
+22m39s: entity countries only got one element a
+22m44s: key element a code element so there
+22m46s: there&amp;#39;s lots of things going on what
+22m48s: we&amp;#39;re going to do is ignore for now
+22m50s: these annotations we&amp;#39;re not going to
+22m51s: talk about annotations because there&amp;#39;s
+22m53s: only so much I think we should look at
+22m55s: at the you know in one go so think about
+22m59s: the entity
+23m0s: definition we&amp;#39;ve got a single element
+23m3s: the name of which is code is defined as
+23m6s: a you know quite a simple scaler type A
+23m9s: String three character string okay and
+23m13s: we can sort of guess what that might be
+23m14s: you know uh gbr for Great Britain or you
+23m18s: know um deu for deutchland uh or de you
+23m22s: know two characters three characters I
+23m23s: think there&amp;#39;s an ISO standard 3166 I&amp;#39;m
+23m25s: going to guess uh oh no sorry 42 3166
+23m30s: was the U wasn&amp;#39;t it uh 4217 a threel
+23m34s: alpha code right oh sorry that&amp;#39;s
+23m36s: currencies um oh what where is it where
+23m39s: is it where is it where is
+23m41s: it countries oh it is 3166 3166 two
+23m46s: letter Alpha codes as primary keys for
+23m48s: example oh this really annoys me this
+23m49s: really annoys me for example GB for the
+23m52s: United Kingdom anybody any any folks in
+23m54s: the chat from UK Hector Hector&amp;#39;s got it
+23m57s: right SA p. common. countries and
+24m0s: Raphael has got it right in a sort of a
+24m1s: meta sense exactly name space entity
+24m5s: name right so in fact let&amp;#39;s yeah let&amp;#39;s
+24m9s: let&amp;#39;s digress let&amp;#39;s digress let&amp;#39;s
+24m11s: control C
+24m13s: remember
+24m15s: here um Z for example Garfield Says Z
+24m19s: for South Africa exactly um does does
+24m22s: that come from the Africans sort of the
+24m24s: Flemish the Dutch zud with a zed South
+24m27s: Africa
+24m29s: maybe maybe maybe there is a package
+24m31s: maybe uh the community could create a
+24m33s: package that you could import that would
+24m36s: I don&amp;#39;t know I don&amp;#39;t know anyway that&amp;#39;s
+24m37s: a that&amp;#39;s a great Point zud Africa
+24m39s: exactly Garfield thank you very much for
+24m40s: confirming that zud as in you know um
+24m44s: the the Flemish for South so when I you
+24m47s: know I travel to uh Europe I you know
+24m50s: sometimes get the Euro star from London
+24m51s: some panas to um Brussels midi or
+24m55s: Brussels zud um anyway DJ stop
+24m58s: digressing um what we&amp;#39;re going to do oh
+25m0s: yes so CDs
+25m2s: ad remember this CDs ad if we say CDs
+25m5s: add
+25m8s: d-el we can add CSV headers for modeled
+25m12s: entities so what happens if we see CDs
+25m15s: add-- data right let me close this up
+25m21s: here oh CD oh sorry CDs add data adding
+25m26s: feature data look at this and because of
+25m29s: convention we are sort of defining
+25m31s: convention at the moment by putting our
+25m33s: CSV files in a data directory the sort
+25m36s: of standard convention is to have the
+25m40s: persistence layer uh CDs and
+25m43s: accompanying sort of CSV
+25m45s: files in a directory called DB remember
+25m49s: early on in the series we looked at the
+25m51s: three directories that are generated
+25m53s: look watch this watch this watch this if
+25m54s: we go to I I know um let&amp;#39;s do it here
+25m57s: instead just in case uh CD temp CDs init
+26m1s: that bigger CDs init uh test prod right
+26m5s: CDs in it Test Pro creating new C
+26m8s: project in Test Pro CD Test Pro tree
+26m12s: there we go and what happens is it
+26m15s: defines for us it creates for us when it
+26m18s: initializes a project a simple package
+26m22s: Json there right dead simple and it
+26m25s: creates three empty director
+26m28s: app for the front end stuff DB for the
+26m31s: persistence layer stuff as in for where
+26m34s: you define your entities and the
+26m36s: relationships between your entities and
+26m37s: serve for your sort of service level
+26m40s: stuff remember we covered this before
+26m41s: right so hey we don&amp;#39;t need that anymore
+26m44s: um and what it&amp;#39;s done is it&amp;#39;s created
+26m47s: the data directory inside the DB
+26m50s: directory which didn&amp;#39;t exist so it&amp;#39;s you
+26m52s: know sort of autocreated it it um what&amp;#39;s
+26m54s: the what&amp;#39;s that Pearl word it um Auto
+26m58s: Auto vivified it auto vivification it&amp;#39;s
+27m0s: sort of creation of the the things along
+27m3s: the way to create what you need to
+27m4s: create type thing sort of Auto
+27m7s: verification
+27m8s: pearl auto
+27m12s: vivification what is auto verification
+27m15s: yes um Pearl programming language there
+27m17s: we go automatic creation of new arrays
+27m18s: and hashes as required every time an
+27m20s: undefined value is dot dot dot CU my
+27m22s: internet&amp;#39;s too
+27m23s: slow DJ when your internet&amp;#39;s slow it&amp;#39;s
+27m27s: even less of a reason to
+27m28s: digress so what it&amp;#39;s now done as uh who
+27m32s: was it as Raphael and Hector says look
+27m35s: sa. com- countries namespace
+27m39s: sap.com entity name right anyway that&amp;#39;s
+27m43s: fine so let&amp;#39;s just uh go back down
+27m47s: again what else have we got we know the
+27m49s: code is
+27m51s: key but also this
+27m54s: entity is decorated with a another thing
+27m58s: which is an aspect which defines a code
+28m1s: list so it&amp;#39;s like you know I&amp;#39;ll let you
+28m4s: watch this again and dig down yourself
+28m6s: because this is definitely definitely
+28m8s: definitely worth digging into so what is
+28m10s: a code list aspect a Cod list aspect
+28m13s: we&amp;#39;ve seen aspects before haven&amp;#39;t we
+28m15s: there&amp;#39;s an aspect cuid that just adds in
+28m18s: fact we if we go there the aspect cuid
+28m20s: just adds a single element I called ID
+28m24s: it defines it as a key element and it
+28m26s: defines it of base type uuid we know
+28m29s: that already right go back again do we
+28m31s: go can we go back like that perfect
+28m33s: brilliant um and we got this cont so now
+28m36s: we&amp;#39;ve got this country aspect and the
+28m37s: country aspect is an entity called
+28m39s: countries which is also decorated itself
+28m42s: with an aspect which adds two elements
+28m46s: to it so name and description now this
+28m48s: is a lot to think about okay this is a
+28m52s: lot to think about so let&amp;#39;s have a
+28m54s: look now we&amp;#39; sort of
+28m57s: gently and skim the surface of this
+29m0s: stuff here if we have a look at the
+29m3s: countries it doesn&amp;#39;t oh I&amp;#39;m not reading
+29m5s: thing CDs
+29m7s: watch come on come on come on come on
+29m9s: come
+29m13s: on there if we uh look at the countries
+29m17s: it doesn&amp;#39;t really tell us much but but
+29m19s: if we have a look at the metadata let&amp;#39;s
+29m22s: make that a little bit bigger where is
+29m24s: it we&amp;#39;ve got um we&amp;#39;ll come back to the
+29m27s: entity container in a second but we have
+29m29s: here entity name I&amp;#39;ll just highlight the
+29m32s: that bit there ignore the country&amp;#39;s text
+29m34s: Cu that&amp;#39;s even more exciting
+29m38s: right we all know and we&amp;#39;re all happy
+29m41s: with I hope let me know if you&amp;#39;re not in
+29m43s: the chat with OD data metadata documents
+29m46s: and the XML and the what we&amp;#39;re defining
+29m49s: here what we have defined here for
+29m52s: example is the equivalent of what we&amp;#39;ve
+29m54s: defined here entity authors with a Cy ID
+29m57s: aspect so we&amp;#39;ve got the ID from the CU
+30m0s: ID we&amp;#39;ve got the name property here from
+30m2s: the name element here and we also have
+30m6s: this country of birth but it&amp;#39;s a
+30m8s: navigation property why is it a
+30m10s: navigation property because can I go
+30m13s: back here in the file as
+30m16s: well uh yeah there we go look this
+30m21s: navigation property where is
+30m24s: it there let me highlight that
+30m28s: so stare at that green bit and have a
+30m30s: look over here country of birth is
+30m33s: defined with a type country but that
+30m34s: type country is an association
+30m39s: so the answer to what is this
+30m42s: Association it&amp;#39;s a relationship between
+30m45s: two entities and that relationship in od
+30m48s: data is
+30m49s: expressed as a navigation property as
+30m53s: you&amp;#39;d expect in od data so we have the
+30m55s: navigation property country of birth
+30m57s: where does that go to it goes to
+31m0s: Bookshop do countries which is an entity
+31m3s: type and of course you know because of
+31m5s: the way the OD is defined and everything
+31m6s: we have this entity set here entity set
+31m10s: name countries of type Bookshop
+31m14s: countries Let&amp;#39;s ignore the underscore
+31m16s: text for a
+31m17s: minute so if we now have a look at
+31m20s: entity type name equals countries where
+31m23s: is it there we can see
+31m28s: the country&amp;#39;s entity type for which is&amp;#39;s
+31m31s: an entity
+31m32s: set comprises three properties name
+31m37s: description and code it&amp;#39;s also got some
+31m40s: navigation properties but we&amp;#39;ll again
+31m42s: come on to those
+31m44s: later name and description come exactly
+31m48s: from the code list look name and
+31m52s: description because the code list is
+31m55s: used to decorate as an aspect the
+31m58s: country&amp;#39;s entity which itself has a
+32m1s: single element property code okay now
+32m6s: one of the oh yeah that&amp;#39;s it one of the
+32m7s: things that really annoys me um is that
+32m10s: ISO ISO the organization it leaves a lot
+32m13s: to be desired to be
+32m15s: honest how can you get it ISO so wrong
+32m19s: United Kingdom consists of Great Britain
+32m22s: and Northern Ireland so why have GB as
+32m25s: the representation for something that is
+32m29s: greater than what GB is as in United
+32m32s: Kingdom of Great Britain and Northern
+32m34s: Ireland anyway rant over you know what
+32m37s: do I know what do I know I&amp;#39;m just an
+32m39s: idiot Raphael says is it okay to ask
+32m41s: some off top ask some off topic
+32m43s: questions or will there be a Q&amp;amp;A later
+32m45s: Raphael ask away I may not be able to
+32m47s: answer the question but this is what
+32m49s: this is what the live stream is all
+32m51s: about you know asking questions having
+32m53s: chat with each other um asking me
+32m55s: questions like I say I might not be able
+32m56s: to answer there might be somebody else
+32m57s: who can answer on the chat or I can find
+32m59s: out and ask ask answer next time so yes
+33m1s: please ask
+33m3s: away by the way somebody put in the chat
+33m5s: is this is this helpful am I confusing
+33m7s: you more than I&amp;#39;m helping you let me
+33m9s: know so countries why don&amp;#39;t we add why
+33m13s: don&amp;#39;t we add into here just so we can
+33m15s: sort of understand and let&amp;#39;s add it in
+33m17s: this file here sap common countries
+33m19s: there we go code name description so if
+33m21s: we say code GB I hate it name United
+33m26s: Kingdom
+33m27s: of Great Britain and
+33m33s: Northern Island um description
+33m36s: brexitland there we go how about that
+33m38s: we&amp;#39;ll have one more de um
+33m41s: Germany uh home of the
+33m45s: sap Mothership for example right there
+33m49s: we go uh Gregorian hello to you so now
+33m54s: we can see code name description code
+33m56s: name description and also we&amp;#39;ve got in
+33m59s: the country here we where is it
+34m2s: code code and then we&amp;#39;ve got name and
+34m7s: description now if we go back we can see
+34m10s: countries oh ah now tell me why has why
+34m15s: has that still not
+34m18s: um uh still not appeared okay if we
+34m22s: added before um if we had added data to
+34m25s: a CSV file and the service
+34m29s: restarts okay why don&amp;#39;t we see countries
+34m32s: let&amp;#39;s pause there for a second because
+34m34s: maybe I&amp;#39;m going too fast maybe I&amp;#39;m going
+34m36s: too fast let&amp;#39;s pause there for a second
+34m37s: and also to give Raphael a chance to ask
+34m39s: the question are there any downsides to
+34m41s: oh I see the word neovim coming up in
+34m43s: the sentence here are there any
+34m45s: downsides to using neovim instead of vs
+34m47s: code for ui5 and cap development at the
+34m51s: moment that&amp;#39;s a good question I
+34m54s: think I mean part of me wants to say of
+34m56s: course there&amp;#39;s no downsides I mean
+34m58s: neovim is the best editor and you know
+35m1s: combined with other tools is the
+35m4s: IDE the best IDE in the
+35m7s: world however I think the downside is
+35m10s: that it will always
+35m13s: be um a
+35m15s: secondary Target at best for tools that
+35m20s: come from sap and other organizations
+35m23s: for doing this sort of stuff so for
+35m25s: example
+35m28s: of course we have for vs
+35m31s: code like I mentioned
+35m33s: before the sap CDs language support
+35m38s: extension which is an amazing extension
+35m40s: with all sorts of features and
+35m42s: functionalities that is designed
+35m44s: specifically to work with vs code and of
+35m47s: course with the business applications
+35m49s: you do Dev spaces
+35m50s: right now that means that you know I
+35m53s: can&amp;#39;t go ahead and just somehow
+35m56s: magically easily plug this extension
+35m58s: into neovim what I can do though um is
+36m2s: use and Garfield&amp;#39;s saying the same thing
+36m4s: right I can actually use the core of
+36m8s: what the sap CDs language support is
+36m10s: which is basically a language server for
+36m13s: CDs somebody in the chat put what a
+36m17s: language server is and what the language
+36m19s: server protocol is it&amp;#39;s actually came
+36m21s: from VSS code the language so yeah I&amp;#39;ll
+36m23s: I&amp;#39;ll let you I&amp;#39;ll let you answer to that
+36m25s: so there is
+36m27s: a um a oh I can&amp;#39;t where I can&amp;#39;t remember
+36m30s: where it is there&amp;#39;s a GitHub project by
+36m32s: a colleague here at sap um that where
+36m36s: they have CU I I very early on I created
+36m39s: a wrapper around the parts of the
+36m42s: library that was that were inside this
+36m44s: extension you know uh so cap a cap
+36m47s: library that was basically the language
+36m48s: server for TDS I wrapped that in a bit
+36m51s: of Vim script and used it in Vim there&amp;#39;s
+36m54s: now for neovim a a plugin that does the
+36m57s: same thing but better because mine was a
+36m59s: bit rubbish with syntax highlighting as
+37m2s: well using um using uh tree
+37m5s: sitter and uh so you can actually in
+37m9s: neovim work with CDs quite nicely not as
+37m13s: nicely yet as what you can do in vs code
+37m16s: but yeah so it will always lag a little
+37m18s: bit behind and it will only catch up
+37m21s: when people like you know us build extra
+37m25s: bits to help neovim sort of benefit from
+37m29s: the stuff that&amp;#39;s being built for other
+37m31s: tools does that make
+37m32s: sense um uh so Hector says yes it&amp;#39;s
+37m36s: helpful I&amp;#39;m getting friendly with the
+37m37s: metadata now yes fantastic get friendly
+37m39s: with the metadata get friendly with the
+37m41s: CDs with the cap server output um chakia
+37m45s: um LSP not quite lisp lisp is a you know
+37m48s: is a is a family of languages you know a
+37m50s: functional uh family language like
+37m52s: scheme is also a you know a lisp uh
+37m54s: closure is a lisp but that&amp;#39;s not what
+37m56s: we&amp;#39;re talking about here um is LSP
+37m59s: language server protocol exactly so
+38m1s: maybe it&amp;#39;s was just a typo yes exactly
+38m3s: the protocol for language server so the
+38m4s: idea of a language server is you&amp;#39;ll have
+38m6s: a language like CDs like Java like go
+38m9s: like
+38m11s: lure um and different editors will want
+38m15s: to have features for that language right
+38m18s: in the in the editors so why write and
+38m20s: rewrite for every single editor out
+38m22s: there you know intellig net beans vs
+38m25s: code whatever atom all you know and
+38m29s: reinvent these things so instead have a
+38m32s: language server which knows everything
+38m34s: there is to know about and provides
+38m36s: features for a certain language CDs for
+38m38s: example and then have this protocol that
+38m40s: the editor can connect to this language
+38m42s: server and asks the server for help for
+38m44s: that language that&amp;#39;s what sa the sap cap
+38m47s: team have developed in the form of this
+38m50s: sap CDs language support and you know
+38m51s: that&amp;#39;s a bit more as well so yeah so the
+38m53s: sap FY tools also have a lot of
+38m55s: functionality for vs code and business
+38m56s: application exactly so I understand how
+38m58s: but I&amp;#39;m not sure the why we should
+38m59s: prefer a country&amp;#39;s Association is is it
+39m1s: to get the OD navigation functionality
+39m4s: ah okay okay so let me just read that
+39m6s: again I understand the how but I&amp;#39;m not
+39m7s: sure about the why we should prefer a
+39m9s: country&amp;#39;s
+39m11s: Association um are you talking about why
+39m16s: we have an association rather than just
+39m19s: a
+39m20s: type I think it&amp;#39;s and if that&amp;#39;s the case
+39m24s: um it is partly to get the O dat
+39m26s: navigation functionality but that for me
+39m29s: is just a nice side effect of having
+39m32s: sort of at the data level separation of
+39m35s: concerns you know you define your
+39m37s: countryes
+39m39s: once refer to them as a with a
+39m42s: code and then they can be
+39m44s: maintained separately and
+39m47s: independently from the records that
+39m51s: point to or have references to countries
+39m53s: so for example here let me just close
+39m56s: that that&amp;#39;s a that&amp;#39;s a great question um
+39m58s: let&amp;#39;s just leave that there for a minute
+40m0s: uh go back to services
+40m2s: so I could of course put country of
+40m5s: birth and then have um type you know a
+40m9s: three character string there and have D
+40m12s: UK FR for France or whatever right um
+40m17s: but we we might want to for example have
+40m23s: different translations for different Nam
+40m26s: for for example the French for the
+40m28s: French this is this is So Meta the
+40m30s: French for Germany is Alania right the
+40m33s: the English for Germany is Germany the
+40m34s: German for Germany is deut right so you
+40m37s: you&amp;#39;d want different local variants of
+40m41s: the long text versions of these these
+40m44s: these sort of generic pieces of data so
+40m46s: it makes makes a lot more sense for me
+40m49s: to have this data in a separate entity
+40m52s: where you can manage it and have extra
+40m54s: information about it right for example
+40m56s: for example um here now notice that the
+41m2s: description home of the sap Mothership
+41m4s: that&amp;#39;s in English but one of the things
+41m6s: we saw
+41m8s: here where&amp;#39;s my copy one of the things
+41m10s: we saw when we&amp;#39;re
+41m12s: exploring right
+41m15s: is um where was it oh yeah here we go
+41m18s: here we go when we look at the metadata
+41m20s: we also
+41m22s: noticed that for example if we have a
+41m24s: look at the entity set name countries
+41m26s: and so this this is great and this is
+41m28s: exactly why we are sort of
+41m30s: metaphorically walking around the
+41m33s: warehouse of stuff that&amp;#39;s in sap CDs uh
+41m38s: sap CDs common right is teaching us
+41m43s: different things we&amp;#39;ve come across types
+41m44s: and aspects we Cod the idea of a code
+41m47s: list the idea of an association you know
+41m49s: and this will do more associations
+41m51s: later okay
+41m54s: um but we also have
+41m57s: seen in the generation of this that
+42m1s: we&amp;#39;ve got this entity set countries with
+42m2s: this mysterious navigation property
+42m5s: binding texts within a target of yet
+42m8s: another entity type countryes texts what
+42m12s: the heck is that where has that come
+42m14s: from and if you remember if we remember
+42m17s: when we last week we said CDs um compile
+42m22s: if we compile let&amp;#39;s have look at the
+42m23s: services let&amp;#39;s at the services there
+42m25s: right um
+42m26s: ah yeah okay tell you what let&amp;#39;s save
+42m28s: that let&amp;#39;s save it yeah this is I think
+42m30s: this is worth thinking hard about so let
+42m33s: me know in the chat if you&amp;#39;re okay in
+42m35s: know slowing down and thinking hard
+42m37s: about these questions and not rushing to
+42m39s: get onto associations we can get onto
+42m42s: associations how the how the type the
+42m46s: country type is an association and then
+42m48s: build that up to association between
+42m49s: books and authors with the knowledge we
+42m51s: gain next week so let me know if it&amp;#39;s
+42m53s: okay to continue on this journey with
+42m56s: all all these brilliant questions okay
+42m58s: um so for example Garfield says country
+43m0s: names changed Burma became Myanmar
+43m2s: exactly exactly
+43m5s: um
+43m7s: so let&amp;#39;s just save this for a second
+43m9s: note that in vs code that means it&amp;#39;s not
+43m11s: saved so I&amp;#39;ll press control whatever you
+43m13s: know old command s or col W because I&amp;#39;ve
+43m16s: got the um I&amp;#39;ve got the uh Vim where is
+43m19s: it uh in my not compile if we compile
+43m22s: let&amp;#39;s get rid of that and that for a
+43m24s: second CDs compile let&amp;#39;s compile this
+43m28s: that&amp;#39;s all we&amp;#39;ve got we don&amp;#39;t need
+43m30s: country anymore so let&amp;#39;s get rid of that
+43m31s: just so visually so oh we don&amp;#39;t want to
+43m34s: get rid of that uh there so
+43m36s: that&amp;#39;s simple simple simple simple CDs
+43m41s: compile to
+43m43s: SQL Services right we&amp;#39;ve done this
+43m46s: before but let&amp;#39;s do it again Ian says uh
+43m49s: it&amp;#39;s fine by me it&amp;#39;s the deeper stuff
+43m50s: that sets this apart from other sessions
+43m52s: thank you okay good good good good let&amp;#39;s
+43m54s: dig in so I&amp;#39;ve changed this country of
+43m57s: birth element to be defined as a simple
+43m59s: scaler type of of a three character
+44m1s: string right three by
+44m3s: string we&amp;#39;re back to something super
+44m6s: simple country of birth nvarchar
+44m10s: 3 and that&amp;#39;s where to go back to um AI
+44m14s: is great question you know we could get
+44m16s: get away with that okay and Define and
+44m19s: for every single author for every single
+44m21s: record where we have you know for
+44m23s: example the authors we&amp;#39;ve got no uh no
+44m26s: Fielding what&amp;#39;s going uh Ian Banks and
+44m28s: Douglas NL Adams right no field
+44m32s: who um we Define different things but of
+44m35s: course that means that there could be
+44m37s: some
+44m38s: inconsistencies you know we don&amp;#39;t want
+44m41s: just uncontrolled data if we&amp;#39;re going to
+44m45s: have a country of birth we don&amp;#39;t uh SEO
+44m48s: for Scotland or uh UK whatever and
+44m51s: that&amp;#39;s you know that&amp;#39;s not consistent so
+44m53s: that&amp;#39;s another reason for having a
+44m54s: separate entity with a code that is
+44m56s: either correct or not correct I.E
+44m59s: whether it is in that separate entity
+45m1s: does that make sense um okay so why is
+45m4s: that so simple because we&amp;#39;ve defined
+45m6s: this but now if we change this back to
+45m8s: Country there and we also need to of
+45m11s: course
+45m12s: um save that I&amp;#39;m not sure why that is
+45m15s: telling me it&amp;#39;s not uh using this Source
+45m17s: because it is using in this source so
+45m18s: maybe it&amp;#39;s you know install this
+45m20s: extension wrong or something but now if
+45m22s: we do that
+45m24s: again we this explosion of stuff and we
+45m28s: we sort of now starting to get the feel
+45m30s: as to why there&amp;#39;s such an explosion of
+45m33s: stuff we haven&amp;#39;t got a feel for uh all
+45m36s: of it so let&amp;#39;s just go through this now
+45m39s: because it&amp;#39;s just a ton of stuff I mean
+45m41s: going from all we had before was that
+45m44s: those two tables and then the country of
+45m47s: birth was defined as an narar 3 right
+45m50s: however it was defined as country oh
+45m54s: tell you what tell you what where is
+45m57s: it let me do that again let me do that
+45m59s: again let me go back
+46m1s: here because it&amp;#39;s something super super
+46m4s: interesting here if I change back bit to
+46m6s: string three for example
+46m9s: right can I just do another
+46m12s: terminal let&amp;#39;s put that like that and do
+46m14s: a side by side split
+46m16s: terminal
+46m20s: now this compilation
+46m24s: output
+46m26s: okay is from when we had the um country
+46m31s: as as the type defining this ENT uh
+46m35s: element I&amp;#39;ve now changed it back to
+46m37s: string if I say CDs compile to SQL
+46m41s: services. CDs and we get that simple
+46m45s: thing we have
+46m48s: basically wo sorry that was a bit what&amp;#39;s
+46m50s: going on down we have
+46m53s: basically almost but not quite the same
+46m56s: thing can anybody
+46m58s: spot what the difference
+47m1s: is
+47m3s: between this create table ddl statement
+47m7s: sorry these two and these
+47m10s: two put in the chat what the difference
+47m13s: is where the difference is right and the
+47m17s: answer is basically a massive
+47m21s: clue when we want to start thinking
+47m24s: about associ and managed associations
+47m27s: I.E relationships between entities that
+47m31s: we can Define really comfortably with
+47m33s: CDs where CDs does the sort of heavy
+47m37s: lifting of foreign keys for us
+47m41s: right so while you think of that and put
+47m43s: it in the chat what the difference is
+47m45s: it&amp;#39;s only five characters difference I
+47m46s: think tell me what the difference is so
+47m50s: um so a says uh Hector&amp;#39;s got it Hector&amp;#39;s
+47m55s: got it but um tell me what you think
+47m57s: tell me what you think what where that&amp;#39;s
+47m58s: coming from underscore code brilliant so
+48m1s: actually say I thought just like how
+48m2s: there are standard countries curent
+48m3s: currency packs in sap when I refer myty
+48m5s: a similar pack in the background
+48m6s: somewhere is referred I mean that&amp;#39;s a
+48m8s: great question um I&amp;#39;m sure this question
+48m10s: came up a long time ago and I can&amp;#39;t
+48m12s: remember what the answer was maybe
+48m14s: Daniel can comment here um I&amp;#39;m not sure
+48m18s: what what what what the real desire not
+48m23s: what the real desire is but what the
+48m25s: consensus was it&amp;#39;s a great question let
+48m27s: me let me do some digging next week and
+48m30s: find out what the consensus internally
+48m32s: is about this about supplying data yeah
+48m36s: so that&amp;#39;s a great question so um so a AI
+48m39s: says amazing got it it&amp;#39;s all about
+48m40s: maintenance maintenance maintenance as
+48m41s: it always has been yes exactly and an
+48m43s: says if associations like foreign key as
+48m45s: generally dictionary objects why haven&amp;#39;t
+48m46s: we specified the cality ah what a
+48m49s: brilliant question and and what a
+48m50s: brilliant question and we got to get on
+48m51s: to
+48m52s: cardinality but the answer just to sort
+48m55s: of Jump Ahead a little bit the
+48m57s: answer lies in this special keyword and
+49m1s: the different variants of this keyword
+49m3s: called
+49m5s: association association
+49m7s: to Association to one something
+49m11s: Association to many something okay and
+49m16s: with this super beautiful sort of high
+49m19s: level abstract convenience layer I&amp;#39;m
+49m22s: thinking about this in terms of building
+49m25s: relationship ship between entities which
+49m26s: we still haven&amp;#39;t done yet you know we&amp;#39;re
+49m28s: going to get to this but let&amp;#39;s talk
+49m29s: about it so when we do get to it it
+49m31s: makes a bit more sense hopefully right
+49m34s: we can use CDs to define a relationship
+49m36s: and sort of
+49m38s: implicitly without having to mess about
+49m41s: with
+49m42s: defining fields at the persistence layer
+49m45s: that are foreign key
+49m47s: Fields cap does that forers by turning
+49m51s: those associations and the different
+49m52s: variants of those associations into
+49m56s: actual relationships at the persistence
+49m58s: layer that have the right
+50m2s: fields for the appropriate cardinality
+50m7s: now I&amp;#39;ll just jump down to what Hector
+50m9s: says um in the country of birth exactly
+50m13s: there is the difference country of birth
+50m15s: uncore code and Country of
+50m19s: birth so when let me go get rid of that
+50m23s: one there this one comes from
+50m26s: from that variant okay so we got this
+50m28s: country and we know that
+50m33s: country is a type and we know that the
+50m36s: country type is defined as an
+50m38s: association so to answer your question
+50m40s: an
+50m41s: and right we
+50m44s: are implicitly specifying the
+50m47s: cardinality here of this country type in
+50m51s: that it&amp;#39;s an association to
+50m53s: one entry
+50m57s: in the sap common countries thing which
+51m2s: is itself an entity which of course then
+51m4s: in odata terms for example when it&amp;#39;s
+51m6s: compiled to OD data and served as OD
+51m9s: data becomes an entity type of which is
+51m13s: there is also then an entity set well I
+51m15s: haven&amp;#39;t got I haven&amp;#39;t forgotten
+51m16s: underscore texts we&amp;#39;ll have to look at
+51m18s: that next time I think because that&amp;#39;s
+51m20s: super super interesting as well I will
+51m23s: just say now um
+51m26s: I will just say now that when we dig in
+51m29s: to the to the Cod list
+51m32s: aspect which is what we used or what was
+51m35s: used to
+51m38s: decorate the country&amp;#39;s entity
+51m41s: definition right the Cod list has these
+51m46s: two elements name and description there
+51m49s: where is it where is
+51m52s: it there name and description right
+51m56s: what&amp;#39;s this
+51m59s: localized localized is another
+52m3s: CDs language
+52m6s: element that does a lot of heavy lifting
+52m10s: and it&amp;#39;s this localized element that
+52m13s: basically you know the the clues in the
+52m15s: name it basically says this
+52m19s: name I want this sorry I want this
+52m22s: element called name and I want this
+52m23s: element called description to be
+52m27s: maintainable in different
+52m31s: locals right one of the amazing aspects
+52m35s: of ui5 one of the many amazing aspects
+52m38s: of ui5 is that it is Enterprise ready
+52m41s: and what the heck does that mean that&amp;#39;s
+52m43s: just nonsense
+52m45s: term what it means for example is that
+52m50s: multilingual
+52m52s: support proper multilingual support
+52m54s: including right to left and make is out
+52m57s: the box cap does the same sort of thing
+53m0s: gives us the same sort of Enterprise
+53m4s: level magic that allows us to just go
+53m8s: make this localized and the and the and
+53m11s: the result of
+53m14s: specifying prepending the type
+53m17s: definition of an element with this
+53m18s: localized
+53m20s: keyword is that it generates for us
+53m25s: a ton of stuff that we can sort of see
+53m28s: here create view localized sap common
+53m31s: countries and we&amp;#39;ve got here look book I
+53m35s: sort of I was trying to
+53m37s: not Point too much to this because it&amp;#39;s
+53m39s: just like head explosion time not only
+53m42s: do we get this country&amp;#39;s view which
+53m46s: turns out to be this country&amp;#39;s entity
+53m47s: set of course you know sort of equate
+53m49s: views to entity set sort of in od
+53m53s: data but we we also got and we saw this
+53m56s: in passing we also got another entity
+53m59s: typ let me collapse these things there&amp;#39;s
+54m2s: entity type books there&amp;#39;s entity type
+54m4s: authors entity type countries and da
+54m7s: entity type countries text what the heck
+54m10s: is that who said anything about entity
+54m12s: type countries text we haven&amp;#39;t even even
+54m16s: this is like implicit implicit and it&amp;#39;s
+54m18s: implicit implicit because of this
+54m20s: localized thing right does that make
+54m22s: sense so I&amp;#39;m going to pause there
+54m24s: because it&amp;#39;s so much in the chat is
+54m26s: brilliant
+54m27s: um looking at the T So Garfield says oh
+54m30s: Garfield is talking to AI looking at the
+54m32s: table definitions it seems it does get
+54m33s: populated from cap sap common countries
+54m35s: Ai and your book data CSV overrides so
+54m39s: um there&amp;#39;s no I don&amp;#39;t think there&amp;#39;s any
+54m40s: data that comes from sap CDs common no
+54m43s: data but we&amp;#39;ve supplied some data by me
+54m46s: typing something putting something in
+54m48s: the sap.com and- countries. CSV so going
+54m51s: back to this conversation about you know
+54m53s: what might we collect want ideally is
+54m58s: maybe um oh oh my goodness Me Maybe um a
+55m3s: plugin a c plug-in that
+55m7s: supplies countries data currency data
+55m10s: language data because also remember
+55m12s: remember
+55m13s: remember that not only do we have let&amp;#39;s
+55m15s: go into there not only do we have like a
+55m18s: common country type but we&amp;#39;ve got some
+55m21s: common currency type currency t uh t t C
+55m25s: in sap R three
+55m29s: um uh language type you know these are
+55m32s: all common things that are the same the
+55m34s: world over but with different text
+55m36s: anyway so we could imagine that not only
+55m38s: might we want a package or something a
+55m40s: cat plugin I don&amp;#39;t know um to supply
+55m43s: data for countries currencies time zones
+55m47s: languages you know all these things so
+55m50s: um ah so the the underscore code going
+55m55s: back to where we digress from a
+55m58s: digression underscore code here where is
+56m3s: it country of birth underscore
+56m7s: code that underscore code is at when
+56m13s: when at the persistence layer the ddl
+56m16s: the data definition language here this
+56m18s: this stuff is generated for us by cap
+56m22s: for the persistence layer um we want
+56m26s: actually want to use right now which is
+56m27s: SQL light in this case so it&amp;#39;s sort of
+56m28s: you know regular
+56m30s: SQL we get an narr 3 but it&amp;#39;s got this
+56m34s: underscore code because it knows it
+56m36s: needs to maintain this foreign key
+56m39s: relationship between the Bookshop author
+56m42s: table and the sap common countries table
+56m47s: so this country of birth underscore code
+56m50s: here sort of relates
+56m52s: to the values that go in here here code
+56m55s: uncore code if that if that name there
+56m58s: was banana that would be country of
+57m0s: birth uncore
+57m1s: banana okay so code is not you know a
+57m5s: magic word it&amp;#39;s basically underscore the
+57m7s: name of the key field primary key code
+57m10s: in the in the entity in the table to
+57m13s: which it
+57m14s: refers carfield or select from t00 5T
+57m17s: brilliant brilliant t006 why am I
+57m20s: thinking of t006 is that is that
+57m22s: currencies no T C currencies it&amp;#39;s a long
+57m25s: time since I&amp;#39;ve dug around in the ABAB
+57m26s: stack t006 somebody put tell me what
+57m29s: t006 is is driving me mad um do you see
+57m33s: the flexible programing model says
+57m34s: Raphael becoming more popular or even
+57m36s: the best practice in the
+57m40s: future what is the famous uh famous
+57m45s: um Danish physicist Neils bore say
+57m49s: prediction is difficult especially of
+57m52s: the future so I don&amp;#39;t know I mean I
+57m55s: think I think both um Fury elements
+57m58s: based uh UI um tooling is going to be
+58m3s: continue to be super popular but also
+58m5s: the flexible programming model as a sort
+58m6s: of a you know not an alternative but as
+58m8s: a complimentary uh approach absolutely
+58m11s: absolutely so um Anan says head
+58m14s: explosion thanks uh or from I
+58m18s: think I think we I think we should stop
+58m21s: here I mean it&amp;#39;s a bit of a bit of a
+58m24s: another cliffhanger
+58m26s: let&amp;#39;s just let&amp;#39;s just think where we are
+58m28s: got two more minutes left uh so chak
+58m30s: chanaka any reason why the views are
+58m33s: generates are generated any advantage
+58m36s: behind those views implicitly well
+58m39s: yes that&amp;#39;s a great question to end on
+58m41s: and we&amp;#39;ll I&amp;#39;ll I&amp;#39;ll answer it very
+58m45s: briefly okay if I were to say if I think
+58m49s: I understand the question why so I&amp;#39;m
+58m51s: going to interpret the question as why
+58m53s: are there views as well as tables right
+58m56s: think in general as of views as being
+59m0s: the things that sort of translate into
+59m3s: the entities
+59m5s: types in od data and of course this is
+59m8s: you know cap is more about oata but odor
+59m10s: is you know the most common thing for us
+59m12s: oh unit of measure thank you Anan unit
+59m14s: of measure I knew it was a common thing
+59m16s: and
+59m18s: you if we were to say
+59m20s: service banana right and then we also
+59m24s: had entity something as
+59m27s: projection on
+59m30s: Bookshop do
+59m33s: books um oh we got his title right uh
+59m38s: title there now what
+59m42s: happens here let me just move that down
+59m44s: a bit there so all I&amp;#39;m doing is I&amp;#39;m
+59m47s: defining a second service with an entity
+59m49s: so if I say here CDs compile to SQL
+59m52s: Services uh where is it now um
+59m55s: create view uh Bookshop books Bookshop
+59m59s: books common countries where is it where
+60m1s: is it where is it where is it where is
+60m2s: it where is it I should do a search
+60m4s: really localize views localized de we
+60m7s: look we&amp;#39;ll look at what
+60m9s: this uh service tell you what CDs watch
+60m13s: this might be easier to
+60m15s: see CDs watch come on come on come
+60m19s: on go
+60m22s: back there something so this something
+60m25s: oh there we go I&amp;#39;ve not deployed it
+60m27s: right remember we have to deploy when we
+60m28s: change the CDs that was that was also
+60m30s: the answer why we didn&amp;#39;t get the data in
+60m32s: the countries even what we put the book
+60m34s: the data in the csvs so basically think
+60m37s: of the views as the more natural way to
+60m41s: express
+60m43s: projections which are
+60m45s: essentially the most common way of
+60m48s: defining entities at the service level
+60m50s: we&amp;#39;ll dig into that next time hopefully
+60m51s: that sort of answers your question a
+60m52s: little bit we&amp;#39;re over time now so thanks
+60m54s: so much for watching I&amp;#39;m here around
+60m55s: next week so we&amp;#39;ll see you next week and
+60m56s: we&amp;#39;ll dig in more and hopefully then
+60m59s: exit the warehouse and start to use the
+61m1s: associations with implicit cardinality
+61m3s: to define a relationship between books
+61m5s: and authors thanks very much uh yeah
+61m8s: okay brilliant head explosion hopefully
+61m9s: that was okay let me know in the chat
+61m11s: whether that was okay thank you very
+61m13s: much bye for
+61m23s: now

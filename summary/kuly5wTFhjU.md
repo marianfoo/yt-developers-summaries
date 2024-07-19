@@ -1,15 +1,20 @@
-# Summary of Live Coding with DJ Adams - Part 19
+# Summary of Live Coding with DJ Adams: Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 19
 
-In this session titled "Back to Basics with SAP Cloud Application Programming Model (CAP) - Part 19," DJ Adams focuses on coding practices in SAP CAP, with a particular emphasis on hexagonal architecture and OData. Viewers can learn about practical coding techniques while interacting with DJ about coding methodologies and the SAP ecosystem.
+Watch the full session here: [Back to Basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU)
 
-- Key Technical Topics Discussed:
-  - Hexagonal architecture in CAP
-  - The use of OData in queries
-  - Coding in Node.js using CDS (Core Data Services)
-  - Creation and usage of bound functions and queries
+In this live coding session, DJ Adams explores the SAP Cloud Application Programming Model (CAP), focusing on the development, architecture, and implementation strategies. There is ample opportunity for viewers to learn coding techniques, ask questions, and engage in discussions surrounding both technical and personal topics.
 
-The session dives deep into SAP CAP, exploring the core principles of hexagonal architecture and how they guide the framework's design. DJ demonstrates querying capabilities using OData with JavaScript, explaining how to access specific properties of incoming requests, such as using params. He shares tips about debugging and the importance of understanding CAP's conventions, particularly regarding underscore-prefixed properties which indicate private members. Viewers follow along as DJ builds out a stock value calculation based on available properties within a CAP service, showcasing practical implementations.
+**Main Topics Covered:**
+- [1m18s](https://www.youtube.com/watch?v=kuly5wTFhjU&t=1m18s): Hexagonal Architecture in CAP
+- [6m4s](https://www.youtube.com/watch?v=kuly5wTFhjU&t=6m4s): SAP Developer Challenge and participation
+- [6m48s](https://www.youtube.com/watch?v=kuly5wTFhjU&t=6m48s): Querying concepts using JavaScript
+- [51m8s](https://www.youtube.com/watch?v=kuly5wTFhjU&t=51m8s): Handling data retrieval and manipulation in CAP 
 
-DJ also shares a glimpse into his private life, mentioning the challenging weather conditions in his location, which has been wet and cold.
+## Content
+The session delves into the core elements of the SAP CAP, including its hexagonal architecture and how it supports OData. DJ demonstrates the querying capabilities within CAP using JavaScript and explains how to create, read, update, and delete data efficiently via the CAP model. The discussion also sheds light on specific features of the framework, like bound functions and the significance of destructuring parameters in requests.
 
-Additionally, the chat is highly interactive, with viewers posing questions and sharing their insights. Sashan, a participant in the developer challenge, highlights how DJ's sessions have clarified many concepts, encouraging new participants in the challenges. Various suggestions and requests for future topics are noted in the chat, adding an engaging community element to the coding session.
+## DJ's Private Life
+Throughout the session, DJ shares that he has been experiencing poor weather conditions in England, highlighting how this affects his everyday life, including managing his boat's battery due to lack of solar power.
+
+## Chat
+The chat is interactive, with viewers sharing their thoughts on participating in the SAP developer challenge and asking DJ various questions about implementation techniques and best practices. Some viewers express appreciation for the coding hints provided during the session, crediting the practical approach to learning in the live stream.

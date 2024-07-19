@@ -1,1394 +1,1394 @@
-e
-good morning good afternoon good evening
-welcome again to another episode of
-hands on SCP Dev with me DJ qro oh I&amp;#39;ve
-not turned I&amp;#39;ve not turned the um the
-elato key light on wait a minute oh my
-goodness me oh there we go ah so I&amp;#39;m so
-relaxed at the moment this morning cuz
-this weather&amp;#39;s so nice the weather&amp;#39;s the
-sun is shining it&amp;#39;s been horrible
-weather here uh in the northwest of
-England in West Lancashire the past few
-days just R and windy the whole time and
-now it&amp;#39;s like really sunny I&amp;#39;m getting
-some decent ampage coming into my solar
-panels uh so it&amp;#39;s all good as I&amp;#39;m
-feeling very nice and um off grid and
-everything so uh yeah I was just I know
-making the coffee and in fact I just I
-thought I I have a piece of bread with
-some peanut butter as a little treat and
-um yeah I I was like oh yeah I&amp;#39;ve got a
-process I&amp;#39;m going to turn on the the
-fairy lights behind me in fact there&amp;#39;s a
-boat just went past before so I opened
-the the duck hatch behind me there and
-said hello and um I&amp;#39;ve got my key lights
-here my Elgato key light which is good
-um but yeah I&amp;#39;m sort of you know
-disorganized as usual but disorganized
-for good reason I think I&amp;#39;ve just
-relaxed so welcome one and all welcome
-to Lawrence and Alex and vus early birds
-so good morning to Lawrence in amfor uh
-in the Netherlands and uh Alex says
-hello DJ on the decks with his latest
-single bound to an entity I like that
-yes wees good morning to you in Bangkok
-Thailand and also rri I hope you managed
-to get your coffee and kaso um in time
-for this and everything I hope you enjoy
-them AJ good morning to you friend and
-colleague over there in India
-and Dennis good morning all hello that&amp;#39;s
-a little wave isn&amp;#39;t it that&amp;#39;s zero and a
-slash and hands Peter HP zit ahy a nice
-I see what you did there aoy in Manheim
-from Manheim and zahed good morning to
-you in Sunny Sully Hull and welcome
-kaston Schlagel good morning to you in
-stutgart and Kiara bonono to you in
-breia amazing so um yeah I&amp;#39;ve been
-looking forward to well I always look
-forward to these episodes Cu uh it&amp;#39;s
-great to chat with you all um and of
-course you know what I know I keep
-saying you know on all the live streams
-you know put something in the chat put
-it in the chat put it in the chat put
-your thoughts in the chat it&amp;#39;s because
-basically I&amp;#39;m talking effectively to the
-camera to the wall um and I can see you
-on the on the left hand my left hand
-side here the chat and everything so the
-more chat text appears the more I feel
-I&amp;#39;m you know in the same room with you
-as it were so uh you know it&amp;#39;s it&amp;#39;s it&amp;#39;s
-great it&amp;#39;s great so that&amp;#39;s why I keep
-encouraging you to say whatever comes
-into your mind
-yeah I&amp;#39;ve already drunk half this coffee
-it&amp;#39;s my second coffee of the day I was
-it quite early this morning anyway DJ
-stop rambling because got a lot to get
-through um let me switch already uh to
-the main scene and the sap developer
-news is out uh by the way um let me just
-share that thing there I&amp;#39;ve already
-started putting in i&amp;#39; just just done it
-now 759 a.m. um uh a couple of links
-this week&amp;#39;s sap developer news let me
-put the link to that thing in there so
-everybody&amp;#39;s got a a meta link a link to
-the links as it were um so SCP developer
-news I record you
-know I think a lot of my uh colleagues
-do some
-awesome uh developing new episodes
-recordings at different locations some
-do walk and talk some do just you know
-outside where they live or whatever or
-you know
-something oh scream outside um a little
-baby screaming um uh
-and uh I I thought I&amp;#39;ll sit so I sat on
-the toe path um was it was it yesterday
-yesterday morning I sat on the tow path
-and recorded this thing here um with the
-Naro behind me just give people an idea
-of uh you know what it&amp;#39;s like outside
-out there that chimney there um is a
-chimney that belongs to an Old Mill
-flower Mill it was right on the canal uh
-it&amp;#39;s in burco and um it&amp;#39;s now you know
-the the the flower Mill is now has been
-converted into apartments and everything
-but the chimney remains and the pump
-house remains you know from the
-Industrial Revolution so that&amp;#39;s where I
-am and in fact I thought I&amp;#39;ll show you I
-took a picture um last month I think it
-was a couple of months ago so it&amp;#39;s not
-as a you know I&amp;#39;m not recent this week
-but I took a picture standing on the
-other side of the canal to where I am
-where roughly where that tree is there
-and that picture is there so I was
-sitting there so this is you know
-weather was pretty horrible but that&amp;#39;s
-um where I am that&amp;#39;s where I live and
-right now I&amp;#39;m behind those uh windows
-that duck hatch so that duck catches
-that thing behind me so I&amp;#39;m broadcast it
-coming to you loud and clear from
-hopefully loud and clear from uh there
-so that&amp;#39;s that so anyway check the news
-out and one of the news item bonono Kaza
-bonjo once again grabbing a coffee and
-waiting for capaya waiting for capir
-exactly alexe hello from Germany in
-pador excellent pador yeah is yeah pador
-I know pador I used to listen to bfbs
-radio and I think they broadcast from
-pador pador and good morning to you
-Matias in Dortmund p
-good morning to you in Poland nice to be
-nice to have you
-here anyway so uh welcome one and all um
-another one of the news items uh is the
-fact that uh the June developer
-Challenge from Vali is now at an end you
-know still time to to do the develop
-although I think Vitalia sort of
-summarized the participants and
-everything and so we&amp;#39;re into July
-obviously and we have a July developer
-challenge for you and what I thought I
-did put a call out on LinkedIn I think
-cuz anybody think it&amp;#39;d be a good idea to
-go through this and other folks have
-contacted me directly and said yeah
-let&amp;#39;s have a look let&amp;#39;s have a quick
-look at the new developer challenge
-because it&amp;#39;s all about cap and it&amp;#39;s all
-you know I designed this um or I put
-this together let me let me not use the
-word design I&amp;#39;ll tell you why in a
-minute I put this together um with folks
-like you in mind uh good morning to you
-helmet in Brunswick in Germany and uh
-sus
-uh sus uh should I call you s is that
-the right pronunciation swis uh swis
-good morning to you inuk uh where is
-that in
-Switzerland where is I shouldn&amp;#39;t know
-really shouldn&amp;#39;t I oh my goodness be
-Nasim good morning to you in India good
-afternoon to you in India I don&amp;#39;t know
-what time is it uh five and a half hours
-maybe from the UK I don&amp;#39;t know um so
-we&amp;#39;re going to have a look at this okay
-um let&amp;#39;s have a look at this spend half
-an hour on this and then do the rest of
-it on
-um uh on the uh where we were I&amp;#39;ve got
-everything oh terminal bash process ter
-kill that where we were I&amp;#39;ve just
-committed the stuff there in uh last
-week&amp;#39;s episode we had I think yeah
-exactly what we we
-just finished implementing total stock
-which is an Unbound function and then we
-Define right at the end of last week we
-defined
-this stock value didn&amp;#39;t we we put down
-we Define the stock
-value function as a function but it&amp;#39;s a
-bound function and the way we Define it
-as a bound function is we add it as a
-sort of a a block to this actions clause
-on the end of this entity definition so
-this stock value function here is
-effectively bound to the books entity
-and we&amp;#39;ll understand a little bit more
-of what that means and how to resolve
-in a given call to that function what
-particular book entity it relates to
-right so we do that and Robin van off
-good morning to you in the Netherlands
-and tug is near toi in Switzerland ah
-yes I thought he was in Switzerland yes
-thank you very much SWS uh and good and
-uh have I missed anybody oh ol oh ol
-says as well is south of Z excellent
-excellent but shall we put in the chat
-uh what should we do first what should
-we do first shall we do the um uh the
-total stock first or shall we have a
-quick look at the uh the new sap
-developer challenge the reverse apis and
-by the way you folks are the first to
-see this because I just did it about
-half an hour ago I think um I&amp;#39;ve just
-published the second task task number
-one in this developer challenge um some
-of you may have not seen this developer
-challenge yet the whole idea is that
-it&amp;#39;s reverse apis the idea so the whole
-idea this developer challenge is sort of
-like a reflection of the inverse of a
-developer challenge we did last August
-on apis where you had to make calls to
-API
-endpoints um and good morning to you
-Daniel I missed the last few sessions
-hope I can still of course you can still
-follow Daniel and you&amp;#39;re always welcome
-and everything and we may be talking
-about this development challenge so um
-we&amp;#39;d love to get your your thoughts and
-insights on um you know the way we can
-carry out these tasks here on the devel
-challenge
-um and uh actually the the inspiration
-the idea for last year&amp;#39;s last August
-developer Challenge on apis was came
-from my son Joseph we a coffee and he
-said oh why didn&amp;#39;t you do this I said oh
-great idea and then I was over in dorf
-with him um after the uh code connect
-actually and we were in this really good
-co great coffee place called
-um uh light roast um in in dorf and uh
-we having in a chat and he said why
-don&amp;#39;t you do the opposite why don&amp;#39;t you
-get get folks to create apis and you as
-the person running the developer CH you
-will call them and see if they
-implemented the apis correctly it&amp;#39;s like
-what a brilliant idea so I&amp;#39;ve actually
-put down at the bottom here no where is
-it
-um uh put down at the bottom here uh the
-idea for this challenge for my lovely
-son Joseph so thank you Joseph um anyway
-so the idea is like I like I just said
-you over the course of July are going to
-have to
-create three services
-good morning Antonio good morning and
-welcome uh three services and within
-those three services you&amp;#39;re going to
-have to create uh a total of 10 uh end
-points so in the first service you&amp;#39;re
-got to create three end points in the
-second service which is going to be a
-rest a plain rest service you&amp;#39;re going
-to create a couple of end points and
-then um you&amp;#39;re going to basically also
-create a North Breeze service very much
-like the north Breeze service that we
-had in August&amp;#39;s challenge last year
-you&amp;#39;re going to implement it and then
-you&amp;#39;re going to implement various end
-points some are just entity projections
-some uh there&amp;#39;s one that is as select
-type projection there&amp;#39;s a a bound action
-there&amp;#39;s an Unbound act function there&amp;#39;s
-a bound function all sorts of different
-things and you&amp;#39;ve got to you got to
-implement them basically um so that&amp;#39;s
-what this is all about uh so nobody&amp;#39;s
-put in the chat yet what we should do
-first so while I&amp;#39;m talking about this I
-might as well just sort of talk through
-for the next 10 10 minutes uh I think
-some some folks have already started so
-yeah generally let&amp;#39;s let&amp;#39;s have a look
-through this here we go look here we go
-um so the whole idea is that um there&amp;#39;s
-a tester service in the cloud so uh test
-server uh uh wow in fact let&amp;#39;s go here
-let&amp;#39;s go to the um it&amp;#39;s quite a every
-time I edit this you get white spaces
-added and you can&amp;#39;t get rid of them um
-easily uh so there we go tester service
-there we go there&amp;#39;s a tester service let
-open that in a new tab
-and in fact if I go there up here on sap
-uh BCP The Foundry environment I&amp;#39;ve got
-this little cap server
-running and it has a single service
-tester and if we look at the metadata of
-the tester yes it&amp;#39;s got an entity type
-and it&amp;#39;s got an entity set there but
-we&amp;#39;re not really interested in that
-let&amp;#39;s get rid of the annotations as well
-we&amp;#39;re not interested in the annotations
-um uh there it&amp;#39;s basically you
-know uh some are um some are annotations
-because of the um common uh cuid and
-managed uh aspects that I&amp;#39;ve used for
-that particular entity definition and
-others are because I&amp;#39;ve actually made
-that entity read only the key thing is
-let me make that bigger the key thing is
-it&amp;#39;s got It&amp;#39;s got an Unbound action and
-the Unbound action is called test server
-so the whole idea is that when you
-follow the
-instructions let me put that over there
-yeah let me put that there for example
-and then just scroll up a bit there we
-go when you put the um when you follow
-the instructions you&amp;#39;ll be creating
-services and in those Services you&amp;#39;ll be
-creating API endpoints and the whole
-idea is then that you say okay I&amp;#39;m ready
-with my API endpoint I would now like to
-see if I implemented it correctly and
-therefore I&amp;#39;m going to make a call here
-we go let&amp;#39;s just um uh make a call uh
-that&amp;#39;s going too fast actually um make a
-I tell you what I&amp;#39;ll do I&amp;#39;ll show
-you scratch this is my thing where I
-create all these stupid things for um
-for links in and everything but down
-here I think I I did the there we go yes
-there we go all of that gif here in
-workings of DJ&amp;#39;s brain let me put on the
-other side um it&amp;#39;s just it&amp;#39;s just like
-an animated gift for these things here
-right so basically once you&amp;#39;ve defined
-your service
-here and you implemented or you defined
-an endpoint and you&amp;#39;ve implemented that
-endpoint then you make a request let&amp;#39;s
-put full screen then you make a request
-please test this endpoint and you make a
-request to the test service right which
-is um a a call to this test server
-action
-right and that test service then makes a
-call
-to the end point that you&amp;#39;ve told it
-about that you&amp;#39;re ready with and then it
-will return whether you know whether
-that call has been successful or not
-good morning Rafal to you in Poland so
-that&amp;#39;s that okay so that&amp;#39;s um what it&amp;#39;s
-all about let me move that back across
-there as well right so all you got all
-the details here the link is in the um
-uh the link to this blog post is in the
-this this week&amp;#39;s episode here um and
-then we&amp;#39;ve we&amp;#39;ve started out with a
-challenge overview the services so
-you&amp;#39;re going to be doing an Unbound
-function with no parameters Unbound
-function with parameters action with
-data bound action so what we&amp;#39;re doing on
-this Back to Basics at the moment is
-exactly sort of in line with you know
-giving you help as to or knowledge about
-what you&amp;#39;re going to have to implement
-there so I see a question from zahed uh
-is there any sizing guide available to
-calculate the resources required on btp
-for a cap application
-I
-think I have a feeling there is there is
-a sizing guide I mean I would be just
-Googling it as much as you would be
-zahed
-um uh oh uh I&amp;#39;m sorry I&amp;#39;ve just seen
-your VES comment there um so I&amp;#39;m I&amp;#39;m not
-sure I think there are sizing guides I
-would encourage you to um let&amp;#39;s have a
-look uh site help.sap.com uh sizing
-btp uh sizing guide there we go sizing
-guide so there we go the power of Google
-uh let me put that in the um in here uh
-just as answer to your edit there we go
-there we go uh
-so to Z&amp;#39;s
-question um sizing guide in btp for
-btp
-there there we go look at that
-fantastic um so yav I hope that answers
-your question go and have a look at that
-and see what see if that helps zahed um
-yav says good morning from YouTube
-mobile the chat option is not displayed
-in web app weird um when I go on the
-YouTube um mobile on my phone I get I
-can get the I can see the chat there
-sometimes I actually watch the
-chat in this live stream by looking at
-the YouTube mobile app um so you you say
-web app so maybe maybe you need to use
-the actual you know the Android or iOS
-app rather than the native web thing um
-so I&amp;#39;m not sure you have us uh sashan um
-good morning to you San and visas I
-still remember we had lots of fun and
-learned a lot from the last year&amp;#39;s API
-developer chance thank you Visa thank
-you for remembering and thank you for
-having fun as well unless it do know
-sadly I didn&amp;#39;t participate in any sap
-developer challenge this year because I
-haven&amp;#39;t be very bus project that&amp;#39;s okay
-that&amp;#39;s okay we can&amp;#39;t all do everything
-we can&amp;#39;t all do everything Benjamin
-Benjamin Ben benjam Benjamin Ben in fact
-I was think I&amp;#39;ll tell you I was thinking
-you yesterday in Tesco actually Ben
-hello cap Pirates fantastic yes thank
-you for remembering the amazing phrase
-that we came up with you last week so
-yes I got some uh I got some of those
-lengers and uh I have one today who was
-quite good and yeah I feel better thank
-you uh so Hussein good morning to you
-Hussein okay so um that is that and one
-of the things that some people stumble
-on some beginners stumble on which is
-completely
-understandable is how to make my cap
-service easily available to the
-interwebs to in the cloud and so we got
-this simple deployment here to btp um
-and and because because it&amp;#39;s me I did it
-as a
-oneliner um and um so I think we should
-just go through this just so you&amp;#39;ve got
-at least a starter to start working
-on um uh the the task that I&amp;#39;ve just
-released today so task zero if you look
-at task zero here let&amp;#39;s go to task zero
-the whole idea is that you go back to
-this blog post every day or whatever and
-say oh yeah is there a new task yes oh
-there&amp;#39;s task zero there&amp;#39;s task one I&amp;#39;ve
-just added this this uh section and Link
-and the next task I&amp;#39;m going to publish
-on Tuesday um but if we go to task zero
-this is all about getting a server up
-and running okay um so blah blah blah
-blah blah um so go and it says basically
-go and follow either the simple
-deployment to btp approach or the local
-deployment plus nro tunnel in fact
-here&amp;#39;s something I&amp;#39;m going to ask you to
-put in the chat we&amp;#39;ll do this but shall
-we do the local deployment uh using enro
-or shall we do the simple deployment to
-btp right now on this uh live stream
-episode and we&amp;#39;ll do that and then we&amp;#39;ll
-switch over to looking uh continuing to
-look at the um stock value bound uh
-bound function so let me know good good
-morning to you in Slovakia slim good
-morning so yeah let me know put in the
-chat either simple deployment to btp or
-local deployment plus enro which one
-shall we do it&amp;#39;s like one of those um
-it&amp;#39;s like one of those uh adventure
-books where you know you read it and
-then you decide where to go next what
-are they called BCP uh Alex simple BCP
-but whatever the team prefers thank you
-Alex and thank you Hussein okay Hussein
-thank you Hussein for um making a
-decision that&amp;#39;s brilliant and putting in
-the chat that&amp;#39;s what we like so let&amp;#39;s do
-btp so Kiara says can we do local tell
-you what why don&amp;#39;t we do both why do we
-do both yes why do we do both okay so
-the whole
-idea is that you want to start you want
-to have a basis let me go into
-here and here we go let&amp;#39;s go ah here
-yeah yeah okay let&amp;#39;s go into temp let&amp;#39;s
-do it in temp this is actually the the
-repo I&amp;#39;m using for in fact I&amp;#39;ll show you
-uh this is the repo that&amp;#39;s got the
-candidate that I&amp;#39;ve written to with all
-10 API end points in all three tasks um
-i&amp;#39; been I&amp;#39;ve been using containers for
-this for testing and everything locally
-um I&amp;#39;ve got the tester service which is
-the thing that&amp;#39;s in the cloud right now
-that I showed you um and I&amp;#39;ve also got
-the tasks and I I edit the tasks in
-markdown because markdown and you know
-it&amp;#39;s a lot easier to create than writing
-on the um on the thing here um so that&amp;#39;s
-that but let&amp;#39;s go into temp okay
-um so uh this the okay so the whole idea
-is that you in order to have the tester
-reach your server and your service
-implementation and specifically the
-given endpoint for the given task in
-that service implementation of course
-it&amp;#39;s got to be on to the on the
-interwebs so simple deployment to btp so
-these are just links back to certain
-sections in the blog post that letter us
-here simple deployment to btp so that&amp;#39;ll
-take us here okay now let&amp;#39;s let&amp;#39;s just
-copy this and run it and then let&amp;#39;s just
-talk about it before we run it okay so
-what in fact let&amp;#39;s just let&amp;#39;s just walk
-through it here in color so we can see
-uh we don&amp;#39;t need that anymore anyway so
-we can see what&amp;#39;s going on we&amp;#39;re going
-to do a CDs in it we do CDs in it all
-the time initialize a cap project and
-we&amp;#39;re going to add the tiny sample just
-so we&amp;#39;ve got a tiny bit of
-data to serve just to you know just to
-do something to be able to kick the
-tires going to call give it a name now
-some folks have have used this name uh
-use your own name use your own name just
-make something up
-um so you know qro me Etc and then we&amp;#39;re
-going to move into that directory so we
-initialize the project which creates a
-directory and then we&amp;#39;re going to CD
-into that directory that dollar
-underscore if you&amp;#39;re using a proper
-shell like bash or Zell even I think um
-that refers to the last argument of the
-previous command Okay so it&amp;#39;ll do a CD
-into Q macro simplist deployment and and
-then we&amp;#39;re going to do some JQ just to
-add some CDs configuration to the
-package Jon look it&amp;#39;s package Jason down
-here um so that we can just deploy
-without thinking about productionizing
-it we don&amp;#39;t need to productionize this
-this cap server that we&amp;#39;re going to be
-running it&amp;#39;s just a test server that we
-want to stand up some API end points in
-a service and then have that be tested
-and then you know tear it down again if
-we want to this whole idea is of course
-when you when you modify a file in light
-you modify the file modify the package
-Json and write it to a temporary file
-and then if that&amp;#39;s successful and and
-then move the temporary file and re
-rename it to package Json basically
-modifying package Json sort of in
-place the last thing we do before we um
-try to push it to the cloud is to add
-the SQL light npm package because the
-whole idea is that we don&amp;#39;t want to use
-any persistence layer we don&amp;#39;t want to
-use a backing service because you know
-we want the simplest thing that could
-possibly work um and then we&amp;#39;re going to
-push it with CF push and again you don&amp;#39;t
-have to use a m multi-target application
-incantation mta. yaml all that stuff
-which is very important when you&amp;#39;re
-doing real life stuff but this is simp
-the simplest thing that could possibly
-work so we&amp;#39;re just doing a CF push okay
-and all you have to do with a CF push is
-give it the name that the application
-should be called on btp on cloud Foundry
-and for though I in fact i&amp;#39; put there
-yeah I put I&amp;#39;m using by the way by the
-way
-um blogging in um in our new sap
-Community
-platform I like to use sort of a
-monospaced font for things like this you
-know so dollar you know uh sorry open
-double quotes dollar bracket base name
-blah blah blah blah blah but you it
-doesn&amp;#39;t allow you to make it monospaced
-so I&amp;#39;m just using Mark what I would do
-in markdown raw markdown with the B
-ticks so mentally when I see the
-backticks like that mentally I see that
-in monospaced font so I&amp;#39;m hoping you do
-to put in the chat if that&amp;#39;s how also
-because you know markdown is very easy
-to read in raw form um uh CD there VI
-tasks uh1 there so I&amp;#39;m reading that and
-you know that&amp;#39;s just like fine you know
-there we go look backspace backspace
-backspace backspace these these will
-come out properly formatted when they&amp;#39;re
-properly s rendered um like in fact like
-this uh I
-347 um in a work in work workings
-again uh there and um repositories where
-is it developer challenge 20247 tasks uh
-there look how nicely that&amp;#39;s rendered
-there that&amp;#39;s that&amp;#39;s what I want and
-that&amp;#39;s what I see in my brain okay
-anyway right so let&amp;#39;s copy that we
-copied that haven&amp;#39;t we copy that again
-just make sure
-um there we go let&amp;#39;s go into Temp and
-let&amp;#39;s just run the whole thing in fact
-before we do that um CF are we logged in
-CF F applications let&amp;#39;s just have a look
-what applications are running that&amp;#39;s so
-by the way um let&amp;#39;s just show you what
-I&amp;#39;ve got in my uh btp trial account
-right now good morning good evening to
-you Andrew barard in melbour Australia
-hope you got your glass of wine with you
-there&amp;#39;s my free tier thing there let&amp;#39;s
-have a look let&amp;#39;s have a look using you
-know using a gooey because you know
-because it&amp;#39;s Friday uh and so we know
-we&amp;#39;re not doing things properly um so
-I&amp;#39;ve got this tester service which is
-the actual tester service I&amp;#39;ve got a
-route going to that there we go look at
-that there&amp;#39;s a route uh so we can
-develop a challenge 20247 so we can go
-there look tester service that goes to
-the tester Service uh so that&amp;#39;s the
-thing that&amp;#39;s running our thing that&amp;#39;s
-not very descriptive DJ um so let&amp;#39;s yeah
-let&amp;#39;s do that so that&amp;#39;s that&amp;#39;s what I&amp;#39;ve
-got at the moment uh where are the
-applications I&amp;#39;ve got a developer
-challenge Q test don&amp;#39;t know Li is um and
-there we go okay fine so I&amp;#39;m already
-logged in so I can do a CF push right
-see I push and what we&amp;#39;ll do here oh no
-we don&amp;#39;t do that what&amp;#39;s going on it&amp;#39;s
-pushing nothing um developer challenge
-tester why is it doing that
-H interesting why is it picked develop
-oh have I got something in there okay so
-um oh anyway CF push what I wanted to do
-is get it to show us the help okay so if
-we have a look at that we can see all we
-need is is CF push app name okay that&amp;#39;s
-the name of the app and that is
-basically
-what this thing is doing here so let&amp;#39;s
-run it and see what happens in fact no
-let&amp;#39;s run it one one thing at a time
-let&amp;#39;s do it one thing at a time so we
-can see what&amp;#39;s happening step by step
-can you sound St making this as I go
-along Okay so we&amp;#39;ve initialized a new
-project let&amp;#39;s go into that project Q
-macro in fact we do that right dollar
-underscore go into there Q macro
-simplist deployment um and if we have a
-look at that we get all the standard
-stuff we get beautifully given to for
-free by the cap init um
-command uh we get app folder directory
-nothing in there DB we got a nice little
-data model with some books right
-Bookshop books we got the service just
-exposing that books thing there all the
-normal stuff that we know right um and
-we get this package Json which is pretty
-much devoid of any specific CDs
-configuration I.E any
-configuration in the in the in the CDs
-sort of node here uh node that&amp;#39;s a
-overloaded word to use don&amp;#39;t use the
-word node DJ in this context in the CDs
-section of this Json okay so the next
-thing we do is we&amp;#39;ll do this JQ as just
-do that there temp file by the way if
-you&amp;#39;re wondering this backslash here put
-in the chat what you think that
-backslash is actually doing okay what is
-it actually
-doing um so let&amp;#39;s just copy that and run
-that so watch this now um in fact let&amp;#39;s
-do that
-watch uh JQ package Json is that make it
-a little bit smaller all right
-uh in fact watch use the uh control
-characters JQ sorry use the control
-characters and then say JQ and then X
-spit out the control characters
-regardless of what context you&amp;#39;re
-running in there we go that&amp;#39;s better got
-color color now uh continue line exactly
-Matas it&amp;#39;s continue line but what
-exactly this is this is the Nuance I&amp;#39;m
-looking
-for what is the backslash actually doing
-it allows us to continue line but what
-does the backslash actually do why is it
-a backslash why do we need to use a
-backslash okay there&amp;#39;s nothing to do
-with cap I think it&amp;#39;s interesting so
-let&amp;#39;s do that bang and then say move um
-temp file package
-Json Bang there that&amp;#39;s it that&amp;#39;s what we
-get so we we basically add
-these things we have CDs features in
-memory
-DB so it will force the cap server to
-continue using the colon memory colon
-SQL light thing here in the credentials
-and we also add in the requires DB kind
-SQL light credentials database memory
-and it also adds the or mocked to say
-basically we just want to have this
-mocked explicitly asking for
-mocked okay so that&amp;#39;s what that&amp;#39;s all we
-need and then we can push this and
-because when you do a CF push in a node
-context right um Andrew Well Done Andrew
-Andrew is on it like a carb on it as
-usual Andrew says backlash so that the
-CR LF uh nicely nicely on the fence
-there brilliant uh is ignored exactly it
-actually escapes the new line okay so in
-a in a proper shell you know the new
-line character is a new line uh not crlf
-it&amp;#39;s a long history of why CR in Windows
-um it was CR on one one type of system
-it was LF on another Windows CRF anyway
-it&amp;#39;s an amazing story uh you know if
-you&amp;#39;re boring nerd like me uh read it
-find out but basically it escapes a
-backass escapes things in bash and in
-various other shells so it escapes the
-new line which is the next character
-okay anyway um a story for another time
-exactly um so now if we do what what&amp;#39;s
-the next thing we do um this is actually
-going going uh taking longer than I I
-expected mpm ad there we go mpm ad uh
-I&amp;#39;m just we&amp;#39;ll just add SQL light as
-well okay so Visa says for anyone who
-has Legacy P account before we have the
-universal ID I found that recently I had
-to change the Legacy password to do the
-same as universal ID to be yes exactly
-the universal ID um has tripped me up
-quite a bit as well uh so that&amp;#39;s a good
-tip there from visas yes you have to you
-have to change the password for some
-Legacy um cloud found
-accounts or accounts on B2B in general
-exactly well on Visas so now we&amp;#39;ve got
-everything we can actually do a CDS
-watch right let just do a CS watch I
-don&amp;#39;t think I&amp;#39;m running anything else on
-40004 there we go there 40004 and we get
-that in fact we go there and um it&amp;#39;s
-actually the for reasons for reasons for
-container Reasons I&amp;#39;m mapping 404 to
-4444 um because this this is all running
-inside a container right so so that&amp;#39;s
-what we&amp;#39;ve got now all we&amp;#39;re going to do
-is this thing here right uh CF push in
-fact let&amp;#39;s do this first right what is
-that um Echo
-that okay that&amp;#39;s that&amp;#39;s the same as
-saying you know base name
-PWD dollar PW is an environment variable
-sorry dollar
-echo echo doll P PWD is an environment
-variable that&amp;#39;s available to you and it
-has as its value the name of the current
-working directory right in fact I
-did
-PWD yes there we go the Myriad meanings
-of PWD in Unix systems I did I did uh
-like this long boring well it wasn&amp;#39;t
-boring to me uh investigation as to what
-PWD actually means stands for what do
-you think the p and dollar PWD stands
-for I&amp;#39;ll put that in the thing because
-if you&amp;#39;re bored and you can&amp;#39;t you can&amp;#39;t
-get to sleep you can read that because I
-think it&amp;#39;s quite interesting um what&amp;#39;s
-it called the Myriad the Myriad meanings
-of PWD in Unix systems DJ what are you
-doing get on with
-it okay there
-post um okay so we can just
-say um there CF push
-um ah so PW is that if we say if we take
-the base name right base
-name uh
-d-el that will give us basically the
-name with any leading directory
-components removed so the base name of
-dollar
-PWD is just the last bit this bit okay
-so that could be the name of our app
-right so we say CF push I put it there
-uh CF push
-uh there there there okay so let&amp;#39;s push
-that okay so print working directory
-exactly exactly exactly um okay so let&amp;#39;s
-push
-this where we where we there we go push
-that now while we&amp;#39;re waiting let&amp;#39;s also
-do let&amp;#39;s also do this one because kiar
-was saying let&amp;#39;s do the local okay so
-for those of you who are not
-aware um for those of you are not aware
-where there&amp;#39;s an amazing tool that I&amp;#39;ve
-been using for years called enro your
-apps front door okay so enrock you know
-you can you have to sign up but it&amp;#39;s
-free okay and you get like a an
-authentication token uh let me log in to
-see what&amp;#39;s going on why am I not looked
-in before I don&amp;#39;t know
-um uh come on and while we&amp;#39;re waiting
-here let&amp;#39;s say
-enro so we got this so we can create
-tunnels okay we can say create a tunnel
-to the interweb
-and expose or provision through that
-tunnel with the HTTP protocol Port 80
-for example so you can expose a local
-web server for example you know and
-that&amp;#39;s what we&amp;#39;re going to be doing so
-HPS says why is Cap JS sqlite still only
-a Dev dependency that&amp;#39;s a good question
-actually
-um where are we on here um where are we
-uh
-two there let&amp;#39;s have a look uh package
-Json
-edit step dependency SQL light um
-that&amp;#39;s a good question maybe I should ah
-maybe I should have done Capt JS SQL
-light
-ah I&amp;#39;ll change that HP I&amp;#39;ll change that
-yes brilliant thank you for pointing
-that out yes definitely okay so um where
-are we here so I&amp;#39;m logged in um I&amp;#39;ve got
-my I&amp;#39;ve got my thing here and so we need
-an or token I&amp;#39;ve already got the or
-token I think so I can now say okay it&amp;#39;s
-running okay it&amp;#39;s running okay we&amp;#39;ll do
-that now so now we can go here cacro
-simplest deployment CF
-apps and it&amp;#39;s available okay is it going
-to be available to you as well let&amp;#39;s try
-let&amp;#39;s see if we can put that in there uh
-https try that see if you can see it
-okay now at the same time will also okay
-let&amp;#39;s just do that there uh let&amp;#39;s get
-rid of uh yeah there we go um CF no CDs
-watch so we&amp;#39;ll run that locally as well
-okay so we got that running here on
-local 4444 ignore the fact that it&amp;#39;s
-4444 it&amp;#39;s
-404
-um fantastic thank you for confirming
-Kaz is it works so that means the
-tester will also be able to reach it
-okay so we&amp;#39;ll actually do that in a
-minute um so simpl as deployment there
-we go so it&amp;#39;s also available there but
-now going to Kiara&amp;#39;s request which is a
-great request um
-to go over here and say enro I&amp;#39;ve
-already um or or config we I put my or
-token in there already so I can say
-enro start an
-HTP um tunnel on exposing locally 404
-and expose it on the internet so there
-we go there now look at that look how
-easy that was so also let put my head oh
-it is at the bottom look how so we can
-now go
-here and get to the same place you try
-that as well uh let me put that in there
-let me put that in there try that and
-that should be exactly the same the only
-difference is of course is if you hit
-the enro tunnel uh
-provisioned URL you are coming down to
-this local conent in fact somebody make
-a call uh oh somebody&amp;#39;s gone to the fury
-thing you can see here uh look at that
-that&amp;#39;s that&amp;#39;s ulot here let me put my
-head at the top again that&amp;#39;s OT here
-actually making calls Fury preview
-you&amp;#39;re all like Fury previews don&amp;#39;t you
-you&amp;#39;re really hammering my little
-container right now look at
-that yeah so those are two look at that
-post read books count etc etc so people
-are um making my MacBook Pro no MacBook
-Air go a little bit warm because you&amp;#39;re
-um doing all these requests here
-fantastic amazing okay so you can see
-you&amp;#39;re calling the thing you&amp;#39;re making
-the calls to the enrock exposed uh
-tunnel to 404 which is this local server
-here on CDs watch and you can see that
-you can see the calls coming in Alex
-denial of service attack okay anyway
-yeah so let&amp;#39;s do um so that there we go
-you can see that satisfying so why why
-do you need why do you need this why do
-you need something like this because
-let&amp;#39;s just kill that
-enrock um and uh also just um kill that
-one as well why do we need that because
-then you can start time is it 8:39 you
-can start
-implementing then you have everything
-you need basically to start implementing
-your first service and first endpoint so
-this task one was only published this
-morning um casseri good morning sorry
-casy good morning Casey Casey is IT
-Casey or casy Casey I&amp;#39;ll say Casey uh
-good morning to you and welcome and
-thank you for making comments brilliant
-um so this task came out this morning uh
-I published it at 657
-7 o&amp;#39;clock 8 o&amp;#39;clock an hour and a half
-ago y um and uh this basically is you&amp;#39;re
-going to need to create a very simple
-ping service okay now oh there a boat
-going past um a very simple ping service
-and the the description here is that you
-have to implement a ping Service as an
-Unbound function in a service uh P yeah
-there an Unbound function an API Point
-that&amp;#39;s that&amp;#39;s defined as an Unbound
-function and you got to have a little
-bit of JavaScript to implement that and
-it&amp;#39;s got to return a static value pong
-okay and that&amp;#39;s it and then when you
-once you&amp;#39;ve done that and we&amp;#39;ll do that
-now because because why not let&amp;#39;s say
-let&amp;#39;s pretend I Let&amp;#39;s Pretend here CDs
-watch uh in fact no let&amp;#39;s not do the CDs
-watch because we&amp;#39;ve got that here
-haven&amp;#39;t we we&amp;#39;ve got this one uh not
-Local Host that one so let&amp;#39;s say we
-had um let&amp;#39;s say we thought we&amp;#39;d
-implemented the the Ping service
-for our first chap task number one okay
-creating your first service ping you
-want to do a ping service right and the
-Ping service has got to got to have a
-you know a metadata that looks like that
-we go look uh entity container name
-entity container function import ping
-right ping is bound false Unbound
-function called ping right and it should
-return a string okay that simple but you
-there&amp;#39;s a lot of thinking about this so
-This Is Why I&amp;#39;m keeping this first one
-simple let&amp;#39;s say here I thought oh yeah
-I&amp;#39;ve got my ping ready of course there&amp;#39;s
-there is no ping in this metadata at all
-but let&amp;#39;s just see what happens so I
-would say and this is also in this
-description here in in this thing here
-submitting your API endpoint to the
-tester you got everything described so
-what I&amp;#39;ll do is I&amp;#39;ll say in fact I&amp;#39;ve
-got a curl example here there we go look
-at that let&amp;#39;s do
-that and then say um there uh let&amp;#39;s edit
-it in there right so you send a request
-cacro service URL what&amp;#39;s the service URL
-um uh that thing there and the service
-URL right it&amp;#39;s not the server URL it&amp;#39;s
-the service URL so it&amp;#39;s a catalog that&amp;#39;s
-the service URL right in the description
-here it
-says um you need to create a
-service name basic okay so we don&amp;#39;t want
-it SL oata V4 basic we want it SL basic
-but any okay so let&amp;#39;s put SL basic in
-there right so let&amp;#39;s do that and say uh
-let&amp;#39;s let&amp;#39;s say oh yeah there we go and
-it&amp;#39;s slash
-basic okay and the task
-is it says it here somewhere basic ping
-yeah the task identifier you need to
-supply in the payload of your submission
-is basic ping right that basic ping and
-then you send the the content header
-because of course she just applying Json
-and then you send it to that okay are
-you ready are we ready okay let&amp;#39;s let&amp;#39;s
-add of aose flag as well to see what&amp;#39;s
-going on okay um so this will fail okay
-because there
-isn&amp;#39;t if we go there actually go over
-there the browser cannot get SL basic I
-we haven&amp;#39;t implemented a service at SL
-basic yet okay but let&amp;#39;s do that let&amp;#39;s
-run
-that Bang
-and what you get in response is error
-code 500 message error calling service
-endpoint okay so you get an error which
-is fine okay and in fact CDs
-logs um CDs what&amp;#39;s it called uh CDs
-applications I can show you the oh sorry
-CF applications I can show you behind
-the scenes um here so CF logs recent
-tester serve so we should be able to see
-the log of that there we go look at that
-there&amp;#39;s the log of
-the thing here we go uh 24 05 0743 it&amp;#39;s
-0843 right now it was 8 this is this is
-this is UTC U blah blah blah um in fact
-if we have a look here um what do we
-call it what was the thing um oh Q macro
-simplest right let&amp;#39;s let&amp;#39;s look&amp;#39;s look
-for this simplest deployment in the
-log there it is look get URL method get
-URL simple displ SL basic so there&amp;#39;s our
-call so that&amp;#39;s what you need to do
-basically you need to do that but
-obviously when you need to do that you
-also need to
-implement well Define first of all where
-do it say here Define first of
-all um in ah see this is this is why I
-don&amp;#39;t like this rendering because let&amp;#39;s
-just look at it in the tasks 01 there we
-go that&amp;#39;s better um this is where you
-need to Define in
-where is it uh in a file called maybe
-basic. CDs and have an implementation in
-basic. JS for your implementation your
-ping function that returns pong okay
-does that make sense put in the chat
-whether it makes sense or not um let me
-know let me know let me know okay 8:45
-let&amp;#39;s spend the last 15 minutes just
-switching brains for a second put in the
-chat whether that makes sense put in the
-chat whether you&amp;#39;re going to start this
-um developer challenge whether you think
-it&amp;#39;s okay uh if you got any questions
-um and then we&amp;#39;ll carry on uh what&amp;#39;s
-going on yes there we go fine okay so
-let&amp;#39;s now go and switch for a second
-let&amp;#39;s give ourselves a few seconds pause
-switch our brains over to just carrying
-on with this
-thing okay um yeah put in the chat if
-you&amp;#39;re going to be doing this developer
-challenge I think I&amp;#39;m I&amp;#39;m hoping some of
-you will be doing the developer
-challenge um and if not why not uh is
-there any reason why you don&amp;#39;t want to
-do it uh is it not very good if you
-don&amp;#39;t like it let me know as well always
-learn always looking to
-learn okay so where are we okay let&amp;#39;s
-move to this function stock value this
-stock value as we&amp;#39;ve said is bound
-function Andrew
-Barnard says um reminds me of your cap
-head response investigation of a few
-weeks
-back oh yeah uh I got vague memories of
-of that uh my memory is not what it used
-to be
-uh but I&amp;#39;m sure I&amp;#39;m sure we have fun
-digging into things because it&amp;#39;s always
-interesting to find out what why when
-who where what what is going on here
-type thing so Matia says I hope I found
-the time thank you Mattias and AP indust
-says yes definitely interesting
-brilliant thank
-you okay now in order to one of the one
-of the interesting things about let&amp;#39;s
-just start this run CDs watch we don&amp;#39;t
-move that there uh in order in order to
-fulfill or implement the Handler for
-this stock value bound
-function and fulfill requests i e by
-providing responses
-to this bound
-function what do we
-need that we didn&amp;#39;t need when we were
-doing the total stock Unbound function
-the Unbound let&amp;#39;s do it now let&amp;#39;s do it
-now let&amp;#39;s do that and say
-curl uh Local Host
-404 what is it o data V4
-Bookshop um total
-stock let&amp;#39;s put in
-um okay we got we got
-147 and the actual implementation of
-total stock
-which is this thing here is super simple
-where&amp;#39;s my head put it down there super
-simple right we just go right I don&amp;#39;t
-care what
-parameters sorry the right term DJ I
-don&amp;#39;t care what
-arguments are sent to me to this
-Anonymous
-function which is which I&amp;#39;ve defined
-here as the as the Handler the callback
-for the total stock event
-I&amp;#39;m just going to go ahead and just do
-select one from books column Su stock as
-token bang and spit out the result which
-is
-147 what do we
-need when we start to think about which
-is now implementing this stock value
-what do we need that we&amp;#39;ve not had to
-need had to have here put in the chat
-what you think it is so uh yok Yos says
-can we somehow call the system command
-function ping um
-simple answer no this is not that sort
-of ping I mean I think I don&amp;#39;t think
-I&amp;#39;ve even got ping in my
-uh
-ping uh oh ping uh Local Host there we
-go that ping there look at that it&amp;#39;s
-using um IPv6 that&amp;#39;s proba cool ping
-qac.org my ping times are pretty bad
-here obiously but you know 36 30
-milliseconds that&amp;#39;s fine
-um so basically oh you can see where my
-uh where my web blog is hosted GitHub
-static Pages there we go excellent um I
-mean it&amp;#39;s a similar sort of thing as in
-you know send a little boing and get a
-boing back that&amp;#39;s the idea but of course
-to implement it you need to implement it
-in in node.js as as an implementation to
-a a definition of a bound function an
-Unbound function in CDs in CDL right so
-um K is that okay Yos I hope that
-explains the gives you an answer there
-kiar says I Tred to find some time well
-done Kiara Kaza family out all alone
-during the weekend I&amp;#39;ll sure dive into
-it good work Kaza Ideal Time Visa says
-definitely we are here to learn things
-that is the attitude I love thank you
-Visa yes Alex pass the bound entity as
-an argument fantastic Alex so thank you
-for um diving in with a response there
-to the question which is a great
-response pass the bound entity as an
-argument exactly that&amp;#39;s what we need
-here
-so why don&amp;#39;t we first of
-all um I&amp;#39;ll tell you what no let&amp;#39;s let&amp;#39;s
-do this let&amp;#39;s get rid of that that that
-that that that that let&amp;#39;s do what we
-should do really which is to rtfm first
-of all cap let&amp;#39;s go to the cap cap
-documentation and
-cookbook providing
-services there actions and function and
-you had seen this right cookbook
-providing Services actions and functions
-let&amp;#39;s just save that in the thing here
-because I think that let me just double
-check in addition to com CR actions and
-functions bound Unbound BL yeah there we
-go perfect perfect perfect um let&amp;#39;s add
-this one this is probably the most
-important URL you&amp;#39;ll have in this list
-today um providing
-Services cap capir cook book providing
-Services actions and
-functions there that that&amp;#39;s how that
-okay
-now uh where was it where&amp;#39;s it gone oh
-there
-so you can Define actions and functions
-in CDs models like this so sue okay fine
-bound actions and functions so we got
-this ENT got this beautiful sort of
-expression here entity something some
-definition then they&amp;#39;ve got this actions
-Clause with a block there in that block
-you&amp;#39;ve got your actions and functions
-defined now bear in mind and maybe
-Daniel will have something to say to
-this as well Daniel S um regardless of
-whether the protocol you eventually
-choose to use to have this service
-served regardless of whether that is an
-OD dat protocol or not you might want to
-for example say use
-graphql or you might want to use you
-know the plane rest service with at
-protocol called Rest by the way clue
-that&amp;#39;s going to be one of the services
-you define in the developer challenge uh
-this month um you still Define your sort
-of RPC style
-functions and end points like like this
-with the words functions and actions
-even though to me to my small brain
-functions and actions
-those
-two types of things are sort of OD data
-terms but you know you can think of them
-as a more General type thing so Alex
-says oh by the way uh meanwhile is there
-a way to not have hardcoded string
-Methods names to the handlers to avoid
-typos um to the
-handlers H Oh you mean do you
-mean
-here are you if you&amp;#39;re meaning the this
-total stock thing you could certainly
-put that in a constant absolutely I mean
-the thing is is that what you mean maybe
-that I don&amp;#39;t know what whether that&amp;#39;s
-what you mean but if if that is what you
-mean I think yeah you certainly could
-Let&amp;#39;s Do It Let&amp;#39;s Do It um let say um uh
-yes const um total stock equals total
-stock I don&amp;#39;t I feel quite trendy when I
-use the btics as a string thing anyway
-total stock uh and then we well
-here we do that
-in fact let&amp;#39;s save
-that and go here yeah it still works I I
-guess the thing is if you were wanting
-or needing to implement
-multiple um events for example if it was
-a read event for something you wanted to
-do a before and on and an after then
-yeah it makes sense that if this is
-repeated but quite often I would argue
-that you&amp;#39;re only going to get that thing
-once but perfectly possible it&amp;#39;s just a
-string at the end of the day right we&amp;#39;ll
-leave it in there we&amp;#39;ll leave it like
-that okay that&amp;#39;s okay for you Alex um so
-where were we don&amp;#39;t know where we oh yes
-there we go yeah so we got that now now
-now now function get stock returns
-integer so this is the sort of the
-pattern that we want to follow and if we
-go down here we can see in general
-Implement actions or functions like that
-this get this do on get stock of fu
-that&amp;#39;s the entity to which it refers
-right okay you&amp;#39;re welcome Alex and then
-this this weird thing here does anybody
-is anybody scratching their head over
-all those brackets we have covered
-destructuring before but we haven&amp;#39;t
-covered a
-destructuring
-expression as involved I don&amp;#39;t want to
-say it&amp;#39;s as complicated but as involved
-as that 855
-maybe will&amp;#39;ll look look at that now we
-got five minutes DJ stop talking about
-stop doing things meta so that&amp;#39;s that&amp;#39;s
-the sort of idea we want so let&amp;#39;s just
-let&amp;#39;s just paste that in as a reference
-and start typing it right
-so there we want to do something like
-that so this do on touch list what the
-hell this dot
-on um what&amp;#39;s it called stock value on
-books right so we we have this thing
-here so um somewhere
-there look uh on before
-after adding event handlers there
-look that&amp;#39;s it let&amp;#39;s add that as well
-right
-method so we know where we&amp;#39;ve gone
-because it&amp;#39;s pretty
-important edit there edit come on come
-on come on cap that that and let&amp;#39;s add
-that thing there so you know what I&amp;#39;m
-referring to save that post
-there go back now
-look you always have the
-event you always have the Handler but
-sometimes you have the entity and
-sometimes you don&amp;#39;t that&amp;#39;s this question
-mark right in this sort of you know
-Declaration of this
-thing
-in the Unbound function definition we
-just
-had the
-event
-and the Handler but this time in here
-this stop on we want the
-event we want
-the entity and we want the Handler right
-so we want the Handler as well so we
-want to say here books oops
-books and then let&amp;#39;s just put the
-simplest thing that could possibly work
-bang on
-42 like we did last time
-okay let&amp;#39;s have something at least that
-is now in fact yeah uh so nobody said
-anything about this um where is it this
-uh this structure
-here so maybe we we&amp;#39;ll do this next
-week let me know what you think that is
-doing right let me know in fact more
-more importantly let me know if you want
-us to
-unpick all those brackets together
-slowly maybe in a node J reel to to
-understand what&amp;#39;s going on U because I
-think it&amp;#39;s important because
-this I would say that in a in the best
-possible
-way a lot of the examples here are
-beautifully succinct beautifully
-compact okay almost like the opposite of
-java did I say that out loud um yes I
-did uh and it&amp;#39;s absolutely wonderful but
-you you need to feel comfortable with it
-okay so let&amp;#39;s have a look at that maybe
-next week but before we do let&amp;#39;s uh run
-to ah well yeah let&amp;#39;s let&amp;#39;s think about
-how we request stock value if we do this
-stock value what do what we&amp;#39;re going to
-get stock value is not an entity set a
-single an action UT or a function import
-what are you doing DJ it&amp;#39;s not any of
-those where&amp;#39;s my head put it on the top
-right let&amp;#39;s do that again let&amp;#39;s do this
-in fact let&amp;#39;s do U Bookshop books if we
-do that first of all we get all the
-books and then if we say here um let&amp;#39;s
-let&amp;#39;s choose a book right with the guid
-because of course we&amp;#39;ve got guids as
-keys
-there uh let&amp;#39;s do that and pipe that
-into JQ so we can see so now we can do
-this right we can say stock
-value that&amp;#39;s what we want
-right 42 there&amp;#39;s 42 so you can can you
-see the
-difference between the calls we have
-that call to total
-stock there and we have the call to
-stock value there look at the difference
-we&amp;#39;ve got total stock as an Unbound
-function on its own with no parameters
-of course and we&amp;#39;ve got stock value no
-parameters but it&amp;#39;s it&amp;#39;s in the context
-of a specific entity okay so next week
-we&amp;#39;ll look at how to get basically we
-need that we need this value don&amp;#39;t we to
-be able to find that book to be able to
-work out what stock value is
-right so we&amp;#39;ll do that next week as well
-as the uh destructuring destructuring of
-the destructuring so have a great Friday
-have a great uh weekend and I&amp;#39;ll see you
-next weekend don&amp;#39;t forget to start the
-developer challenge bye
+0m0s: e
+0m48s: good morning good afternoon good evening
+0m49s: welcome again to another episode of
+0m51s: hands on SCP Dev with me DJ qro oh I&amp;#39;ve
+0m54s: not turned I&amp;#39;ve not turned the um the
+0m57s: elato key light on wait a minute oh my
+0m59s: goodness me oh there we go ah so I&amp;#39;m so
+1m3s: relaxed at the moment this morning cuz
+1m5s: this weather&amp;#39;s so nice the weather&amp;#39;s the
+1m8s: sun is shining it&amp;#39;s been horrible
+1m10s: weather here uh in the northwest of
+1m12s: England in West Lancashire the past few
+1m14s: days just R and windy the whole time and
+1m18s: now it&amp;#39;s like really sunny I&amp;#39;m getting
+1m19s: some decent ampage coming into my solar
+1m23s: panels uh so it&amp;#39;s all good as I&amp;#39;m
+1m24s: feeling very nice and um off grid and
+1m28s: everything so uh yeah I was just I know
+1m30s: making the coffee and in fact I just I
+1m32s: thought I I have a piece of bread with
+1m34s: some peanut butter as a little treat and
+1m37s: um yeah I I was like oh yeah I&amp;#39;ve got a
+1m40s: process I&amp;#39;m going to turn on the the
+1m42s: fairy lights behind me in fact there&amp;#39;s a
+1m44s: boat just went past before so I opened
+1m46s: the the duck hatch behind me there and
+1m48s: said hello and um I&amp;#39;ve got my key lights
+1m52s: here my Elgato key light which is good
+1m54s: um but yeah I&amp;#39;m sort of you know
+1m56s: disorganized as usual but disorganized
+1m59s: for good reason I think I&amp;#39;ve just
+2m0s: relaxed so welcome one and all welcome
+2m2s: to Lawrence and Alex and vus early birds
+2m6s: so good morning to Lawrence in amfor uh
+2m8s: in the Netherlands and uh Alex says
+2m11s: hello DJ on the decks with his latest
+2m13s: single bound to an entity I like that
+2m15s: yes wees good morning to you in Bangkok
+2m17s: Thailand and also rri I hope you managed
+2m20s: to get your coffee and kaso um in time
+2m23s: for this and everything I hope you enjoy
+2m25s: them AJ good morning to you friend and
+2m28s: colleague over there in India
+2m30s: and Dennis good morning all hello that&amp;#39;s
+2m33s: a little wave isn&amp;#39;t it that&amp;#39;s zero and a
+2m35s: slash and hands Peter HP zit ahy a nice
+2m40s: I see what you did there aoy in Manheim
+2m42s: from Manheim and zahed good morning to
+2m44s: you in Sunny Sully Hull and welcome
+2m46s: kaston Schlagel good morning to you in
+2m48s: stutgart and Kiara bonono to you in
+2m52s: breia amazing so um yeah I&amp;#39;ve been
+2m55s: looking forward to well I always look
+2m56s: forward to these episodes Cu uh it&amp;#39;s
+2m58s: great to chat with you all um and of
+3m0s: course you know what I know I keep
+3m2s: saying you know on all the live streams
+3m4s: you know put something in the chat put
+3m5s: it in the chat put it in the chat put
+3m6s: your thoughts in the chat it&amp;#39;s because
+3m8s: basically I&amp;#39;m talking effectively to the
+3m10s: camera to the wall um and I can see you
+3m13s: on the on the left hand my left hand
+3m15s: side here the chat and everything so the
+3m17s: more chat text appears the more I feel
+3m21s: I&amp;#39;m you know in the same room with you
+3m22s: as it were so uh you know it&amp;#39;s it&amp;#39;s it&amp;#39;s
+3m25s: great it&amp;#39;s great so that&amp;#39;s why I keep
+3m27s: encouraging you to say whatever comes
+3m29s: into your mind
+3m32s: yeah I&amp;#39;ve already drunk half this coffee
+3m34s: it&amp;#39;s my second coffee of the day I was
+3m36s: it quite early this morning anyway DJ
+3m38s: stop rambling because got a lot to get
+3m40s: through um let me switch already uh to
+3m43s: the main scene and the sap developer
+3m47s: news is out uh by the way um let me just
+3m50s: share that thing there I&amp;#39;ve already
+3m51s: started putting in i&amp;#39; just just done it
+3m53s: now 759 a.m. um uh a couple of links
+3m56s: this week&amp;#39;s sap developer news let me
+3m58s: put the link to that thing in there so
+4m2s: everybody&amp;#39;s got a a meta link a link to
+4m4s: the links as it were um so SCP developer
+4m8s: news I record you
+4m11s: know I think a lot of my uh colleagues
+4m14s: do some
+4m15s: awesome uh developing new episodes
+4m18s: recordings at different locations some
+4m19s: do walk and talk some do just you know
+4m21s: outside where they live or whatever or
+4m23s: you know
+4m24s: something oh scream outside um a little
+4m27s: baby screaming um uh
+4m30s: and uh I I thought I&amp;#39;ll sit so I sat on
+4m32s: the toe path um was it was it yesterday
+4m34s: yesterday morning I sat on the tow path
+4m36s: and recorded this thing here um with the
+4m39s: Naro behind me just give people an idea
+4m42s: of uh you know what it&amp;#39;s like outside
+4m44s: out there that chimney there um is a
+4m47s: chimney that belongs to an Old Mill
+4m50s: flower Mill it was right on the canal uh
+4m52s: it&amp;#39;s in burco and um it&amp;#39;s now you know
+4m55s: the the the flower Mill is now has been
+4m58s: converted into apartments and everything
+4m59s: but the chimney remains and the pump
+5m1s: house remains you know from the
+5m2s: Industrial Revolution so that&amp;#39;s where I
+5m4s: am and in fact I thought I&amp;#39;ll show you I
+5m6s: took a picture um last month I think it
+5m8s: was a couple of months ago so it&amp;#39;s not
+5m10s: as a you know I&amp;#39;m not recent this week
+5m11s: but I took a picture standing on the
+5m14s: other side of the canal to where I am
+5m16s: where roughly where that tree is there
+5m18s: and that picture is there so I was
+5m20s: sitting there so this is you know
+5m21s: weather was pretty horrible but that&amp;#39;s
+5m23s: um where I am that&amp;#39;s where I live and
+5m25s: right now I&amp;#39;m behind those uh windows
+5m28s: that duck hatch so that duck catches
+5m30s: that thing behind me so I&amp;#39;m broadcast it
+5m32s: coming to you loud and clear from
+5m34s: hopefully loud and clear from uh there
+5m35s: so that&amp;#39;s that so anyway check the news
+5m38s: out and one of the news item bonono Kaza
+5m41s: bonjo once again grabbing a coffee and
+5m43s: waiting for capaya waiting for capir
+5m45s: exactly alexe hello from Germany in
+5m48s: pador excellent pador yeah is yeah pador
+5m52s: I know pador I used to listen to bfbs
+5m54s: radio and I think they broadcast from
+5m55s: pador pador and good morning to you
+5m57s: Matias in Dortmund p
+6m0s: good morning to you in Poland nice to be
+6m1s: nice to have you
+6m4s: here anyway so uh welcome one and all um
+6m8s: another one of the news items uh is the
+6m11s: fact that uh the June developer
+6m14s: Challenge from Vali is now at an end you
+6m18s: know still time to to do the develop
+6m19s: although I think Vitalia sort of
+6m21s: summarized the participants and
+6m23s: everything and so we&amp;#39;re into July
+6m27s: obviously and we have a July developer
+6m30s: challenge for you and what I thought I
+6m33s: did put a call out on LinkedIn I think
+6m35s: cuz anybody think it&amp;#39;d be a good idea to
+6m37s: go through this and other folks have
+6m39s: contacted me directly and said yeah
+6m40s: let&amp;#39;s have a look let&amp;#39;s have a quick
+6m42s: look at the new developer challenge
+6m44s: because it&amp;#39;s all about cap and it&amp;#39;s all
+6m46s: you know I designed this um or I put
+6m49s: this together let me let me not use the
+6m50s: word design I&amp;#39;ll tell you why in a
+6m51s: minute I put this together um with folks
+6m55s: like you in mind uh good morning to you
+6m57s: helmet in Brunswick in Germany and uh
+7m2s: sus
+7m4s: uh sus uh should I call you s is that
+7m7s: the right pronunciation swis uh swis
+7m11s: good morning to you inuk uh where is
+7m14s: that in
+7m16s: Switzerland where is I shouldn&amp;#39;t know
+7m18s: really shouldn&amp;#39;t I oh my goodness be
+7m19s: Nasim good morning to you in India good
+7m21s: afternoon to you in India I don&amp;#39;t know
+7m23s: what time is it uh five and a half hours
+7m24s: maybe from the UK I don&amp;#39;t know um so
+7m28s: we&amp;#39;re going to have a look at this okay
+7m29s: um let&amp;#39;s have a look at this spend half
+7m31s: an hour on this and then do the rest of
+7m33s: it on
+7m34s: um uh on the uh where we were I&amp;#39;ve got
+7m38s: everything oh terminal bash process ter
+7m41s: kill that where we were I&amp;#39;ve just
+7m42s: committed the stuff there in uh last
+7m45s: week&amp;#39;s episode we had I think yeah
+7m48s: exactly what we we
+7m50s: just finished implementing total stock
+7m53s: which is an Unbound function and then we
+7m56s: Define right at the end of last week we
+7m58s: defined
+8m0s: this stock value didn&amp;#39;t we we put down
+8m4s: we Define the stock
+8m6s: value function as a function but it&amp;#39;s a
+8m10s: bound function and the way we Define it
+8m13s: as a bound function is we add it as a
+8m14s: sort of a a block to this actions clause
+8m17s: on the end of this entity definition so
+8m20s: this stock value function here is
+8m21s: effectively bound to the books entity
+8m24s: and we&amp;#39;ll understand a little bit more
+8m26s: of what that means and how to resolve
+8m30s: in a given call to that function what
+8m33s: particular book entity it relates to
+8m37s: right so we do that and Robin van off
+8m40s: good morning to you in the Netherlands
+8m42s: and tug is near toi in Switzerland ah
+8m44s: yes I thought he was in Switzerland yes
+8m46s: thank you very much SWS uh and good and
+8m49s: uh have I missed anybody oh ol oh ol
+8m51s: says as well is south of Z excellent
+8m55s: excellent but shall we put in the chat
+8m57s: uh what should we do first what should
+8m58s: we do first shall we do the um uh the
+9m2s: total stock first or shall we have a
+9m4s: quick look at the uh the new sap
+9m7s: developer challenge the reverse apis and
+9m8s: by the way you folks are the first to
+9m11s: see this because I just did it about
+9m12s: half an hour ago I think um I&amp;#39;ve just
+9m15s: published the second task task number
+9m17s: one in this developer challenge um some
+9m20s: of you may have not seen this developer
+9m22s: challenge yet the whole idea is that
+9m25s: it&amp;#39;s reverse apis the idea so the whole
+9m27s: idea this developer challenge is sort of
+9m30s: like a reflection of the inverse of a
+9m33s: developer challenge we did last August
+9m36s: on apis where you had to make calls to
+9m39s: API
+9m41s: endpoints um and good morning to you
+9m43s: Daniel I missed the last few sessions
+9m45s: hope I can still of course you can still
+9m46s: follow Daniel and you&amp;#39;re always welcome
+9m48s: and everything and we may be talking
+9m49s: about this development challenge so um
+9m51s: we&amp;#39;d love to get your your thoughts and
+9m53s: insights on um you know the way we can
+9m56s: carry out these tasks here on the devel
+9m58s: challenge
+10m1s: um and uh actually the the inspiration
+10m4s: the idea for last year&amp;#39;s last August
+10m7s: developer Challenge on apis was came
+10m9s: from my son Joseph we a coffee and he
+10m11s: said oh why didn&amp;#39;t you do this I said oh
+10m12s: great idea and then I was over in dorf
+10m15s: with him um after the uh code connect
+10m18s: actually and we were in this really good
+10m20s: co great coffee place called
+10m22s: um uh light roast um in in dorf and uh
+10m26s: we having in a chat and he said why
+10m27s: don&amp;#39;t you do the opposite why don&amp;#39;t you
+10m29s: get get folks to create apis and you as
+10m33s: the person running the developer CH you
+10m35s: will call them and see if they
+10m37s: implemented the apis correctly it&amp;#39;s like
+10m39s: what a brilliant idea so I&amp;#39;ve actually
+10m40s: put down at the bottom here no where is
+10m42s: it
+10m43s: um uh put down at the bottom here uh the
+10m45s: idea for this challenge for my lovely
+10m47s: son Joseph so thank you Joseph um anyway
+10m50s: so the idea is like I like I just said
+10m53s: you over the course of July are going to
+10m56s: have to
+10m57s: create three services
+11m0s: good morning Antonio good morning and
+11m2s: welcome uh three services and within
+11m5s: those three services you&amp;#39;re going to
+11m6s: have to create uh a total of 10 uh end
+11m9s: points so in the first service you&amp;#39;re
+11m11s: got to create three end points in the
+11m12s: second service which is going to be a
+11m14s: rest a plain rest service you&amp;#39;re going
+11m16s: to create a couple of end points and
+11m17s: then um you&amp;#39;re going to basically also
+11m19s: create a North Breeze service very much
+11m22s: like the north Breeze service that we
+11m23s: had in August&amp;#39;s challenge last year
+11m27s: you&amp;#39;re going to implement it and then
+11m28s: you&amp;#39;re going to implement various end
+11m30s: points some are just entity projections
+11m33s: some uh there&amp;#39;s one that is as select
+11m36s: type projection there&amp;#39;s a a bound action
+11m40s: there&amp;#39;s an Unbound act function there&amp;#39;s
+11m42s: a bound function all sorts of different
+11m44s: things and you&amp;#39;ve got to you got to
+11m46s: implement them basically um so that&amp;#39;s
+11m49s: what this is all about uh so nobody&amp;#39;s
+11m51s: put in the chat yet what we should do
+11m53s: first so while I&amp;#39;m talking about this I
+11m54s: might as well just sort of talk through
+11m55s: for the next 10 10 minutes uh I think
+11m59s: some some folks have already started so
+12m1s: yeah generally let&amp;#39;s let&amp;#39;s have a look
+12m2s: through this here we go look here we go
+12m4s: um so the whole idea is that um there&amp;#39;s
+12m8s: a tester service in the cloud so uh test
+12m11s: server uh uh wow in fact let&amp;#39;s go here
+12m15s: let&amp;#39;s go to the um it&amp;#39;s quite a every
+12m19s: time I edit this you get white spaces
+12m21s: added and you can&amp;#39;t get rid of them um
+12m23s: easily uh so there we go tester service
+12m25s: there we go there&amp;#39;s a tester service let
+12m28s: open that in a new tab
+12m31s: and in fact if I go there up here on sap
+12m36s: uh BCP The Foundry environment I&amp;#39;ve got
+12m38s: this little cap server
+12m42s: running and it has a single service
+12m47s: tester and if we look at the metadata of
+12m49s: the tester yes it&amp;#39;s got an entity type
+12m52s: and it&amp;#39;s got an entity set there but
+12m54s: we&amp;#39;re not really interested in that
+12m55s: let&amp;#39;s get rid of the annotations as well
+12m56s: we&amp;#39;re not interested in the annotations
+12m58s: um uh there it&amp;#39;s basically you
+13m1s: know uh some are um some are annotations
+13m5s: because of the um common uh cuid and
+13m11s: managed uh aspects that I&amp;#39;ve used for
+13m13s: that particular entity definition and
+13m15s: others are because I&amp;#39;ve actually made
+13m16s: that entity read only the key thing is
+13m19s: let me make that bigger the key thing is
+13m21s: it&amp;#39;s got It&amp;#39;s got an Unbound action and
+13m26s: the Unbound action is called test server
+13m28s: so the whole idea is that when you
+13m31s: follow the
+13m32s: instructions let me put that over there
+13m34s: yeah let me put that there for example
+13m36s: and then just scroll up a bit there we
+13m37s: go when you put the um when you follow
+13m41s: the instructions you&amp;#39;ll be creating
+13m44s: services and in those Services you&amp;#39;ll be
+13m46s: creating API endpoints and the whole
+13m49s: idea is then that you say okay I&amp;#39;m ready
+13m51s: with my API endpoint I would now like to
+13m55s: see if I implemented it correctly and
+13m58s: therefore I&amp;#39;m going to make a call here
+14m0s: we go let&amp;#39;s just um uh make a call uh
+14m4s: that&amp;#39;s going too fast actually um make a
+14m7s: I tell you what I&amp;#39;ll do I&amp;#39;ll show
+14m9s: you scratch this is my thing where I
+14m13s: create all these stupid things for um
+14m16s: for links in and everything but down
+14m17s: here I think I I did the there we go yes
+14m19s: there we go all of that gif here in
+14m22s: workings of DJ&amp;#39;s brain let me put on the
+14m25s: other side um it&amp;#39;s just it&amp;#39;s just like
+14m27s: an animated gift for these things here
+14m30s: right so basically once you&amp;#39;ve defined
+14m32s: your service
+14m34s: here and you implemented or you defined
+14m37s: an endpoint and you&amp;#39;ve implemented that
+14m39s: endpoint then you make a request let&amp;#39;s
+14m42s: put full screen then you make a request
+14m44s: please test this endpoint and you make a
+14m45s: request to the test service right which
+14m49s: is um a a call to this test server
+14m54s: action
+14m55s: right and that test service then makes a
+14m58s: call
+15m0s: to the end point that you&amp;#39;ve told it
+15m1s: about that you&amp;#39;re ready with and then it
+15m3s: will return whether you know whether
+15m5s: that call has been successful or not
+15m7s: good morning Rafal to you in Poland so
+15m11s: that&amp;#39;s that okay so that&amp;#39;s um what it&amp;#39;s
+15m15s: all about let me move that back across
+15m16s: there as well right so all you got all
+15m18s: the details here the link is in the um
+15m22s: uh the link to this blog post is in the
+15m25s: this this week&amp;#39;s episode here um and
+15m29s: then we&amp;#39;ve we&amp;#39;ve started out with a
+15m31s: challenge overview the services so
+15m34s: you&amp;#39;re going to be doing an Unbound
+15m35s: function with no parameters Unbound
+15m36s: function with parameters action with
+15m38s: data bound action so what we&amp;#39;re doing on
+15m40s: this Back to Basics at the moment is
+15m42s: exactly sort of in line with you know
+15m44s: giving you help as to or knowledge about
+15m47s: what you&amp;#39;re going to have to implement
+15m50s: there so I see a question from zahed uh
+15m53s: is there any sizing guide available to
+15m55s: calculate the resources required on btp
+15m57s: for a cap application
+16m0s: I
+16m3s: think I have a feeling there is there is
+16m6s: a sizing guide I mean I would be just
+16m9s: Googling it as much as you would be
+16m12s: zahed
+16m14s: um uh oh uh I&amp;#39;m sorry I&amp;#39;ve just seen
+16m18s: your VES comment there um so I&amp;#39;m I&amp;#39;m not
+16m21s: sure I think there are sizing guides I
+16m24s: would encourage you to um let&amp;#39;s have a
+16m27s: look uh site help.sap.com uh sizing
+16m32s: btp uh sizing guide there we go sizing
+16m35s: guide so there we go the power of Google
+16m38s: uh let me put that in the um in here uh
+16m41s: just as answer to your edit there we go
+16m43s: there we go uh
+16m44s: so to Z&amp;#39;s
+16m47s: question um sizing guide in btp for
+16m54s: btp
+16m55s: there there we go look at that
+16m59s: fantastic um so yav I hope that answers
+17m2s: your question go and have a look at that
+17m3s: and see what see if that helps zahed um
+17m5s: yav says good morning from YouTube
+17m6s: mobile the chat option is not displayed
+17m8s: in web app weird um when I go on the
+17m10s: YouTube um mobile on my phone I get I
+17m14s: can get the I can see the chat there
+17m16s: sometimes I actually watch the
+17m18s: chat in this live stream by looking at
+17m20s: the YouTube mobile app um so you you say
+17m24s: web app so maybe maybe you need to use
+17m26s: the actual you know the Android or iOS
+17m30s: app rather than the native web thing um
+17m34s: so I&amp;#39;m not sure you have us uh sashan um
+17m37s: good morning to you San and visas I
+17m39s: still remember we had lots of fun and
+17m41s: learned a lot from the last year&amp;#39;s API
+17m42s: developer chance thank you Visa thank
+17m44s: you for remembering and thank you for
+17m45s: having fun as well unless it do know
+17m46s: sadly I didn&amp;#39;t participate in any sap
+17m48s: developer challenge this year because I
+17m49s: haven&amp;#39;t be very bus project that&amp;#39;s okay
+17m51s: that&amp;#39;s okay we can&amp;#39;t all do everything
+17m54s: we can&amp;#39;t all do everything Benjamin
+17m57s: Benjamin Ben benjam Benjamin Ben in fact
+18m0s: I was think I&amp;#39;ll tell you I was thinking
+18m1s: you yesterday in Tesco actually Ben
+18m4s: hello cap Pirates fantastic yes thank
+18m6s: you for remembering the amazing phrase
+18m8s: that we came up with you last week so
+18m10s: yes I got some uh I got some of those
+18m11s: lengers and uh I have one today who was
+18m14s: quite good and yeah I feel better thank
+18m15s: you uh so Hussein good morning to you
+18m18s: Hussein okay so um that is that and one
+18m23s: of the things that some people stumble
+18m25s: on some beginners stumble on which is
+18m27s: completely
+18m29s: understandable is how to make my cap
+18m31s: service easily available to the
+18m33s: interwebs to in the cloud and so we got
+18m35s: this simple deployment here to btp um
+18m39s: and and because because it&amp;#39;s me I did it
+18m41s: as a
+18m42s: oneliner um and um so I think we should
+18m47s: just go through this just so you&amp;#39;ve got
+18m50s: at least a starter to start working
+18m53s: on um uh the the task that I&amp;#39;ve just
+18m56s: released today so task zero if you look
+18m59s: at task zero here let&amp;#39;s go to task zero
+19m1s: the whole idea is that you go back to
+19m2s: this blog post every day or whatever and
+19m4s: say oh yeah is there a new task yes oh
+19m6s: there&amp;#39;s task zero there&amp;#39;s task one I&amp;#39;ve
+19m8s: just added this this uh section and Link
+19m11s: and the next task I&amp;#39;m going to publish
+19m12s: on Tuesday um but if we go to task zero
+19m15s: this is all about getting a server up
+19m18s: and running okay um so blah blah blah
+19m21s: blah blah um so go and it says basically
+19m24s: go and follow either the simple
+19m26s: deployment to btp approach or the local
+19m28s: deployment plus nro tunnel in fact
+19m30s: here&amp;#39;s something I&amp;#39;m going to ask you to
+19m32s: put in the chat we&amp;#39;ll do this but shall
+19m34s: we do the local deployment uh using enro
+19m38s: or shall we do the simple deployment to
+19m39s: btp right now on this uh live stream
+19m43s: episode and we&amp;#39;ll do that and then we&amp;#39;ll
+19m44s: switch over to looking uh continuing to
+19m47s: look at the um stock value bound uh
+19m50s: bound function so let me know good good
+19m53s: morning to you in Slovakia slim good
+19m55s: morning so yeah let me know put in the
+19m57s: chat either simple deployment to btp or
+20m0s: local deployment plus enro which one
+20m2s: shall we do it&amp;#39;s like one of those um
+20m5s: it&amp;#39;s like one of those uh adventure
+20m8s: books where you know you read it and
+20m9s: then you decide where to go next what
+20m11s: are they called BCP uh Alex simple BCP
+20m15s: but whatever the team prefers thank you
+20m16s: Alex and thank you Hussein okay Hussein
+20m18s: thank you Hussein for um making a
+20m20s: decision that&amp;#39;s brilliant and putting in
+20m21s: the chat that&amp;#39;s what we like so let&amp;#39;s do
+20m25s: btp so Kiara says can we do local tell
+20m28s: you what why don&amp;#39;t we do both why do we
+20m30s: do both yes why do we do both okay so
+20m33s: the whole
+20m34s: idea is that you want to start you want
+20m38s: to have a basis let me go into
+20m40s: here and here we go let&amp;#39;s go ah here
+20m43s: yeah yeah okay let&amp;#39;s go into temp let&amp;#39;s
+20m45s: do it in temp this is actually the the
+20m47s: repo I&amp;#39;m using for in fact I&amp;#39;ll show you
+20m51s: uh this is the repo that&amp;#39;s got the
+20m54s: candidate that I&amp;#39;ve written to with all
+20m56s: 10 API end points in all three tasks um
+20m59s: i&amp;#39; been I&amp;#39;ve been using containers for
+21m0s: this for testing and everything locally
+21m2s: um I&amp;#39;ve got the tester service which is
+21m4s: the thing that&amp;#39;s in the cloud right now
+21m5s: that I showed you um and I&amp;#39;ve also got
+21m8s: the tasks and I I edit the tasks in
+21m10s: markdown because markdown and you know
+21m12s: it&amp;#39;s a lot easier to create than writing
+21m14s: on the um on the thing here um so that&amp;#39;s
+21m18s: that but let&amp;#39;s go into temp okay
+21m22s: um so uh this the okay so the whole idea
+21m25s: is that you in order to have the tester
+21m29s: reach your server and your service
+21m33s: implementation and specifically the
+21m34s: given endpoint for the given task in
+21m36s: that service implementation of course
+21m38s: it&amp;#39;s got to be on to the on the
+21m39s: interwebs so simple deployment to btp so
+21m42s: these are just links back to certain
+21m44s: sections in the blog post that letter us
+21m46s: here simple deployment to btp so that&amp;#39;ll
+21m48s: take us here okay now let&amp;#39;s let&amp;#39;s just
+21m53s: copy this and run it and then let&amp;#39;s just
+21m55s: talk about it before we run it okay so
+21m59s: what in fact let&amp;#39;s just let&amp;#39;s just walk
+22m1s: through it here in color so we can see
+22m4s: uh we don&amp;#39;t need that anymore anyway so
+22m5s: we can see what&amp;#39;s going on we&amp;#39;re going
+22m7s: to do a CDs in it we do CDs in it all
+22m9s: the time initialize a cap project and
+22m11s: we&amp;#39;re going to add the tiny sample just
+22m13s: so we&amp;#39;ve got a tiny bit of
+22m16s: data to serve just to you know just to
+22m18s: do something to be able to kick the
+22m19s: tires going to call give it a name now
+22m22s: some folks have have used this name uh
+22m25s: use your own name use your own name just
+22m27s: make something up
+22m29s: um so you know qro me Etc and then we&amp;#39;re
+22m31s: going to move into that directory so we
+22m34s: initialize the project which creates a
+22m36s: directory and then we&amp;#39;re going to CD
+22m37s: into that directory that dollar
+22m39s: underscore if you&amp;#39;re using a proper
+22m40s: shell like bash or Zell even I think um
+22m43s: that refers to the last argument of the
+22m46s: previous command Okay so it&amp;#39;ll do a CD
+22m49s: into Q macro simplist deployment and and
+22m52s: then we&amp;#39;re going to do some JQ just to
+22m54s: add some CDs configuration to the
+22m57s: package Jon look it&amp;#39;s package Jason down
+23m0s: here um so that we can just deploy
+23m3s: without thinking about productionizing
+23m5s: it we don&amp;#39;t need to productionize this
+23m7s: this cap server that we&amp;#39;re going to be
+23m8s: running it&amp;#39;s just a test server that we
+23m10s: want to stand up some API end points in
+23m13s: a service and then have that be tested
+23m15s: and then you know tear it down again if
+23m17s: we want to this whole idea is of course
+23m20s: when you when you modify a file in light
+23m22s: you modify the file modify the package
+23m25s: Json and write it to a temporary file
+23m27s: and then if that&amp;#39;s successful and and
+23m29s: then move the temporary file and re
+23m31s: rename it to package Json basically
+23m33s: modifying package Json sort of in
+23m35s: place the last thing we do before we um
+23m39s: try to push it to the cloud is to add
+23m43s: the SQL light npm package because the
+23m46s: whole idea is that we don&amp;#39;t want to use
+23m47s: any persistence layer we don&amp;#39;t want to
+23m49s: use a backing service because you know
+23m51s: we want the simplest thing that could
+23m52s: possibly work um and then we&amp;#39;re going to
+23m54s: push it with CF push and again you don&amp;#39;t
+23m57s: have to use a m multi-target application
+24m0s: incantation mta. yaml all that stuff
+24m3s: which is very important when you&amp;#39;re
+24m4s: doing real life stuff but this is simp
+24m8s: the simplest thing that could possibly
+24m9s: work so we&amp;#39;re just doing a CF push okay
+24m12s: and all you have to do with a CF push is
+24m14s: give it the name that the application
+24m16s: should be called on btp on cloud Foundry
+24m21s: and for though I in fact i&amp;#39; put there
+24m22s: yeah I put I&amp;#39;m using by the way by the
+24m25s: way
+24m26s: um blogging in um in our new sap
+24m31s: Community
+24m32s: platform I like to use sort of a
+24m36s: monospaced font for things like this you
+24m39s: know so dollar you know uh sorry open
+24m41s: double quotes dollar bracket base name
+24m43s: blah blah blah blah blah but you it
+24m45s: doesn&amp;#39;t allow you to make it monospaced
+24m48s: so I&amp;#39;m just using Mark what I would do
+24m49s: in markdown raw markdown with the B
+24m51s: ticks so mentally when I see the
+24m53s: backticks like that mentally I see that
+24m56s: in monospaced font so I&amp;#39;m hoping you do
+24m58s: to put in the chat if that&amp;#39;s how also
+25m1s: because you know markdown is very easy
+25m2s: to read in raw form um uh CD there VI
+25m8s: tasks uh1 there so I&amp;#39;m reading that and
+25m11s: you know that&amp;#39;s just like fine you know
+25m13s: there we go look backspace backspace
+25m16s: backspace backspace these these will
+25m18s: come out properly formatted when they&amp;#39;re
+25m19s: properly s rendered um like in fact like
+25m22s: this uh I
+25m25s: 347 um in a work in work workings
+25m29s: again uh there and um repositories where
+25m33s: is it developer challenge 20247 tasks uh
+25m38s: there look how nicely that&amp;#39;s rendered
+25m40s: there that&amp;#39;s that&amp;#39;s what I want and
+25m41s: that&amp;#39;s what I see in my brain okay
+25m43s: anyway right so let&amp;#39;s copy that we
+25m45s: copied that haven&amp;#39;t we copy that again
+25m46s: just make sure
+25m48s: um there we go let&amp;#39;s go into Temp and
+25m51s: let&amp;#39;s just run the whole thing in fact
+25m55s: before we do that um CF are we logged in
+25m57s: CF F applications let&amp;#39;s just have a look
+26m0s: what applications are running that&amp;#39;s so
+26m2s: by the way um let&amp;#39;s just show you what
+26m4s: I&amp;#39;ve got in my uh btp trial account
+26m9s: right now good morning good evening to
+26m11s: you Andrew barard in melbour Australia
+26m14s: hope you got your glass of wine with you
+26m15s: there&amp;#39;s my free tier thing there let&amp;#39;s
+26m18s: have a look let&amp;#39;s have a look using you
+26m20s: know using a gooey because you know
+26m21s: because it&amp;#39;s Friday uh and so we know
+26m24s: we&amp;#39;re not doing things properly um so
+26m27s: I&amp;#39;ve got this tester service which is
+26m29s: the actual tester service I&amp;#39;ve got a
+26m31s: route going to that there we go look at
+26m32s: that there&amp;#39;s a route uh so we can
+26m34s: develop a challenge 20247 so we can go
+26m37s: there look tester service that goes to
+26m38s: the tester Service uh so that&amp;#39;s the
+26m40s: thing that&amp;#39;s running our thing that&amp;#39;s
+26m42s: not very descriptive DJ um so let&amp;#39;s yeah
+26m46s: let&amp;#39;s do that so that&amp;#39;s that&amp;#39;s what I&amp;#39;ve
+26m48s: got at the moment uh where are the
+26m49s: applications I&amp;#39;ve got a developer
+26m51s: challenge Q test don&amp;#39;t know Li is um and
+26m54s: there we go okay fine so I&amp;#39;m already
+26m56s: logged in so I can do a CF push right
+26m58s: see I push and what we&amp;#39;ll do here oh no
+27m1s: we don&amp;#39;t do that what&amp;#39;s going on it&amp;#39;s
+27m2s: pushing nothing um developer challenge
+27m5s: tester why is it doing that
+27m11s: H interesting why is it picked develop
+27m15s: oh have I got something in there okay so
+27m18s: um oh anyway CF push what I wanted to do
+27m20s: is get it to show us the help okay so if
+27m22s: we have a look at that we can see all we
+27m27s: need is is CF push app name okay that&amp;#39;s
+27m30s: the name of the app and that is
+27m32s: basically
+27m33s: what this thing is doing here so let&amp;#39;s
+27m36s: run it and see what happens in fact no
+27m38s: let&amp;#39;s run it one one thing at a time
+27m39s: let&amp;#39;s do it one thing at a time so we
+27m40s: can see what&amp;#39;s happening step by step
+27m42s: can you sound St making this as I go
+27m44s: along Okay so we&amp;#39;ve initialized a new
+27m47s: project let&amp;#39;s go into that project Q
+27m48s: macro in fact we do that right dollar
+27m50s: underscore go into there Q macro
+27m52s: simplist deployment um and if we have a
+27m54s: look at that we get all the standard
+27m56s: stuff we get beautifully given to for
+27m58s: free by the cap init um
+28m3s: command uh we get app folder directory
+28m6s: nothing in there DB we got a nice little
+28m8s: data model with some books right
+28m10s: Bookshop books we got the service just
+28m12s: exposing that books thing there all the
+28m13s: normal stuff that we know right um and
+28m16s: we get this package Json which is pretty
+28m18s: much devoid of any specific CDs
+28m22s: configuration I.E any
+28m24s: configuration in the in the in the CDs
+28m27s: sort of node here uh node that&amp;#39;s a
+28m30s: overloaded word to use don&amp;#39;t use the
+28m31s: word node DJ in this context in the CDs
+28m33s: section of this Json okay so the next
+28m36s: thing we do is we&amp;#39;ll do this JQ as just
+28m40s: do that there temp file by the way if
+28m42s: you&amp;#39;re wondering this backslash here put
+28m45s: in the chat what you think that
+28m47s: backslash is actually doing okay what is
+28m50s: it actually
+28m51s: doing um so let&amp;#39;s just copy that and run
+28m54s: that so watch this now um in fact let&amp;#39;s
+28m58s: do that
+28m59s: watch uh JQ package Json is that make it
+29m4s: a little bit smaller all right
+29m6s: uh in fact watch use the uh control
+29m11s: characters JQ sorry use the control
+29m14s: characters and then say JQ and then X
+29m16s: spit out the control characters
+29m18s: regardless of what context you&amp;#39;re
+29m20s: running in there we go that&amp;#39;s better got
+29m22s: color color now uh continue line exactly
+29m25s: Matas it&amp;#39;s continue line but what
+29m26s: exactly this is this is the Nuance I&amp;#39;m
+29m28s: looking
+29m30s: for what is the backslash actually doing
+29m34s: it allows us to continue line but what
+29m37s: does the backslash actually do why is it
+29m40s: a backslash why do we need to use a
+29m42s: backslash okay there&amp;#39;s nothing to do
+29m44s: with cap I think it&amp;#39;s interesting so
+29m46s: let&amp;#39;s do that bang and then say move um
+29m49s: temp file package
+29m53s: Json Bang there that&amp;#39;s it that&amp;#39;s what we
+29m55s: get so we we basically add
+29m58s: these things we have CDs features in
+30m1s: memory
+30m2s: DB so it will force the cap server to
+30m5s: continue using the colon memory colon
+30m8s: SQL light thing here in the credentials
+30m11s: and we also add in the requires DB kind
+30m13s: SQL light credentials database memory
+30m15s: and it also adds the or mocked to say
+30m18s: basically we just want to have this
+30m20s: mocked explicitly asking for
+30m23s: mocked okay so that&amp;#39;s what that&amp;#39;s all we
+30m27s: need and then we can push this and
+30m30s: because when you do a CF push in a node
+30m32s: context right um Andrew Well Done Andrew
+30m36s: Andrew is on it like a carb on it as
+30m38s: usual Andrew says backlash so that the
+30m40s: CR LF uh nicely nicely on the fence
+30m43s: there brilliant uh is ignored exactly it
+30m46s: actually escapes the new line okay so in
+30m49s: a in a proper shell you know the new
+30m52s: line character is a new line uh not crlf
+30m56s: it&amp;#39;s a long history of why CR in Windows
+30m59s: um it was CR on one one type of system
+31m1s: it was LF on another Windows CRF anyway
+31m4s: it&amp;#39;s an amazing story uh you know if
+31m6s: you&amp;#39;re boring nerd like me uh read it
+31m9s: find out but basically it escapes a
+31m12s: backass escapes things in bash and in
+31m14s: various other shells so it escapes the
+31m16s: new line which is the next character
+31m19s: okay anyway um a story for another time
+31m22s: exactly um so now if we do what what&amp;#39;s
+31m25s: the next thing we do um this is actually
+31m27s: going going uh taking longer than I I
+31m29s: expected mpm ad there we go mpm ad uh
+31m33s: I&amp;#39;m just we&amp;#39;ll just add SQL light as
+31m35s: well okay so Visa says for anyone who
+31m37s: has Legacy P account before we have the
+31m39s: universal ID I found that recently I had
+31m41s: to change the Legacy password to do the
+31m42s: same as universal ID to be yes exactly
+31m44s: the universal ID um has tripped me up
+31m49s: quite a bit as well uh so that&amp;#39;s a good
+31m51s: tip there from visas yes you have to you
+31m53s: have to change the password for some
+31m56s: Legacy um cloud found
+31m58s: accounts or accounts on B2B in general
+32m1s: exactly well on Visas so now we&amp;#39;ve got
+32m4s: everything we can actually do a CDS
+32m5s: watch right let just do a CS watch I
+32m7s: don&amp;#39;t think I&amp;#39;m running anything else on
+32m8s: 40004 there we go there 40004 and we get
+32m12s: that in fact we go there and um it&amp;#39;s
+32m14s: actually the for reasons for reasons for
+32m18s: container Reasons I&amp;#39;m mapping 404 to
+32m21s: 4444 um because this this is all running
+32m23s: inside a container right so so that&amp;#39;s
+32m26s: what we&amp;#39;ve got now all we&amp;#39;re going to do
+32m28s: is this thing here right uh CF push in
+32m33s: fact let&amp;#39;s do this first right what is
+32m36s: that um Echo
+32m39s: that okay that&amp;#39;s that&amp;#39;s the same as
+32m41s: saying you know base name
+32m47s: PWD dollar PW is an environment variable
+32m50s: sorry dollar
+32m54s: echo echo doll P PWD is an environment
+32m59s: variable that&amp;#39;s available to you and it
+33m1s: has as its value the name of the current
+33m3s: working directory right in fact I
+33m6s: did
+33m8s: PWD yes there we go the Myriad meanings
+33m11s: of PWD in Unix systems I did I did uh
+33m14s: like this long boring well it wasn&amp;#39;t
+33m16s: boring to me uh investigation as to what
+33m19s: PWD actually means stands for what do
+33m22s: you think the p and dollar PWD stands
+33m24s: for I&amp;#39;ll put that in the thing because
+33m26s: if you&amp;#39;re bored and you can&amp;#39;t you can&amp;#39;t
+33m28s: get to sleep you can read that because I
+33m31s: think it&amp;#39;s quite interesting um what&amp;#39;s
+33m35s: it called the Myriad the Myriad meanings
+33m38s: of PWD in Unix systems DJ what are you
+33m43s: doing get on with
+33m45s: it okay there
+33m49s: post um okay so we can just
+33m52s: say um there CF push
+33m58s: um ah so PW is that if we say if we take
+34m1s: the base name right base
+34m4s: name uh
+34m6s: d-el that will give us basically the
+34m9s: name with any leading directory
+34m10s: components removed so the base name of
+34m13s: dollar
+34m14s: PWD is just the last bit this bit okay
+34m19s: so that could be the name of our app
+34m20s: right so we say CF push I put it there
+34m24s: uh CF push
+34m28s: uh there there there okay so let&amp;#39;s push
+34m36s: that okay so print working directory
+34m38s: exactly exactly exactly um okay so let&amp;#39;s
+34m41s: push
+34m42s: this where we where we there we go push
+34m44s: that now while we&amp;#39;re waiting let&amp;#39;s also
+34m47s: do let&amp;#39;s also do this one because kiar
+34m50s: was saying let&amp;#39;s do the local okay so
+34m53s: for those of you who are not
+34m55s: aware um for those of you are not aware
+34m57s: where there&amp;#39;s an amazing tool that I&amp;#39;ve
+35m0s: been using for years called enro your
+35m3s: apps front door okay so enrock you know
+35m6s: you can you have to sign up but it&amp;#39;s
+35m8s: free okay and you get like a an
+35m10s: authentication token uh let me log in to
+35m13s: see what&amp;#39;s going on why am I not looked
+35m14s: in before I don&amp;#39;t know
+35m16s: um uh come on and while we&amp;#39;re waiting
+35m19s: here let&amp;#39;s say
+35m21s: enro so we got this so we can create
+35m24s: tunnels okay we can say create a tunnel
+35m27s: to the interweb
+35m28s: and expose or provision through that
+35m30s: tunnel with the HTTP protocol Port 80
+35m33s: for example so you can expose a local
+35m35s: web server for example you know and
+35m36s: that&amp;#39;s what we&amp;#39;re going to be doing so
+35m37s: HPS says why is Cap JS sqlite still only
+35m40s: a Dev dependency that&amp;#39;s a good question
+35m42s: actually
+35m44s: um where are we on here um where are we
+35m48s: uh
+35m49s: two there let&amp;#39;s have a look uh package
+35m52s: Json
+35m54s: edit step dependency SQL light um
+35m58s: that&amp;#39;s a good question maybe I should ah
+36m0s: maybe I should have done Capt JS SQL
+36m2s: light
+36m4s: ah I&amp;#39;ll change that HP I&amp;#39;ll change that
+36m7s: yes brilliant thank you for pointing
+36m8s: that out yes definitely okay so um where
+36m12s: are we here so I&amp;#39;m logged in um I&amp;#39;ve got
+36m15s: my I&amp;#39;ve got my thing here and so we need
+36m18s: an or token I&amp;#39;ve already got the or
+36m19s: token I think so I can now say okay it&amp;#39;s
+36m22s: running okay it&amp;#39;s running okay we&amp;#39;ll do
+36m24s: that now so now we can go here cacro
+36m26s: simplest deployment CF
+36m29s: apps and it&amp;#39;s available okay is it going
+36m32s: to be available to you as well let&amp;#39;s try
+36m33s: let&amp;#39;s see if we can put that in there uh
+36m37s: https try that see if you can see it
+36m41s: okay now at the same time will also okay
+36m46s: let&amp;#39;s just do that there uh let&amp;#39;s get
+36m49s: rid of uh yeah there we go um CF no CDs
+36m56s: watch so we&amp;#39;ll run that locally as well
+36m59s: okay so we got that running here on
+37m2s: local 4444 ignore the fact that it&amp;#39;s
+37m4s: 4444 it&amp;#39;s
+37m5s: 404
+37m7s: um fantastic thank you for confirming
+37m9s: Kaz is it works so that means the
+37m12s: tester will also be able to reach it
+37m15s: okay so we&amp;#39;ll actually do that in a
+37m18s: minute um so simpl as deployment there
+37m20s: we go so it&amp;#39;s also available there but
+37m24s: now going to Kiara&amp;#39;s request which is a
+37m26s: great request um
+37m28s: to go over here and say enro I&amp;#39;ve
+37m31s: already um or or config we I put my or
+37m35s: token in there already so I can say
+37m38s: enro start an
+37m41s: HTP um tunnel on exposing locally 404
+37m46s: and expose it on the internet so there
+37m49s: we go there now look at that look how
+37m50s: easy that was so also let put my head oh
+37m53s: it is at the bottom look how so we can
+37m54s: now go
+37m56s: here and get to the same place you try
+37m58s: that as well uh let me put that in there
+38m1s: let me put that in there try that and
+38m4s: that should be exactly the same the only
+38m7s: difference is of course is if you hit
+38m9s: the enro tunnel uh
+38m12s: provisioned URL you are coming down to
+38m15s: this local conent in fact somebody make
+38m17s: a call uh oh somebody&amp;#39;s gone to the fury
+38m19s: thing you can see here uh look at that
+38m21s: that&amp;#39;s that&amp;#39;s ulot here let me put my
+38m23s: head at the top again that&amp;#39;s OT here
+38m25s: actually making calls Fury preview
+38m28s: you&amp;#39;re all like Fury previews don&amp;#39;t you
+38m30s: you&amp;#39;re really hammering my little
+38m31s: container right now look at
+38m33s: that yeah so those are two look at that
+38m37s: post read books count etc etc so people
+38m40s: are um making my MacBook Pro no MacBook
+38m45s: Air go a little bit warm because you&amp;#39;re
+38m47s: um doing all these requests here
+38m49s: fantastic amazing okay so you can see
+38m51s: you&amp;#39;re calling the thing you&amp;#39;re making
+38m53s: the calls to the enrock exposed uh
+38m56s: tunnel to 404 which is this local server
+38m59s: here on CDs watch and you can see that
+39m1s: you can see the calls coming in Alex
+39m4s: denial of service attack okay anyway
+39m6s: yeah so let&amp;#39;s do um so that there we go
+39m8s: you can see that satisfying so why why
+39m11s: do you need why do you need this why do
+39m14s: you need something like this because
+39m16s: let&amp;#39;s just kill that
+39m18s: enrock um and uh also just um kill that
+39m22s: one as well why do we need that because
+39m24s: then you can start time is it 8:39 you
+39m28s: can start
+39m31s: implementing then you have everything
+39m33s: you need basically to start implementing
+39m36s: your first service and first endpoint so
+39m38s: this task one was only published this
+39m40s: morning um casseri good morning sorry
+39m44s: casy good morning Casey Casey is IT
+39m45s: Casey or casy Casey I&amp;#39;ll say Casey uh
+39m48s: good morning to you and welcome and
+39m50s: thank you for making comments brilliant
+39m52s: um so this task came out this morning uh
+39m55s: I published it at 657
+39m57s: 7 o&amp;#39;clock 8 o&amp;#39;clock an hour and a half
+39m59s: ago y um and uh this basically is you&amp;#39;re
+40m4s: going to need to create a very simple
+40m7s: ping service okay now oh there a boat
+40m11s: going past um a very simple ping service
+40m15s: and the the description here is that you
+40m18s: have to implement a ping Service as an
+40m21s: Unbound function in a service uh P yeah
+40m25s: there an Unbound function an API Point
+40m27s: that&amp;#39;s that&amp;#39;s defined as an Unbound
+40m30s: function and you got to have a little
+40m31s: bit of JavaScript to implement that and
+40m34s: it&amp;#39;s got to return a static value pong
+40m37s: okay and that&amp;#39;s it and then when you
+40m38s: once you&amp;#39;ve done that and we&amp;#39;ll do that
+40m39s: now because because why not let&amp;#39;s say
+40m42s: let&amp;#39;s pretend I Let&amp;#39;s Pretend here CDs
+40m45s: watch uh in fact no let&amp;#39;s not do the CDs
+40m48s: watch because we&amp;#39;ve got that here
+40m49s: haven&amp;#39;t we we&amp;#39;ve got this one uh not
+40m51s: Local Host that one so let&amp;#39;s say we
+40m55s: had um let&amp;#39;s say we thought we&amp;#39;d
+40m59s: implemented the the Ping service
+41m2s: for our first chap task number one okay
+41m5s: creating your first service ping you
+41m7s: want to do a ping service right and the
+41m8s: Ping service has got to got to have a
+41m10s: you know a metadata that looks like that
+41m12s: we go look uh entity container name
+41m14s: entity container function import ping
+41m17s: right ping is bound false Unbound
+41m19s: function called ping right and it should
+41m20s: return a string okay that simple but you
+41m24s: there&amp;#39;s a lot of thinking about this so
+41m26s: This Is Why I&amp;#39;m keeping this first one
+41m28s: simple let&amp;#39;s say here I thought oh yeah
+41m32s: I&amp;#39;ve got my ping ready of course there&amp;#39;s
+41m34s: there is no ping in this metadata at all
+41m36s: but let&amp;#39;s just see what happens so I
+41m38s: would say and this is also in this
+41m40s: description here in in this thing here
+41m43s: submitting your API endpoint to the
+41m44s: tester you got everything described so
+41m46s: what I&amp;#39;ll do is I&amp;#39;ll say in fact I&amp;#39;ve
+41m49s: got a curl example here there we go look
+41m51s: at that let&amp;#39;s do
+41m53s: that and then say um there uh let&amp;#39;s edit
+41m57s: it in there right so you send a request
+42m0s: cacro service URL what&amp;#39;s the service URL
+42m4s: um uh that thing there and the service
+42m8s: URL right it&amp;#39;s not the server URL it&amp;#39;s
+42m12s: the service URL so it&amp;#39;s a catalog that&amp;#39;s
+42m16s: the service URL right in the description
+42m20s: here it
+42m21s: says um you need to create a
+42m24s: service name basic okay so we don&amp;#39;t want
+42m27s: it SL oata V4 basic we want it SL basic
+42m31s: but any okay so let&amp;#39;s put SL basic in
+42m33s: there right so let&amp;#39;s do that and say uh
+42m35s: let&amp;#39;s let&amp;#39;s say oh yeah there we go and
+42m37s: it&amp;#39;s slash
+42m40s: basic okay and the task
+42m43s: is it says it here somewhere basic ping
+42m48s: yeah the task identifier you need to
+42m50s: supply in the payload of your submission
+42m51s: is basic ping right that basic ping and
+42m54s: then you send the the content header
+42m57s: because of course she just applying Json
+42m59s: and then you send it to that okay are
+43m1s: you ready are we ready okay let&amp;#39;s let&amp;#39;s
+43m5s: add of aose flag as well to see what&amp;#39;s
+43m7s: going on okay um so this will fail okay
+43m12s: because there
+43m13s: isn&amp;#39;t if we go there actually go over
+43m15s: there the browser cannot get SL basic I
+43m18s: we haven&amp;#39;t implemented a service at SL
+43m20s: basic yet okay but let&amp;#39;s do that let&amp;#39;s
+43m24s: run
+43m25s: that Bang
+43m28s: and what you get in response is error
+43m31s: code 500 message error calling service
+43m33s: endpoint okay so you get an error which
+43m35s: is fine okay and in fact CDs
+43m39s: logs um CDs what&amp;#39;s it called uh CDs
+43m44s: applications I can show you the oh sorry
+43m46s: CF applications I can show you behind
+43m48s: the scenes um here so CF logs recent
+43m53s: tester serve so we should be able to see
+43m55s: the log of that there we go look at that
+43m57s: there&amp;#39;s the log of
+43m59s: the thing here we go uh 24 05 0743 it&amp;#39;s
+44m3s: 0843 right now it was 8 this is this is
+44m6s: this is UTC U blah blah blah um in fact
+44m10s: if we have a look here um what do we
+44m12s: call it what was the thing um oh Q macro
+44m15s: simplest right let&amp;#39;s let&amp;#39;s look&amp;#39;s look
+44m17s: for this simplest deployment in the
+44m20s: log there it is look get URL method get
+44m24s: URL simple displ SL basic so there&amp;#39;s our
+44m27s: call so that&amp;#39;s what you need to do
+44m29s: basically you need to do that but
+44m31s: obviously when you need to do that you
+44m32s: also need to
+44m35s: implement well Define first of all where
+44m38s: do it say here Define first of
+44m42s: all um in ah see this is this is why I
+44m45s: don&amp;#39;t like this rendering because let&amp;#39;s
+44m47s: just look at it in the tasks 01 there we
+44m51s: go that&amp;#39;s better um this is where you
+44m54s: need to Define in
+44m57s: where is it uh in a file called maybe
+45m1s: basic. CDs and have an implementation in
+45m3s: basic. JS for your implementation your
+45m6s: ping function that returns pong okay
+45m9s: does that make sense put in the chat
+45m11s: whether it makes sense or not um let me
+45m13s: know let me know let me know okay 8:45
+45m16s: let&amp;#39;s spend the last 15 minutes just
+45m18s: switching brains for a second put in the
+45m19s: chat whether that makes sense put in the
+45m21s: chat whether you&amp;#39;re going to start this
+45m22s: um developer challenge whether you think
+45m25s: it&amp;#39;s okay uh if you got any questions
+45m28s: um and then we&amp;#39;ll carry on uh what&amp;#39;s
+45m30s: going on yes there we go fine okay so
+45m33s: let&amp;#39;s now go and switch for a second
+45m36s: let&amp;#39;s give ourselves a few seconds pause
+45m39s: switch our brains over to just carrying
+45m43s: on with this
+45m47s: thing okay um yeah put in the chat if
+45m50s: you&amp;#39;re going to be doing this developer
+45m51s: challenge I think I&amp;#39;m I&amp;#39;m hoping some of
+45m53s: you will be doing the developer
+45m55s: challenge um and if not why not uh is
+45m57s: there any reason why you don&amp;#39;t want to
+45m59s: do it uh is it not very good if you
+46m0s: don&amp;#39;t like it let me know as well always
+46m3s: learn always looking to
+46m5s: learn okay so where are we okay let&amp;#39;s
+46m9s: move to this function stock value this
+46m12s: stock value as we&amp;#39;ve said is bound
+46m15s: function Andrew
+46m17s: Barnard says um reminds me of your cap
+46m20s: head response investigation of a few
+46m22s: weeks
+46m23s: back oh yeah uh I got vague memories of
+46m26s: of that uh my memory is not what it used
+46m29s: to be
+46m31s: uh but I&amp;#39;m sure I&amp;#39;m sure we have fun
+46m34s: digging into things because it&amp;#39;s always
+46m36s: interesting to find out what why when
+46m38s: who where what what is going on here
+46m40s: type thing so Matia says I hope I found
+46m42s: the time thank you Mattias and AP indust
+46m45s: says yes definitely interesting
+46m46s: brilliant thank
+46m48s: you okay now in order to one of the one
+46m53s: of the interesting things about let&amp;#39;s
+46m55s: just start this run CDs watch we don&amp;#39;t
+46m57s: move that there uh in order in order to
+47m0s: fulfill or implement the Handler for
+47m4s: this stock value bound
+47m7s: function and fulfill requests i e by
+47m12s: providing responses
+47m14s: to this bound
+47m17s: function what do we
+47m21s: need that we didn&amp;#39;t need when we were
+47m25s: doing the total stock Unbound function
+47m28s: the Unbound let&amp;#39;s do it now let&amp;#39;s do it
+47m30s: now let&amp;#39;s do that and say
+47m32s: curl uh Local Host
+47m36s: 404 what is it o data V4
+47m41s: Bookshop um total
+47m44s: stock let&amp;#39;s put in
+47m50s: um okay we got we got
+47m53s: 147 and the actual implementation of
+47m56s: total stock
+47m58s: which is this thing here is super simple
+48m1s: where&amp;#39;s my head put it down there super
+48m2s: simple right we just go right I don&amp;#39;t
+48m7s: care what
+48m9s: parameters sorry the right term DJ I
+48m12s: don&amp;#39;t care what
+48m14s: arguments are sent to me to this
+48m17s: Anonymous
+48m19s: function which is which I&amp;#39;ve defined
+48m21s: here as the as the Handler the callback
+48m25s: for the total stock event
+48m28s: I&amp;#39;m just going to go ahead and just do
+48m30s: select one from books column Su stock as
+48m32s: token bang and spit out the result which
+48m34s: is
+48m36s: 147 what do we
+48m39s: need when we start to think about which
+48m41s: is now implementing this stock value
+48m43s: what do we need that we&amp;#39;ve not had to
+48m46s: need had to have here put in the chat
+48m49s: what you think it is so uh yok Yos says
+48m53s: can we somehow call the system command
+48m54s: function ping um
+48m59s: simple answer no this is not that sort
+49m2s: of ping I mean I think I don&amp;#39;t think
+49m3s: I&amp;#39;ve even got ping in my
+49m5s: uh
+49m7s: ping uh oh ping uh Local Host there we
+49m11s: go that ping there look at that it&amp;#39;s
+49m13s: using um IPv6 that&amp;#39;s proba cool ping
+49m16s: qac.org my ping times are pretty bad
+49m18s: here obiously but you know 36 30
+49m20s: milliseconds that&amp;#39;s fine
+49m22s: um so basically oh you can see where my
+49m26s: uh where my web blog is hosted GitHub
+49m29s: static Pages there we go excellent um I
+49m33s: mean it&amp;#39;s a similar sort of thing as in
+49m34s: you know send a little boing and get a
+49m36s: boing back that&amp;#39;s the idea but of course
+49m39s: to implement it you need to implement it
+49m41s: in in node.js as as an implementation to
+49m43s: a a definition of a bound function an
+49m45s: Unbound function in CDs in CDL right so
+49m50s: um K is that okay Yos I hope that
+49m53s: explains the gives you an answer there
+49m56s: kiar says I Tred to find some time well
+49m58s: done Kiara Kaza family out all alone
+50m0s: during the weekend I&amp;#39;ll sure dive into
+50m2s: it good work Kaza Ideal Time Visa says
+50m6s: definitely we are here to learn things
+50m8s: that is the attitude I love thank you
+50m10s: Visa yes Alex pass the bound entity as
+50m12s: an argument fantastic Alex so thank you
+50m14s: for um diving in with a response there
+50m18s: to the question which is a great
+50m19s: response pass the bound entity as an
+50m22s: argument exactly that&amp;#39;s what we need
+50m25s: here
+50m27s: so why don&amp;#39;t we first of
+50m29s: all um I&amp;#39;ll tell you what no let&amp;#39;s let&amp;#39;s
+50m33s: do this let&amp;#39;s get rid of that that that
+50m35s: that that that that let&amp;#39;s do what we
+50m41s: should do really which is to rtfm first
+50m45s: of all cap let&amp;#39;s go to the cap cap
+50m49s: documentation and
+50m53s: cookbook providing
+50m55s: services there actions and function and
+50m57s: you had seen this right cookbook
+50m59s: providing Services actions and functions
+51m1s: let&amp;#39;s just save that in the thing here
+51m3s: because I think that let me just double
+51m6s: check in addition to com CR actions and
+51m9s: functions bound Unbound BL yeah there we
+51m11s: go perfect perfect perfect um let&amp;#39;s add
+51m15s: this one this is probably the most
+51m16s: important URL you&amp;#39;ll have in this list
+51m19s: today um providing
+51m22s: Services cap capir cook book providing
+51m28s: Services actions and
+51m30s: functions there that that&amp;#39;s how that
+51m35s: okay
+51m37s: now uh where was it where&amp;#39;s it gone oh
+51m40s: there
+51m42s: so you can Define actions and functions
+51m44s: in CDs models like this so sue okay fine
+51m47s: bound actions and functions so we got
+51m49s: this ENT got this beautiful sort of
+51m51s: expression here entity something some
+51m55s: definition then they&amp;#39;ve got this actions
+51m57s: Clause with a block there in that block
+52m0s: you&amp;#39;ve got your actions and functions
+52m2s: defined now bear in mind and maybe
+52m5s: Daniel will have something to say to
+52m6s: this as well Daniel S um regardless of
+52m11s: whether the protocol you eventually
+52m13s: choose to use to have this service
+52m16s: served regardless of whether that is an
+52m18s: OD dat protocol or not you might want to
+52m21s: for example say use
+52m23s: graphql or you might want to use you
+52m25s: know the plane rest service with at
+52m29s: protocol called Rest by the way clue
+52m32s: that&amp;#39;s going to be one of the services
+52m33s: you define in the developer challenge uh
+52m36s: this month um you still Define your sort
+52m39s: of RPC style
+52m45s: functions and end points like like this
+52m48s: with the words functions and actions
+52m49s: even though to me to my small brain
+52m53s: functions and actions
+52m56s: those
+52m57s: two types of things are sort of OD data
+53m1s: terms but you know you can think of them
+53m2s: as a more General type thing so Alex
+53m5s: says oh by the way uh meanwhile is there
+53m7s: a way to not have hardcoded string
+53m9s: Methods names to the handlers to avoid
+53m12s: typos um to the
+53m15s: handlers H Oh you mean do you
+53m18s: mean
+53m20s: here are you if you&amp;#39;re meaning the this
+53m22s: total stock thing you could certainly
+53m24s: put that in a constant absolutely I mean
+53m27s: the thing is is that what you mean maybe
+53m29s: that I don&amp;#39;t know what whether that&amp;#39;s
+53m30s: what you mean but if if that is what you
+53m33s: mean I think yeah you certainly could
+53m36s: Let&amp;#39;s Do It Let&amp;#39;s Do It um let say um uh
+53m39s: yes const um total stock equals total
+53m45s: stock I don&amp;#39;t I feel quite trendy when I
+53m47s: use the btics as a string thing anyway
+53m49s: total stock uh and then we well
+53m54s: here we do that
+53m57s: in fact let&amp;#39;s save
+53m58s: that and go here yeah it still works I I
+54m2s: guess the thing is if you were wanting
+54m6s: or needing to implement
+54m8s: multiple um events for example if it was
+54m12s: a read event for something you wanted to
+54m15s: do a before and on and an after then
+54m17s: yeah it makes sense that if this is
+54m18s: repeated but quite often I would argue
+54m22s: that you&amp;#39;re only going to get that thing
+54m25s: once but perfectly possible it&amp;#39;s just a
+54m28s: string at the end of the day right we&amp;#39;ll
+54m30s: leave it in there we&amp;#39;ll leave it like
+54m31s: that okay that&amp;#39;s okay for you Alex um so
+54m35s: where were we don&amp;#39;t know where we oh yes
+54m37s: there we go yeah so we got that now now
+54m40s: now now function get stock returns
+54m42s: integer so this is the sort of the
+54m44s: pattern that we want to follow and if we
+54m47s: go down here we can see in general
+54m49s: Implement actions or functions like that
+54m52s: this get this do on get stock of fu
+54m57s: that&amp;#39;s the entity to which it refers
+54m59s: right okay you&amp;#39;re welcome Alex and then
+55m2s: this this weird thing here does anybody
+55m4s: is anybody scratching their head over
+55m7s: all those brackets we have covered
+55m9s: destructuring before but we haven&amp;#39;t
+55m11s: covered a
+55m13s: destructuring
+55m15s: expression as involved I don&amp;#39;t want to
+55m18s: say it&amp;#39;s as complicated but as involved
+55m20s: as that 855
+55m24s: maybe will&amp;#39;ll look look at that now we
+55m27s: got five minutes DJ stop talking about
+55m29s: stop doing things meta so that&amp;#39;s that&amp;#39;s
+55m31s: the sort of idea we want so let&amp;#39;s just
+55m33s: let&amp;#39;s just paste that in as a reference
+55m36s: and start typing it right
+55m38s: so there we want to do something like
+55m40s: that so this do on touch list what the
+55m43s: hell this dot
+55m46s: on um what&amp;#39;s it called stock value on
+55m51s: books right so we we have this thing
+55m54s: here so um somewhere
+55m57s: there look uh on before
+55m59s: after adding event handlers there
+56m3s: look that&amp;#39;s it let&amp;#39;s add that as well
+56m6s: right
+56m6s: method so we know where we&amp;#39;ve gone
+56m9s: because it&amp;#39;s pretty
+56m11s: important edit there edit come on come
+56m14s: on come on cap that that and let&amp;#39;s add
+56m20s: that thing there so you know what I&amp;#39;m
+56m23s: referring to save that post
+56m26s: there go back now
+56m28s: look you always have the
+56m31s: event you always have the Handler but
+56m34s: sometimes you have the entity and
+56m35s: sometimes you don&amp;#39;t that&amp;#39;s this question
+56m37s: mark right in this sort of you know
+56m39s: Declaration of this
+56m41s: thing
+56m43s: in the Unbound function definition we
+56m46s: just
+56m47s: had the
+56m50s: event
+56m53s: and the Handler but this time in here
+56m59s: this stop on we want the
+57m1s: event we want
+57m3s: the entity and we want the Handler right
+57m7s: so we want the Handler as well so we
+57m8s: want to say here books oops
+57m11s: books and then let&amp;#39;s just put the
+57m12s: simplest thing that could possibly work
+57m14s: bang on
+57m16s: 42 like we did last time
+57m20s: okay let&amp;#39;s have something at least that
+57m23s: is now in fact yeah uh so nobody said
+57m26s: anything about this um where is it this
+57m30s: uh this structure
+57m33s: here so maybe we we&amp;#39;ll do this next
+57m38s: week let me know what you think that is
+57m40s: doing right let me know in fact more
+57m43s: more importantly let me know if you want
+57m46s: us to
+57m47s: unpick all those brackets together
+57m51s: slowly maybe in a node J reel to to
+57m53s: understand what&amp;#39;s going on U because I
+57m55s: think it&amp;#39;s important because
+57m57s: this I would say that in a in the best
+58m0s: possible
+58m1s: way a lot of the examples here are
+58m4s: beautifully succinct beautifully
+58m8s: compact okay almost like the opposite of
+58m11s: java did I say that out loud um yes I
+58m13s: did uh and it&amp;#39;s absolutely wonderful but
+58m16s: you you need to feel comfortable with it
+58m21s: okay so let&amp;#39;s have a look at that maybe
+58m23s: next week but before we do let&amp;#39;s uh run
+58m27s: to ah well yeah let&amp;#39;s let&amp;#39;s think about
+58m30s: how we request stock value if we do this
+58m34s: stock value what do what we&amp;#39;re going to
+58m38s: get stock value is not an entity set a
+58m41s: single an action UT or a function import
+58m44s: what are you doing DJ it&amp;#39;s not any of
+58m46s: those where&amp;#39;s my head put it on the top
+58m48s: right let&amp;#39;s do that again let&amp;#39;s do this
+58m51s: in fact let&amp;#39;s do U Bookshop books if we
+58m54s: do that first of all we get all the
+58m55s: books and then if we say here um let&amp;#39;s
+58m58s: let&amp;#39;s choose a book right with the guid
+59m0s: because of course we&amp;#39;ve got guids as
+59m1s: keys
+59m4s: there uh let&amp;#39;s do that and pipe that
+59m6s: into JQ so we can see so now we can do
+59m10s: this right we can say stock
+59m14s: value that&amp;#39;s what we want
+59m17s: right 42 there&amp;#39;s 42 so you can can you
+59m21s: see the
+59m22s: difference between the calls we have
+59m25s: that call to total
+59m27s: stock there and we have the call to
+59m31s: stock value there look at the difference
+59m33s: we&amp;#39;ve got total stock as an Unbound
+59m36s: function on its own with no parameters
+59m38s: of course and we&amp;#39;ve got stock value no
+59m41s: parameters but it&amp;#39;s it&amp;#39;s in the context
+59m44s: of a specific entity okay so next week
+59m48s: we&amp;#39;ll look at how to get basically we
+59m50s: need that we need this value don&amp;#39;t we to
+59m52s: be able to find that book to be able to
+59m54s: work out what stock value is
+59m56s: right so we&amp;#39;ll do that next week as well
+59m58s: as the uh destructuring destructuring of
+60m1s: the destructuring so have a great Friday
+60m3s: have a great uh weekend and I&amp;#39;ll see you
+60m5s: next weekend don&amp;#39;t forget to start the
+60m7s: developer challenge bye
